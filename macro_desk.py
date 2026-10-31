@@ -319,7 +319,7 @@ def gemini_json(contents, video=False):
                     log(f"  {model}: rate limited, waiting 65 s")
                     time.sleep(65)
                     continue
-              if code == 404 or code in (400, 403) and any(k in msg.lower() for k in (
+                if code == 404 or code in (400, 403) and any(k in msg.lower() for k in (
                         "not found", "not supported", "unsupported", "is not available", "permission")):
                     log(f"  {model}: unavailable ({code}), trying next model")
                     break
