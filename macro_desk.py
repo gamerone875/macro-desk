@@ -66,7 +66,7 @@ GEMINI_MODELS = [m.strip() for m in os.environ.get(
 ).split(",") if m.strip()]
 
 LOOKBACK_HOURS = env_int("LOOKBACK_HOURS", 36)          # how far back to look for new replays
-MIN_MINUTES = env_int("MIN_MINUTES", 4)                 # skip shorts / tiny clips
+MIN_MINUTES = env_int("MIN_MINUTES", 40)                 # skip shorts / tiny clips
 MAX_MINUTES_PER_VIDEO = env_int("MAX_MINUTES_PER_VIDEO", 160)  # longer videos: first N minutes only
 SKIP_LONGER_THAN = env_int("SKIP_LONGER_THAN", 300)     # skip 24/7 stream archives (unless sent manually)
 MAX_MINUTES_PER_RUN = env_int("MAX_MINUTES_PER_RUN", 150)
