@@ -1,5 +1,140 @@
 [
   {
+    "id": "tRcFJBbWoxI",
+    "title": "Tech Stocks Tank, Final Countdown to Midterm Elections",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-31T16:11:21Z",
+    "live": "none",
+    "minutes": 145.5,
+    "thumbnail": "https://i.ytimg.com/vi/tRcFJBbWoxI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=tRcFJBbWoxI",
+    "notes": {
+      "headline": "Tech Selloff Deepens on AI Capex Scrutiny and Midterm Election Headwinds",
+      "summary": "Megacap tech and semiconductor shares retreated sharply, with the Nasdaq 100 dropping nearly 3.5% and the S&P 500 falling 1.8%, driven by Intel's historic decline and mounting skepticism over returns on hyperscaler AI capex. The selloff spurred a rotation into defensive and duration-sensitive sectors as yields fell, though sticky inflation keeps the debate over Fed policy active. Geopolitical and policy uncertainty mounted ahead of the US midterm elections, with potential US-Israeli military action against Iran and Ukrainian drone strikes on Russian refineries threatening crude supplies. Globally, Brazilian markets suffered a historic rout post-election on fears of fiscal expansion and debt growth under President Lula.",
+      "key_takeaways": [
+        "Nasdaq 100 dropped 3.46% and S&P 500 fell 1.8%, breaching its 100-day moving average on heavy AI infrastructure capex scrutiny.",
+        "Intel plunged 28.6% in its steepest decline in decades following weak sales guidance and memory chip bottlenecks.",
+        "Alphabet, Amazon, and Meta declined as mounting AI capital commitments raised concerns over free cash flow and core business softening.",
+        "Crude markets face upside supply risks from potential US-Israel escalation against Iran and Ukrainian strikes on Russian refineries.",
+        "Falling yields buffered headline index losses, prompting rotation into defensive sectors while the Fed held rates steady amid sticky inflation.",
+        "US Midterm elections near with projections pointing to a split Congress, raising prospects of policy gridlock and increased oversight.",
+        "Brazilian assets crashed post-election, with the Ibovespa falling 18.3% and the real declining nearly 10% on fiscal sustainability concerns."
+      ],
+      "macro": [
+        "Fed held interest rates steady as policymakers assess sticky cost-push inflation and energy pass-through risks ahead of the December meeting.",
+        "US midterm elections could split control of Congress, elevating legislative gridlock and shifting policy focus to executive actions.",
+        "Geopolitical escalation risks between the US, Israel, and Iran remain elevated post-midterms, threatening crude transport through the Strait of Hormuz.",
+        "Persistent consumer inflation in groceries, diesel, and mortgage rates continues to weigh on US economic sentiment.",
+        "Brazil faces heightened sovereign debt and fiscal deficit risks following President Lula's election victory."
+      ],
+      "priced_in": [
+        "Markets had priced in smooth monetization from big-tech AI investments and heavy hyperscaler longs, triggering swift position unwinds.",
+        "Brazilian assets rapidly priced out pre-election optimism for pro-market fiscal consolidation.",
+        "Treasury markets are pricing policy uncertainty further out on the yield curve regarding Fed credibility."
+      ],
+      "fundamentals": [
+        "Intel tumbled 28.58% to $65.76 following a weak sales outlook and severe memory chip supply constraints.",
+        "Alphabet and Amazon earnings signaled softening in traditional e-commerce and advertising, with margins pressured by AI spending.",
+        "Semiconductor index declined approximately 10% on hardware delivery timing and project execution bottlenecks.",
+        "Over 1,000 Ukrainian drones targeted three Russian oil refineries and a natural gas facility, disrupting processing capacity.",
+        "Binance suffered a $6.3 billion cyber heist, the largest cryptocurrency breach on record."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "Plunged 3.5% as heavy hyperscaler positioning unwound amid doubts over AI capex returns and semiconductor guidance cuts.",
+          "source": "Michael Ball, Bloomberg News"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "Fell 1.8% to break below its 100-day moving average, though downside was partially buffered by defensive sector rotation.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "Crude prices face upside pressure from refinery disruptions in Russia and potential Middle East escalation impacting the Strait of Hormuz.",
+          "source": "Nathan Dean, Bloomberg Intelligence"
+        },
+        {
+          "asset": "Rates",
+          "bias": "mixed",
+          "view": "Falling yields supported duration-sensitive equities, but the yield curve steepened amid persistent inflation and uncertain Fed guidance.",
+          "source": "Michael Ball, Bloomberg News"
+        },
+        {
+          "asset": "Other: Brazilian Real / Ibovespa",
+          "bias": "bearish",
+          "view": "Suffered a sharp rout as the Ibovespa dropped 18.3% and the real fell nearly 10% on post-election fiscal deficit concerns.",
+          "source": "Filipe Pacheco, Bloomberg News"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Mike Shepard",
+          "role": "Senior Editor, Technology & Strategic Industries at Bloomberg News",
+          "key_view": "Investors are increasingly skeptical of aggressive AI capex as core advertising and e-commerce show softness, while memory chip shortages squeeze hardware makers."
+        },
+        {
+          "name": "Chris Kennedy",
+          "role": "Economic Statecraft Lead at Bloomberg Economics",
+          "key_view": "Persistent inflation across energy, groceries, and mortgages is eroding consumer confidence ahead of midterms, with tariffs exacerbating cost pressures."
+        },
+        {
+          "name": "Ethan Bronner",
+          "role": "Israel Bureau Chief and Senior Mideast Editor at Bloomberg News",
+          "key_view": "A fragmented Israeli election leaves government formation uncertain, but the probability of joint US-Israeli military operations against Iran remains elevated after the US midterms."
+        },
+        {
+          "name": "Michael Ball",
+          "role": "Macro Strategist, Bloomberg News",
+          "key_view": "The tech selloff reflects hyperscaler cash flow constraints relative to massive AI capex, though lower yields helped cushion broader market rotation."
+        },
+        {
+          "name": "Nathan Dean",
+          "role": "Senior Policy Analyst, Bloomberg Intelligence",
+          "key_view": "Post-midterm policy will center on executive actions, potential energy supply disruptions involving Iran, and significant tariff escalation risks by 2027."
+        },
+        {
+          "name": "Kaja Kallas",
+          "role": "Vice-President, European Commission",
+          "key_view": "Russian escalation against civilian and energy infrastructure requires enhanced Western defense support while preventing broader Middle Eastern conflict."
+        },
+        {
+          "name": "Rep. Gregory Meeks",
+          "role": "Ranking Member, House Foreign Affairs Committee (D-NY)",
+          "key_view": "Lowering fuel and food costs is a top voter priority, and a Democratic House majority would intensify oversight on sanctions enforcement and trade deals."
+        },
+        {
+          "name": "Joe Mathieu",
+          "role": "Co-Host, Balance of Power, Bloomberg",
+          "key_view": "A divided Congress is likely with the House poised to flip, while Senate control remains tight and could face protracted resolution in key battleground states."
+        },
+        {
+          "name": "Filipe Pacheco",
+          "role": "Brazil Country Chief, Bloomberg News",
+          "key_view": "Brazilian equities and the real experienced a severe repricing as markets shifted away from pre-election optimism to concerns over Lula's fiscal and social spending agenda."
+        }
+      ],
+      "catalysts": [
+        "US Midterm Elections on Tuesday, November 3",
+        "Post-election US and Israeli foreign policy decisions regarding potential strikes on Iran",
+        "December FOMC rate decision and policy debate",
+        "Final vote certification and government formation negotiations in Israel",
+        "G20 Leaders' Summit in Miami scheduled for mid-December",
+        "Quad leaders meeting in Manila alongside the ASEAN conference"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 146,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": false,
+    "processed_at": "2026-10-31T22:27:20Z"
+  },
+  {
     "id": "DiGeEGD7Xr0",
     "title": "Israel’s Election Leaves Netanyahu in Limbo",
     "channel": "Bloomberg Television",
