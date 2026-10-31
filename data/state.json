@@ -32,8 +32,8 @@
   "usage": {
     "2026-10-31": 149
   },
-  "last_run": "2026-10-31T15:50:00Z",
+  "last_run": "2026-10-31T16:14:07Z",
   "last_errors": [
-    "Killin Says Affordability Is Driving Colorado Race: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest feature"
+    "All models failed. Last error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head "
   ]
 }
