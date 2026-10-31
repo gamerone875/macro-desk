@@ -62,7 +62,7 @@ CHANNEL_HANDLE = os.environ.get("CHANNEL_HANDLE", "markets")  # Bloomberg Televi
 # the next one is used (each model has its own free quota).
 GEMINI_MODELS = [m.strip() for m in os.environ.get(
     "GEMINI_MODELS",
-    "gemini-3-flash-preview,gemini-2.5-flash,gemini-2.5-flash-lite",
+    "gemini-3.8-flash,gemini-3-flash-preview",
 ).split(",") if m.strip()]
 
 LOOKBACK_HOURS = env_int("LOOKBACK_HOURS", 36)          # how far back to look for new replays
@@ -319,7 +319,7 @@ def gemini_json(contents, video=False):
                     log(f"  {model}: rate limited, waiting 65 s")
                     time.sleep(65)
                     continue
-                if code in (400, 403, 404) and any(k in msg.lower() for k in (
+                  if code == 404 or code in (400, 403) and any(k in msg.lower() for k in (
                         "not found", "not supported", "unsupported", "is not available", "permission")):
                     log(f"  {model}: unavailable ({code}), trying next model")
                     break
