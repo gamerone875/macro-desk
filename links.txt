@@ -1,0 +1,2 @@
+# Colle ici des liens YouTube (un par ligne). Ils seront analysés à la
+# prochaine mise à jour puis retirés automatiquement de ce fichier.

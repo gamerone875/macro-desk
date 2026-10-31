@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Macro Desk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0b0d10; --panel:#12161b; --panel2:#171c22; --line:#232a33; --text:#e6e9ee; --muted:#8b95a3;
+  --accent:#ff9f1a; --bull:#22c55e; --bear:#ef4444; --neutral:#94a3b8; --mixed:#eab308;
+  --mono:'IBM Plex Mono',ui-monospace,monospace; --sans:'Inter',system-ui,sans-serif;
+}
+:root[data-theme="light"]{
+  --bg:#f5f6f8; --panel:#ffffff; --panel2:#f0f2f5; --line:#e2e5ea; --text:#14181d; --muted:#5f6b7a;
+  --accent:#d97706; --bull:#15803d; --bear:#b91c1c; --neutral:#64748b; --mixed:#a16207;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.55 var(--sans)}
+a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
+.wrap{max-width:1200px;margin:0 auto;padding:20px 16px 60px}
+header{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);padding-bottom:14px;margin-bottom:20px}
+.brand{display:flex;align-items:baseline;gap:12px}
+.brand h1{margin:0;font:700 22px var(--sans);letter-spacing:.02em}
+.brand h1 span{color:var(--accent)}
+.stamp{font:12px var(--mono);color:var(--muted)}
+.actions{display:flex;gap:8px;flex-wrap:wrap}
+.btn{border:1px solid var(--line);background:var(--panel);color:var(--text);padding:7px 12px;border-radius:8px;font:500 13px var(--sans);cursor:pointer}
+.btn:hover{border-color:var(--accent);text-decoration:none}
+.btn.primary{background:var(--accent);color:#111;border-color:var(--accent)}
+.label{font:600 11px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px}
+.brief{display:grid;grid-template-columns:1.4fr 1fr;gap:16px;margin-bottom:16px}
+.narrative{font-size:16px;line-height:1.65;margin:0}
+.chip{display:inline-block;font:600 11px var(--mono);text-transform:uppercase;letter-spacing:.06em;padding:3px 8px;border-radius:999px;border:1px solid currentColor}
+.bullish,.risk-on{color:var(--bull)} .bearish,.risk-off{color:var(--bear)} .neutral{color:var(--neutral)} .mixed{color:var(--mixed)}
+.assets{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:16px}
+.asset{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--neutral);border-radius:10px;padding:14px}
+.asset.bullish{border-left-color:var(--bull)} .asset.bearish{border-left-color:var(--bear)} .asset.mixed{border-left-color:var(--mixed)}
+.asset h3{margin:0 0 6px;font:600 15px var(--sans);color:var(--text);display:flex;justify-content:space-between;align-items:center}
+.asset p{margin:0;color:var(--muted);font-size:13.5px}
+ul.clean{margin:0;padding-left:18px} ul.clean li{margin:4px 0}
+.lists{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:28px}
+.toolbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:14px}
+.toolbar input{flex:1;min-width:180px;background:var(--panel);border:1px solid var(--line);color:var(--text);border-radius:8px;padding:8px 12px;font:14px var(--sans)}
+.filter{border:1px solid var(--line);background:var(--panel);color:var(--muted);padding:6px 10px;border-radius:999px;font:500 12.5px var(--sans);cursor:pointer}
+.filter.on{color:#111;background:var(--accent);border-color:var(--accent)}
+.feed{display:grid;gap:12px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.card-top{display:grid;grid-template-columns:200px 1fr;gap:16px;padding:14px}
+.thumb{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:8px;background:var(--panel2)}
+.meta{font:12px var(--mono);color:var(--muted);display:flex;flex-wrap:wrap;gap:10px;margin-bottom:4px}
+.card h2{margin:0 0 4px;font:600 16px var(--sans)}
+.headline{color:var(--accent);font-weight:500;margin:0 0 6px}
+.summary{margin:0;color:var(--text);opacity:.9}
+.views{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+details{border-top:1px solid var(--line)}
+summary{cursor:pointer;padding:10px 14px;font:500 13px var(--sans);color:var(--muted);list-style:none}
+summary::-webkit-details-marker{display:none}
+summary:before{content:"▸ ";} details[open] summary:before{content:"▾ ";}
+.detail-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;padding:0 14px 16px}
+.detail-grid h4{margin:0 0 6px;font:600 11px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.detail-grid ul{margin:0;padding-left:18px;font-size:14px} .detail-grid li{margin:3px 0}
+.empty{color:var(--muted);text-align:center;padding:40px}
+.warn{border:1px solid var(--mixed);color:var(--mixed);border-radius:10px;padding:10px 14px;margin-bottom:16px;font-size:13px}
+.tag{font:600 10px var(--mono);padding:2px 6px;border-radius:4px;background:var(--panel2);color:var(--muted)}
+footer{margin-top:30px;color:var(--muted);font:12px var(--mono)}
+@media (max-width:900px){
+  .brief,.lists{grid-template-columns:1fr} .assets{grid-template-columns:repeat(2,1fr)}
+  .card-top{grid-template-columns:1fr} .detail-grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><h1>MACRO<span>DESK</span></h1><span class="stamp" id="stamp"></span></div>
+    <div class="actions">
+      <a class="btn primary" id="updateBtn" target="_blank" rel="noopener">⟳ Update now</a>
+      <a class="btn" id="linkBtn" target="_blank" rel="noopener">+ Add video links</a>
+      <button class="btn" id="themeBtn">◐ Theme</button>
+    </div>
+  </header>
+
+  <div id="warnings"></div>
+
+  <section id="briefSection">
+    <div class="brief">
+      <div class="panel">
+        <p class="label">Desk brief <span id="regime"></span></p>
+        <p class="narrative" id="narrative"></p>
+      </div>
+      <div class="panel">
+        <p class="label">What the market is pricing</p>
+        <ul class="clean" id="pricedIn"></ul>
+      </div>
+    </div>
+    <div class="assets" id="assets"></div>
+    <div class="lists">
+      <div class="panel"><p class="label">Debates &amp; contrarian views</p><ul class="clean" id="debates"></ul></div>
+      <div class="panel"><p class="label">Watch next</p><ul class="clean" id="watchNext"></ul></div>
+      <div class="panel"><p class="label">Coverage</p><ul class="clean" id="coverage"></ul></div>
+    </div>
+  </section>
+
+  <p class="label">Shows</p>
+  <div class="toolbar">
+    <input id="search" placeholder="Search shows, guests, themes…">
+    <div id="filters"></div>
+  </div>
+  <div class="feed" id="feed"></div>
+
+  <footer>Summaries generated automatically by AI from Bloomberg Television videos. Always check the source before trading.</footer>
+</div>
+
+<script>
+const DATA = {"generated_at": "2026-10-31T08:00:12Z", "brief": null, "videos": [], "update_url": "", "links_url": "", "usage": {}, "daily_cap": 450, "last_errors": []};
+const D = DATA || {videos:[],brief:null};
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const cls = s => String(s||"neutral").toLowerCase().split(/[\s|]+/)[0].replace(/[^a-z-]/g,"") || "neutral";
+const fmt = iso => iso ? new Date(iso).toLocaleString(undefined,{weekday:"short",day:"2-digit",month:"short",hour:"2-digit",minute:"2-digit"}) : "";
+const list = (arr) => (arr && arr.length) ? arr.map(x => `<li>${esc(typeof x === "string" ? x : JSON.stringify(x))}</li>`).join("") : `<li style="list-style:none;margin-left:-18px;color:var(--muted)">—</li>`;
+
+// theme
+try { const t = localStorage.getItem("md-theme"); if (t) document.documentElement.dataset.theme = t; } catch(e){}
+$("themeBtn").onclick = () => {
+  const t = document.documentElement.dataset.theme === "light" ? "dark" : "light";
+  document.documentElement.dataset.theme = t;
+  try { localStorage.setItem("md-theme", t); } catch(e){}
+};
+
+// header
+$("stamp").textContent = D.generated_at ? "Updated " + fmt(D.generated_at) : "";
+if (D.update_url) $("updateBtn").href = D.update_url; else $("updateBtn").style.display = "none";
+if (D.links_url) $("linkBtn").href = D.links_url; else $("linkBtn").style.display = "none";
+if (D.last_errors && D.last_errors.length) {
+  $("warnings").innerHTML = `<div class="warn"><b>Last run warnings:</b><br>${D.last_errors.map(esc).join("<br>")}</div>`;
+}
+
+// brief
+const B = D.brief;
+if (B) {
+  $("narrative").textContent = B.narrative || "";
+  $("regime").innerHTML = B.regime ? ` · <span class="chip ${cls(B.regime)}">${esc(B.regime)}</span>` : "";
+  $("pricedIn").innerHTML = list(B.priced_in);
+  $("debates").innerHTML = list(B.debates);
+  $("watchNext").innerHTML = list(B.watch_next);
+  const order = ["Nasdaq","S&P 500","Gold","Oil"];
+  $("assets").innerHTML = order.map(k => {
+    const a = (B.assets||{})[k] || {bias:"neutral", why:"Not covered."};
+    return `<div class="asset ${cls(a.bias)}"><h3>${esc(k)} <span class="chip ${cls(a.bias)}">${esc(a.bias)}</span></h3><p>${esc(a.why)}</p></div>`;
+  }).join("");
+  const used = Object.values(D.usage||{}).slice(-1)[0];
+  $("coverage").innerHTML = `<li>Brief built from ${ (B.based_on||[]).length } show(s)</li><li>Brief generated ${esc(fmt(B.generated_at))}</li>` +
+    (used !== undefined ? `<li>Video analysed today: ${used} min / ${D.daily_cap || 450}</li>` : "") +
+    (B.model ? `<li>Model: ${esc(B.model)}</li>` : "");
+} else {
+  $("briefSection").innerHTML = `<div class="panel empty">No brief yet — it will appear after the first update.</div>`;
+}
+
+// feed
+const FILTERS = ["All","Nasdaq","S&P 500","Gold","Oil","Manual"];
+let active = "All";
+$("filters").innerHTML = FILTERS.map(f => `<button class="filter${f==="All"?" on":""}" data-f="${esc(f)}">${esc(f)}</button>`).join(" ");
+$("filters").onclick = e => {
+  const b = e.target.closest(".filter"); if (!b) return;
+  active = b.dataset.f;
+  document.querySelectorAll(".filter").forEach(x => x.classList.toggle("on", x === b));
+  draw();
+};
+$("search").oninput = draw;
+
+function matches(v) {
+  const n = v.notes || {};
+  if (active === "Manual" && !v.manual) return false;
+  if (!["All","Manual"].includes(active)) {
+    const hit = (n.assets||[]).some(a => String(a.asset||"").toLowerCase().includes(active.toLowerCase().replace("s&p 500","s&p")));
+    if (!hit) return false;
+  }
+  const q = $("search").value.trim().toLowerCase();
+  return !q || JSON.stringify([v.title, n]).toLowerCase().includes(q);
+}
+
+function card(v) {
+  const n = v.notes || {};
+  const views = (n.assets||[]).slice(0,8).map(a =>
+    `<span class="chip ${cls(a.bias)}" title="${esc(a.view)} — ${esc(a.source)}">${esc(a.asset)} · ${esc(a.bias)}</span>`).join("");
+  const guests = (n.guests||[]).map(g => `${g.name}${g.role ? " ("+g.role+")" : ""}: ${g.key_view||""}`);
+  const assetViews = (n.assets||[]).map(a => `${a.asset} — ${a.bias}: ${a.view}${a.source ? " ("+a.source+")" : ""}`);
+  return `<article class="card">
+    <div class="card-top">
+      <a href="${esc(v.url)}" target="_blank" rel="noopener"><img class="thumb" src="${esc(v.thumbnail)}" alt="" loading="lazy"></a>
+      <div>
+        <div class="meta"><span>${esc(fmt(v.published))}</span><span>${Math.round(v.minutes||0)} min</span>
+          ${n.sentiment ? `<span class="chip ${cls(n.sentiment)}">${esc(n.sentiment)}</span>` : ""}
+          ${v.manual ? `<span class="tag">MANUAL</span>` : ""}${n.partial ? `<span class="tag">FIRST ${n.covered_minutes} MIN</span>` : ""}</div>
+        <h2><a href="${esc(v.url)}" target="_blank" rel="noopener" style="color:inherit">${esc(v.title)}</a></h2>
+        <p class="headline">${esc(n.headline)}</p>
+        <p class="summary">${esc(n.summary)}</p>
+        <div class="views">${views}</div>
+      </div>
+    </div>
+    <details>
+      <summary>Details — takeaways, macro, pricing, guests</summary>
+      <div class="detail-grid">
+        <div><h4>Key takeaways</h4><ul>${list(n.key_takeaways)}</ul></div>
+        <div><h4>What the market is pricing</h4><ul>${list(n.priced_in)}</ul></div>
+        <div><h4>Macro</h4><ul>${list(n.macro)}</ul></div>
+        <div><h4>Fundamentals</h4><ul>${list(n.fundamentals)}</ul></div>
+        <div><h4>Asset views</h4><ul>${list(assetViews)}</ul></div>
+        <div><h4>Guests</h4><ul>${list(guests)}</ul></div>
+        <div><h4>Catalysts</h4><ul>${list(n.catalysts)}</ul></div>
+      </div>
+    </details>
+  </article>`;
+}
+
+function draw() {
+  const vs = (D.videos||[]).filter(v => v.notes).filter(matches);
+  $("feed").innerHTML = vs.length ? vs.map(card).join("") : `<div class="panel empty">No shows match.</div>`;
+}
+draw();
+</script>
+</body>
+</html>
