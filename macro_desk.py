@@ -56,6 +56,7 @@ def env_float(name, default):
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
 MANUAL_URL = os.environ.get("MANUAL_URL", "").strip()
+REMOVE_URL = os.environ.get("REMOVE_URL", "").strip()  # links/IDs of videos to delete from the desk
 FORCE = os.environ.get("FORCE", "").strip().lower() in ("1", "true", "yes")  # re-analyse manual links already on the desk
 
 CHANNEL_HANDLE = os.environ.get("CHANNEL_HANDLE", "markets")  # Bloomberg Television
@@ -431,6 +432,15 @@ def main():
     today = pacific_day()
     used_today = usage.get(today, 0)
     errors_this_run = []
+
+    # 0) removals requested from the workflow form
+    to_remove = set(VIDEO_ID_RE.findall(REMOVE_URL)) | {
+        t for t in re.split(r"[\s,]+", REMOVE_URL) if re.fullmatch(r"[A-Za-z0-9_-]{11}", t)}
+    for i in to_remove:
+        title = next((v["title"] for v in videos if v["id"] == i), None)
+        log(f"removed from the desk: {title}" if title else f"remove {i}: not on the desk")
+        done.add(i)  # never re-added automatically
+    videos = [v for v in videos if v["id"] not in to_remove]
 
     # 1) candidates
     manual = manual_ids()
