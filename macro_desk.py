@@ -396,8 +396,8 @@ def render(videos, brief, state):
         "generated_at": iso(now_utc()),
         "brief": brief,
         "videos": videos,
-        "update_url": f"https://github.com/{repo}/actions/workflows/macro-desk.yml" if repo else "",
-        "links_url": f"https://github.com/{repo}/edit/main/links.txt" if repo else "",
+        "update_url": "",  # buttons hidden on the public page
+        "links_url": "",
         "usage": state.get("usage", {}),
         "daily_cap": DAILY_MINUTES_CAP,
         "last_errors": state.get("last_errors", []),
