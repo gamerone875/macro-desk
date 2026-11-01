@@ -496,55 +496,6 @@
     "processed_at": "2026-10-31T15:28:57Z"
   },
   {
-    "id": "jYtc4keGRFg",
-    "title": "Stadiums Rethink the Women’s Restroom",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-31T13:49:36Z",
-    "live": "none",
-    "minutes": 6.6,
-    "thumbnail": "https://i.ytimg.com/vi/jYtc4keGRFg/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=jYtc4keGRFg",
-    "notes": {
-      "headline": "Rising women's sports popularity drives stadium infrastructure upgrades and significant renovation spending",
-      "summary": "The surge in viewership and attendance for women's professional sports is forcing stadiums to rethink infrastructure, particularly restroom capacity. New plumbing codes are shifting towards a 2:1 ratio of women's to men's facilities to accommodate longer wait times and changing demographics. This trend is leading to significant capital expenditure for renovations and the development of purpose-built stadiums for women's teams.",
-      "key_takeaways": [
-        "Women's sports viewership and attendance are skyrocketing in the U.S., creating new infrastructure demands.",
-        "Stadiums are adopting a 2:1 ratio for women's restroom space in updated plumbing codes to reduce wait times.",
-        "Renovating existing stadium restrooms is costly, with the Pittsburgh Steelers spending $1.5 million on just 12 restrooms.",
-        "Purpose-built stadiums for women's sports are emerging, such as the Kansas City Current's NWSL stadium.",
-        "Scheduling conflicts at multi-use arenas highlight the growing need for dedicated women's sports venues."
-      ],
-      "macro": [],
-      "priced_in": [],
-      "fundamentals": [
-        "Increased capital expenditure in the sports and entertainment infrastructure sector.",
-        "Growth in women's sports as a long-term consumer trend impacting venue revenue and design."
-      ],
-      "assets": [
-        {
-          "asset": "S&P 500",
-          "bias": "bullish",
-          "view": "The expansion of women's sports creates new growth opportunities in the entertainment, construction, and consumer sectors.",
-          "source": "Benton Graham"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Benton Graham",
-          "role": "Writer & Journalist, Bloomberg CityLab",
-          "key_view": "Stadiums and arenas must upgrade facilities, especially restrooms, to keep pace with the rising female audience in professional sports."
-        }
-      ],
-      "catalysts": [],
-      "sentiment": "neutral",
-      "covered_minutes": 7,
-      "partial": false
-    },
-    "model": "gemini-3-flash-preview",
-    "manual": false,
-    "processed_at": "2026-10-31T15:30:29Z"
-  },
-  {
     "id": "RoAoaB8tFkw",
     "title": "Haunted Attractions Help Revive Neighborhoods",
     "channel": "Bloomberg Television",
