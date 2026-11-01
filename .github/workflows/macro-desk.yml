@@ -11,6 +11,10 @@ on:
         description: "Lien YouTube à analyser (optionnel)"
         required: false
         default: ""
+      remove_url:
+        description: "Lien(s) YouTube à supprimer du desk (optionnel)"
+        required: false
+        default: ""
       force:
         description: "Ré-analyser même si la vidéo est déjà sur le desk"
         type: boolean
@@ -45,6 +49,7 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           MANUAL_URL: ${{ github.event.inputs.video_url }}
           FORCE: ${{ github.event.inputs.force }}
+          REMOVE_URL: ${{ github.event.inputs.remove_url }}
         run: python macro_desk.py
 
       - name: Save results
