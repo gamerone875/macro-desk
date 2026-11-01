@@ -1135,65 +1135,6 @@
     "processed_at": "2026-10-31T15:46:37Z"
   },
   {
-    "id": "v36754Mj96Y",
-    "title": "Burger King US President on Sales Turnaround",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-31T00:18:24Z",
-    "live": "none",
-    "minutes": 9.1,
-    "thumbnail": "https://i.ytimg.com/vi/v36754Mj96Y/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=v36754Mj96Y",
-    "notes": {
-      "headline": "Burger King sees sales growth as stressed consumers treat fast food as an affordable reward",
-      "summary": "Tom Curtis, President of Burger King US & Canada, discusses the chain's 8.3% comp sales growth, which significantly outperformed analyst estimates. The turnaround is attributed to operational improvements, store remodels, and a focus on core products like the Whopper. Despite a consumer base described as 'stressed' by inflation in both the US and Canada, Burger King is gaining market share from competitors by positioning itself as a high-quality reward rather than engaging in a 'race to the bottom' on value.",
-      "key_takeaways": [
-        "3Q comp sales grew 8.3%, beating the 6.21% estimate.",
-        "Burger King has surpassed Wendy's to become the #2 burger chain in the US.",
-        "Consumers are viewed as 'stressed' but are treating fast food as an affordable luxury or reward.",
-        "The company is raising prices less this year than in previous years to maintain value perception.",
-        "Store remodels (60% complete) are providing mid-single-digit traffic uplifts.",
-        "Nugget sales increased 35% following a quality-focused relaunch.",
-        "The Canadian consumer is noted as being potentially more stressed by inflation than the US consumer."
-      ],
-      "macro": [
-        "Consumer Health: US and Canadian consumers described as 'stressed' over the last three years.",
-        "Inflation: Higher inflation in Canada is impacting consumer sentiment more severely than in the US."
-      ],
-      "priced_in": [
-        "Comp sales growth of 6.21% was the market consensus before the 8.3% beat."
-      ],
-      "fundamentals": [
-        "Restaurant Brands International (QSR) 3Q performance.",
-        "Franchisee P&L health is the primary driver for the pace of store remodels.",
-        "Market share shift: Growth is likely coming at the expense of closest competitors like McDonald's and Wendy's."
-      ],
-      "assets": [
-        {
-          "asset": "S&P 500",
-          "bias": "bullish",
-          "view": "Strong comp sales and market share gains for a major component of the consumer discretionary sector.",
-          "source": "Tom Curtis, Burger King"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Tom Curtis",
-          "role": "President of Burger King US & Canada",
-          "key_view": "Burger King is successfully winning back customers through quality improvements and store investments despite a challenging macro environment for consumers."
-        }
-      ],
-      "catalysts": [
-        "Ongoing store remodels for the remaining 40% of the fleet."
-      ],
-      "sentiment": "mixed",
-      "covered_minutes": 9,
-      "partial": false
-    },
-    "model": "gemini-3-flash-preview",
-    "manual": false,
-    "processed_at": "2026-10-31T15:48:18Z"
-  },
-  {
     "id": "XUUZbm3jqdo",
     "title": "DOJ Ramps Up Criminal Probe Amid Tight Alaska Senate Race",
     "channel": "Bloomberg Television",
