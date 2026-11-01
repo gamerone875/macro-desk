@@ -15,17 +15,21 @@
     "FmI8IBM3BM8",
     "HndwoC6Tmbo",
     "J0Odk3vc5WQ",
+    "KSuMdi7WtNk",
     "Kc1Pg2MTAck",
     "L-3i5zMMvo4",
+    "LM5UyMYyGYw",
     "NC2OGYpZWNQ",
     "PI7pRzLIfO8",
     "RoAoaB8tFkw",
     "SLZWMul4Je8",
     "TwHgVWx3Lo8",
     "VvYmC62RXBw",
+    "XUUZbm3jqdo",
     "XlBEbNJH-ho",
     "XlGsUWmShSw",
     "ZhQQzyzGFkM",
+    "_fYHAWnIzeE",
     "axFD8wNbdR4",
     "biE_-YkChqc",
     "bjwIpZQpz9M",
@@ -44,11 +48,15 @@
     "x4XM3EWEGo4"
   ],
   "failures": {
-    "x4ObMtFNClY": 1
+    "x4ObMtFNClY": 1,
+    "k2QEU1awmxA": 1
   },
   "usage": {
-    "2026-10-31": 294
+    "2026-10-31": 432
   },
-  "last_run": "2026-10-31T22:28:30Z",
-  "last_errors": []
+  "last_run": "2026-11-01T08:19:18Z",
+  "last_errors": [
+    "Wall Street Week | Affordability, Data Center Divide, Debt Hits Households, Capitalism on the Ballot: Server disconnected without sending a response.",
+    "Brief: Server disconnected without sending a response."
+  ]
 }

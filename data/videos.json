@@ -1243,6 +1243,236 @@
     "processed_at": "2026-10-31T15:48:18Z"
   },
   {
+    "id": "XUUZbm3jqdo",
+    "title": "DOJ Ramps Up Criminal Probe Amid Tight Alaska Senate Race",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-30T23:07:59Z",
+    "live": "none",
+    "minutes": 47.9,
+    "thumbnail": "https://i.ytimg.com/vi/XUUZbm3jqdo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=XUUZbm3jqdo",
+    "notes": {
+      "headline": "Tech rout drags Nasdaq down 3.5% amid mounting AI CapEx sustainability concerns",
+      "summary": "US equities suffered a sharp tech-led sell-off just four days before the midterm elections, with the Nasdaq 100 sliding 3.46% and semiconductors tumbling 7.20%. Investor anxiety intensified over the profitability and debt financing of massive artificial intelligence infrastructure buildouts, catalyzed by Intel's 29% plunge and S&P revising Meta Platforms' credit outlook to negative. Concurrently, Fitch revised France's sovereign outlook to negative on deteriorating fiscal and debt dynamics. Elevated energy prices and cost-of-living concerns remain top macro headwinds as election projections show increasing momentum for Democrats in congressional races.",
+      "key_takeaways": [
+        "Nasdaq 100 sank 3.46% and the semiconductor index dropped 7.20% in its worst session since June amid an unwinding AI trade.",
+        "Intel tumbled 29%, its sharpest single-day decline since its 1982 IPO, weighed down by high memory costs and slumping PC sales.",
+        "S&P revised Meta Platforms' rating outlook to negative, citing uncertainty surrounding elevated CapEx and free cash flow generation.",
+        "Fitch revised France's sovereign credit outlook to negative on weak growth, high borrowing costs, and expanding fiscal deficits.",
+        "Defensive rotation lifted healthcare stocks to their strongest monthly performance since 2000.",
+        "Cook Political Report shifted 12 House races toward Democrats, projecting Democrats to flip 12 to 25 seats and gain 2 to 6 Senate seats."
+      ],
+      "macro": [
+        "High gasoline and diesel prices, alongside broad cost-of-living pressures, dominate voter economic concerns ahead of the midterms.",
+        "Geopolitical conflict involving Iran and risks to the Strait of Hormuz continue to underpin energy market volatility.",
+        "Fitch warns of worsening debt dynamics, higher borrowing costs, and wider deficits for France."
+      ],
+      "priced_in": [
+        "Market reassessing expectations for immediate revenue generation and cash returns from mega-cap AI infrastructure investments.",
+        "Election betting markets and polling pricing in an increasingly defensive posture for Republicans across battleground states."
+      ],
+      "fundamentals": [
+        "Intel: 29% slide driven by PC demand slump and soaring memory component costs.",
+        "Meta Platforms: Negative outlook revision driven by mounting debt, high CapEx commitments, and uncertain free cash flow.",
+        "Enterprise customers beginning to pull back on IT and software spending to re-evaluate internal cost structures.",
+        "Upcoming tech earnings watchlist for next week includes Qualcomm, AMD, Apple, and Palantir."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "Tech-heavy index is nearing correction territory, down roughly 9% from its all-time high amid heavy AI and semiconductor liquidation.",
+          "source": "Romaine Bostick, Bloomberg"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "mixed",
+          "view": "Index dropped 1.82% on the session, though remains up roughly 10% year-to-date and within 3 percentage points of record highs.",
+          "source": "Pat Toomey, Former US Senator"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "Geopolitical conflict involving Iran and concerns over navigation in the Strait of Hormuz maintain upward pressure on fuel prices.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Romaine Bostick",
+          "role": "Anchor, Bloomberg",
+          "key_view": "Investors are not abandoning AI entirely, but are demanding tangible profitability and questioning heavy debt financing for CapEx."
+        },
+        {
+          "name": "Pat Toomey",
+          "role": "Former US Senator; Member, Coinbase Global Advisory Council",
+          "key_view": "While AI will create long-term productivity gains, day-to-day market drops affect voters far less than grocery and gasoline prices."
+        },
+        {
+          "name": "Jessica Killin",
+          "role": "Democratic Candidate, Colorado's 5th District",
+          "key_view": "Tariffs and military conflict with Iran are driving up living and energy costs for households and small businesses."
+        },
+        {
+          "name": "Jessica Taylor",
+          "role": "Senate & Governors Editor, Cook Political Report",
+          "key_view": "Late-cycle momentum is shifting key battleground House and Senate races in favor of Democrats."
+        },
+        {
+          "name": "Rick Davis",
+          "role": "Republican Strategist; Partner, Stonecourt Capital",
+          "key_view": "Pre-election equity market volatility and elevated living costs exacerbate voter anxiety and depress Republican turnout."
+        },
+        {
+          "name": "Jeanne Sheehan Zaino",
+          "role": "Democratic Strategist; Visiting Fellow, Harvard Kennedy School",
+          "key_view": "A difficult macroeconomic backdrop of high fuel costs and low presidential approval creates severe headwinds for the governing party."
+        }
+      ],
+      "catalysts": [
+        "US Midterm Elections on Tuesday",
+        "Earnings reports next week from Apple, AMD, Qualcomm, and Palantir",
+        "Resolution of Alaska Senate election legal investigations and final vote counts"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 48,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": false,
+    "processed_at": "2026-11-01T08:01:28Z"
+  },
+  {
+    "id": "KSuMdi7WtNk",
+    "title": "Tech Selloff Deepens as AI & Bitcoin Slide",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-30T21:55:51Z",
+    "live": "none",
+    "minutes": 90.3,
+    "thumbnail": "https://i.ytimg.com/vi/KSuMdi7WtNk/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=KSuMdi7WtNk",
+    "notes": {
+      "headline": "US tech selloff deepens as AI capex angst, semiconductor plunge, and Binance hack trigger risk-off",
+      "summary": "US equities suffered a sharp selloff led by technology, with the Nasdaq 100 dropping over 3% into correction territory and the Philadelphia Semiconductor Index plunging roughly 7%. Investors grew increasingly skeptical over tech hyperscalers' surging, debt-funded AI capital expenditures and uncertain payback timelines, driving defensive rotations into staples, healthcare, and energy. Broader risk-off sentiment was exacerbated by a multibillion-dollar Binance hack hitting crypto, while crude oil and Treasuries saw haven-related bids.",
+      "key_takeaways": [
+        "Nasdaq 100 fell over 3% to flirt with correction territory, while the S&P 500 closed below its 100-day moving average.",
+        "Semiconductor stocks were routed, with the SOX index sinking ~7% below its 200-day moving average and Intel dropping ~29% on weak PC guidance.",
+        "Scrutiny mounted over megacap tech AI capex shifts from free cash flow to debt issuance, pressuring valuations and margins.",
+        "Hedge funds rotated from single-stock shorts to broad index-level hedges, driving correlation and downside volatility.",
+        "BTIG's Krinsky warned the S&P 500 is exposed to testing its 200-day moving average (~7,300) without an 80%+ downside washout day.",
+        "Brent crude rallied toward $118/bbl and WTI near $103/bbl as traders avoided shorting energy into the weekend.",
+        "Bitcoin sank below $77,000 following reports of a $6.3B security breach at Binance."
+      ],
+      "macro": [
+        "US Treasury yields saw haven bids (10-year yield near 4.92%), with TLT tracking its strongest monthly performance since 2025.",
+        "US GDP annualized at 3.4%, but consumer spending vulnerability persists among lower- and middle-income cohorts.",
+        "Hyperscalers funding AI capex via debt markets rather than pure free cash flow increases corporate financing costs.",
+        "US Midterm Elections and potential contested outcomes present policy and business investment uncertainties."
+      ],
+      "priced_in": [
+        "Positioning shifted to index-level shorting, elevating stock correlations and downside volatility without a full capitulatory volume washout.",
+        "Multiple compression across semiconductors prices in fading market conviction regarding the durability and ROI of the AI capex cycle.",
+        "Markets are pricing consumer stress from high interest rates, sticky inflation, and elevated fuel costs."
+      ],
+      "fundamentals": [
+        "Intel: Plunged 28.6% to 31% after projecting a prolonged PC market slump, marking its steepest single-day drop ever.",
+        "Alphabet: Recorded negative free cash flow in Q2 amid surging AI infrastructure spending and search margin scrutiny.",
+        "Amazon: AWS delivered 39% YoY growth, yet investor focus centered on hefty capex outlays and operating margin durability.",
+        "Microsoft: Attracted 4x demand on a recent bond sale, indicating open debt markets despite equity skepticism.",
+        "Illumina: Plunged 18% to 19% as flat core instrument placements overshadowed Q3 revenue beats and raised Q4 guidance.",
+        "FuelCell Energy: Pitching off-grid, behind-the-meter fuel cell power for AI data centers to circumvent grid constraints.",
+        "Rivian and Chipotle: Outperformed broader markets, gaining 6.2% on narrow losses/R2 demand and 1.9% on resilient Q3 sales, respectively."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "Under severe pressure from multiple compression in semiconductors and escalating skepticism over AI capex payback.",
+          "source": "Scott Chronert, Citi"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "Closed below its 100-day moving average and remains vulnerable to a retest of its 200-day moving average near 7,300 due to a lack of capitulatory volume.",
+          "source": "Jonathan Krinsky, BTIG"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "Brent advanced toward $118/bbl and WTI hovered near $103/bbl as traders avoided shorting energy into the weekend amid supply and geopolitical risks.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Treasuries reclaimed a haven bid as yields tracked lower in tandem with the unraveling in AI tech.",
+          "source": "Jonathan Krinsky, BTIG"
+        },
+        {
+          "asset": "Other: Bitcoin",
+          "bias": "bearish",
+          "view": "Slid below $77,000 amid broader risk aversion and a reported $6.3B security breach at Binance.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Scott Chronert",
+          "role": "Head of US Equity Strategy, Citi",
+          "key_view": "Multiple compression across semiconductor stocks stems from waning investor confidence in the durability and returns of the AI capex boom."
+        },
+        {
+          "name": "Jonathan Krinsky",
+          "role": "Chief Market Technician, BTIG",
+          "key_view": "The market lacks a high-volume capitulation washout day, leaving the S&P 500 vulnerable to testing its 200-day moving average near 7,300."
+        },
+        {
+          "name": "Kristina Hooper",
+          "role": "Chief Market Strategist, Man Group",
+          "key_view": "The tech selloff reflects heightened discernment over debt-funded AI capex, alongside macro vulnerability from a strained consumer."
+        },
+        {
+          "name": "Shweta Khajuria",
+          "role": "Managing Director, Internet Equity Research, Wolfe Research",
+          "key_view": "While AWS fundamentals remain solid with 39% growth, heavy capex commitments mean balance-sheet strength and free cash flow durability will drive differentiation."
+        },
+        {
+          "name": "Jacob Thaysen",
+          "role": "CEO, Illumina",
+          "key_view": "Clinical consumable growth of 14% indicates healthy underlying demand despite transient headwinds in instrument placements."
+        },
+        {
+          "name": "Jason Few",
+          "role": "President & CEO, FuelCell Energy",
+          "key_view": "Behind-the-meter fuel cell solutions allow AI data centers to secure reliable power without burdening public utility grids."
+        },
+        {
+          "name": "Joe Preston",
+          "role": "President & CEO, New Balance",
+          "key_view": "Consumer spending faces pressure from high borrowing costs, tariffs, and elevated gas prices."
+        },
+        {
+          "name": "Briane Olson",
+          "role": "CEO, PacSun",
+          "key_view": "Younger retail shoppers are displaying increased intentionality and price sensitivity under affordability pressures."
+        }
+      ],
+      "catalysts": [
+        "Monday: US ISM Manufacturing, Construction Spending; Apple and Palantir earnings",
+        "Tuesday: US Midterm Elections, JOLTS, Factory Orders; AMD, SMCI, and Pfizer earnings",
+        "Wednesday: US Treasury Quarterly Refunding announcement, ADP Employment; Qualcomm and Arm earnings",
+        "Thursday: Bank of England interest rate decision, White House hearing on Fed Governor Cook",
+        "Friday: US Employment Report (Nonfarm Payrolls), UMich Consumer Sentiment"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 90,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": false,
+    "processed_at": "2026-11-01T08:14:32Z"
+  },
+  {
     "id": "0g83nipDgY0",
     "title": "Democratic Wave in House Looks Likely, Cook's Covey Says",
     "channel": "Bloomberg Television",
