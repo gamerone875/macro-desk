@@ -1,5 +1,108 @@
 [
   {
+    "id": "_dyvftxRfjs",
+    "title": "Big Tech Earnings Coming, Final Midterm Election Push",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-01T16:44:02Z",
+    "live": "none",
+    "minutes": 145.3,
+    "thumbnail": "https://i.ytimg.com/vi/_dyvftxRfjs/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=_dyvftxRfjs",
+    "notes": {
+      "headline": "Big Tech earnings and US Midterms loom amid Strait of Hormuz disruptions and hawkish Fed",
+      "summary": "Markets are navigating a volatile intersection of a Nasdaq correction, critical Big Tech earnings, and the final countdown to the US midterm elections. Geopolitical risks have spiked as Strait of Hormuz transit collapsed by 90% following vessel attacks, while Fed Chair Warsh maintains a hawkish stance despite softening late-Q3 consumer data. Investors are focused on whether upcoming reports from Apple and AMD can offset AI spending fatigue and persistent inflationary pressures.",
+      "key_takeaways": [
+        "Strait of Hormuz vessel transit has plunged from 135 to ~12 per day due to drone, missile, and mine threats.",
+        "The Nasdaq 100 has entered a technical correction following a 2% weekly decline driven by AI capital expenditure concerns.",
+        "Fed Chair Warsh signaled a potential December rate hike, stating financial conditions are not yet tight enough.",
+        "US Midterm elections on November 3 focus on inflation, with gas prices up 39% and diesel near all-time highs.",
+        "Brent crude remains elevated above $113/bbl as Iran orders military readiness amid threats of strikes on energy infrastructure.",
+        "Quant trading firms like Citadel are paying up to $800,000 for AI PhDs to compete with tech labs.",
+        "BMO notes that a cooling in hyperscaler AI spending could actually assist the Fed's fight against inflation.",
+        "Brooks Running reports 12% revenue growth, suggesting the performance athletic consumer remains resilient."
+      ],
+      "macro": [
+        "Fed Chair Warsh remains hawkish, viewing the economy as robust and requiring further work to reach inflation targets.",
+        "Geopolitical escalation in the Middle East impacts nearly a quarter of global oil transit via maritime choke points.",
+        "US Q3 GDP showed signs of softening in September with slower wage growth and reduced consumer spending.",
+        "Midterm policy stakes include AI safety regulation, antitrust measures, and data center energy consumption."
+      ],
+      "priced_in": [
+        "Nasdaq 100 has priced in its third market correction of the year.",
+        "Markets are pricing in the potential for a Fed rate hike in December.",
+        "AI spending fatigue is being priced in following negative reactions to Alphabet and Amazon results.",
+        "NYT/Sienna polls suggest Democrats are favored in several key states despite historical midterm trends."
+      ],
+      "fundamentals": [
+        "Crude Oil: Over 120 vessels attacked since conflict inception; ghost tankers are distorting trade tracking.",
+        "Tech Earnings: High scrutiny on hyperscaler capex monetization for Apple, AMD, Palantir, Qualcomm, and Arm.",
+        "Quant Finance: Firms are shifting hiring from finance to pure science PhDs to support machine learning models.",
+        "Iranian Economy: Currency is collapsing under the weight of the US blockade and military readiness costs."
+      ],
+      "assets": [
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "Severe supply disruption in the Strait of Hormuz and potential strikes on Iranian infrastructure keep prices elevated.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "The index is in correction as investors question the sustainability of massive AI capital expenditures.",
+          "source": "Jennifer Lee, BMO Capital Markets"
+        },
+        {
+          "asset": "Rates",
+          "bias": "mixed",
+          "view": "Hawkish Fed rhetoric supports yields, though the tech sell-off is providing some downward pressure on rates.",
+          "source": "Jennifer Lee, BMO Capital Markets"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "neutral",
+          "view": "Market sentiment is cautious ahead of midterm results and mega-cap tech earnings.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Arsenio Dominguez",
+          "role": "Secretary-General, International Maritime Organization (IMO)",
+          "key_view": "The Strait of Hormuz is currently unsafe for navigation due to persistent missile and drone threats."
+        },
+        {
+          "name": "Jennifer Lee",
+          "role": "Senior Economist, BMO Capital Markets",
+          "key_view": "Fed Chair Warsh remains hawkish despite soft Q3 data; a pullback in tech capex would help curb inflation."
+        },
+        {
+          "name": "Justina Lee",
+          "role": "Senior Markets Reporter, Bloomberg News",
+          "key_view": "Quant firms are offering massive compensation packages to compete with AI labs for top-tier talent."
+        },
+        {
+          "name": "Dan Sheridan",
+          "role": "CEO, Brooks Running",
+          "key_view": "Performance footwear demand remains healthy despite broader macro and supply chain headwinds."
+        }
+      ],
+      "catalysts": [
+        "US Midterm Elections: Tuesday, November 3, 2026",
+        "Tech Earnings: Apple, Palantir (Mon); AMD, Super Micro (Tue); Qualcomm, Arm (Wed)",
+        "US Payrolls report",
+        "Government funding deadline: December 11",
+        "G20 Summit developments"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 145,
+      "partial": false
+    },
+    "model": "gemini-3-flash-preview",
+    "manual": true,
+    "processed_at": "2026-11-01T23:44:17Z"
+  },
+  {
     "id": "tRcFJBbWoxI",
     "title": "Tech Stocks Tank, Final Countdown to Midterm Elections",
     "channel": "Bloomberg Television",
