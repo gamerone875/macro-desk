@@ -56,6 +56,7 @@ def env_float(name, default):
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
 MANUAL_URL = os.environ.get("MANUAL_URL", "").strip()
+FORCE = os.environ.get("FORCE", "").strip().lower() in ("1", "true", "yes")  # re-analyse manual links already on the desk
 
 CHANNEL_HANDLE = os.environ.get("CHANNEL_HANDLE", "markets")  # Bloomberg Television
 # Models tried in order. If one is unavailable or its daily quota is used up,
@@ -441,9 +442,14 @@ def main():
         errors_this_run.append(f"YouTube listing: {e}")
         auto = []
     known = {v["id"] for v in videos}
-    wanted = [i for i in manual if i not in known] + [i for i in auto if i not in done and i not in known]
+    wanted = [i for i in manual if FORCE or i not in known] + [i for i in auto if i not in done and i not in known]
     details = video_details(wanted) if wanted else {}
     log(f"Manual links: {len(manual)} | recent uploads: {len(auto)} | new to process: {len(details)}")
+    for i in manual:
+        if i in known and not FORCE:
+            log(f"manual link {i}: already on the desk, skipped (re-run with force=true to re-analyse)")
+        elif i not in details:
+            log(f"manual link {i}: not found on YouTube (private, deleted or bad link)")
 
     # 2) process, manual first then newest first
     queue = [details[i] for i in manual if i in details]
@@ -457,6 +463,7 @@ def main():
             log(f"skip (live/upcoming): {v['title']}")
             continue
         if not is_manual and v["minutes"] < MIN_MINUTES:
+            log(f"skip (short, {v['minutes']} min): {v['title']}")
             done.add(v["id"]); continue
         if not is_manual and v["minutes"] > SKIP_LONGER_THAN:
             log(f"skip (too long, {v['minutes']} min): {v['title']}")
