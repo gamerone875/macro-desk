@@ -1303,6 +1303,121 @@
     "processed_at": "2026-11-01T13:28:15Z"
   },
   {
+    "id": "rajmYyeyYrM",
+    "title": "Wall Street Punishes Tech Stocks on Earnings Misses",
+    "channel": "Bloomberg Television",
+    "published": "2026-10-30T21:48:58Z",
+    "live": "none",
+    "minutes": 51.9,
+    "thumbnail": "https://i.ytimg.com/vi/rajmYyeyYrM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=rajmYyeyYrM",
+    "notes": {
+      "headline": "Nasdaq 100 plunges 4% into correction as Intel and Amazon fuel AI capex fears",
+      "summary": "US equity markets experienced a severe tech-led sell-off, with the Nasdaq 100 entering a technical correction after falling 4% in a single session. Intel's 31% plunge and Amazon's slowing retail growth triggered a rotation into defensive sectors like energy and utilities, while the Philadelphia Semiconductor Index dropped 9%. Investors are increasingly questioning the return on massive AI capital expenditures as market volatility, measured by the VIX, spiked above 23.",
+      "key_takeaways": [
+        "Nasdaq 100 fell over 4%, marking a 10% technical correction from its October peak.",
+        "Intel plummeted roughly 31% after issuing weak Q4 guidance and reporting factory yield challenges.",
+        "Philadelphia Semiconductor Index (SOX) plunged approximately 9% as semiconductor sentiment soured.",
+        "Amazon dropped ~2.5% due to slowing 2% e-commerce growth and high AI capex, despite strong AWS projections.",
+        "VIX spiked above 23, signaling a significant breakout in market stress levels.",
+        "Crude oil (WTI) rose above $104/bbl on geopolitical tensions, while Gold fell 3.5% to ~$3,882/oz.",
+        "ICE CEO Jeff Sprecher announced plans for 23/5 US equity trading starting in December to meet retail demand."
+      ],
+      "macro": [
+        "Geopolitical conflicts in the Persian Gulf and Russia supported crude oil prices and buoyed oil company refining results.",
+        "US Treasury yields remained elevated: 2-year near 4.56%, 10-year near 4.92%, and 30-year at 5.30%.",
+        "Market breadth deteriorated sharply, prompting a flight to cash-flow safety in defensive dividend payers."
+      ],
+      "priced_in": [
+        "Markets are no longer rewarding AI hype; immediate ROI and positive free cash flow are now required for valuation support.",
+        "Nasdaq 100 has priced in a full 10% technical correction from recent highs.",
+        "Street had priced in strong AI growth for semiconductors, leaving Intel vulnerable after failing to deliver high-margin beats."
+      ],
+      "fundamentals": [
+        "Intel: Q4 revenue guided to $15B-$16B vs. $17B consensus; facing factory yield issues and market share losses to AMD.",
+        "Amazon: Online retail sales rose only 2% to $68.5B; company arranged an $80B supplier financing facility for AI hardware.",
+        "Big Oil: ExxonMobil, Chevron, Shell, BP, and TotalEnergies reported combined adjusted net income of $56.3B, beating expectations.",
+        "Reddit: Plunged ~30% following plans to restrict open forum access to drive user registrations."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "Plunged over 4% into technical correction on heavy tech and semiconductor selling pressure.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "Fell more than 2.2% to hit fresh session lows as tech megacap losses dragged down broad indices.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "WTI traded above $104/bbl and Brent climbed near $118/bbl on Persian Gulf and Russian geopolitical conflicts.",
+          "source": "Charlie Pellet, Bloomberg"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Sank roughly 3.5% to the $3,880 range during the broad market shakeout.",
+          "source": "Charlie Pellet, Bloomberg"
+        },
+        {
+          "asset": "Rates",
+          "bias": "neutral",
+          "view": "Yields held relatively steady with 10-year yields around 4.92% and 30-year yields above 5.30%.",
+          "source": "Charlie Pellet, Bloomberg"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Jeff Sprecher",
+          "role": "Chairman, Founder & CEO, Intercontinental Exchange",
+          "key_view": "The sharp market pullback is a natural retrenchment following a historic AI-driven run; ICE is expanding into US-regulated perpetual futures and 23/5 trading."
+        },
+        {
+          "name": "Ian King",
+          "role": "US Semiconductor Reporter, Bloomberg News",
+          "key_view": "Intel's severe sell-off reflects operational missteps including factory yield issues in an environment where Nvidia has set an exceptionally high bar."
+        },
+        {
+          "name": "Eric Weiner",
+          "role": "Senior Editor for Equities, Bloomberg News",
+          "key_view": "The tech selloff is driven by questions over whether companies can sustain heavy AI spending while cash flow turns negative."
+        },
+        {
+          "name": "Anurag Rana",
+          "role": "Senior Technology Analyst, Bloomberg Intelligence",
+          "key_view": "AWS guidance indicating 40% growth in coming years provides underlying confidence to support Amazon's heavy AI spending."
+        },
+        {
+          "name": "Dan Sheridan",
+          "role": "CEO, Brooks Running",
+          "key_view": "Running participation and consumer demand remain resilient globally, supporting 12% revenue growth year-to-date."
+        },
+        {
+          "name": "Norah Mulinda",
+          "role": "Markets Correspondent, Bloomberg Television",
+          "key_view": "Earnings misses are validating investor fears that AI capex is excessively frontloaded without near-term ROI."
+        }
+      ],
+      "catalysts": [
+        "Apple earnings report scheduled for Monday after the closing bell.",
+        "ConocoPhillips earnings report next Monday.",
+        "Upcoming AMD earnings for indication on market share gains from Intel.",
+        "ICE rollout of 23/5 US equity trading in December."
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 52,
+      "partial": false
+    },
+    "model": "gemini-3-flash-preview",
+    "manual": true,
+    "processed_at": "2026-11-01T14:06:47Z"
+  },
+  {
     "id": "0g83nipDgY0",
     "title": "Democratic Wave in House Looks Likely, Cook's Covey Says",
     "channel": "Bloomberg Television",

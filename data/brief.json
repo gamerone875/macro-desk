@@ -1,53 +1,47 @@
 {
-  "narrative": "Global markets are facing severe risk-off pressure driven by a sharp selloff in mega-cap technology and mounting geopolitical tensions. Tech shares tumbled after heavy scrutiny of massive AI infrastructure capex and weak guidance from Intel triggered an unwind of crowded hyperscaler positions. Macro headwinds are compounded by the approaching US midterm elections, where projections point toward legislative gridlock and heightened oversight. In the Middle East, an Israeli election deadlock has raised concerns over potential post-midterm military action against Iran, threatening oil supply corridors. Meanwhile, the Federal Reserve held rates steady amid persistent cost-push inflation, though falling Treasury yields have provided a partial buffer via defensive rotation.",
+  "narrative": "Markets are currently navigating a sharp risk-off turn driven by a deep sell-off in mega-cap tech and heightening geopolitical tensions. Investors are scrutinizing massive AI capital expenditures as earnings from Alphabet, Amazon, and Meta suggest pressure on free cash flow, while Intel's weak guidance triggered a broader semiconductor rout. Geopolitical risks are intensifying with potential military escalation between Israel and Iran and continued Ukrainian strikes on Russian refineries. Domestically, the US is bracing for midterm elections likely to result in a split Congress and legislative gridlock. The Fed remains on hold, monitoring sticky inflation while falling yields provide a slight buffer for defensive sectors.",
   "regime": "risk-off",
   "assets": {
     "Nasdaq": {
       "bias": "bearish",
-      "why": "Michael Ball highlights that the index plunged 3.5% as crowded hyperscaler positions unwound over AI capex returns, compounded by local data center pushback cited by Blair Effron."
+      "why": "Michael Ball notes a 3.5% plunge as heavy hyperscaler positioning unwound due to doubts over AI capex returns and severe semiconductor guidance cuts from Intel."
     },
     "S&P 500": {
       "bias": "bearish",
-      "why": "The index breached its 100-day moving average amid Middle East war risks noted by Ethan Bronner, though Joe Mathieu notes historical gridlock and defensive rotation offer some stabilization."
+      "why": "The index breached its 100-day moving average; Ethan Bronner suggests geopolitical instability in the Middle East is weighing on global risk appetite."
     },
     "Gold": {
       "bias": "bullish",
-      "why": "Ethan Bronner highlights gold as a primary safe-haven beneficiary amid elevated geopolitical instability and the threat of military conflict between Israel, the US, and Iran."
+      "why": "Ethan Bronner highlights that increased geopolitical risk and the potential for regional war in the Middle East favor safe-haven assets."
     },
     "Oil": {
       "bias": "bullish",
-      "why": "Nathan Dean and Ethan Bronner point to substantial upside supply risks stemming from Ukrainian drone strikes on Russian refineries and potential post-election strikes against Iran threatening the Strait of Hormuz."
+      "why": "Nathan Dean and Ethan Bronner cite upside supply risks from potential US-Israel escalation against Iran and Ukrainian drone strikes on Russian refineries."
     }
   },
   "priced_in": [
-    "Smooth monetization of big-tech AI capital spending and heavy hyperscaler long positioning",
-    "A Republican takeover of the US House of Representatives in the midterm elections",
-    "Protracted coalition negotiations and political deadlock in Israel",
-    "Reversal of pre-election fiscal consolidation expectations in Brazilian assets"
+    "Smooth monetization of big-tech AI investments",
+    "Republican takeover of the US House of Representatives",
+    "Pre-election optimism for pro-market fiscal consolidation in Brazil"
   ],
   "debates": [
-    "Whether congressional gridlock following the midterms will benefit markets or trigger instability through aggressive investigations and oversight (Joe Mathieu)",
-    "Whether AI spending will prove to be an economic job enhancer or a displacer facing data center regulatory moratoriums (Paul Ryan vs. Blair Effron)",
-    "Balancing consumer energy affordability against calls for tighter sanctions enforcement on Russian crude and potential Middle Eastern supply disruptions (Rep. Gregory Meeks)"
+    "Whether AI infrastructure spending is sustainable given softening core business margins",
+    "The timing of potential military action against Iran (pre- vs. post-US midterms)",
+    "The extent to which defensive sector rotation can buffer headline index losses"
   ],
   "watch_next": [
-    "US Midterm Elections on Tuesday, November 3",
-    "Final Israeli election vote tally early next week and subsequent coalition formation talks",
-    "Post-US midterm foreign policy actions and potential military strikes regarding Iran",
-    "December FOMC rate decision and policy guidance",
-    "G20 Leaders' Summit in Miami scheduled for mid-December",
-    "Quad leaders meeting in Manila alongside the ASEAN conference"
+    "US Midterm Elections on November 3",
+    "Final Israeli election vote tally and coalition consultations",
+    "December FOMC rate decision",
+    "G20 Leaders' Summit in mid-December"
   ],
-  "generated_at": "2026-11-01T13:31:49Z",
+  "generated_at": "2026-11-01T14:06:57Z",
   "based_on": [
     "tRcFJBbWoxI",
     "DiGeEGD7Xr0",
     "j_A1r4dvgGU",
     "VvYmC62RXBw",
-    "NC2OGYpZWNQ",
-    "HndwoC6Tmbo",
-    "jYtc4keGRFg",
-    "RoAoaB8tFkw"
+    "NC2OGYpZWNQ"
   ],
-  "model": "gemini-3.8-flash"
+  "model": "gemini-3-flash-preview"
 }
