@@ -1,44 +1,44 @@
 {
-  "narrative": "Global markets are under pressure as heavy big-tech AI infrastructure capital expenditures trigger intense scrutiny and position unwinding following weak guidance from Intel, Alphabet, and Amazon. Concurrently, US midterm elections are approaching with consensus expecting a Republican flip of the House, raising prospects of legislative gridlock, congressional investigations, and regulatory battles over AI data centers. Geopolitical risks are intensifying across multiple theaters, with potential US-Israel military action against Iran threatening crude transit in the Strait of Hormuz, alongside Ukrainian drone strikes hitting Russian refineries. Meanwhile, the Federal Reserve has held interest rates steady, but persistent cost-push inflation in fuel, food, and mortgages keeps rate policy uncertain ahead of December. Emerging markets are also reeling, highlighted by a severe crash in Brazilian equities and the real following the presidential election.",
+  "narrative": "Global markets are facing severe risk-off pressure driven by a sharp selloff in mega-cap technology and mounting geopolitical tensions. Tech shares tumbled after heavy scrutiny of massive AI infrastructure capex and weak guidance from Intel triggered an unwind of crowded hyperscaler positions. Macro headwinds are compounded by the approaching US midterm elections, where projections point toward legislative gridlock and heightened oversight. In the Middle East, an Israeli election deadlock has raised concerns over potential post-midterm military action against Iran, threatening oil supply corridors. Meanwhile, the Federal Reserve held rates steady amid persistent cost-push inflation, though falling Treasury yields have provided a partial buffer via defensive rotation.",
   "regime": "risk-off",
   "assets": {
     "Nasdaq": {
       "bias": "bearish",
-      "why": "Michael Ball notes the index plunged 3.5% as crowded hyperscaler longs unwound over concerns regarding AI capex returns, traditional business softening, and semiconductor guidance cuts. Blair Effron adds that local backlash and data center moratoriums present mounting structural headwinds."
+      "why": "Michael Ball highlights that the index plunged 3.5% as crowded hyperscaler positions unwound over AI capex returns, compounded by local data center pushback cited by Blair Effron."
     },
     "S&P 500": {
       "bias": "bearish",
-      "why": "The index fell 1.8% to breach its 100-day moving average under tech pressure and geopolitical anxiety, as noted by anchors and Ethan Bronner. While Steven Rattner and Benton Graham point to multi-year strength and resilient consumer spending, defensive rotations have only partially cushioned headline downside."
+      "why": "The index breached its 100-day moving average amid Middle East war risks noted by Ethan Bronner, though Joe Mathieu notes historical gridlock and defensive rotation offer some stabilization."
     },
     "Gold": {
       "bias": "bullish",
-      "why": "Ethan Bronner and anchors highlight that elevated safe-haven demand is strongly supported by mounting US-Israel-Iran escalation risks, deadlocked Israeli elections, and intensifying conflict in Ukraine."
+      "why": "Ethan Bronner highlights gold as a primary safe-haven beneficiary amid elevated geopolitical instability and the threat of military conflict between Israel, the US, and Iran."
     },
     "Oil": {
       "bias": "bullish",
-      "why": "Nathan Dean, Ethan Bronner, and Jason Furman warn of acute upside supply risks stemming from potential military strikes on Iran disrupting the Strait of Hormuz, compounded by Ukrainian drone attacks on Russian refining capacity."
+      "why": "Nathan Dean and Ethan Bronner point to substantial upside supply risks stemming from Ukrainian drone strikes on Russian refineries and potential post-election strikes against Iran threatening the Strait of Hormuz."
     }
   },
   "priced_in": [
-    "Smooth monetization and uninterrupted returns from big-tech AI infrastructure spending",
-    "Republican takeover of the US House of Representatives leading to legislative gridlock",
-    "Fed holding rates steady at the latest meeting, alongside energy market volatility from refinery disruptions",
-    "Prolonged and difficult coalition negotiations following deadlocked Israeli elections"
+    "Smooth monetization of big-tech AI capital spending and heavy hyperscaler long positioning",
+    "A Republican takeover of the US House of Representatives in the midterm elections",
+    "Protracted coalition negotiations and political deadlock in Israel",
+    "Reversal of pre-election fiscal consolidation expectations in Brazilian assets"
   ],
   "debates": [
-    "Whether persistent inflation and energy pass-through will force a Fed rate hike in December versus holding steady",
-    "Whether congressional gridlock will benefit equity markets or destabilize policy via aggressive investigations and impeachment efforts",
-    "Whether resilient consumer discretionary demand can withstand the impact of proposed higher tariffs",
-    "Whether big-tech AI spending remains an essential competitive necessity or an overextended drag on free cash flows"
+    "Whether congressional gridlock following the midterms will benefit markets or trigger instability through aggressive investigations and oversight (Joe Mathieu)",
+    "Whether AI spending will prove to be an economic job enhancer or a displacer facing data center regulatory moratoriums (Paul Ryan vs. Blair Effron)",
+    "Balancing consumer energy affordability against calls for tighter sanctions enforcement on Russian crude and potential Middle Eastern supply disruptions (Rep. Gregory Meeks)"
   ],
   "watch_next": [
     "US Midterm Elections on Tuesday, November 3",
-    "Final vote certification and coalition formation talks in Israel early next week",
-    "Post-election US and Israeli national security decisions regarding potential strikes on Iran",
-    "December FOMC interest rate decision and policy debate",
-    "G20 Leaders' Summit in Miami scheduled for mid-December"
+    "Final Israeli election vote tally early next week and subsequent coalition formation talks",
+    "Post-US midterm foreign policy actions and potential military strikes regarding Iran",
+    "December FOMC rate decision and policy guidance",
+    "G20 Leaders' Summit in Miami scheduled for mid-December",
+    "Quad leaders meeting in Manila alongside the ASEAN conference"
   ],
-  "generated_at": "2026-10-31T22:28:30Z",
+  "generated_at": "2026-11-01T13:31:49Z",
   "based_on": [
     "tRcFJBbWoxI",
     "DiGeEGD7Xr0",
@@ -47,11 +47,7 @@
     "NC2OGYpZWNQ",
     "HndwoC6Tmbo",
     "jYtc4keGRFg",
-    "RoAoaB8tFkw",
-    "Kc1Pg2MTAck",
-    "ZhQQzyzGFkM",
-    "SLZWMul4Je8",
-    "L-3i5zMMvo4"
+    "RoAoaB8tFkw"
   ],
   "model": "gemini-3.8-flash"
 }

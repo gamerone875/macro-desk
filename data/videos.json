@@ -1352,125 +1352,129 @@
     "thumbnail": "https://i.ytimg.com/vi/KSuMdi7WtNk/mqdefault.jpg",
     "url": "https://www.youtube.com/watch?v=KSuMdi7WtNk",
     "notes": {
-      "headline": "US tech selloff deepens as AI capex angst, semiconductor plunge, and Binance hack trigger risk-off",
-      "summary": "US equities suffered a sharp selloff led by technology, with the Nasdaq 100 dropping over 3% into correction territory and the Philadelphia Semiconductor Index plunging roughly 7%. Investors grew increasingly skeptical over tech hyperscalers' surging, debt-funded AI capital expenditures and uncertain payback timelines, driving defensive rotations into staples, healthcare, and energy. Broader risk-off sentiment was exacerbated by a multibillion-dollar Binance hack hitting crypto, while crude oil and Treasuries saw haven-related bids.",
+      "headline": "Tech selloff deepens as semiconductor rout and AI capex scrutiny rattle equity markets",
+      "summary": "US equities fell sharply led by a steep retreat in mega-cap tech and semiconductors, with the Philadelphia Semiconductor Index sinking over 7% and breaking below its 200-day moving average. Investor scrutiny intensified over the durability and financing of massive AI capex cycles, accelerating rotation out of tech into defensive sectors like healthcare and consumer staples. Oil remained elevated with Brent trading near $118 per barrel, raising inflation concerns, while Treasuries caught a modest haven bid. Sentiment stayed firmly risk-off as the VIX topped 21 and Bitcoin slid following security concerns.",
       "key_takeaways": [
-        "Nasdaq 100 fell over 3% to flirt with correction territory, while the S&P 500 closed below its 100-day moving average.",
-        "Semiconductor stocks were routed, with the SOX index sinking ~7% below its 200-day moving average and Intel dropping ~29% on weak PC guidance.",
-        "Scrutiny mounted over megacap tech AI capex shifts from free cash flow to debt issuance, pressuring valuations and margins.",
-        "Hedge funds rotated from single-stock shorts to broad index-level hedges, driving correlation and downside volatility.",
-        "BTIG's Krinsky warned the S&P 500 is exposed to testing its 200-day moving average (~7,300) without an 80%+ downside washout day.",
-        "Brent crude rallied toward $118/bbl and WTI near $103/bbl as traders avoided shorting energy into the weekend.",
-        "Bitcoin sank below $77,000 following reports of a $6.3B security breach at Binance."
+        "The PHLX Semiconductor Index (SOX) sank over 7%, dropping below its 200-day moving average for the first time in 18 months, led by Intel's historic 29% plunge.",
+        "Nasdaq 100 tumbled between 3.5% and 4.2% intraday, entering correction territory down 10% from record highs.",
+        "Investors and strategists flagged mounting concern over hyperscaler AI capex shifting from free cash flow to debt issuance, such as Microsoft's $25B bond sale.",
+        "Hedge funds shifted from single-stock shorts to shorting broad market indexes, spiking correlations across equities.",
+        "S&P 500 fell 1.8% to 7,580, closing below its 100-day moving average; BTIG warns of a potential retest of its 200-day moving average near 7,300.",
+        "Brent crude rallied above $117-$118/bbl, up ~14% in October, as traders avoided shorting energy into the weekend.",
+        "Treasuries caught a modest safe-haven bid with yields easing across the curve, while CBOE VIX surged over 20% to top 21."
       ],
       "macro": [
-        "US Treasury yields saw haven bids (10-year yield near 4.92%), with TLT tracking its strongest monthly performance since 2025.",
-        "US GDP annualized at 3.4%, but consumer spending vulnerability persists among lower- and middle-income cohorts.",
-        "Hyperscalers funding AI capex via debt markets rather than pure free cash flow increases corporate financing costs.",
-        "US Midterm Elections and potential contested outcomes present policy and business investment uncertainties."
+        "Brent crude near $118/bbl and WTI above $103/bbl reinforce stubborn inflation expectations.",
+        "Treasury yields edged lower across maturities, with 2-year yield around 4.57%-4.58%, 10-year around 4.92%, and 30-year near 5.30%.",
+        "Upcoming US midterm elections and Treasury quarterly refunding announcement pose policy uncertainty and rate volatility risks.",
+        "Consumer vulnerability flagged via a K-shaped wealth divide where the lower 50% faces heavy debt burdens under high interest rates."
       ],
       "priced_in": [
-        "Positioning shifted to index-level shorting, elevating stock correlations and downside volatility without a full capitulatory volume washout.",
-        "Multiple compression across semiconductors prices in fading market conviction regarding the durability and ROI of the AI capex cycle.",
-        "Markets are pricing consumer stress from high interest rates, sticky inflation, and elevated fuel costs."
+        "Tech market pricing is shifting away from headline AI revenue enthusiasm to rigorous balance-sheet, debt-funded capex, and ROI scrutiny.",
+        "Hedge funds are betting against broad equity indexes rather than single stocks, elevating index correlation.",
+        "Defensive sectors (healthcare, consumer staples, utilities) are pricing in resilient demand via steady rotation inflows."
       ],
       "fundamentals": [
-        "Intel: Plunged 28.6% to 31% after projecting a prolonged PC market slump, marking its steepest single-day drop ever.",
-        "Alphabet: Recorded negative free cash flow in Q2 amid surging AI infrastructure spending and search margin scrutiny.",
-        "Amazon: AWS delivered 39% YoY growth, yet investor focus centered on hefty capex outlays and operating margin durability.",
-        "Microsoft: Attracted 4x demand on a recent bond sale, indicating open debt markets despite equity skepticism.",
-        "Illumina: Plunged 18% to 19% as flat core instrument placements overshadowed Q3 revenue beats and raised Q4 guidance.",
-        "FuelCell Energy: Pitching off-grid, behind-the-meter fuel cell power for AI data centers to circumvent grid constraints.",
-        "Rivian and Chipotle: Outperformed broader markets, gaining 6.2% on narrow losses/R2 demand and 1.9% on resilient Q3 sales, respectively."
+        "Intel plunged 28.6%-31% in its worst one-day decline on weak guidance and a prolonged PC market slump.",
+        "Amazon AWS showed robust 39% growth, while Alphabet showed high-margin search ad concerns alongside surging capex.",
+        "Reddit plunged 29.2% on plans to limit forum access, while MicroStrategy dropped ~8% following a $6.3B Binance security incident.",
+        "FedEx Freight surged 14.9% on stronger-than-expected profitability in its standalone earnings debut.",
+        "Illumina posted solid Q3 results and raised guidance, though shares fell on organic growth timing concerns.",
+        "Retailers (New Balance, PacSun) report consumer headwinds from elevated interest rates, fuel costs, and affordability pressures."
       ],
       "assets": [
         {
           "asset": "Nasdaq",
           "bias": "bearish",
-          "view": "Under severe pressure from multiple compression in semiconductors and escalating skepticism over AI capex payback.",
-          "source": "Scott Chronert, Citi"
+          "view": "Under severe pressure as semiconductor weakness and hyperscaler debt-funded capex concerns trigger an unwind of the AI trade.",
+          "source": "anchors"
         },
         {
           "asset": "S&P 500",
           "bias": "bearish",
-          "view": "Closed below its 100-day moving average and remains vulnerable to a retest of its 200-day moving average near 7,300 due to a lack of capitulatory volume.",
+          "view": "Vulnerable to testing its 200-day moving average near 7,300 as the market still lacks an 80%+ downside capitulation volume day.",
           "source": "Jonathan Krinsky, BTIG"
         },
         {
           "asset": "Oil",
           "bias": "bullish",
-          "view": "Brent advanced toward $118/bbl and WTI hovered near $103/bbl as traders avoided shorting energy into the weekend amid supply and geopolitical risks.",
+          "view": "Brent crude traded elevated near $117-$118/bbl as traders refrained from carrying short positions into the weekend.",
           "source": "anchors"
         },
         {
           "asset": "Rates",
           "bias": "bullish",
-          "view": "Treasuries reclaimed a haven bid as yields tracked lower in tandem with the unraveling in AI tech.",
+          "view": "Treasuries drew safe-haven bids, pushing yields lower as the equity selloff deepened.",
           "source": "Jonathan Krinsky, BTIG"
         },
         {
           "asset": "Other: Bitcoin",
           "bias": "bearish",
-          "view": "Slid below $77,000 amid broader risk aversion and a reported $6.3B security breach at Binance.",
+          "view": "Tumbled toward $76,500 amid broader risk aversion and fallout from a major Binance hack.",
           "source": "anchors"
         }
       ],
       "guests": [
         {
-          "name": "Scott Chronert",
-          "role": "Head of US Equity Strategy, Citi",
-          "key_view": "Multiple compression across semiconductor stocks stems from waning investor confidence in the durability and returns of the AI capex boom."
+          "name": "Shweta Khajuria",
+          "role": "Managing Director of Internet Equity Research, Wolfe Research",
+          "key_view": "Mega-cap tech fundamentals remain solid with strong cloud growth, but capex scale requires healthy balance sheets and clear ROI, differentiating Amazon from Google's search margin issues."
         },
         {
-          "name": "Jonathan Krinsky",
-          "role": "Chief Market Technician, BTIG",
-          "key_view": "The market lacks a high-volume capitulation washout day, leaving the S&P 500 vulnerable to testing its 200-day moving average near 7,300."
+          "name": "Scott Chronert",
+          "role": "Head of US Equity Strategy, Citi",
+          "key_view": "Multiple compression in semis and tech reflects fading investor confidence in the financing and longevity of capex cycles rather than an outright halt to AI build-out."
         },
         {
           "name": "Kristina Hooper",
           "role": "Chief Market Strategist, Man Group",
-          "key_view": "The tech selloff reflects heightened discernment over debt-funded AI capex, alongside macro vulnerability from a strained consumer."
+          "key_view": "Markets are showing extreme discernment over AI capex funded by debt rather than free cash flow, alongside consumer fragility risks."
         },
         {
-          "name": "Shweta Khajuria",
-          "role": "Managing Director, Internet Equity Research, Wolfe Research",
-          "key_view": "While AWS fundamentals remain solid with 39% growth, heavy capex commitments mean balance-sheet strength and free cash flow durability will drive differentiation."
+          "name": "Jonathan Krinsky",
+          "role": "Chief Market Technician, BTIG",
+          "key_view": "Market action has been rotational rather than capitulatory, leaving the S&P 500 vulnerable to retesting its 200-day moving average around 7,300."
         },
         {
           "name": "Jacob Thaysen",
           "role": "CEO, Illumina",
-          "key_view": "Clinical consumable growth of 14% indicates healthy underlying demand despite transient headwinds in instrument placements."
+          "key_view": "Underlying business momentum and consumables demand remain strong despite volatile market reactions to sequencing instrument replacement cycles."
         },
         {
           "name": "Jason Few",
           "role": "President & CEO, FuelCell Energy",
-          "key_view": "Behind-the-meter fuel cell solutions allow AI data centers to secure reliable power without burdening public utility grids."
+          "key_view": "Behind-the-meter fuel cell solutions can reliably power massive AI data center demands without overloading public utility grids."
+        },
+        {
+          "name": "Tom Curtis",
+          "role": "President, Burger King US & Canada",
+          "key_view": "Prioritizing consistent quality and clear value propositions over aggressive price wars is driving comp sales outperformance."
         },
         {
           "name": "Joe Preston",
           "role": "President & CEO, New Balance",
-          "key_view": "Consumer spending faces pressure from high borrowing costs, tariffs, and elevated gas prices."
+          "key_view": "Consumers face headwinds from tariffs, fuel costs, and interest rates, though holiday demand is expected to hold up."
         },
         {
           "name": "Briane Olson",
           "role": "CEO, PacSun",
-          "key_view": "Younger retail shoppers are displaying increased intentionality and price sensitivity under affordability pressures."
+          "key_view": "Younger shoppers are displaying high intentionality, prioritizing value and mental wellness alignment amid rising living costs."
         }
       ],
       "catalysts": [
-        "Monday: US ISM Manufacturing, Construction Spending; Apple and Palantir earnings",
-        "Tuesday: US Midterm Elections, JOLTS, Factory Orders; AMD, SMCI, and Pfizer earnings",
-        "Wednesday: US Treasury Quarterly Refunding announcement, ADP Employment; Qualcomm and Arm earnings",
-        "Thursday: Bank of England interest rate decision, White House hearing on Fed Governor Cook",
-        "Friday: US Employment Report (Nonfarm Payrolls), UMich Consumer Sentiment"
+        "Monday: ISM Manufacturing, Construction Spending, earnings from Apple, Palantir, Estee Lauder",
+        "Tuesday: US Midterm Elections, JOLTS, Factory Orders, earnings from AMD, SMCI, Shopify, Pfizer",
+        "Wednesday: US Treasury Quarterly Refunding Plan, ADP Employment, Trade Balance, Qualcomm and ARM earnings",
+        "Thursday: Bank of England interest rate decision",
+        "Friday: US Monthly Jobs Report (Nonfarm Payrolls) and University of Michigan Consumer Sentiment"
       ],
       "sentiment": "risk-off",
       "covered_minutes": 90,
       "partial": false
     },
     "model": "gemini-3.8-flash",
-    "manual": false,
-    "processed_at": "2026-11-01T08:14:32Z"
+    "manual": true,
+    "processed_at": "2026-11-01T13:28:15Z"
   },
   {
     "id": "0g83nipDgY0",
