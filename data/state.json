@@ -71,6 +71,8 @@
     "2026-10-31": 432,
     "2026-11-01": 142
   },
-  "last_run": "2026-11-01T16:44:39Z",
-  "last_errors": []
+  "last_run": "2026-11-01T22:25:28Z",
+  "last_errors": [
+    "All models failed. Last error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  ]
 }
