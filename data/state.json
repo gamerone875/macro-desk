@@ -52,11 +52,9 @@
     "k2QEU1awmxA": 1
   },
   "usage": {
-    "2026-10-31": 432
+    "2026-10-31": 432,
+    "2026-11-01": 0
   },
-  "last_run": "2026-11-01T08:19:18Z",
-  "last_errors": [
-    "Wall Street Week | Affordability, Data Center Divide, Debt Hits Households, Capitalism on the Ballot: Server disconnected without sending a response.",
-    "Brief: Server disconnected without sending a response."
-  ]
+  "last_run": "2026-11-01T12:52:10Z",
+  "last_errors": []
 }
