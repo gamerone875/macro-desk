@@ -11,6 +11,11 @@ on:
         description: "Lien YouTube à analyser (optionnel)"
         required: false
         default: ""
+      force:
+        description: "Ré-analyser même si la vidéo est déjà sur le desk"
+        type: boolean
+        required: false
+        default: false
 
 permissions:
   contents: write
@@ -24,9 +29,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 90
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -39,6 +44,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           MANUAL_URL: ${{ github.event.inputs.video_url }}
+          FORCE: ${{ github.event.inputs.force }}
         run: python macro_desk.py
 
       - name: Save results
