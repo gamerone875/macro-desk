@@ -1,5 +1,130 @@
 [
   {
+    "id": "tXL3NFLCh_A",
+    "title": "Open Interest 11/2/2026",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-02T17:25:48Z",
+    "live": "none",
+    "minutes": 86.9,
+    "thumbnail": "https://i.ytimg.com/vi/tXL3NFLCh_A/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=tXL3NFLCh_A",
+    "notes": {
+      "headline": "US stocks rally as oil plunges 6% on Iran diplomacy and ISM manufacturing beat",
+      "summary": "Equity markets rebounded as a sharp decline in crude oil prices, driven by potential US-Iran diplomatic breakthroughs, improved investor sentiment. While ISM Manufacturing data exceeded expectations at 55.5, high prices-paid components suggest persistent inflation, keeping an 80-85% chance of a December Fed hike on the table. Investors are also weighing massive AI infrastructure commitments revealed in Anthropic's S-1 filing against growing market skepticism regarding AI's immediate profitability.",
+      "key_takeaways": [
+        "Crude oil prices fell over 6% to ~$105-106 on reports that Trump is seeking diplomacy with Iran to avoid strikes.",
+        "ISM Manufacturing rose to 55.5 in October, beating the 54.5 estimate, though Prices Paid remains high at 75.2.",
+        "Anthropic's S-1 filing reveals Q3 revenue of $16.96B (up from $1.38B YoY) but a $23.3B net loss and $895B in compute commitments through 2030.",
+        "US Midterm elections are viewed as a 'clearing event' that could release sidelined risk capital into the market.",
+        "Marvell Technology announced a $115B all-stock deal to acquire Lumentum to expand its AI data center footprint.",
+        "Apple is trading at a high 36x forward P/E, acting as a 'safe haven' play despite a lack of immediate fundamental catalysts.",
+        "Howard Marks (Oaktree) argues that growing AI skepticism is 'healthy' to prevent the dangers of perceived asset infallibility.",
+        "Oracle is raising up to $20B in debt and equity to fund its aggressive AI expansion."
+      ],
+      "macro": [
+        "Geopolitics: Reports suggest a shift toward diplomacy with Iran, cooling energy supply disruption fears.",
+        "ISM Manufacturing: 55.5 (Actual) vs 54.5 (Exp); Prices Paid at 75.2 indicates sticky inflation.",
+        "Fiscal/Politics: US Midterm elections tomorrow; prediction markets show 72% odds of Democrats taking the Senate.",
+        "Rates: US 10-year yield eased slightly following the drop in energy prices, though December hike odds remain high."
+      ],
+      "priced_in": [
+        "80-85% probability of a Fed rate hike in December 2026.",
+        "Aggressive AI CapEx outlooks are largely priced in, leading to volatile stock reactions on earnings misses.",
+        "Market consensus expects a potential split Congress or Democratic House flip in the Midterms.",
+        "Apple's 27% YTD rally is priced as a safety trade rather than a bet on new product catalysts."
+      ],
+      "fundamentals": [
+        "Anthropic: $16.96B Q3 revenue; $95.6B cash on hand; $121.3B Google Cloud spend commitment.",
+        "Marvell/Lumentum: $115B all-stock acquisition to consolidate AI data center hardware.",
+        "Oracle: Tapping bond markets for $10B-$20B to fund AI infrastructure.",
+        "Apple: High valuation at 36x forward 12-month estimates ahead of holiday iPhone demand results."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "mixed",
+          "view": "Rebounding after a poor week, but investors are punishing high capex that isn't internally funded.",
+          "source": "Katrina Dudley, Franklin Templeton"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "Moving higher as lower oil prices buoy sentiment and the trade broadens beyond mega-cap tech.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Brent crude collapsed over 6% as the threat of immediate strikes on Iran recedes.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Gold",
+          "bias": "mixed",
+          "view": "Correlating with tech stocks as a liquidity provider; facing a conviction test near $4,000.",
+          "source": "Suki Cooper, Standard Chartered"
+        },
+        {
+          "asset": "Other: Apple",
+          "bias": "neutral",
+          "view": "Viewed as a safe haven but faces a high bar for earnings given its 36x forward P/E valuation.",
+          "source": "Anurag Rana, Bloomberg Intelligence"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bearish",
+          "view": "Yields remain elevated as the market prepares for a December hike and potential 2027 increases.",
+          "source": "Katrina Dudley, Franklin Templeton"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Howard Marks",
+          "role": "Co-Chair, Oaktree Capital Management",
+          "key_view": "AI skepticism is necessary because market danger arises when an asset class is viewed as infallible."
+        },
+        {
+          "name": "Stuart Kaiser",
+          "role": "Head of Equity Trading Strategy, Citi",
+          "key_view": "Closed preference for Growth/Hyperscalers as guidance has disappointed despite strong AI growth."
+        },
+        {
+          "name": "Katrina Dudley",
+          "role": "SVP & Investment Strategist, Franklin Templeton",
+          "key_view": "The market is seeing a broadening trade where internal funding of capex is becoming a critical differentiator."
+        },
+        {
+          "name": "Anurag Rana",
+          "role": "Senior Analyst, Bloomberg Intelligence",
+          "key_view": "Apple is a safety trade but lacks new catalysts following recent foldable and AI software news."
+        },
+        {
+          "name": "Amy Wu Silverman",
+          "role": "Head of Derivatives Strategy, RBC Capital Markets",
+          "key_view": "Midterms may be a clearing event, but contested results could spark fresh volatility."
+        },
+        {
+          "name": "Suki Cooper",
+          "role": "Head of Commodities Research, Standard Chartered",
+          "key_view": "Gold is currently moving in tandem with risk assets rather than acting as a traditional safe haven."
+        }
+      ],
+      "catalysts": [
+        "Apple and Palantir earnings (today after the close)",
+        "US Midterm Elections (Tuesday, Nov 3rd)",
+        "Qualcomm results, ADP Employment, and ISM Services (Wednesday)",
+        "Bank of England rate decision (Thursday)",
+        "US Non-farm Payrolls report (Friday)"
+      ],
+      "sentiment": "risk-on",
+      "covered_minutes": 87,
+      "partial": false
+    },
+    "model": "gemini-3-flash-preview",
+    "manual": false,
+    "processed_at": "2026-11-02T22:35:06Z"
+  },
+  {
     "id": "k05bLzblLro",
     "title": "Alphabet Opens Fresh Euro Bond Sales; Trump Weighs Iran Diplomacy; Countdown to Midterms",
     "channel": "Bloomberg Television",
