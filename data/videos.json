@@ -1625,5 +1625,110 @@
     "model": "gemini-3-flash-preview",
     "manual": false,
     "processed_at": "2026-10-31T15:49:47Z"
+  },
+  {
+    "id": "kmTPeYQP8u4",
+    "title": "Hormuz Reopening Talks Advance as Iran Warns of Wider Response if Attacked",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-02T07:31:58Z",
+    "live": "none",
+    "minutes": 46.1,
+    "thumbnail": "https://i.ytimg.com/vi/kmTPeYQP8u4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=kmTPeYQP8u4",
+    "notes": {
+      "headline": "Crude falls over 3% on Iran diplomacy talks while US equity futures stage modest rebound",
+      "summary": "Crude oil retreated with Brent falling below $110/bbl as diplomatic talks to reopen the Strait of Hormuz progressed and reports indicated Donald Trump may favor diplomacy before considering fresh strikes on Iran. US equity futures on the S&P 500 and Nasdaq 100 bounced back following Friday's steep tech selloff, while Asian markets stabilized amid strong semiconductor earnings. Macro focus centers on Middle East de-escalation efforts by Gulf states, capital discipline among oil majors, and policy risks around central banks and the upcoming US midterms.",
+      "key_takeaways": [
+        "Brent crude slid more than 3% to ~$109.80/bbl as diplomatic talks advanced on reopening the Strait of Hormuz.",
+        "US equity futures stabilized, with Nasdaq 100 futures up ~0.9% to 1% and S&P futures up ~0.5% following Friday's severe tech-led slide.",
+        "Gulf states (UAE, Bahrain, Egypt) are actively pushing for diplomatic off-ramps to prevent renewed US-Iran military escalation.",
+        "Paul Donovan (UBS) described the tech selloff as a localized reassessment of earnings rather than a broad macroeconomic warning sign.",
+        "Mitchell Ferman highlighted that roughly 10% of global refining capacity is offline, elevating margins while oil majors maintain strict capex discipline.",
+        "US 10-year Treasury yields remained steady near 4.92%-4.93% ahead of the US midterm elections."
+      ],
+      "macro": [
+        "Geopolitics: Iran proposed an accelerated two-day plan to reopen the Strait of Hormuz; Gulf states are warning another round of conflict would be far more destructive than earlier strikes.",
+        "Monetary Policy: UBS's Paul Donovan warned the biggest macro risk is a policy error if central banks induce recession to counter oil-driven price spikes.",
+        "US Politics: Donald Trump signaled he could become 'Mr. Veto' against a Democratic-controlled Congress if Republicans lose majorities in the midterms."
+      ],
+      "priced_in": [
+        "Markets are pricing in potential de-escalation of the Middle East conflict risk premium following Iranian diplomatic proposals.",
+        "Investors in Asia are actively hedging via equity volatility indices ahead of the US midterm elections."
+      ],
+      "fundamentals": [
+        "Oil & Refining: Upheaval in energy markets has driven near-record profits for big oil majors, supported by tight refining capacity, though firms resist chasing growth.",
+        "Tech & AI: Foxconn Chairman Young Liu affirmed AI demand remains real and massive, driving cloud provider capex; Oaktree's Howard Marks noted recent volatility punctured the AI infallibility bubble.",
+        "Crypto: Binance experienced $3.6B in net outflows following a cyber theft, though withdrawals were processed without systemic panic."
+      ],
+      "assets": [
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Brent fell ~3.2% to near $109.80/bbl and WTI dropped to ~$100.50/bbl on signs of diplomatic traction over Iran and the Strait of Hormuz.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Nasdaq",
+          "bias": "bullish",
+          "view": "Nasdaq 100 futures rebounded ~0.9% to 1.0% following Friday's 3.5% drop that briefly breached technical correction territory.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "S&P 500 futures climbed roughly 0.5% after last week's 2% drop, pointing to stabilizing sentiment.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "neutral",
+          "view": "US 10-year Treasury yield hovered flat between 4.92% and 4.93% as markets await election results.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Onur Ant",
+          "role": "Managing Editor, Middle East and North Africa, Bloomberg News",
+          "key_view": "Diplomatic momentum around reopening Hormuz is real but fragile, with Gulf states urgently trying to avert being caught in renewed US-Iran conflict."
+        },
+        {
+          "name": "Mitchell Ferman",
+          "role": "European Oil Reporter, Bloomberg News",
+          "key_view": "Refinery bottlenecks with 10% of global capacity offline sustain record margins, while supermajors remain committed to capex discipline."
+        },
+        {
+          "name": "Oliver Crook",
+          "role": "Chief European Correspondent, Bloomberg News",
+          "key_view": "Trump's comments anticipating veto battles underscore elevated political stakes and legislative gridlock risk ahead of the midterms."
+        },
+        {
+          "name": "Paul Donovan",
+          "role": "Chief Economist, UBS Global Wealth Management",
+          "key_view": "The tech pullback represents a rational repricing of future earnings rather than systemic macro weakness, while central bank overreaction to energy costs is the main hazard."
+        },
+        {
+          "name": "Howard Marks",
+          "role": "Co-Chair, Oaktree Capital Management",
+          "key_view": "Recent AI market stumbles introduce healthy skepticism and deflate assumptions of infallibility across high-valuation tech."
+        },
+        {
+          "name": "Young Liu",
+          "role": "Chairman, Foxconn",
+          "key_view": "AI server demand from cloud service providers is genuine, urgent, and too large to meet without sustained high capex."
+        }
+      ],
+      "catalysts": [
+        "US midterm elections (taking place Tuesday)",
+        "ADIPEC Energy Conference ongoing discussions in Abu Dhabi over the next few days",
+        "US administration announcement regarding South Africa's AGOA trade pact eligibility"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 46,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": false,
+    "processed_at": "2026-11-02T08:14:45Z"
   }
 ]
