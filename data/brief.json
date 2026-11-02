@@ -1,49 +1,54 @@
 {
-  "narrative": "Markets are currently navigating a volatile period defined by the US midterm elections, a reassessment of the AI investment cycle, and shifting Middle East geopolitics. While diplomatic efforts regarding Iran have recently cooled oil prices, the Nasdaq 100 has entered a technical correction as investors demand proof of AI monetization. The Federal Reserve remains hawkish, with Chair Warsh signaling a potential December hike, while the US Treasury's upcoming refunding announcement is expected to influence the yield curve. Traders are largely viewing the midterms as a 'clearing event' that could potentially pave the way for a year-end relief rally.",
+  "narrative": "Crude oil is under sharp pressure as reports surface that Donald Trump favors diplomacy with Iran before considering military action, easing immediate Middle East strike fears and opening discussions to reopen the Strait of Hormuz. US equity index futures are staging a modest rebound following recent tech-led selloffs, though traders remain cautious ahead of major catalysts. Market participants are navigating earnings from mega-cap tech names like Apple and Palantir alongside growing scrutiny of AI capital expenditure. At the same time, positioning is constrained by Tuesday's US midterm elections, potential Treasury refunding supply shifts, and lingering hawkish rhetoric from Fed Chair Warsh regarding a possible December hike.",
   "regime": "mixed",
   "assets": {
     "Nasdaq": {
-      "bias": "bearish",
-      "why": "The index entered a technical correction as hedge funds deleverage tech holdings and Howard Marks (Oaktree) warns the AI 'bubble of infallibility' has burst."
+      "bias": "mixed",
+      "why": "Futures staged a modest rebound following last week's drop into correction territory, but BMO's Jennifer Lee and Oaktree's Howard Marks warn that AI spending doubts and heavy tech de-grossing leave valuations vulnerable."
     },
     "S&P 500": {
       "bias": "mixed",
-      "why": "Mike Wilson (Morgan Stanley) forecasts a 9% dip around the midterms before a rally toward 8,000, though futures have recently stabilized."
+      "why": "Morgan Stanley's Mike Wilson expects a potential ~9% dip around the midterms before a clearing rally toward 8,000, while anchors report stabilizing futures amid election and AI capex uncertainty."
     },
     "Gold": {
       "bias": "bearish",
-      "why": "Gold broke below the key $4,000 technical level and is showing an unusual correlation with falling tech stocks according to Anthony Stephens."
+      "why": "Anthony Stephens of Bloomberg News reports gold broke below key technical support at the 4,000 level and faces vulnerability due to high correlation with equities during recent tech de-grossing."
     },
     "Oil": {
       "bias": "bearish",
-      "why": "Brent and WTI fell over 3% on reports that President Trump seeks diplomacy with Iran over military strikes, despite Goldman Sachs raising its long-term forecast to $105."
+      "why": "Brent fell toward $110 and WTI toward $100 after Trump reportedly sought more time for diplomacy with Iran, though Real Macro's Jeff Currie notes structural energy security demand supports longer-dated contracts."
     }
   },
   "priced_in": [
-    "71% probability of a Democratic sweep of both chambers according to Kalshi",
-    "A 25 bps rate hike by the Reserve Bank of Australia to 4.85%",
-    "A technical correction in the Nasdaq 100 following AI spending fatigue",
-    "A Bank of England rate hike on Thursday"
+    "A Bank of England interest rate hike on Thursday driven by a 150% surge in UK natural gas prices.",
+    "High odds of a Democratic sweep or divided government from the US midterms (Kalshi pricing ~71% Democratic sweep).",
+    "Near-term de-escalation in Middle East geopolitical risk premia following Iran diplomacy reports.",
+    "A third market correction of the year in the Nasdaq 100 alongside rising skepticism over hyperscaler AI capex returns.",
+    "Potential for an additional Federal Reserve rate hike in December."
   ],
   "debates": [
-    "Whether the tech sell-off is a localized earnings reassessment (Paul Donovan, UBS) or a broader credit and bubble risk (Howard Marks, Oaktree)",
-    "If the US Treasury will pivot issuance toward shorter-dated paper to manage interest costs",
-    "Whether the US midterm outcome will trigger a 'buy the dip' rally regardless of which party wins (Mike Wilson, Morgan Stanley)"
+    "Tech durability: Foxconn's Young Liu defends AI demand as massive and real, whereas Howard Marks and Violeta Todorova argue the AI infallibility bubble has burst amid weak cash conversion.",
+    "US Dollar trajectory: BMO's Mark McCormick sees continued strength on US growth divergence, while MUFG's Derek Halpenny warns the USD is heavily exposed to slowing AI momentum.",
+    "S&P 500 path: Mike Wilson views the midterms as a clearing event offering a buy-the-dip opportunity despite a possible ~9% decline, against desk caution over liquidity constraints and veto gridlock.",
+    "Oil outlook: Near-term diplomatic price unwinds cited by Abeer Abu Omar versus structural supply risks and energy security premiums highlighted by Goldman Sachs and Jeff Currie."
   ],
   "watch_next": [
-    "US Midterm Elections (November 3, 2026)",
-    "Apple and Palantir earnings (Monday)",
-    "US Treasury Quarterly Refunding announcement (Wednesday)",
-    "Bank of England rate decision (Thursday)",
-    "US Non-Farm Payrolls / Jobs report (Friday)"
+    "Apple and Palantir quarterly earnings reports (Monday post-market)",
+    "US Midterm Elections (Tuesday)",
+    "US Treasury Quarterly Refunding / Sales Guidance Overhaul announcement (Wednesday)",
+    "Bank of England interest rate decision (Thursday)",
+    "US October Jobs Report / Non-Farm Payrolls (Friday)",
+    "Qualcomm and Arm earnings reports (later in the week)"
   ],
-  "generated_at": "2026-11-02T11:47:56Z",
+  "generated_at": "2026-11-02T13:38:34Z",
   "based_on": [
+    "k05bLzblLro",
+    "mRuZr4h2AwY",
     "kG6z_xeCkdc",
     "mW6cCpcIV_0",
     "kmTPeYQP8u4",
     "3wyPZg3wt74",
     "_dyvftxRfjs"
   ],
-  "model": "gemini-3-flash-preview"
+  "model": "gemini-3.8-flash"
 }

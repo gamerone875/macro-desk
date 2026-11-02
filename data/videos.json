@@ -1,5 +1,226 @@
 [
   {
+    "id": "k05bLzblLro",
+    "title": "Alphabet Opens Fresh Euro Bond Sales; Trump Weighs Iran Diplomacy; Countdown to Midterms",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-02T13:01:41Z",
+    "live": "none",
+    "minutes": 43.5,
+    "thumbnail": "https://i.ytimg.com/vi/k05bLzblLro/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=k05bLzblLro",
+    "notes": {
+      "headline": "Oil plunges on Iran diplomacy reports as markets brace for US midterm elections",
+      "summary": "Crude oil prices fell over 4% following reports that President Trump is favoring diplomacy over immediate strikes on Iran. Markets are also positioning for the US midterm elections on Tuesday, with polls indicating potential Democratic gains that could lead to policy gridlock. Tech sentiment is being tested by Alphabet's large Euro bond sale and highly anticipated Apple earnings later today.",
+      "key_takeaways": [
+        "Crude oil (Brent and WTI) dropped ~4% on reports of potential US-Iran diplomacy.",
+        "US Midterm elections are the primary political focus; polls suggest potential Democratic gains in key states.",
+        "Alphabet is conducting its second Euro bond sale of the year to fund massive AI infrastructure spending.",
+        "Apple earnings are a critical test for consumer tech sentiment and iPhone 18 demand.",
+        "The US Dollar remains strong due to relative US economic outperformance and higher rates compared to Europe."
+      ],
+      "macro": [
+        "Geopolitics: Trump reportedly told Netanyahu he wants to give diplomacy with Iran more time before potential strikes.",
+        "Fiscal/Politics: US Midterm elections on Tuesday; polls show Democrats leading in Michigan, Texas, and Ohio.",
+        "Growth: US growth is driving the Fed to keep conditions tighter compared to a decelerating Eurozone.",
+        "Treasury: Wall Street is bracing for a potential overhaul in Treasury sales guidance on Wednesday."
+      ],
+      "priced_in": [
+        "Consensus expects a potential 'blue sweep' or divided government following Tuesday's midterms.",
+        "Markets are pricing in a more restrictive Fed policy relative to the ECB due to the US output gap."
+      ],
+      "fundamentals": [
+        "Alphabet's 7-part Euro bond sale aims to fund AI ambitions, including data centers and servers.",
+        "Apple margins are under scrutiny due to higher input costs, particularly for memory.",
+        "Oil market is reacting to supply chain shocks and inventory drawdowns rather than just demand.",
+        "Anthropic is seeking up to $3.5B in Japan for its US IPO, following a similar model to SpaceX."
+      ],
+      "assets": [
+        {
+          "asset": "Crude Oil (WTI/Brent)",
+          "bias": "bearish",
+          "view": "Prices fell over 4% on renewed hopes for diplomacy between the US and Iran.",
+          "source": "Abeer Abu Omar, Bloomberg"
+        },
+        {
+          "asset": "USD",
+          "bias": "bullish",
+          "view": "The dollar is supported by higher relative rates and US growth outperforming Europe and Asia.",
+          "source": "Mark McCormick, BMO Capital Markets"
+        },
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bullish",
+          "view": "Futures are seeing a small bounce after Friday's tech sell-off as focus shifts to Apple earnings.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates (US 10-Year)",
+          "bias": "mixed",
+          "view": "Yields are catching a bid ahead of potential Treasury sales guidance changes.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Anna Rosenberg",
+          "role": "Head of Geopolitics, Amundi Investment Institute",
+          "key_view": "Expects a divided government post-midterms, likely forcing Trump to focus more on foreign policy than domestic agenda."
+        },
+        {
+          "name": "Mark McCormick",
+          "role": "Chief FX Strategist, BMO Capital Markets",
+          "key_view": "Bullish on USD, predicting the Euro could fall below 1.10 as the ECB pivots to a growth focus while the Fed stays restrictive."
+        },
+        {
+          "name": "Matthew Bloxham",
+          "role": "Bloomberg Intelligence",
+          "key_view": "Apple results will be scrutinized for iPhone 18 sales and the impact of higher memory costs on margins."
+        },
+        {
+          "name": "Charles Capel",
+          "role": "Bloomberg News",
+          "key_view": "Alphabet's bond sale is a major test of investor appetite for massive, ongoing AI infrastructure investment."
+        }
+      ],
+      "catalysts": [
+        "Apple Earnings (Today post-market)",
+        "US Midterm Elections (Tuesday, Nov 5)",
+        "US Treasury Sales Guidance Overhaul (Wednesday)",
+        "US October Jobs Report (Friday)"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 44,
+      "partial": false
+    },
+    "model": "gemini-3-flash-preview",
+    "manual": false,
+    "processed_at": "2026-11-02T13:20:51Z"
+  },
+  {
+    "id": "mRuZr4h2AwY",
+    "title": "Trump Says He May Become ‘Mr. Veto’ if Democrats Win Midterms",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-02T11:43:20Z",
+    "live": "none",
+    "minutes": 48.9,
+    "thumbnail": "https://i.ytimg.com/vi/mRuZr4h2AwY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=mRuZr4h2AwY",
+    "notes": {
+      "headline": "Oil slips on Iran diplomacy hopes as markets eye US midterms and Fed policy",
+      "summary": "Crude oil retreated after reports suggested Donald Trump favors diplomatic talks with Iran to avert or delay fresh strikes. Investors are positioning ahead of the US midterm elections, where polling indicates Democrats could make significant gains in Congress, potentially triggering legislative gridlock and veto standoffs. Central bank policy remains in focus, with analysts expecting a Bank of England rate hike, another ECB hike in December, and ongoing scrutiny over the Fed's inflation framework.",
+      "key_takeaways": [
+        "Crude prices eased over 4% on reports that Trump wants to allow more time for diplomacy with Iran before considering strikes.",
+        "US midterm polling shows Democrats leading in key Senate battlegrounds, raising the prospect of divided government and Trump acting as 'Mr. Veto.'",
+        "MUFG's Derek Halpenny warns the US economy and the US Dollar are heavily dependent on AI momentum, with slowing AI adoption posing recession and valuation risks.",
+        "Real Macro's Jeff Currie emphasizes a long-term regime shift toward energy security and redundancy, keeping deferred oil prices elevated regardless of near-term geopolitics.",
+        "Major tech earnings from Apple, Palantir, Qualcomm, and Arm remain key market drivers amid recent volatility in the AI trade."
+      ],
+      "macro": [
+        "Trump reportedly seeks more time for diplomatic talks with Iran, easing immediate Middle East strike fears and energy disruption risks.",
+        "Fed working groups are reviewing the inflation framework and balance sheet policy ahead of year-end, which could lead to greater policy flexibility.",
+        "Recent US GDP showed consumer consumption up 3.8% and strong fixed investment, heavily powered by AI-related spending.",
+        "Bank of England is widely expected to hike interest rates on Thursday driven by a 150% spike in UK natural gas prices over four months.",
+        "ECB expected to hike rates in December, with growth concerns weighing on EUR/USD despite widening rate differentials."
+      ],
+      "priced_in": [
+        "Markets are pricing an anticipated Bank of England rate hike on Thursday due to surging energy costs.",
+        "Traders are pricing in an ECB rate increase in December led by consensus-driven leadership.",
+        "Long USD positioning is heavily tied to the US equity/AI outperformance theme."
+      ],
+      "fundamentals": [
+        "Crude Oil: Near-term pressure on Iran diplomatic openings, but structural demand for supply-chain redundancy and energy security supports longer-dated contracts.",
+        "Tech Sector: Apple earnings eyed for early demand indicators of new iPhone models and margin impacts from higher component costs; Palantir expected to report record revenues near $2.2B.",
+        "Airlines: Ryanair launching aggressive cost cuts and potential pay freezes to offset a projected $2B increase in jet fuel expenses next year."
+      ],
+      "assets": [
+        {
+          "asset": "Oil",
+          "bias": "mixed",
+          "view": "Pressured in the near term by reports of US-Iran diplomacy, but long-term energy security concerns maintain support for forward contracts.",
+          "source": "Jeff Currie, Real Macro"
+        },
+        {
+          "asset": "USD",
+          "bias": "bearish",
+          "view": "Highly exposed to any slowdown or correction in AI momentum, with potential softening later in 2027 if the Fed pauses rate hikes.",
+          "source": "Derek Halpenny, MUFG"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "neutral",
+          "view": "Futures rebound after recent tech selloff, but election uncertainty and valuation risks around AI linger.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bearish",
+          "view": "Yield curve likely to steepen if Fed policy flexibility moves focus away from a single inflation target toward growth.",
+          "source": "Derek Halpenny, MUFG"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Abeer Abu Omar",
+          "role": "Reporter, Bloomberg News",
+          "key_view": "Energy markets are closely monitoring diplomatic mediation by Qatar, Saudi Arabia, Turkey, and Oman ahead of US midterms."
+        },
+        {
+          "name": "Oliver Crook",
+          "role": "Reporter, Bloomberg News",
+          "key_view": "Polling shows Democrats leading in several Republican-held Senate seats, though polling error risks remain high."
+        },
+        {
+          "name": "Derek Halpenny",
+          "role": "Head of Global Markets Research, MUFG",
+          "key_view": "The US dollar and GDP growth are unusually exposed to the continuation of the AI investment cycle."
+        },
+        {
+          "name": "Howard Marks",
+          "role": "Co-Chair, Oaktree Capital Management",
+          "key_view": "AI is unlike past tech waves in its speed and inscrutability, making traditional analytical valuation difficult."
+        },
+        {
+          "name": "Matthew Bloxham",
+          "role": "Senior Analyst, Bloomberg Intelligence",
+          "key_view": "Apple earnings will show whether higher hardware prices can offset elevated component input costs."
+        },
+        {
+          "name": "Jeff Currie",
+          "role": "CEO, Real Macro",
+          "key_view": "Energy security and supply diversification are driving a multi-year regime shift keeping energy prices elevated."
+        },
+        {
+          "name": "Stephanie Baker",
+          "role": "Senior Writer, Bloomberg News",
+          "key_view": "A Democratic sweep in Congress could lead to renewed pushes for Ukraine aid and heightened oversight of the administration."
+        },
+        {
+          "name": "Tina Fordham",
+          "role": "Founder, Fordham Global Foresight",
+          "key_view": "Early voting turnout indicates strong voter enthusiasm, though high margins of error cloud Senate outcomes."
+        },
+        {
+          "name": "Emily Nicolle",
+          "role": "Columnist, Bloomberg Opinion",
+          "key_view": "Binance's $3.6B in outflows following a major cyber theft represents a manageable fraction of its $135B asset base."
+        }
+      ],
+      "catalysts": [
+        "US Midterm Elections on Tuesday",
+        "Bank of England interest rate decision on Thursday",
+        "Apple quarterly earnings report",
+        "Palantir, Qualcomm, and Arm earnings reports later in the week",
+        "ECB meeting in December"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 49,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": false,
+    "processed_at": "2026-11-02T13:35:02Z"
+  },
+  {
     "id": "kG6z_xeCkdc",
     "title": "US Midterms & AI Strain: The Global Trader’s Guide",
     "channel": "Bloomberg Television",
