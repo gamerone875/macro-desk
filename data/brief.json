@@ -1,48 +1,49 @@
 {
-  "narrative": "Markets are grappling with a tech-led correction triggered by rising skepticism around AI capital expenditure monetization ahead of mega-cap earnings. Compounding equity pressure, Fed Chair Warsh signaled a potential December rate hike, warning that financial conditions are not yet tight enough. Geopolitical escalation in the Middle East has heavily disrupted energy transit, with Strait of Hormuz vessel traffic plunging and Brent crude sustaining levels above $113/bbl on threats to Iranian infrastructure. Simultaneously, traders are bracing for volatility around the US midterm elections and the US Treasury quarterly refunding announcement. While mega-cap tech faces sustained headwinds, select strategists argue the post-midterm environment could serve as a clearing mechanism to buy broader equity dips.",
-  "regime": "risk-off",
+  "narrative": "Markets are currently navigating a volatile period defined by the US midterm elections, a reassessment of the AI investment cycle, and shifting Middle East geopolitics. While diplomatic efforts regarding Iran have recently cooled oil prices, the Nasdaq 100 has entered a technical correction as investors demand proof of AI monetization. The Federal Reserve remains hawkish, with Chair Warsh signaling a potential December hike, while the US Treasury's upcoming refunding announcement is expected to influence the yield curve. Traders are largely viewing the midterms as a 'clearing event' that could potentially pave the way for a year-end relief rally.",
+  "regime": "mixed",
   "assets": {
     "Nasdaq": {
       "bias": "bearish",
-      "why": "The index has entered a technical correction, with Paul Dobson of Bloomberg News and Jennifer Lee of BMO Capital Markets citing heavy short positioning and severe market impatience regarding AI capex monetization."
+      "why": "The index entered a technical correction as hedge funds deleverage tech holdings and Howard Marks (Oaktree) warns the AI 'bubble of infallibility' has burst."
     },
     "S&P 500": {
       "bias": "mixed",
-      "why": "Mike Wilson of Morgan Stanley recommends buying the dip regardless of the midterm outcome as a clearing event, though anchors observe cautious sentiment heading into election results and earnings."
+      "why": "Mike Wilson (Morgan Stanley) forecasts a 9% dip around the midterms before a rally toward 8,000, though futures have recently stabilized."
     },
     "Gold": {
-      "bias": "neutral",
-      "why": "Gold was not covered in the provided notes."
+      "bias": "bearish",
+      "why": "Gold broke below the key $4,000 technical level and is showing an unusual correlation with falling tech stocks according to Anthony Stephens."
     },
     "Oil": {
-      "bias": "bullish",
-      "why": "Goldman Sachs raised its Brent forecast to $105/bbl, with prices already above $113/bbl as Strait of Hormuz daily vessel transit plunges from 135 to roughly 12 amid military threats."
+      "bias": "bearish",
+      "why": "Brent and WTI fell over 3% on reports that President Trump seeks diplomacy with Iran over military strikes, despite Goldman Sachs raising its long-term forecast to $105."
     }
   },
   "priced_in": [
-    "Nasdaq 100 has priced in its third market correction of the year.",
-    "RBA 25 bps rate hike to 4.85% is largely baked into expectations.",
-    "Potential for a Federal Reserve rate hike in December.",
-    "Betting markets and polls pricing in a strong performance for Democrats in the US midterms.",
-    "Fatigue and skepticism over hyperscaler AI capex returns following Alphabet and Amazon results."
+    "71% probability of a Democratic sweep of both chambers according to Kalshi",
+    "A 25 bps rate hike by the Reserve Bank of Australia to 4.85%",
+    "A technical correction in the Nasdaq 100 following AI spending fatigue",
+    "A Bank of England rate hike on Thursday"
   ],
   "debates": [
-    "AI capex sustainability: Foxconn Chairman Young Liu insists AI demand is genuine and outstripping capacity, while tech analysts and BMO emphasize market impatience with spending returns.",
-    "Post-midterm equity direction: Mike Wilson of Morgan Stanley sees a buying opportunity regardless of the winner, whereas show anchors note caution ahead of policy outcomes.",
-    "Yield trajectory: Lombard Odier argues political gridlock from midterms could curb fiscal deficits and flatten yields, contrasting with Fed Chair Warsh's hawkish stance supporting higher rates."
+    "Whether the tech sell-off is a localized earnings reassessment (Paul Donovan, UBS) or a broader credit and bubble risk (Howard Marks, Oaktree)",
+    "If the US Treasury will pivot issuance toward shorter-dated paper to manage interest costs",
+    "Whether the US midterm outcome will trigger a 'buy the dip' rally regardless of which party wins (Mike Wilson, Morgan Stanley)"
   ],
   "watch_next": [
-    "US Midterm Elections (Tuesday, November 3, 2026)",
-    "Tech earnings: Apple and Palantir (Monday); AMD and Super Micro (Tuesday); Qualcomm and Arm (Wednesday)",
-    "US Treasury Quarterly Refunding announcement",
-    "Reserve Bank of Australia interest rate decision (Tuesday)",
-    "US Payrolls report",
-    "S&P Global October Factory Activity Gauges"
+    "US Midterm Elections (November 3, 2026)",
+    "Apple and Palantir earnings (Monday)",
+    "US Treasury Quarterly Refunding announcement (Wednesday)",
+    "Bank of England rate decision (Thursday)",
+    "US Non-Farm Payrolls / Jobs report (Friday)"
   ],
-  "generated_at": "2026-11-02T07:41:58Z",
+  "generated_at": "2026-11-02T11:47:56Z",
   "based_on": [
+    "kG6z_xeCkdc",
+    "mW6cCpcIV_0",
+    "kmTPeYQP8u4",
     "3wyPZg3wt74",
     "_dyvftxRfjs"
   ],
-  "model": "gemini-3.8-flash"
+  "model": "gemini-3-flash-preview"
 }

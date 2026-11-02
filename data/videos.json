@@ -1,5 +1,362 @@
 [
   {
+    "id": "kG6z_xeCkdc",
+    "title": "US Midterms & AI Strain: The Global Trader’s Guide",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-02T09:24:22Z",
+    "live": "none",
+    "minutes": 92.9,
+    "thumbnail": "https://i.ytimg.com/vi/kG6z_xeCkdc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=kG6z_xeCkdc",
+    "notes": {
+      "headline": "Wilson Sees S&P Pullback Before Midterm Rebound as AI Trade Faces Strain",
+      "summary": "Global markets are balancing a maturing AI trade with US midterm election uncertainty and shifting Middle East geopolitical dynamics. Morgan Stanley's Mike Wilson warned the S&P 500 could pull back roughly 9% before a post-election snapback toward 8,000, while hedge funds are unwinding tech exposure at the fastest pace in years. Crude prices softened after reports indicated President Trump favors allowing more time for diplomacy with Iran before resuming strikes. Investors also face potential divided government risks in Washington, which could constrain foreign policy and defense spending.",
+      "key_takeaways": [
+        "Mike Wilson (Morgan Stanley) forecasts an S&P 500 dip of ~9% around the midterms before a post-clearing rally toward 8,000.",
+        "The AI trade is maturing into an execution-focused phase as hedge funds deleverage tech holdings at a rapid pace.",
+        "Crude prices eased on reports President Trump seeks to give Iran diplomacy more time prior to any military strikes.",
+        "US midterms pose risks of divided government, raising the prospect of presidential vetoes and congressional budget constraints on foreign policy.",
+        "Semiconductor earnings reflect widening dispersion: Tokyo Electron surged on machine demand while Kioxia tumbled 15% on missed profit forecasts.",
+        "Howard Marks (Oaktree) warned AI's 'bubble of infallibility' has burst and credit market conditions demand caution.",
+        "Indonesia faces potential MSCI downgrade risks, creating equity overhang and currency pressure alongside a firm US dollar."
+      ],
+      "macro": [
+        "US midterm elections carry risk of divided government, potentially constraining foreign policy, defense outlays, and war funding.",
+        "Geopolitical tensions in the Middle East persist, but near-term strike risks eased amid delayed military action for diplomatic efforts.",
+        "Credit cycle risks: Howard Marks highlights that easy borrowing conditions and loose lending standards warrant caution in leveraged loans and junk credit.",
+        "Inflation, elevated gasoline, and grocery costs remain central to US voter discontent and election outcomes.",
+        "China financial regulators are meeting with major commercial banks to discuss additional stock market stabilization measures."
+      ],
+      "priced_in": [
+        "Consensus expects midterms to eventually yield a relief rally, though Trump's policy unpredictability remains a wildcard.",
+        "Markets are pricing near-term political gridlock ahead of congressional election results.",
+        "Oil markets unwound part of the geopolitical risk premium following reports of delayed strikes against Iran.",
+        "Credit markets are beginning to price higher stress across lower-grade credit and leveraged loans."
+      ],
+      "fundamentals": [
+        "Tech/AI capex concerns and liquidity constraints are exerting near-term pressure on US equity valuations.",
+        "Kioxia shares dropped ~15% after missing Q3 operating profit estimates and failing to announce buybacks.",
+        "Tokyo Electron rallied 6.8% driven by an improved demand outlook for chip-manufacturing equipment.",
+        "Reliance Industries reported a 40% surge in net income, shifting crude imports toward Venezuela and the Americas.",
+        "Kneron is preparing a Nasdaq IPO, targeting power-efficient NPU architecture as an alternative to power-heavy GPUs."
+      ],
+      "assets": [
+        {
+          "asset": "S&P 500",
+          "bias": "mixed",
+          "view": "Faces a potential ~9% decline around midterms due to AI spending and liquidity headwinds before snapping back toward 8,000.",
+          "source": "Mike Wilson, Morgan Stanley"
+        },
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "Hedge funds are selling tech at a record pace as the AI 'bubble of infallibility' shows signs of bursting.",
+          "source": "anchors and Howard Marks, Oaktree"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Prices slid as reports indicated Trump favors diplomacy over immediate resumption of military strikes against Iran.",
+          "source": "anchors"
+        },
+        {
+          "asset": "USD",
+          "bias": "neutral",
+          "view": "DXY remains firm up nearly 4% year-to-date, putting pressure on emerging market currencies like the Indonesian rupiah.",
+          "source": "Ari Jahja, Macquarie Capital"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Mike Wilson",
+          "role": "Chief US Equity Strategist, Morgan Stanley",
+          "key_view": "The S&P 500 could fall around 9% leading into the midterms before staging a post-election rebound toward 8,000."
+        },
+        {
+          "name": "Howard Marks",
+          "role": "Co-Chair, Oaktree Capital Management",
+          "key_view": "AI stumbles have burst the sector's bubble of infallibility, and loosening credit standards demand investor prudence."
+        },
+        {
+          "name": "Anthony Stephens",
+          "role": "Markets Reporter, Bloomberg News",
+          "key_view": "The AI trade is transitioning into a split case where near-term execution and monetization matter more than long-term promises."
+        },
+        {
+          "name": "Mark Cranfield",
+          "role": "Strategist, Bloomberg MLIV",
+          "key_view": "Midterms typically deliver a relief rally, but Trump's geopolitical unpredictability complicates market pricing."
+        },
+        {
+          "name": "Angela Mancini",
+          "role": "Head of Global Risk Insights Advisory, Dow Jones",
+          "key_view": "A Democratic House would leverage the power of the purse and subpoena authority to challenge White House foreign policy."
+        },
+        {
+          "name": "Jon Herskovitz",
+          "role": "Government Editor, Bloomberg News",
+          "key_view": "Trump is pursuing diplomacy while positioning military assets, responding to Gulf state pressure to avert open conflict with Iran."
+        },
+        {
+          "name": "Ari Jahja",
+          "role": "Head of Indonesia Research, Macquarie Capital",
+          "key_view": "MSCI classification uncertainty creates equity headwinds in Indonesia, despite sound macroeconomic fundamentals."
+        },
+        {
+          "name": "Oliver Crook",
+          "role": "Correspondent, Bloomberg News",
+          "key_view": "Republicans are deploying heavy late-campaign capital amid fears that voter frustration over living costs will flip Congress."
+        },
+        {
+          "name": "Albert Liu",
+          "role": "Founder and CEO, Kneron",
+          "key_view": "NPU technology offers a more power-efficient alternative to GPUs for expanding edge and data center AI infrastructure."
+        }
+      ],
+      "catalysts": [
+        "US midterm elections (within 48 hours)",
+        "Upcoming Nvidia and Apple earnings reports",
+        "China regulator meeting with commercial banks regarding stock market support",
+        "Upcoming APEC Summit and G20 Summit in Miami",
+        "MSCI consultation conclusion on Indonesia status (April 30 / June 30, 2027 timeline)",
+        "Potential S-1 IPO filing from Kneron on the Nasdaq"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 93,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": false,
+    "processed_at": "2026-11-02T11:36:19Z"
+  },
+  {
+    "id": "mW6cCpcIV_0",
+    "title": "Elon Musk-Starlink Row: Ryanair CEO Rules Out Making Up",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-02T09:01:13Z",
+    "live": "none",
+    "minutes": 46.1,
+    "thumbnail": "https://i.ytimg.com/vi/mW6cCpcIV_0/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=mW6cCpcIV_0",
+    "notes": {
+      "headline": "Oil drops on US-Iran diplomacy reports; markets focus on tech earnings, US midterms",
+      "summary": "Crude oil slipped to around $110/bbl on reports that Donald Trump favors diplomacy over immediate strikes on Iran, easing Middle East supply fears ahead of the US midterms. Equity futures pointed higher following last week's sharp tech selloff, though investor scrutiny remains high on big tech AI capex and cash flows. Market participants are also bracing for US midterm elections, the US Treasury quarterly refunding guidance, the Bank of England rate decision, and the US jobs report.",
+      "key_takeaways": [
+        "Brent crude slipped toward $110/bbl after reports Trump wants more time for talks with Iran before considering fresh strikes.",
+        "Morgan Stanley's Mike Wilson suggests US midterms could act as a clearing event creating an opportunity to buy the dip in stocks.",
+        "Traders anticipate the US Treasury may shift debt issuance guidance toward shorter-dated paper to reduce massive interest costs.",
+        "Ryanair CEO Michael O'Leary warned of a €2B fuel bill surge next year, forecasting inevitable capacity cuts and steep airfare hikes across Europe.",
+        "Semiconductor stocks show weakness, with the Philadelphia Semiconductor Index down 29% from record highs, entering bear market territory according to Leverage Shares' Violeta Todorova.",
+        "Gold broke below key $4,000 technical levels following tight correlation with equities during recent tech de-grossing."
+      ],
+      "macro": [
+        "US midterm elections taking place with prediction markets (Kalshi) showing ~71% odds of a Democratic sweep of both chambers.",
+        "Donald Trump indicated he may become 'Mr. Veto' to block Democratic legislation if Republicans lose Congress.",
+        "Middle East diplomacy: reports indicate Trump is open to talks with Iran, with discussions ongoing regarding the Strait of Hormuz.",
+        "France placed on negative outlook by Fitch ratings amid worsening sovereign debt burden and fiscal deficits.",
+        "Bank of England rate decision scheduled for Thursday with traders pricing in a rate hike; US jobs report due Friday."
+      ],
+      "priced_in": [
+        "Kalshi prediction market prices 71% probability of Democrats taking both the House and the Senate.",
+        "BOE rate hike priced in by traders for Thursday.",
+        "Potential shift in US Treasury refunding away from 20-year or 30-year bond issuance toward short-term bills."
+      ],
+      "fundamentals": [
+        "Ryanair Q2 profit after tax hit €1.61B (est. €1.59B); full-year passenger forecast adjusted to 214M from 216M; fuel bill expected to rise from €6B to €8B next year.",
+        "Apple set to report earnings with focus on initial demand for new foldable iPhones and rising memory chip costs.",
+        "Palantir, Qualcomm, and Arm earnings due later this week with markets focused on AI capex returns and commercial monetization.",
+        "Anthropic IPO expected to be a major benchmark for investor sentiment and valuation of AI foundational models."
+      ],
+      "assets": [
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Prices eased ~3% to near $110/bbl for Brent and $100/bbl for WTI on reports of diplomatic efforts delaying US strikes on Iran.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "Midterms could serve as a clearing event creating a buy-the-dip opportunity regardless of the election outcome.",
+          "source": "Mike Wilson, Morgan Stanley"
+        },
+        {
+          "asset": "Nasdaq",
+          "bias": "mixed",
+          "view": "Futures rebound after last week's selloff, but heavy capex spending and weak cash conversion leave tech vulnerable to further volatility.",
+          "source": "Violeta Todorova, Leverage Shares"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Gold broke below the key 4,000 level and looks technically vulnerable due to an unusually high correlation with falling tech stocks.",
+          "source": "Anthony Stephens, Bloomberg News"
+        },
+        {
+          "asset": "Rates",
+          "bias": "mixed",
+          "view": "US 10-year yield sits around 4.93%; Treasury issuance announcement could flatten or steepen the curve depending on short-end skew.",
+          "source": "Mark Cranfield, Bloomberg MLIV"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Anthony Stephens",
+          "role": "Reporter, Bloomberg News",
+          "key_view": "Asian markets rebounded driven by selective tech earnings, while high-correlation gold broke key $4,000 support during equity de-grossing."
+        },
+        {
+          "name": "Abeer Abu Omar",
+          "role": "Reporter, Bloomberg News",
+          "key_view": "Energy markets and Gulf states are monitoring US-Iran diplomacy closely as retaliation risks still hang over the Strait of Hormuz."
+        },
+        {
+          "name": "Oliver Crook",
+          "role": "Reporter, Bloomberg News",
+          "key_view": "Trump is signaling he will aggressively veto legislation if Democrats secure control of Congress in the midterms."
+        },
+        {
+          "name": "Mark Cranfield",
+          "role": "Strategist, Bloomberg MLIV",
+          "key_view": "Traders expect the US Treasury to alter guidance toward short-term debt issuance to curtail ballooning interest expenses."
+        },
+        {
+          "name": "Violeta Todorova",
+          "role": "Senior Research Analyst, Leverage Shares",
+          "key_view": "The semiconductor index is down 29% in bear market territory; investors should look at undervalued defensive sectors like healthcare."
+        },
+        {
+          "name": "Michael O'Leary",
+          "role": "CEO, Ryanair",
+          "key_view": "European airlines face massive headwinds from unhedged oil prices, forcing capacity cuts and driving sharp airfare increases by summer 2027."
+        },
+        {
+          "name": "Ruhul Amin",
+          "role": "Equity Strategist",
+          "key_view": "Upcoming earnings from Apple and Palantir must justify high valuation multiples and explain how they will finance rising AI capex."
+        }
+      ],
+      "catalysts": [
+        "US Midterm elections (Tuesday/Wednesday)",
+        "Apple and Palantir earnings reports (Monday)",
+        "US Treasury Quarterly Refunding announcement (Wednesday)",
+        "Bank of England rate decision (Thursday)",
+        "US Non-Farm Payrolls / Jobs report (Friday)"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 46,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": false,
+    "processed_at": "2026-11-02T11:45:45Z"
+  },
+  {
+    "id": "kmTPeYQP8u4",
+    "title": "Hormuz Reopening Talks Advance as Iran Warns of Wider Response if Attacked",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-02T07:31:58Z",
+    "live": "none",
+    "minutes": 46.1,
+    "thumbnail": "https://i.ytimg.com/vi/kmTPeYQP8u4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=kmTPeYQP8u4",
+    "notes": {
+      "headline": "Crude falls over 3% on Iran diplomacy talks while US equity futures stage modest rebound",
+      "summary": "Crude oil retreated with Brent falling below $110/bbl as diplomatic talks to reopen the Strait of Hormuz progressed and reports indicated Donald Trump may favor diplomacy before considering fresh strikes on Iran. US equity futures on the S&P 500 and Nasdaq 100 bounced back following Friday's steep tech selloff, while Asian markets stabilized amid strong semiconductor earnings. Macro focus centers on Middle East de-escalation efforts by Gulf states, capital discipline among oil majors, and policy risks around central banks and the upcoming US midterms.",
+      "key_takeaways": [
+        "Brent crude slid more than 3% to ~$109.80/bbl as diplomatic talks advanced on reopening the Strait of Hormuz.",
+        "US equity futures stabilized, with Nasdaq 100 futures up ~0.9% to 1% and S&P futures up ~0.5% following Friday's severe tech-led slide.",
+        "Gulf states (UAE, Bahrain, Egypt) are actively pushing for diplomatic off-ramps to prevent renewed US-Iran military escalation.",
+        "Paul Donovan (UBS) described the tech selloff as a localized reassessment of earnings rather than a broad macroeconomic warning sign.",
+        "Mitchell Ferman highlighted that roughly 10% of global refining capacity is offline, elevating margins while oil majors maintain strict capex discipline.",
+        "US 10-year Treasury yields remained steady near 4.92%-4.93% ahead of the US midterm elections."
+      ],
+      "macro": [
+        "Geopolitics: Iran proposed an accelerated two-day plan to reopen the Strait of Hormuz; Gulf states are warning another round of conflict would be far more destructive than earlier strikes.",
+        "Monetary Policy: UBS's Paul Donovan warned the biggest macro risk is a policy error if central banks induce recession to counter oil-driven price spikes.",
+        "US Politics: Donald Trump signaled he could become 'Mr. Veto' against a Democratic-controlled Congress if Republicans lose majorities in the midterms."
+      ],
+      "priced_in": [
+        "Markets are pricing in potential de-escalation of the Middle East conflict risk premium following Iranian diplomatic proposals.",
+        "Investors in Asia are actively hedging via equity volatility indices ahead of the US midterm elections."
+      ],
+      "fundamentals": [
+        "Oil & Refining: Upheaval in energy markets has driven near-record profits for big oil majors, supported by tight refining capacity, though firms resist chasing growth.",
+        "Tech & AI: Foxconn Chairman Young Liu affirmed AI demand remains real and massive, driving cloud provider capex; Oaktree's Howard Marks noted recent volatility punctured the AI infallibility bubble.",
+        "Crypto: Binance experienced $3.6B in net outflows following a cyber theft, though withdrawals were processed without systemic panic."
+      ],
+      "assets": [
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Brent fell ~3.2% to near $109.80/bbl and WTI dropped to ~$100.50/bbl on signs of diplomatic traction over Iran and the Strait of Hormuz.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Nasdaq",
+          "bias": "bullish",
+          "view": "Nasdaq 100 futures rebounded ~0.9% to 1.0% following Friday's 3.5% drop that briefly breached technical correction territory.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "S&P 500 futures climbed roughly 0.5% after last week's 2% drop, pointing to stabilizing sentiment.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "neutral",
+          "view": "US 10-year Treasury yield hovered flat between 4.92% and 4.93% as markets await election results.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Onur Ant",
+          "role": "Managing Editor, Middle East and North Africa, Bloomberg News",
+          "key_view": "Diplomatic momentum around reopening Hormuz is real but fragile, with Gulf states urgently trying to avert being caught in renewed US-Iran conflict."
+        },
+        {
+          "name": "Mitchell Ferman",
+          "role": "European Oil Reporter, Bloomberg News",
+          "key_view": "Refinery bottlenecks with 10% of global capacity offline sustain record margins, while supermajors remain committed to capex discipline."
+        },
+        {
+          "name": "Oliver Crook",
+          "role": "Chief European Correspondent, Bloomberg News",
+          "key_view": "Trump's comments anticipating veto battles underscore elevated political stakes and legislative gridlock risk ahead of the midterms."
+        },
+        {
+          "name": "Paul Donovan",
+          "role": "Chief Economist, UBS Global Wealth Management",
+          "key_view": "The tech pullback represents a rational repricing of future earnings rather than systemic macro weakness, while central bank overreaction to energy costs is the main hazard."
+        },
+        {
+          "name": "Howard Marks",
+          "role": "Co-Chair, Oaktree Capital Management",
+          "key_view": "Recent AI market stumbles introduce healthy skepticism and deflate assumptions of infallibility across high-valuation tech."
+        },
+        {
+          "name": "Young Liu",
+          "role": "Chairman, Foxconn",
+          "key_view": "AI server demand from cloud service providers is genuine, urgent, and too large to meet without sustained high capex."
+        }
+      ],
+      "catalysts": [
+        "US midterm elections (taking place Tuesday)",
+        "ADIPEC Energy Conference ongoing discussions in Abu Dhabi over the next few days",
+        "US administration announcement regarding South Africa's AGOA trade pact eligibility"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 46,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": false,
+    "processed_at": "2026-11-02T08:14:45Z"
+  },
+  {
     "id": "3wyPZg3wt74",
     "title": "Asia's Traders Weigh Tech Selloff, US Midterms",
     "channel": "Bloomberg Television",
@@ -1625,110 +1982,5 @@
     "model": "gemini-3-flash-preview",
     "manual": false,
     "processed_at": "2026-10-31T15:49:47Z"
-  },
-  {
-    "id": "kmTPeYQP8u4",
-    "title": "Hormuz Reopening Talks Advance as Iran Warns of Wider Response if Attacked",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-02T07:31:58Z",
-    "live": "none",
-    "minutes": 46.1,
-    "thumbnail": "https://i.ytimg.com/vi/kmTPeYQP8u4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kmTPeYQP8u4",
-    "notes": {
-      "headline": "Crude falls over 3% on Iran diplomacy talks while US equity futures stage modest rebound",
-      "summary": "Crude oil retreated with Brent falling below $110/bbl as diplomatic talks to reopen the Strait of Hormuz progressed and reports indicated Donald Trump may favor diplomacy before considering fresh strikes on Iran. US equity futures on the S&P 500 and Nasdaq 100 bounced back following Friday's steep tech selloff, while Asian markets stabilized amid strong semiconductor earnings. Macro focus centers on Middle East de-escalation efforts by Gulf states, capital discipline among oil majors, and policy risks around central banks and the upcoming US midterms.",
-      "key_takeaways": [
-        "Brent crude slid more than 3% to ~$109.80/bbl as diplomatic talks advanced on reopening the Strait of Hormuz.",
-        "US equity futures stabilized, with Nasdaq 100 futures up ~0.9% to 1% and S&P futures up ~0.5% following Friday's severe tech-led slide.",
-        "Gulf states (UAE, Bahrain, Egypt) are actively pushing for diplomatic off-ramps to prevent renewed US-Iran military escalation.",
-        "Paul Donovan (UBS) described the tech selloff as a localized reassessment of earnings rather than a broad macroeconomic warning sign.",
-        "Mitchell Ferman highlighted that roughly 10% of global refining capacity is offline, elevating margins while oil majors maintain strict capex discipline.",
-        "US 10-year Treasury yields remained steady near 4.92%-4.93% ahead of the US midterm elections."
-      ],
-      "macro": [
-        "Geopolitics: Iran proposed an accelerated two-day plan to reopen the Strait of Hormuz; Gulf states are warning another round of conflict would be far more destructive than earlier strikes.",
-        "Monetary Policy: UBS's Paul Donovan warned the biggest macro risk is a policy error if central banks induce recession to counter oil-driven price spikes.",
-        "US Politics: Donald Trump signaled he could become 'Mr. Veto' against a Democratic-controlled Congress if Republicans lose majorities in the midterms."
-      ],
-      "priced_in": [
-        "Markets are pricing in potential de-escalation of the Middle East conflict risk premium following Iranian diplomatic proposals.",
-        "Investors in Asia are actively hedging via equity volatility indices ahead of the US midterm elections."
-      ],
-      "fundamentals": [
-        "Oil & Refining: Upheaval in energy markets has driven near-record profits for big oil majors, supported by tight refining capacity, though firms resist chasing growth.",
-        "Tech & AI: Foxconn Chairman Young Liu affirmed AI demand remains real and massive, driving cloud provider capex; Oaktree's Howard Marks noted recent volatility punctured the AI infallibility bubble.",
-        "Crypto: Binance experienced $3.6B in net outflows following a cyber theft, though withdrawals were processed without systemic panic."
-      ],
-      "assets": [
-        {
-          "asset": "Oil",
-          "bias": "bearish",
-          "view": "Brent fell ~3.2% to near $109.80/bbl and WTI dropped to ~$100.50/bbl on signs of diplomatic traction over Iran and the Strait of Hormuz.",
-          "source": "anchors"
-        },
-        {
-          "asset": "Nasdaq",
-          "bias": "bullish",
-          "view": "Nasdaq 100 futures rebounded ~0.9% to 1.0% following Friday's 3.5% drop that briefly breached technical correction territory.",
-          "source": "anchors"
-        },
-        {
-          "asset": "S&P 500",
-          "bias": "bullish",
-          "view": "S&P 500 futures climbed roughly 0.5% after last week's 2% drop, pointing to stabilizing sentiment.",
-          "source": "anchors"
-        },
-        {
-          "asset": "Rates",
-          "bias": "neutral",
-          "view": "US 10-year Treasury yield hovered flat between 4.92% and 4.93% as markets await election results.",
-          "source": "anchors"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Onur Ant",
-          "role": "Managing Editor, Middle East and North Africa, Bloomberg News",
-          "key_view": "Diplomatic momentum around reopening Hormuz is real but fragile, with Gulf states urgently trying to avert being caught in renewed US-Iran conflict."
-        },
-        {
-          "name": "Mitchell Ferman",
-          "role": "European Oil Reporter, Bloomberg News",
-          "key_view": "Refinery bottlenecks with 10% of global capacity offline sustain record margins, while supermajors remain committed to capex discipline."
-        },
-        {
-          "name": "Oliver Crook",
-          "role": "Chief European Correspondent, Bloomberg News",
-          "key_view": "Trump's comments anticipating veto battles underscore elevated political stakes and legislative gridlock risk ahead of the midterms."
-        },
-        {
-          "name": "Paul Donovan",
-          "role": "Chief Economist, UBS Global Wealth Management",
-          "key_view": "The tech pullback represents a rational repricing of future earnings rather than systemic macro weakness, while central bank overreaction to energy costs is the main hazard."
-        },
-        {
-          "name": "Howard Marks",
-          "role": "Co-Chair, Oaktree Capital Management",
-          "key_view": "Recent AI market stumbles introduce healthy skepticism and deflate assumptions of infallibility across high-valuation tech."
-        },
-        {
-          "name": "Young Liu",
-          "role": "Chairman, Foxconn",
-          "key_view": "AI server demand from cloud service providers is genuine, urgent, and too large to meet without sustained high capex."
-        }
-      ],
-      "catalysts": [
-        "US midterm elections (taking place Tuesday)",
-        "ADIPEC Energy Conference ongoing discussions in Abu Dhabi over the next few days",
-        "US administration announcement regarding South Africa's AGOA trade pact eligibility"
-      ],
-      "sentiment": "mixed",
-      "covered_minutes": 46,
-      "partial": false
-    },
-    "model": "gemini-3.8-flash",
-    "manual": false,
-    "processed_at": "2026-11-02T08:14:45Z"
   }
 ]
