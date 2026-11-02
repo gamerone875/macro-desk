@@ -1,5 +1,122 @@
 [
   {
+    "id": "3wyPZg3wt74",
+    "title": "Asia's Traders Weigh Tech Selloff, US Midterms",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-02T05:37:09Z",
+    "live": "none",
+    "minutes": 95.0,
+    "thumbnail": "https://i.ytimg.com/vi/3wyPZg3wt74/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=3wyPZg3wt74",
+    "notes": {
+      "headline": "Tech selloff deepens on AI monetization doubts, US midterms, and Middle East escalation risks",
+      "summary": "Global markets are grappling with a tech-led downturn as investors question the ROI and monetization timelines of massive AI capital expenditures, highlighted by disappointing guidance from Kioxia. Traders are bracing for the US midterm elections and the US Treasury refunding announcement, which carry significant implications for fiscal policy and bond yields. Meanwhile, central bank activity remains high with the BOJ signaling further hikes and the RBA expected to raise rates, while geopolitical tensions continue to support oil prices.",
+      "key_takeaways": [
+        "AI monetization impatience and capex concerns are driving a significant selloff in global tech and semiconductor names.",
+        "US midterm elections serve as a major catalyst, with some analysts recommending buying the dip regardless of the outcome.",
+        "Goldman Sachs raised its December 2026 Brent crude forecast to $105/bbl due to substantial downside supply risks.",
+        "US Treasury refunding is a key focus, with speculation of reduced long-end auction sizes potentially flattening the yield curve.",
+        "Kioxia shares plunged after profit guidance missed estimates, signaling slowing NAND flash memory price growth.",
+        "Bank of Japan kept rates at 1.25% but signaled a December hike remains live as underlying inflation hits 2%.",
+        "Foxconn Chairman Young Liu defended AI demand as genuine and outstripping current capacity despite market skepticism.",
+        "OpenAI is reportedly seeking a $20 billion funding round at a $1.25 trillion valuation while pursuing vertical integration."
+      ],
+      "macro": [
+        "US midterm elections: Betting markets lean toward strong Democratic performance, while others eye fiscal gridlock as a bond market positive.",
+        "US Treasury quarterly refunding: Speculation centers on cuts to 20- and 30-year bond auction sizes.",
+        "RBA expected to deliver a 25 bps rate hike to 4.85% to counter persistent inflation.",
+        "BOJ Governor Ueda keeps a December rate hike in play following 2% underlying inflation milestone.",
+        "Middle East: Elevated risks as Iran threatens retaliation against potential US-Israel strikes.",
+        "China projected to lead in 8 of 17 strategic technologies by 2030, including robotics."
+      ],
+      "priced_in": [
+        "RBA rate hike to 4.85% is largely baked into market expectations.",
+        "Betting markets price in strong performance for Democrats in the US midterms.",
+        "Market impatience regarding the return on investment for massive AI capital expenditures.",
+        "Potential cuts to long-end Treasury auction supply are not yet fully priced in."
+      ],
+      "fundamentals": [
+        "Kioxia Holdings Corp: Guidance missed estimates (2.0T yen vs 2.35T yen expected) despite a 22-fold surge in quarterly profit.",
+        "Foxconn: Chairman states AI demand is real and enormous, justifying massive cloud service provider capex.",
+        "OpenAI: Pursuing vertical integration, including developing its own ASICs and IO devices.",
+        "China Robotics: Accounts for over half of the world's industrial robot installations in 2024.",
+        "Tech Earnings: Disappointments from Intel and Alphabet sparked concerns over infrastructure spending returns."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "Impatience over AI monetization and heavy short positioning create a volatile environment for tech.",
+          "source": "Paul Dobson, Bloomberg News"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "Investors should buy the dip regardless of the midterm outcome as the event acts as a market clearing mechanism.",
+          "source": "Mike Wilson, Morgan Stanley"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "Brent price forecast raised to $105/bbl due to supply risks and geopolitical premia.",
+          "source": "Goldman Sachs"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Treasuries are a safe haven; a split US government could limit fiscal spending and put downward pressure on yields.",
+          "source": "Lombard Odier"
+        },
+        {
+          "asset": "Other: Nikkei 225",
+          "bias": "bearish",
+          "view": "The AI-driven selloff is bleeding into other sectors, including Japanese financials.",
+          "source": "Shery Ahn, Bloomberg"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Mark Cranfield",
+          "role": "Strategist, Bloomberg MLIV",
+          "key_view": "Expects erratic trading ahead of midterms, though heavy volume suggests positions have already adjusted."
+        },
+        {
+          "name": "Young Liu",
+          "role": "Chairman, Foxconn",
+          "key_view": "AI demand is real and justifies the massive hardware spending by hyperscalers."
+        },
+        {
+          "name": "Jody Jonsson",
+          "role": "Vice Chair, Capital Group",
+          "key_view": "There is a disconnect between AI company expectations and the actual rate of enterprise adoption."
+        },
+        {
+          "name": "Bruce Kirk",
+          "role": "Chief Japan Equity Strategist, Goldman Sachs",
+          "key_view": "Japan's market concentration in AI and banks makes pullbacks sharper, but year-end seasonality remains favorable."
+        },
+        {
+          "name": "Amy Lo",
+          "role": "Asia Chairman, UBS Global Wealth Management",
+          "key_view": "Asia remains the fastest region for wealth creation with strong inflows in the Greater Bay Area."
+        }
+      ],
+      "catalysts": [
+        "US Midterm Elections (Tuesday)",
+        "US Treasury Quarterly Refunding announcement",
+        "Reserve Bank of Australia interest rate decision (Tuesday)",
+        "S&P Global October Factory Activity Gauges",
+        "Ongoing 3Q corporate earnings releases"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 95,
+      "partial": false
+    },
+    "model": "gemini-3-flash-preview",
+    "manual": true,
+    "processed_at": "2026-11-02T07:37:25Z"
+  },
+  {
     "id": "_dyvftxRfjs",
     "title": "Big Tech Earnings Coming, Final Midterm Election Push",
     "channel": "Bloomberg Television",
