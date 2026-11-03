@@ -521,12 +521,17 @@ def main():
     videos.sort(key=lambda v: v["published"], reverse=True)
 
     # 4) brief
-    if processed_any or (brief is None and videos):
+    # rebuilt when new videos were added, or when a previous rebuild failed (e.g. Gemini 503)
+    if (processed_any or state.get("brief_stale") or brief is None) and videos:
         try:
-            brief = build_brief(videos) or brief
+            new_brief = build_brief(videos)
+            if new_brief:
+                brief = new_brief
+                state["brief_stale"] = False
         except Exception as e:
-            log(f"Brief failed: {e}")
+            log(f"Brief failed, will retry next run: {e}")
             errors_this_run.append(f"Brief: {str(e)[:200]}")
+            state["brief_stale"] = True
 
     if manual:
         clear_links_file()
