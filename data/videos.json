@@ -92,6 +92,72 @@
     "processed_at": "2026-11-03T00:20:49Z"
   },
   {
+    "id": "bjiF2zcvy30",
+    "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-02T22:58:56Z",
+    "live": "none",
+    "minutes": 11.1,
+    "thumbnail": "https://i.ytimg.com/vi/bjiF2zcvy30/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=bjiF2zcvy30",
+    "notes": {
+      "headline": "Apple Beats Q4 Estimates but China Revenue Miss and AI Competition Weigh on Outlook",
+      "summary": "Apple reported Q4 revenue and EPS that exceeded analyst estimates, driven by strong iPhone sales. However, a significant revenue miss in Greater China and slowing growth in the Services segment—potentially due to AI search competition—dampened the overall report. Mark Gurman highlighted supply chain constraints for the new iPhone Duo and the market's focus on Apple's AI strategy under new CEO John Turnus.",
+      "key_takeaways": [
+        "Q4 Revenue of $114.48B beat the $113.47B estimate.",
+        "EPS of $2.10 beat the $2.00 estimate.",
+        "Greater China revenue was $17.54B, missing the $18.75B estimate.",
+        "iPhone revenue of $57.58B beat the $56.49B estimate.",
+        "Services revenue is facing headwinds as AI-driven search tools reduce Google search revenue shares for Apple.",
+        "iPhone Duo supply is severely constrained, with retail availability not expected until Feb/March.",
+        "Apple is perceived as lagging behind OpenAI in AI assistant capabilities despite its strong cash position."
+      ],
+      "macro": [
+        "Geopolitics: Greater China revenue miss suggests ongoing demand or regulatory challenges.",
+        "US Midterm Elections: Mark Gurman expects no major impact on Apple's tariff situation regardless of the winner."
+      ],
+      "priced_in": [
+        "Market consensus expected stronger China performance; stock was flat to slightly down in after-hours trading following the miss."
+      ],
+      "fundamentals": [
+        "iPhone sales remain the primary growth driver despite minor year-over-year hardware upgrades.",
+        "Services growth is decelerating as users shift from traditional search to AI platforms like ChatGPT and Claude.",
+        "Apple is implementing cost-cutting measures and under-the-radar layoffs to run leaner."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "mixed",
+          "view": "Apple's top-line beat is countered by a significant miss in the critical China market and slowing services growth.",
+          "source": "Mark Gurman, Bloomberg"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "mixed",
+          "view": "As a top performer in the 'Mag 7', Apple's mixed results may weigh on broader index sentiment.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Mark Gurman",
+          "role": "Managing Editor for Global Consumer Tech, Bloomberg News",
+          "key_view": "Apple's strong earnings are overshadowed by supply issues for the iPhone Duo and a lack of a competitive AI strategy compared to OpenAI."
+        }
+      ],
+      "catalysts": [
+        "Apple earnings call (starting shortly after the segment).",
+        "iPhone Duo retail availability expected in February or March."
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 11,
+      "partial": false
+    },
+    "model": "gemini-3-flash-preview",
+    "manual": true,
+    "processed_at": "2026-11-03T00:30:07Z"
+  },
+  {
     "id": "tXL3NFLCh_A",
     "title": "Open Interest 11/2/2026",
     "channel": "Bloomberg Television",
