@@ -14,6 +14,7 @@
     "4ZVTisoa4LU",
     "5mCHoLqX52Q",
     "6Gr0WA3YW2c",
+    "6u9uZWtlUg8",
     "7Kfe-dEEPO4",
     "7QHt-OE6v4A",
     "7a_S5UJ9ki0",
@@ -112,6 +113,7 @@
     "urUO299HY64",
     "v36754Mj96Y",
     "vF32gAut3pk",
+    "vYLl9ObCBks",
     "wTW60c2-bn0",
     "wvfRg-hbO5g",
     "x4ObMtFNClY",
@@ -119,16 +121,22 @@
   ],
   "failures": {
     "x4ObMtFNClY": 1,
-    "k2QEU1awmxA": 1
+    "k2QEU1awmxA": 1,
+    "OMoKnV4gg5w": 1,
+    "3ja53uUZW4o": 1
   },
   "usage": {
     "2026-10-31": 432,
     "2026-11-01": 382,
     "2026-11-02": 422,
-    "2026-11-03": 0
+    "2026-11-03": 47
   },
-  "last_run": "2026-11-03T09:54:47Z",
+  "last_run": "2026-11-03T13:17:38Z",
   "last_errors": [
-    "All models failed. Last error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-  ]
+    "US Election Day Kicks Off: Stocks Slip, Oil Rebounds: Server disconnected without sending a response.",
+    "Wall Street Heavyweights Weigh the Risks to the AI Boom: Server disconnected without sending a response.",
+    "All models failed. Last error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+    "Brief: Server disconnected without sending a response."
+  ],
+  "pending_manual": []
 }

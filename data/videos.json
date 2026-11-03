@@ -1,5 +1,104 @@
 [
   {
+    "id": "vYLl9ObCBks",
+    "title": "US Election Day: Trump Risks Losing Control of Congress",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-03T07:57:40Z",
+    "live": "none",
+    "minutes": 47.0,
+    "thumbnail": "https://i.ytimg.com/vi/vYLl9ObCBks/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=vYLl9ObCBks",
+    "notes": {
+      "headline": "Nasdaq enters correction territory as US Midterms and AI valuation concerns weigh on sentiment",
+      "summary": "Markets are focused on the US Midterm elections, where a potential Democratic sweep of Congress could lead to legislative gridlock and increased corporate scrutiny. Tech stocks are under pressure as the Nasdaq 100 enters correction territory, driven by high AI valuations and mixed guidance from Apple and Palantir. Meanwhile, crude oil prices have stabilized following a sharp drop as investors weigh signals of US-Iran diplomacy against recent military strikes.",
+      "key_takeaways": [
+        "Nasdaq 100 enters correction territory amid concerns over the sustainability of the AI trade.",
+        "Signum Global Advisors estimates 75% odds of Democrats winning both houses of Congress.",
+        "Apple shares fell post-earnings on gross margin guidance (46%) that was slightly lower than the current quarter.",
+        "Palantir shares dropped despite strong US commercial revenue growth as investors questioned its 100x forward earnings multiple.",
+        "Oil prices steady as traders react to signals from Trump and Vance regarding a potential diplomatic settlement with Iran.",
+        "Goldman Sachs CEO David Solomon sees a tech super cycle but warns that the investment path won't be a straight line.",
+        "PBOC raised FX reserve ratios to slow the appreciation of the Yuan."
+      ],
+      "macro": [
+        "US Midterm elections: A Democratic sweep could lead to fiscal gridlock and investigations into Trump-aligned corporations.",
+        "Geopolitics: US-Iran tensions remain high despite diplomatic signals; US carried out strikes on Qeshm Island.",
+        "Monetary Policy: Australia raised rates but the move was seen as less hawkish due to a split vote.",
+        "China: Authorities are using liquidity tools and FX reserve ratios to manage market volatility and currency strength."
+      ],
+      "priced_in": [
+        "Markets generally prefer political gridlock as it maintains the status quo.",
+        "Signum Global Advisors suggests a Democratic sweep is now the high-probability consensus (75%)."
+      ],
+      "fundamentals": [
+        "Apple: 4Q revenue beat but gross margin guidance of 46% disappointed some investors.",
+        "Palantir: 3Q US commercial revenue grew nearly 150% YoY.",
+        "Lufthansa: Refined 2026 fuel cost guidance to 9.3 billion euros.",
+        "Bayer: 3Q Adj. EBITDA of 1.62 billion euros beat estimates."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "The index has entered technical correction territory as AI multiples are viewed as overvalued relative to the median.",
+          "source": "Ven Ram, Bloomberg MLIV"
+        },
+        {
+          "asset": "Oil",
+          "bias": "mixed",
+          "view": "Prices are steadying as traders weigh Trump's 'doveish' signals on Iran against ongoing military strikes.",
+          "source": "Paul Wallace, Bloomberg News"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Gold is hovering near a one-year low as markets brace for increased partisanship and potential debt crises.",
+          "source": "Ed Yardeni, Yardeni Research"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "neutral",
+          "view": "Investors are in a 'wait and see' mode ahead of the Midterm election results and JOLTS data.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "George Pollack",
+          "role": "Partner & Senior Analyst, Signum Global Advisors",
+          "key_view": "There is a 75% probability that Democrats win both chambers of Congress, acting as a referendum on the President."
+        },
+        {
+          "name": "David Solomon",
+          "role": "Chairman and CEO, Goldman Sachs",
+          "key_view": "Demand for compute currently exceeds supply, and the AI investment cycle is still in its early stages."
+        },
+        {
+          "name": "Tim Craighead",
+          "role": "Global Chief Content Officer, Bloomberg Intelligence",
+          "key_view": "A Democratic sweep could weigh on defense stocks but benefit renewables like Orsted and Vestas."
+        },
+        {
+          "name": "Ven Ram",
+          "role": "Cross-Asset Strategist, Bloomberg MLIV",
+          "key_view": "There is a dichotomy between AI as a technology and AI as a stock trade; Nasdaq multiples need to return to the median."
+        }
+      ],
+      "catalysts": [
+        "US Midterm election results (Tuesday/Wednesday)",
+        "US JOLTS data (Tuesday, 3 PM UK)",
+        "AMD and Supermicro earnings (Tuesday)",
+        "Debt ceiling deadline (mentioned as a 2027 risk)"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 47,
+      "partial": false
+    },
+    "model": "gemini-3-flash-preview",
+    "manual": true,
+    "processed_at": "2026-11-03T12:47:49Z"
+  },
+  {
     "id": "-Xnz7tLtRKc",
     "title": "Trump Talks Reflecting Pool in Midterm Closing Message",
     "channel": "Bloomberg Television",
