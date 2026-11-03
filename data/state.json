@@ -124,8 +124,11 @@
   "usage": {
     "2026-10-31": 432,
     "2026-11-01": 382,
-    "2026-11-02": 422
+    "2026-11-02": 422,
+    "2026-11-03": 0
   },
-  "last_run": "2026-11-03T07:56:05Z",
-  "last_errors": []
+  "last_run": "2026-11-03T09:31:01Z",
+  "last_errors": [
+    "All models failed. Last error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  ]
 }
