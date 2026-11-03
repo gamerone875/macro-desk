@@ -444,7 +444,11 @@ def main():
     videos = [v for v in videos if v["id"] not in to_remove]
 
     # 1) candidates
+    # manual links from this run + those still waiting from a failed run (e.g. Gemini 503)
     manual = manual_ids()
+    for i in state.get("pending_manual", []):
+        if i not in manual:
+            manual.append(i)
     since = now_utc() - dt.timedelta(hours=LOOKBACK_HOURS)
     try:
         auto = recent_upload_ids(since)
@@ -526,6 +530,11 @@ def main():
 
     if manual:
         clear_links_file()
+    # keep manual links that could not be processed this run; they are retried next run
+    on_desk = {v["id"] for v in videos}
+    state["pending_manual"] = [i for i in manual if i not in on_desk and i in details and i not in to_remove]
+    if state["pending_manual"]:
+        log(f"manual links kept for next run: {', '.join(state['pending_manual'])}")
 
     usage = {k: v for k, v in usage.items() if k >= (now_utc() - dt.timedelta(days=7)).strftime("%Y-%m-%d")}
     usage[today] = round(used_today)
