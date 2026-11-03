@@ -1,5 +1,97 @@
 [
   {
+    "id": "-Xnz7tLtRKc",
+    "title": "Trump Talks Reflecting Pool in Midterm Closing Message",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-03T00:13:10Z",
+    "live": "none",
+    "minutes": 47.3,
+    "thumbnail": "https://i.ytimg.com/vi/-Xnz7tLtRKc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=-Xnz7tLtRKc",
+    "notes": {
+      "headline": "Nasdaq 100 enters correction territory down 10% as Apple and Palantir report earnings",
+      "summary": "The Nasdaq 100 slid into correction territory, declining 10% from its October peak as the broader AI trade continues to unwind. Technology earnings were in focus as Apple beat overall revenue expectations but missed Greater China revenue estimates by roughly $1 billion in its Q4 report. Palantir raised its full-year guidance on accelerating US commercial business growth overtaking government revenues. Concurrently, US midterm elections enter their final hours with competitive Senate races in key states that could alter congressional control.",
+      "key_takeaways": [
+        "Nasdaq 100 entered correction territory, dropping 10% from its October high amid an ongoing unwind in AI-related trades.",
+        "Apple reported Q4 revenue that beat overall estimates, but Greater China revenue missed consensus by roughly $1 billion.",
+        "Apple's quarterly figures reflected two weeks of sales for the iPhone 18 Pro and Pro Max, excluding the foldable iPhone Duo launched on October 23.",
+        "Palantir beat estimates and lifted full-year revenue guidance, driven by accelerating US enterprise client adoption relative to government contracts.",
+        "Control of the US Senate remains tightly contested across key states including Michigan, Iowa, Kansas, Ohio, Alaska, and North Carolina ahead of midterm voting.",
+        "The US Supreme Court rejected a DOJ petition seeking to set aside contested California ballots ahead of election day."
+      ],
+      "macro": [
+        "Potential shift in US congressional control hinges on razor-thin Senate races across battleground states.",
+        "Trade policies, tariffs, and agricultural export disruptions with China cited as major headwinds for Midwest farming economies."
+      ],
+      "priced_in": [
+        "Apple Greater China revenue missed consensus expectations by about $1 billion.",
+        "Palantir full-year guidance exceeded market expectations."
+      ],
+      "fundamentals": [
+        "Apple Q4: Total revenue beat consensus, iPhone revenues beat, but Greater China revenue fell short by approximately $1 billion.",
+        "Apple CEO John Turnus and CFO Kevin Parekh hosted the company's Q4 earnings call.",
+        "Palantir: Raised full-year outlook on expanding commercial revenue and enterprise software adoption in the US."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "Nasdaq 100 entered correction territory, down 10% from its October peak as tech sell-off and AI unwinding continue.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Other: Apple (AAPL)",
+          "bias": "mixed",
+          "view": "Shares traded volatile after-hours following a Q4 top-line beat countered by a $1 billion miss in Greater China sales.",
+          "source": "Ed Ludlow, Bloomberg News"
+        },
+        {
+          "asset": "Other: Palantir (PLTR)",
+          "bias": "mixed",
+          "view": "Shares dipped in after-hours trading despite raising full-year revenue guidance and reporting strong US enterprise growth.",
+          "source": "Ed Ludlow, Bloomberg News"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Ed Ludlow",
+          "role": "Bloomberg News",
+          "key_view": "Apple beat overall revenue expectations but disappointed in Greater China, while Palantir's commercial US growth is accelerating."
+        },
+        {
+          "name": "Rick Davis",
+          "role": "Partner at Stonecourt Capital & Bloomberg Contributor",
+          "key_view": "Polling reflects broad momentum trends, and candidates who distanced themselves from Trump early on remain competitive."
+        },
+        {
+          "name": "Jeanne Sheehan Zaino",
+          "role": "Democracy Visiting Fellow at Harvard Kennedy School & Bloomberg Contributor",
+          "key_view": "High margins in recent polling look like potential outliers, and tight battleground turnout will determine Senate control."
+        },
+        {
+          "name": "Patrick McHenry",
+          "role": "Former House Financial Services Committee Chair & Bloomberg Contributor",
+          "key_view": "North Carolina Senate race dynamics have reshaped campaign spending and impacted down-ballot House races."
+        },
+        {
+          "name": "María Teresa Kumar",
+          "role": "Founding President & CEO, Voto Latino",
+          "key_view": "Latino voters are heavily motivated by inflation, cost of living, and concerns over aggressive immigration enforcement."
+        }
+      ],
+      "catalysts": [
+        "Midterm election results and polls closing nationwide on Tuesday, November 3",
+        "Alaska Senate election vote certification and ranked-choice tabulation expected around November 18"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 47,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": false,
+    "processed_at": "2026-11-03T00:20:49Z"
+  },
+  {
     "id": "tXL3NFLCh_A",
     "title": "Open Interest 11/2/2026",
     "channel": "Bloomberg Television",
