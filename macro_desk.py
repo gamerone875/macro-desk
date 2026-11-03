@@ -326,8 +326,9 @@ def gemini_json(contents, video=False):
                     log(f"  {model}: unavailable ({code}), trying next model")
                     break
                 if code and code >= 500:
-                    log(f"  {model}: server error {code}, retrying in 30 s")
-                    time.sleep(30)
+                    wait = 30 * 2 ** attempt  # 30 s, 60 s, 120 s
+                    log(f"  {model}: Gemini busy ({code}), retrying in {wait} s")
+                    time.sleep(wait)
                     continue
                 raise
             except (json.JSONDecodeError, ValueError) as e:
@@ -401,7 +402,7 @@ def render(videos, brief, state):
         "links_url": "",
         "usage": state.get("usage", {}),
         "daily_cap": DAILY_MINUTES_CAP,
-        "last_errors": state.get("last_errors", []),
+        "last_errors": [],  # warnings stay in the Actions log and state.json, not on the public page
     }
     data = json.dumps(payload, ensure_ascii=False).replace("</", "<\\/")
     os.makedirs(DOCS_DIR, exist_ok=True)
