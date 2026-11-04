@@ -1,5 +1,130 @@
 [
   {
+    "id": "yp3piCJ6kvM",
+    "title": "Election 2026 Special Coverage  | Part 4",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-04T08:19:18Z",
+    "live": "none",
+    "minutes": 98.7,
+    "thumbnail": "https://i.ytimg.com/vi/yp3piCJ6kvM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=yp3piCJ6kvM",
+    "notes": {
+      "headline": "Democrats sweep 2026 midterms, taking control of Congress and sparking initial market sell-off",
+      "summary": "The 2026 US midterm elections resulted in a 'Blue Wave,' with Democrats projected to take control of both the House and Senate. Markets initially reacted with a sell-off in US equity futures and the dollar, driven by concerns over political gridlock and increased regulatory oversight for the tech and AI sectors. Voters prioritized affordability, energy costs, and healthcare, leading to significant Republican upsets in traditional strongholds like Texas and Georgia.",
+      "key_takeaways": [
+        "Democrats are projected to flip control of both the House of Representatives and the Senate.",
+        "US equity futures saw an initial 2% drop before paring losses as the 'Blue Wave' was confirmed.",
+        "AI data center expansion faces potential upheaval as new Democratic governors prioritize power grid stability.",
+        "Hakeem Jeffries is set to become the first Black Speaker of the House with a substantial majority.",
+        "Affordability, gasoline prices, and healthcare costs were the primary drivers of the Democratic sweep.",
+        "China stocks rallied significantly in mainland and Hong Kong markets following the US election results.",
+        "Major Republican upsets occurred in traditionally red states including Texas, South Carolina, and Kansas.",
+        "Increased congressional oversight and subpoenas are expected for the healthcare, energy, and finance sectors."
+      ],
+      "macro": [
+        "Fiscal: Divided government is expected to lead to legislative gridlock and a shift toward social spending.",
+        "Inflation: Exit polls showed 60% of voters disapproved of economic performance, citing tariffs and inflation.",
+        "Geopolitics: Voter backlash against the costs and energy impact of the ongoing Iran war.",
+        "Growth: Potential regulation of AI data center build-outs may impact a key driver of recent US GDP growth.",
+        "Trade: Tariffs and trade disruptions were cited as major grievances for agricultural voters in the Midwest."
+      ],
+      "priced_in": [
+        "Markets were surprised by the scale of the Democratic sweep, leading to a knee-jerk sell-off in risk assets.",
+        "Consensus now expects a 'politics of conflict' between the Democratic Congress and the Trump administration.",
+        "Initial risk-off moves in US futures recovered slightly as traders digested the long-term regulatory implications."
+      ],
+      "fundamentals": [
+        "Tech: Headwinds for AI infrastructure due to power grid concerns in Texas, Georgia, and Ohio.",
+        "Energy: High gasoline and diesel costs were primary catalysts for the voter shift against incumbents.",
+        "Financials: Warnings of aggressive investigations and subpoenas into the finance sector under new leadership.",
+        "AI Industry: Heavy political spending by the AI sector failed to secure wins for preferred candidates."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "Futures were down as much as 2% on concerns over tech regulation and data center construction pauses.",
+          "source": "David Ingles"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "Futures remained down approximately 0.74% as traders braced for political gridlock.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Other: China Stocks",
+          "bias": "bullish",
+          "view": "Mainland China and Hong Kong markets rallied as the US election results were digested.",
+          "source": "David Ingles"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bullish",
+          "view": "Prices rose 0.45% as investors sought a flight to safety following the election surprise.",
+          "source": "David Ingles"
+        },
+        {
+          "asset": "USD",
+          "bias": "bearish",
+          "view": "The dollar index hit session lows, dropping roughly 0.32% on the projected Democratic sweep.",
+          "source": "David Ingles"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bearish",
+          "view": "The US 2-year yield fell by approximately 3 basis points in a flight-to-safety move.",
+          "source": "David Ingles"
+        },
+        {
+          "asset": "Other: Bitcoin",
+          "bias": "bearish",
+          "view": "The cryptocurrency dropped 0.68% amid broader risk-off sentiment.",
+          "source": "David Ingles"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Adam Hodge",
+          "role": "Democratic Strategist",
+          "key_view": "Attributed Democratic wins to voter concerns over affordability and a backlash against the Iran war's costs."
+        },
+        {
+          "name": "Patrick McHenry",
+          "role": "Former House Speaker Pro Tempore",
+          "key_view": "Noted that Democrats won by flipping Trump-won districts, creating a dejected GOP for the lame-duck session."
+        },
+        {
+          "name": "Mike Shepard",
+          "role": "Bloomberg News Senior Editor",
+          "key_view": "The AI data center boom is set for upheaval as new governors prioritize power grid stability over tech expansion."
+        },
+        {
+          "name": "Lanhee Chen",
+          "role": "Partner, Brunswick Group",
+          "key_view": "Warns companies to 'lawyer up' as Democrats will likely launch aggressive investigations into multiple sectors."
+        },
+        {
+          "name": "Ron Brownstein",
+          "role": "Bloomberg Opinion Columnist",
+          "key_view": "The MAGA coalition was 'vaporized' by high presidential disapproval ratings and a backlash against tariffs."
+        }
+      ],
+      "catalysts": [
+        "Opening of London FX markets and US cash session",
+        "Final vote tallies from Michigan and Alaska",
+        "Lame-duck congressional session (Defense Authorization Act, Continuing Resolution)",
+        "Seating of the new Democratic-controlled Congress in January 2028"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 99,
+      "partial": false
+    },
+    "model": "gemini-3-flash-preview",
+    "manual": true,
+    "processed_at": "2026-11-04T11:29:19Z"
+  },
+  {
     "id": "vYLl9ObCBks",
     "title": "US Election Day: Trump Risks Losing Control of Congress",
     "channel": "Bloomberg Television",
