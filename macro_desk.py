@@ -57,6 +57,7 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
 MANUAL_URL = os.environ.get("MANUAL_URL", "").strip()
 REMOVE_URL = os.environ.get("REMOVE_URL", "").strip()  # links/IDs of videos to delete from the desk
+AUTO_CHANNEL = os.environ.get("AUTO_CHANNEL", "").strip().lower() in ("1", "true", "yes")  # off: only links you send are analysed
 FORCE = os.environ.get("FORCE", "").strip().lower() in ("1", "true", "yes")  # re-analyse manual links already on the desk
 
 CHANNEL_HANDLE = os.environ.get("CHANNEL_HANDLE", "markets")  # Bloomberg Television
@@ -444,14 +445,10 @@ def main():
     videos = [v for v in videos if v["id"] not in to_remove]
 
     # 1) candidates
-    # manual links from this run + those still waiting from a failed run (e.g. Gemini 503)
-    manual = manual_ids()
-    for i in state.get("pending_manual", []):
-        if i not in manual:
-            manual.append(i)
+    manual = manual_ids()  # only the links sent with this run
     since = now_utc() - dt.timedelta(hours=LOOKBACK_HOURS)
     try:
-        auto = recent_upload_ids(since)
+        auto = recent_upload_ids(since) if AUTO_CHANNEL else []
     except Exception as e:  # keep going with manual links
         log(f"Could not list channel uploads: {e}")
         errors_this_run.append(f"YouTube listing: {e}")
@@ -522,7 +519,9 @@ def main():
 
     # 4) brief
     # rebuilt when new videos were added, or when a previous rebuild failed (e.g. Gemini 503)
-    if (processed_any or state.get("brief_stale") or brief is None) and videos:
+    latest = max((v.get("processed_at", "") for v in videos), default="")
+    stale = brief is None or (brief or {}).get("generated_at", "") < latest
+    if (processed_any or state.get("brief_stale") or stale) and videos:
         try:
             new_brief = build_brief(videos)
             if new_brief:
@@ -535,11 +534,11 @@ def main():
 
     if manual:
         clear_links_file()
-    # keep manual links that could not be processed this run; they are retried next run
+    state.pop("pending_manual", None)  # failed links are not kept: send them again if needed
     on_desk = {v["id"] for v in videos}
-    state["pending_manual"] = [i for i in manual if i not in on_desk and i in details and i not in to_remove]
-    if state["pending_manual"]:
-        log(f"manual links kept for next run: {', '.join(state['pending_manual'])}")
+    for i in manual:
+        if i not in on_desk and i in details:
+            log(f"manual link {i}: not analysed this run (send it again to retry)")
 
     usage = {k: v for k, v in usage.items() if k >= (now_utc() - dt.timedelta(days=7)).strftime("%Y-%m-%d")}
     usage[today] = round(used_today)
