@@ -61,23 +61,30 @@ AUTO_CHANNEL = os.environ.get("AUTO_CHANNEL", "").strip().lower() in ("1", "true
 FORCE = os.environ.get("FORCE", "").strip().lower() in ("1", "true", "yes")  # re-analyse manual links already on the desk
 
 CHANNEL_HANDLE = os.environ.get("CHANNEL_HANDLE", "markets")  # Bloomberg Television
-# Models tried in order. If one is unavailable or its daily quota is used up,
-# the next one is used (each model has its own free quota).
-GEMINI_MODELS = [m.strip() for m in os.environ.get(
-    "GEMINI_MODELS",
-    "gemini-3.8-flash,gemini-3-flash-preview",
-).split(",") if m.strip()]
+# Models tried in order. If one is unavailable, overloaded or out of quota,
+# the next one is used. Paid tier, mixed setup:
+#  - video parts (the bulk of the cost): cheap Flash-Lite models
+#  - merging parts + the daily brief (small, text only): the stronger Flash model
+def _models(name, default):
+    return [m.strip() for m in os.environ.get(name, default).split(",") if m.strip()]
+
+VIDEO_MODELS = _models("GEMINI_VIDEO_MODELS",
+    "gemini-3.1-flash-lite,gemini-3.1-flash-lite-preview,gemini-2.5-flash-lite,gemini-3.8-flash")
+TEXT_MODELS = _models("GEMINI_TEXT_MODELS",
+    "gemini-3.8-flash,gemini-3-flash-preview")
+GEMINI_MODELS = TEXT_MODELS  # kept for compatibility
 
 LOOKBACK_HOURS = env_int("LOOKBACK_HOURS", 36)          # how far back to look for new replays
 MIN_MINUTES = env_int("MIN_MINUTES", 40)                 # skip shorts / tiny clips
 MAX_MINUTES_PER_VIDEO = env_int("MAX_MINUTES_PER_VIDEO", 160)  # longer videos: first N minutes only
 SKIP_LONGER_THAN = env_int("SKIP_LONGER_THAN", 300)     # skip 24/7 stream archives (unless sent manually)
-MAX_MINUTES_PER_RUN = env_int("MAX_MINUTES_PER_RUN", 150)
-DAILY_MINUTES_CAP = env_int("DAILY_MINUTES_CAP", 450)   # Gemini free tier: 8h of YouTube video / day
+MAX_MINUTES_PER_RUN = env_int("MAX_MINUTES_PER_RUN", 300)
+DAILY_MINUTES_CAP = env_int("DAILY_MINUTES_CAP", 900)   # cost guard on the paid tier (~15 h of video / day)
 CHUNK_MINUTES = env_int("CHUNK_MINUTES", 50)            # one Gemini call per chunk
 FPS = env_float("VIDEO_FPS", 0.05)                      # 1 frame / 20 s: audio is what matters
-PACE_SECONDS = env_int("PACE_SECONDS", 65)              # pause between video calls (tokens/minute limit)
+PACE_SECONDS = env_int("PACE_SECONDS", 5)               # pause between video calls (paid tier: higher limits)
 KEEP_DAYS = env_int("KEEP_DAYS", 21)
+BUSY_ROUNDS = env_int("BUSY_ROUNDS", 3)              # extra passes over all models when Gemini is overloaded (503)
 BRIEF_WINDOW_HOURS = env_int("BRIEF_WINDOW_HOURS", 24)
 
 FOCUS = ("Nasdaq 100, S&P 500, gold and crude oil (WTI/Brent); also note what matters "
@@ -298,44 +305,70 @@ def parse_json_text(text):
         raise
 
 
-def gemini_json(contents, video=False):
-    """Call Gemini, trying each model in turn. Returns (dict, model_name)."""
+def retry_delay(msg, default=65):
+    """Use the delay Gemini suggests in its 429 message (e.g. 'retry in 12.4s')."""
+    m = re.search(r"retry(?:Delay)?\D{0,12}(\d+(?:\.\d+)?)\s*s", msg, re.I)
+    if m:
+        return max(5, min(default, int(float(m.group(1))) + 2))
+    return default
+
+
+def gemini_json(contents, video=False, models=None):
+    """Call Gemini, trying each model in turn. Returns (dict, model_name).
+
+    When every model answers 503 (overloaded), the whole list is tried again
+    after a pause (1, 2, then 4 min) instead of giving up: these overloads on
+    the free tier are usually spikes that pass within a few minutes.
+    """
     cfg = dict(response_mime_type="application/json", temperature=0.3)
     if video:
         cfg["media_resolution"] = types.MediaResolution.MEDIA_RESOLUTION_LOW
+    models = models or (VIDEO_MODELS if video else TEXT_MODELS)
     last_err = None
-    for model in GEMINI_MODELS:
-        for attempt in range(3):
-            try:
-                resp = client().models.generate_content(
-                    model=model, contents=contents,
-                    config=types.GenerateContentConfig(**cfg))
-                return parse_json_text(resp.text), model
-            except errors.APIError as e:
-                last_err = e
-                msg = str(e)
-                code = getattr(e, "code", None)
-                if code == 429:
-                    if "PerDay" in msg or "per day" in msg.lower() or "daily" in msg.lower():
-                        log(f"  {model}: daily quota reached, trying next model")
-                        break
-                    log(f"  {model}: rate limited, waiting 65 s")
-                    time.sleep(65)
-                    continue
-                if code == 404 or code in (400, 403) and any(k in msg.lower() for k in (
-                        "not found", "not supported", "unsupported", "is not available", "permission")):
-                    log(f"  {model}: unavailable ({code}), trying next model")
-                    break
-                if code and code >= 500:
-                    wait = 30 * 2 ** attempt  # 30 s, 60 s, 120 s
-                    log(f"  {model}: Gemini busy ({code}), retrying in {wait} s")
-                    time.sleep(wait)
-                    continue
-                raise
-            except (json.JSONDecodeError, ValueError) as e:
-                last_err = e
-                log(f"  {model}: invalid JSON, retrying")
+    exhausted = set()  # models whose daily quota is used up
+    for rnd in range(BUSY_ROUNDS + 1):
+        busy = False
+        for model in models:
+            if model in exhausted:
                 continue
+            for attempt in range(3):
+                try:
+                    resp = client().models.generate_content(
+                        model=model, contents=contents,
+                        config=types.GenerateContentConfig(**cfg))
+                    return parse_json_text(resp.text), model
+                except errors.APIError as e:
+                    last_err = e
+                    msg = str(e)
+                    code = getattr(e, "code", None)
+                    if code == 429:
+                        if "PerDay" in msg or "per day" in msg.lower() or "daily" in msg.lower():
+                            log(f"  {model}: daily quota reached, trying next model")
+                            exhausted.add(model)
+                            break
+                        wait = retry_delay(msg)
+                        log(f"  {model}: rate limited, waiting {wait} s")
+                        time.sleep(wait)
+                        continue
+                    if code == 404 or code in (400, 403) and any(k in msg.lower() for k in (
+                            "not found", "not supported", "unsupported", "is not available", "permission")):
+                        log(f"  {model}: unavailable ({code}), trying next model")
+                        exhausted.add(model)
+                        break
+                    if code and code >= 500:
+                        log(f"  {model}: Gemini busy ({code}), trying next model")
+                        busy = True
+                        break
+                    raise
+                except (json.JSONDecodeError, ValueError) as e:
+                    last_err = e
+                    log(f"  {model}: invalid JSON, retrying")
+                    continue
+        if not busy or rnd == BUSY_ROUNDS or len(exhausted) == len(models):
+            break
+        wait = 60 * 2 ** rnd  # 1, 2, 4 min
+        log(f"  all models busy, waiting {wait // 60} min before trying again ({rnd + 1}/{BUSY_ROUNDS})")
+        time.sleep(wait)
     raise QuotaExhausted(f"All models failed. Last error: {last_err}")
 
 
@@ -359,7 +392,8 @@ def summarize_video(v):
         ])
         notes, model_used = gemini_json(contents, video=True)
         parts.append(notes)
-        time.sleep(PACE_SECONDS)
+        if i < n - 1:  # no pause after the last part
+            time.sleep(PACE_SECONDS)
     if len(parts) == 1:
         notes = parts[0]
     else:
