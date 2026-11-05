@@ -1,5 +1,150 @@
 [
   {
+    "id": "-Jie5FdfJfw",
+    "title": "Democratic Sweep, Markets Rally & AI Stocks Slide",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-04T22:55:58Z",
+    "live": "none",
+    "minutes": 93.4,
+    "thumbnail": "https://i.ytimg.com/vi/-Jie5FdfJfw/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=-Jie5FdfJfw",
+    "notes": {
+      "headline": "Markets rally as election uncertainty eases despite Democratic sweep and semiconductor weakness",
+      "summary": "Markets rallied as election uncertainty eased following a Democratic sweep, with the equal-weighted S&P 500 reaching an all-time high. Investors anticipate that government gridlock will restrain major tax and spending changes, though concerns remain regarding a more restrictive regulatory environment. While broad indices gained, the semiconductor and energy sectors faced pressure due to disappointing corporate guidance and global demand concerns.",
+      "key_takeaways": [
+        "S&P 500 and Nasdaq 100 rally as election uncertainty eases; equal-weighted S&P 500 hits all-time high.",
+        "Democratic sweep leads to expectations of policy restraint and government gridlock.",
+        "Semiconductor stocks, including Qualcomm and Arm, underperform due to disappointing guidance.",
+        "Energy sector and oil prices drop significantly (~8%) on demand concerns and geopolitical optimism.",
+        "Treasury yields lower across the curve as market digests election outcome.",
+        "Tech sector faces pressure from AI-related concerns and potential regulatory shifts.",
+        "CVS Health plans to spin off its retail pharmacy business to improve growth sustainability."
+      ],
+      "macro": [
+        "Gridlock in government expected to lead to policy restraint and restrain massive tax and spending bills.",
+        "US fiscal position remains a concern due to potential for larger deficits.",
+        "Treasury yields are lower across the curve.",
+        "Potential for a more restrictive regulatory environment under a Democratic-controlled Congress.",
+        "Labor market shows limited wage growth and stable quit rates."
+      ],
+      "priced_in": [
+        "Market is pricing in a more muted election reaction than in previous cycles.",
+        "Expectations for potential rate hikes in December and larger fiscal deficits.",
+        "Potential for a more restrictive regulatory environment and a moratorium on data center construction."
+      ],
+      "fundamentals": [
+        "Qualcomm and Arm Holdings provided disappointing guidance despite meeting earnings estimates.",
+        "CVS Health plans to spin off its retail pharmacy business for long-term growth.",
+        "Energy sector saw significant declines with oil prices dropping approximately 8% on demand concerns.",
+        "AI-related stocks are seeing pressure as investors question the sustainability of revenue growth.",
+        "Host Hotels & Resorts reported earnings beat reflecting strength in luxury travel."
+      ],
+      "assets": [
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "Rallying as election uncertainty eases, with the equal-weighted version reaching an all-time high.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bullish",
+          "view": "Rallying as election uncertainty eases, although the semiconductor sector faced pressure.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bullish",
+          "view": "Higher as election uncertainty eases.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Prices dropped approximately 8% due to demand concerns and optimism for US-Iran peace.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bearish",
+          "view": "Yields lower across the curve.",
+          "source": "anchors"
+        },
+        {
+          "asset": "USD",
+          "bias": "bearish",
+          "view": "Under pressure after elections.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Monica Guerra",
+          "role": "Executive Director, Head of Policy & Geopolitical Strategy at Morgan Stanley Wealth Management",
+          "key_view": "Gridlock government creates a constructive market backdrop and restrains massive tax and spending bills."
+        },
+        {
+          "name": "Douglas Holtz-Eakin",
+          "role": "President of American Action Forum",
+          "key_view": "Democratic sweep is bad news for the US fiscal position and will likely lead to larger deficits."
+        },
+        {
+          "name": "Michael Ha",
+          "role": "Senior Equity Research Analyst at Baird",
+          "key_view": "CVS Health spin-off makes sense to improve long-term growth sustainability."
+        },
+        {
+          "name": "John Chambers",
+          "role": "Founder and CEO of JC2 Ventures, Former CEO of Cisco",
+          "key_view": "AI will drive growth, profits, and productivity faster than the market anticipates."
+        },
+        {
+          "name": "Nate Baxter",
+          "role": "President and CEO of Scotts Miracle-Gro",
+          "key_view": "Company is confident in its 2027 outlook due to cost-out initiatives and innovation."
+        },
+        {
+          "name": "Eric Johnston",
+          "role": "Chief Market Strategist at Cantor Fitzgerald Asset Management",
+          "key_view": "Market focus is shifting from AI data center trade to broader equity opportunities."
+        },
+        {
+          "name": "Angelo Zino",
+          "role": "Senior VP & Equity Analyst, CFRA Research",
+          "key_view": "Qualcomm's results were solid, but the company is facing challenges in the handset business."
+        },
+        {
+          "name": "Lindsey Bell",
+          "role": "Chief Investment Strategist, 248 Ventures",
+          "key_view": "The market is questioning the sustainability of revenue growth for semiconductor stocks."
+        },
+        {
+          "name": "Edwin Conway",
+          "role": "CEO, Future Standard",
+          "key_view": "There is a massive, underinvested opportunity in digital infrastructure and private credit."
+        },
+        {
+          "name": "Jim Risoleo",
+          "role": "CEO & President, Host Hotels & Resorts",
+          "key_view": "The luxury and upscale hotel market remains strong with positive business travel trends."
+        }
+      ],
+      "catalysts": [
+        "Bank of England rate decision",
+        "Qualcomm and Arm Holdings conference calls",
+        "US weekly jobless claims",
+        "Monthly jobs report (Friday)",
+        "December Fed meeting"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 93,
+      "partial": false
+    },
+    "model": "gemini-3-flash-preview",
+    "manual": true,
+    "processed_at": "2026-11-05T10:22:10Z"
+  },
+  {
     "id": "yp3piCJ6kvM",
     "title": "Election 2026 Special Coverage  | Part 4",
     "channel": "Bloomberg Television",
