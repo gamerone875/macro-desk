@@ -1,5 +1,97 @@
 [
   {
+    "id": "hsTxsmcEAL8",
+    "title": "JD Vance Breaks With Trump on Iran and Israel After US Midterms Collapse",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-05T08:14:11Z",
+    "live": "none",
+    "minutes": 47.0,
+    "thumbnail": "https://i.ytimg.com/vi/hsTxsmcEAL8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=hsTxsmcEAL8",
+    "notes": {
+      "headline": "US Midterm Election Results Trigger Stock Rotation and Market Volatility",
+      "summary": "The US midterm election results have triggered a significant rotation out of tech stocks and into the consumer sector, driven by concerns over AI buildout and potential policy shifts. Markets are also reacting to the prospect of a potential easing of tensions in the Iran war, which has contributed to a sharp decline in oil prices. Traders are closely monitoring the Bank of England's upcoming rate decision and the broader implications of the US political landscape on future fiscal and monetary policy.",
+      "key_takeaways": [
+        "Investors are rotating out of tech and chipmakers into the consumer sector following the US midterms.",
+        "Oil prices have dropped nearly 10% over the last three days on expectations of a potential end to the Iran war.",
+        "The Bank of England is expected to hike rates, with the market focusing on the vote split and inflation assumptions.",
+        "Treasury yields are falling, reflecting a shift in market sentiment following the election results.",
+        "Gold prices are showing resilience, moving back above the $4,000 psychological level."
+      ],
+      "macro": [
+        "US midterm election results have created political uncertainty regarding future fiscal policy and AI regulation.",
+        "The Bank of England is expected to raise interest rates, with the market closely watching for signs of a dovish shift.",
+        "Inflation remains a key concern, though wage growth in the UK has been trending lower.",
+        "Geopolitical developments, particularly regarding the Iran war, are impacting global commodity markets."
+      ],
+      "priced_in": [
+        "Markets have largely priced in a rate hike from the Bank of England.",
+        "Investors are pricing in a potential easing of geopolitical tensions in the Middle East.",
+        "The market is currently digesting the potential for a slowdown in AI infrastructure development."
+      ],
+      "fundamentals": [
+        "Tech and chipmaker stocks are facing headwinds due to concerns over AI buildout and capacity constraints.",
+        "Consumer sector stocks are benefiting from a rotation of capital out of the tech sector.",
+        "Oil demand is being impacted by expectations of a resolution to the Iran conflict.",
+        "Corporate earnings, including those from Nintendo and Commerzbank, are being closely scrutinized for signs of economic health."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "Tech stocks are facing a rotation as investors re-evaluate the AI growth narrative.",
+          "source": "Winnie Hsu, Bloomberg"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Prices have fallen significantly on expectations of a potential end to the Iran war.",
+          "source": "Oliver Crook, Bloomberg"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bullish",
+          "view": "Prices have moved back above the $4,000 level amid market uncertainty.",
+          "source": "Stephen Carroll, Bloomberg"
+        },
+        {
+          "asset": "Rates",
+          "bias": "neutral",
+          "view": "Treasury yields are declining, reflecting a shift in market sentiment post-midterms.",
+          "source": "Winnie Hsu, Bloomberg"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Oliver Crook",
+          "role": "Reporter, Bloomberg News",
+          "key_view": "The US midterms have introduced significant uncertainty, forcing investors to re-evaluate their long-term strategies."
+        },
+        {
+          "name": "Hetal Mehta",
+          "role": "Chief Economist, St. James's Place",
+          "key_view": "The Bank of England is likely to hike rates, but the growth trajectory remains precarious."
+        },
+        {
+          "name": "Ed Yardeni",
+          "role": "President, Yardeni Research",
+          "key_view": "The AI trade is facing speed bumps due to political and capital constraints, but the long-term outlook remains positive."
+        }
+      ],
+      "catalysts": [
+        "Bank of England interest rate decision",
+        "US initial jobless claims data",
+        "Upcoming corporate earnings reports"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 47,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-05T11:12:24Z"
+  },
+  {
     "id": "-Jie5FdfJfw",
     "title": "Democratic Sweep, Markets Rally & AI Stocks Slide",
     "channel": "Bloomberg Television",

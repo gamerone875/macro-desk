@@ -1,44 +1,44 @@
 {
-  "narrative": "Markets are rallying as election uncertainty dissipates following a Democratic sweep, which is expected to result in government gridlock and policy restraint. While the S&P 500 and Nasdaq 100 have moved higher, the technology sector is facing internal pressure from disappointing semiconductor guidance and concerns over AI revenue sustainability. Treasury yields and the USD are trending lower as investors digest the fiscal implications of the election outcome. Meanwhile, the energy sector has seen a sharp decline driven by demand concerns and geopolitical optimism regarding US-Iran relations.",
+  "narrative": "Markets are navigating the aftermath of US midterm elections, where a Democratic sweep is expected to result in government gridlock and policy restraint. While the S&P 500 and Nasdaq 100 initially rallied as election uncertainty eased, a sharp rotation is underway out of tech and semiconductors into the consumer sector. This shift is fueled by disappointing guidance from chipmakers and growing skepticism regarding the sustainability of AI infrastructure returns. Concurrently, oil prices have collapsed on optimism for a resolution to the Iran conflict, while gold has surged to record levels above $4,000.",
   "regime": "mixed",
   "assets": {
     "Nasdaq": {
-      "bias": "bullish",
-      "why": "Anchors note the index is rallying as election uncertainty eases, though gains are tempered by disappointing guidance from Qualcomm and Arm and broader AI sustainability concerns."
+      "bias": "mixed",
+      "why": "Winnie Hsu notes a bearish rotation out of tech as investors re-evaluate the AI narrative, though anchors highlight a rally as election uncertainty dissipated."
     },
     "S&P 500": {
       "bias": "bullish",
-      "why": "The index is rallying on the removal of election uncertainty, with the equal-weighted version reaching an all-time high according to anchors."
+      "why": "Anchors report the index rallied as election uncertainty eased, with the equal-weighted version reaching an all-time high."
     },
     "Gold": {
       "bias": "bullish",
-      "why": "Anchors report gold is trading higher as the market reacts to the conclusion of the election cycle."
+      "why": "Stephen Carroll notes prices moved back above the $4,000 psychological level amid broader market uncertainty."
     },
     "Oil": {
       "bias": "bearish",
-      "why": "Prices dropped approximately 8% due to demand concerns and optimism for US-Iran peace, as noted by anchors."
+      "why": "Oliver Crook reports prices fell nearly 10% on expectations of a potential end to the Iran war and general demand concerns."
     }
   },
   "priced_in": [
-    "A more muted election reaction than in previous cycles",
-    "Expectations for potential rate hikes in December",
-    "Larger fiscal deficits",
-    "A more restrictive regulatory environment and potential moratorium on data center construction"
+    "A Bank of England rate hike",
+    "Easing of geopolitical tensions in the Middle East",
+    "Potential for a more restrictive regulatory environment and data center moratoriums",
+    "A more muted election reaction compared to previous cycles"
   ],
   "debates": [
-    "Sustainability of AI-related revenue growth versus current investor expectations",
-    "Whether a Democratic sweep will lead to policy restraint via gridlock or a more restrictive regulatory environment",
-    "The impact of disappointing semiconductor guidance on the broader tech sector rally"
+    "Sustainability of AI revenue growth versus current capacity constraints",
+    "Whether government gridlock will successfully restrain massive tax and spending bills",
+    "The impact of a Democratic sweep on future fiscal deficits"
   ],
   "watch_next": [
-    "Bank of England rate decision",
-    "Qualcomm and Arm Holdings conference calls",
-    "US weekly jobless claims",
-    "Monthly jobs report (Friday)",
+    "Bank of England interest rate decision",
+    "US initial jobless claims data",
+    "Monthly US jobs report (Friday)",
     "December Fed meeting"
   ],
-  "generated_at": "2026-11-05T10:22:23Z",
+  "generated_at": "2026-11-05T11:12:34Z",
   "based_on": [
+    "hsTxsmcEAL8",
     "-Jie5FdfJfw"
   ],
   "model": "gemini-3-flash-preview"
