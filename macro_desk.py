@@ -21,6 +21,7 @@ import re
 import sys
 import time
 
+import httpx
 import requests
 from google import genai
 from google.genai import errors, types
@@ -80,7 +81,7 @@ MAX_MINUTES_PER_VIDEO = env_int("MAX_MINUTES_PER_VIDEO", 160)  # longer videos: 
 SKIP_LONGER_THAN = env_int("SKIP_LONGER_THAN", 300)     # skip 24/7 stream archives (unless sent manually)
 MAX_MINUTES_PER_RUN = env_int("MAX_MINUTES_PER_RUN", 300)
 DAILY_MINUTES_CAP = env_int("DAILY_MINUTES_CAP", 900)   # cost guard on the paid tier (~15 h of video / day)
-CHUNK_MINUTES = env_int("CHUNK_MINUTES", 50)            # one Gemini call per chunk
+CHUNK_MINUTES = env_int("CHUNK_MINUTES", 30)            # one Gemini call per chunk
 FPS = env_float("VIDEO_FPS", 0.05)                      # 1 frame / 20 s: audio is what matters
 PACE_SECONDS = env_int("PACE_SECONDS", 5)               # pause between video calls (paid tier: higher limits)
 KEEP_DAYS = env_int("KEEP_DAYS", 21)
@@ -360,6 +361,12 @@ def gemini_json(contents, video=False, models=None):
                         busy = True
                         break
                     raise
+                except (httpx.TransportError, ConnectionError, TimeoutError) as e:
+                    # "Server disconnected without sending a response", timeouts...
+                    last_err = e
+                    log(f"  {model}: connection dropped ({type(e).__name__}), trying next model")
+                    busy = True
+                    break
                 except (json.JSONDecodeError, ValueError) as e:
                     last_err = e
                     log(f"  {model}: invalid JSON, retrying")
@@ -367,7 +374,7 @@ def gemini_json(contents, video=False, models=None):
         if not busy or rnd == BUSY_ROUNDS or len(exhausted) == len(models):
             break
         wait = 60 * 2 ** rnd  # 1, 2, 4 min
-        log(f"  all models busy, waiting {wait // 60} min before trying again ({rnd + 1}/{BUSY_ROUNDS})")
+        log(f"  all models busy or disconnected, waiting {wait // 60} min before trying again ({rnd + 1}/{BUSY_ROUNDS})")
         time.sleep(wait)
     raise QuotaExhausted(f"All models failed. Last error: {last_err}")
 
@@ -570,9 +577,11 @@ def main():
         clear_links_file()
     state.pop("pending_manual", None)  # failed links are not kept: send them again if needed
     on_desk = {v["id"] for v in videos}
+    not_analysed = []
     for i in manual:
         if i not in on_desk and i in details:
             log(f"manual link {i}: not analysed this run (send it again to retry)")
+            not_analysed.append(i)
 
     usage = {k: v for k, v in usage.items() if k >= (now_utc() - dt.timedelta(days=7)).strftime("%Y-%m-%d")}
     usage[today] = round(used_today)
@@ -586,6 +595,12 @@ def main():
     save_json(STATE_FILE, state)
     render(videos, brief, state)
     log(f"Done. Processed {run_minutes:.0f} min of video this run, {used_today:.0f} min today.")
+    if not_analysed or (errors_this_run and not processed_any):
+        # results are still saved (the workflow commits with if: always()),
+        # but the run shows red in GitHub so a failure is never mistaken for a success
+        for e in errors_this_run:
+            print(f"::error::{e[:300]}")
+        sys.exit(f"{len(not_analysed)} link(s) not analysed - see errors above, then run again.")
 
 
 if __name__ == "__main__":
