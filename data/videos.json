@@ -1,5 +1,65 @@
 [
   {
+    "id": "5_5NqBB4haM",
+    "title": "Markets Focused More on AI Than Jobs Report, BlackRock's Rosenberg Says",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-06T14:38:13Z",
+    "live": "none",
+    "minutes": 3.2,
+    "thumbnail": "https://i.ytimg.com/vi/5_5NqBB4haM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5_5NqBB4haM",
+    "notes": {
+      "headline": "Markets prioritize AI-driven macro expectations over recent US employment data",
+      "summary": "Jeffrey Rosenberg of BlackRock explains that the market is currently more focused on AI's impact on growth and inflation expectations than on the latest nonfarm payrolls report. He notes that AI has been a significant driver of macro expectations, and any volatility in AI-related growth could lead to shifts in Fed rate expectations. Additionally, he highlights that elevated leverage in credit and equity markets is contributing to increased market sensitivity to potential catalysts.",
+      "key_takeaways": [
+        "The market is prioritizing AI's impact on growth and inflation over recent labor market data.",
+        "AI is a key driver of macro expectations, and any volatility in AI could influence Fed rate policy.",
+        "Elevated leverage in credit and equity markets increases sensitivity to market catalysts.",
+        "Fixed income is serving as a source of diversification and offset in portfolios.",
+        "The Fed remains focused on financial conditions and their tightening impact."
+      ],
+      "macro": [
+        "Fed is focused on financial conditions and their tightening impact.",
+        "AI is impacting growth and inflation expectations.",
+        "Rising rates and tightening financial conditions are key concerns for the Fed."
+      ],
+      "priced_in": [
+        "Traders are adding to bets on a December Fed interest-rate hike.",
+        "Market pricing reflects concerns around AI financing and elevated leverage."
+      ],
+      "fundamentals": [
+        "Weakening earnings reports from large tech companies are impacting market sentiment.",
+        "Concerns exist around AI financing and the transparency of leverage in credit markets."
+      ],
+      "assets": [
+        {
+          "asset": "Rates",
+          "bias": "mixed",
+          "view": "Fed remains focused on financial conditions and the impact of rising rates.",
+          "source": "Jeffrey Rosenberg, BlackRock"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Jeffrey Rosenberg",
+          "role": "BlackRock Systematic Multi-Strategy Fund Portfolio Manager",
+          "key_view": "Markets are prioritizing AI-driven macro expectations over labor data, with elevated leverage increasing sensitivity to market catalysts."
+        }
+      ],
+      "catalysts": [
+        "US nonfarm payrolls report",
+        "Earnings reports",
+        "Fed press conferences"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 3,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-06T17:21:18Z"
+  },
+  {
     "id": "F52GZaYynQE",
     "title": "Market Selloff, Volatility & Post-Midterm Repositioning",
     "channel": "Bloomberg Television",
