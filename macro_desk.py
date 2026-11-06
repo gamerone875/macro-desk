@@ -71,7 +71,7 @@ def _models(name, default):
 VIDEO_MODELS = _models("GEMINI_VIDEO_MODELS",
     "gemini-3.1-flash-lite,gemini-3.1-flash-lite-preview,gemini-2.5-flash-lite,gemini-3.8-flash")
 TEXT_MODELS = _models("GEMINI_TEXT_MODELS",
-    "gemini-3.8-flash,gemini-3-flash-preview")
+    "gemini-3.8-flash,gemini-3.1-flash-lite,gemini-2.5-flash-lite")  # Lite as backup: never lose analysed parts
 GEMINI_MODELS = TEXT_MODELS  # kept for compatibility
 
 LOOKBACK_HOURS = env_int("LOOKBACK_HOURS", 36)          # how far back to look for new replays
