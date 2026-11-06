@@ -1,5 +1,159 @@
 [
   {
+    "id": "F52GZaYynQE",
+    "title": "Market Selloff, Volatility & Post-Midterm Repositioning",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-05T23:02:22Z",
+    "live": "none",
+    "minutes": 102.3,
+    "thumbnail": "https://i.ytimg.com/vi/F52GZaYynQE/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=F52GZaYynQE",
+    "notes": {
+      "headline": "Tech and semiconductor stocks plunge in broad post-midterm selloff amid AI regulation fears",
+      "summary": "Major US equity benchmarks tumbled, led by the Nasdaq 100 and a 10% to 12% drop in the Philadelphia Semiconductor Index, marking one of their steepest declines since 2020. Investors repositioned away from high-valuation AI and tech names into Treasuries and defensive sectors amid post-midterm political uncertainty and scrutiny over AI infrastructure and data center build-outs. Retail investors actively sold rather than buying the dip, pushing the VIX to multi-month highs. Despite pockets of resilience in corporate earnings, markets adopted a cautious, 'sell now, ask questions later' posture.",
+      "key_takeaways": [
+        "S&P 500 fell 4.4% and the Nasdaq 100 dropped 6.4%, driven by an acute semiconductor and tech washout.",
+        "The Philadelphia Semiconductor Index plummeted 10% to 12%, entering bear market territory.",
+        "Post-midterm political shifts heightened investor concerns over AI infrastructure regulation and data center permitting.",
+        "Retail investors posted their heaviest net selling since March 2020, avoiding the dip.",
+        "Treasury yields declined significantly as investors rotated into safe-haven government bonds and defensive equities.",
+        "VIX spiked to multi-month highs, signaling widespread portfolio repositioning and de-risking."
+      ],
+      "macro": [
+        "Midterm election results and potential regime shifts create regulatory uncertainty for AI and power infrastructure.",
+        "Data center expansion and power demand are contributing to inflation concerns, potentially delaying rate cuts.",
+        "Geopolitical headwinds across Europe and the Middle East continue to weigh on global risk appetite.",
+        "Upcoming labor market data will provide direction on macroeconomic resilience."
+      ],
+      "priced_in": [
+        "Markets are actively discounting and litigating the 'speed limit' of AI capital expenditure and adoption.",
+        "Investors are pricing in potential policy headwinds and community hurdles for data center build-outs.",
+        "Markets are in a 'sell now, ask questions later' mode regarding high-multiple tech valuations."
+      ],
+      "fundamentals": [
+        "Semiconductors faced broad multiple compression amid skepticism over the sustainability of hyperscaler capex.",
+        "MetLife reported record adjusted Q3 EPS driven by private equity and real estate gains.",
+        "e.l.f. Beauty delivered 51% revenue growth and raised its full-year guidance.",
+        "Tapestry beat earnings estimates behind strong brand engagement and Gen Z customer acquisition.",
+        "Airbnb posted strong Q3 results, while Akamai issued weaker-than-expected guidance and Lyft posted a settlement-related loss.",
+        "TC Energy highlighted robust natural gas demand, driven largely by LNG export growth."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "The index tumbled over 6% in its sharpest decline since 2020 due to concentrated tech selling.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "The index dropped 4.4% with nearly 90% of members declining, testing key moving averages.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "The index is approaching critical support, with the 7500 level serving as a pivotal technical marker.",
+          "source": "Jason Hunter, J.P. Morgan"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Treasuries caught a safe-haven flight-to-quality bid, pushing the 2-year yield down 13 basis points.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "Long-term energy demand remains structurally robust, supported by LNG exports and macro growth.",
+          "source": "Francois Poirier, TC Energy"
+        },
+        {
+          "asset": "Oil",
+          "bias": "neutral",
+          "view": "Prices have exhibited high volatility, with sudden sharp drops catching market participants off guard.",
+          "source": "Scott Chronert, Citi"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Jason Hunter",
+          "role": "Head of Technical Strategy, J.P. Morgan",
+          "key_view": "The market is undergoing a regime shift and investors should stay cautious until critical support levels are confirmed."
+        },
+        {
+          "name": "Alli McCartney",
+          "role": "Managing Director, Wealth Management and Private Wealth Advisor, UBS Alignment Partners",
+          "key_view": "Current market volatility is a temporary repositioning and represents an attractive longer-term entry point."
+        },
+        {
+          "name": "Scott Chronert",
+          "role": "Head of US Equity Strategy, Citi",
+          "key_view": "The selloff is driven by repositioning as investors re-evaluate political uncertainty and the medium-term AI growth profile."
+        },
+        {
+          "name": "Tony Wang",
+          "role": "Portfolio Manager, T. Rowe Price",
+          "key_view": "The AI trend remains intact, but the market is becoming far more selective around feasibility and sustainability."
+        },
+        {
+          "name": "Sarah Bianchi",
+          "role": "Chief Strategist, Evercore ISI",
+          "key_view": "Post-midterm political scrutiny will introduce regulatory delays and community pushback for data center infrastructure."
+        },
+        {
+          "name": "Liz Ann Sonders",
+          "role": "Chief Investment Strategist, Charles Schwab",
+          "key_view": "Equities are in a continuation reaction testing AI growth speed limits, leading to heavy tech underperformance."
+        },
+        {
+          "name": "Michel Khalaf",
+          "role": "CEO, MetLife",
+          "key_view": "AI serves as a force multiplier across business lines, supporting strong and repeatable core earnings."
+        },
+        {
+          "name": "Francois Poirier",
+          "role": "CEO & President, TC Energy",
+          "key_view": "Natural gas demand remains durable, positioning infrastructure providers well regardless of political shifts."
+        },
+        {
+          "name": "Tarang Amin",
+          "role": "CEO, e.l.f. Beauty",
+          "key_view": "Strong brand momentum and cross-demographic reach continue to drive top-line expansion despite consumer volatility."
+        },
+        {
+          "name": "Ariane Gorin",
+          "role": "CEO, Expedia",
+          "key_view": "Domestic travel demand is holding up well, though cross-border travel displays softer momentum."
+        },
+        {
+          "name": "Joanne Crevoiserat",
+          "role": "CEO, Tapestry",
+          "key_view": "Disciplined brand-building and customer acquisition among younger demographics are driving outperformance."
+        },
+        {
+          "name": "Jess Menton",
+          "role": "Senior Equities Reporter, Bloomberg News",
+          "key_view": "Investors are currently executing a 'sell now, ask questions later' approach across high-multiple tech."
+        }
+      ],
+      "catalysts": [
+        "US Nonfarm Payrolls / Jobs Report",
+        "University of Michigan Consumer Sentiment survey",
+        "Earnings reports from Moderna and Humana",
+        "Subsequent tech sector earnings releases",
+        "Post-midterm legislative policy announcements regarding AI and energy"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 102,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-06T12:09:29Z"
+  },
+  {
     "id": "hsTxsmcEAL8",
     "title": "JD Vance Breaks With Trump on Iran and Israel After US Midterms Collapse",
     "channel": "Bloomberg Television",
@@ -2947,159 +3101,5 @@
     "model": "gemini-3-flash-preview",
     "manual": false,
     "processed_at": "2026-10-31T15:49:47Z"
-  },
-  {
-    "id": "F52GZaYynQE",
-    "title": "Market Selloff, Volatility & Post-Midterm Repositioning",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-05T23:02:22Z",
-    "live": "none",
-    "minutes": 102.3,
-    "thumbnail": "https://i.ytimg.com/vi/F52GZaYynQE/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=F52GZaYynQE",
-    "notes": {
-      "headline": "Tech and semiconductor stocks plunge in broad post-midterm selloff amid AI regulation fears",
-      "summary": "Major US equity benchmarks tumbled, led by the Nasdaq 100 and a 10% to 12% drop in the Philadelphia Semiconductor Index, marking one of their steepest declines since 2020. Investors repositioned away from high-valuation AI and tech names into Treasuries and defensive sectors amid post-midterm political uncertainty and scrutiny over AI infrastructure and data center build-outs. Retail investors actively sold rather than buying the dip, pushing the VIX to multi-month highs. Despite pockets of resilience in corporate earnings, markets adopted a cautious, 'sell now, ask questions later' posture.",
-      "key_takeaways": [
-        "S&P 500 fell 4.4% and the Nasdaq 100 dropped 6.4%, driven by an acute semiconductor and tech washout.",
-        "The Philadelphia Semiconductor Index plummeted 10% to 12%, entering bear market territory.",
-        "Post-midterm political shifts heightened investor concerns over AI infrastructure regulation and data center permitting.",
-        "Retail investors posted their heaviest net selling since March 2020, avoiding the dip.",
-        "Treasury yields declined significantly as investors rotated into safe-haven government bonds and defensive equities.",
-        "VIX spiked to multi-month highs, signaling widespread portfolio repositioning and de-risking."
-      ],
-      "macro": [
-        "Midterm election results and potential regime shifts create regulatory uncertainty for AI and power infrastructure.",
-        "Data center expansion and power demand are contributing to inflation concerns, potentially delaying rate cuts.",
-        "Geopolitical headwinds across Europe and the Middle East continue to weigh on global risk appetite.",
-        "Upcoming labor market data will provide direction on macroeconomic resilience."
-      ],
-      "priced_in": [
-        "Markets are actively discounting and litigating the 'speed limit' of AI capital expenditure and adoption.",
-        "Investors are pricing in potential policy headwinds and community hurdles for data center build-outs.",
-        "Markets are in a 'sell now, ask questions later' mode regarding high-multiple tech valuations."
-      ],
-      "fundamentals": [
-        "Semiconductors faced broad multiple compression amid skepticism over the sustainability of hyperscaler capex.",
-        "MetLife reported record adjusted Q3 EPS driven by private equity and real estate gains.",
-        "e.l.f. Beauty delivered 51% revenue growth and raised its full-year guidance.",
-        "Tapestry beat earnings estimates behind strong brand engagement and Gen Z customer acquisition.",
-        "Airbnb posted strong Q3 results, while Akamai issued weaker-than-expected guidance and Lyft posted a settlement-related loss.",
-        "TC Energy highlighted robust natural gas demand, driven largely by LNG export growth."
-      ],
-      "assets": [
-        {
-          "asset": "Nasdaq 100",
-          "bias": "bearish",
-          "view": "The index tumbled over 6% in its sharpest decline since 2020 due to concentrated tech selling.",
-          "source": "anchors"
-        },
-        {
-          "asset": "S&P 500",
-          "bias": "bearish",
-          "view": "The index dropped 4.4% with nearly 90% of members declining, testing key moving averages.",
-          "source": "anchors"
-        },
-        {
-          "asset": "S&P 500",
-          "bias": "bearish",
-          "view": "The index is approaching critical support, with the 7500 level serving as a pivotal technical marker.",
-          "source": "Jason Hunter, J.P. Morgan"
-        },
-        {
-          "asset": "Rates",
-          "bias": "bullish",
-          "view": "Treasuries caught a safe-haven flight-to-quality bid, pushing the 2-year yield down 13 basis points.",
-          "source": "anchors"
-        },
-        {
-          "asset": "Oil",
-          "bias": "bullish",
-          "view": "Long-term energy demand remains structurally robust, supported by LNG exports and macro growth.",
-          "source": "Francois Poirier, TC Energy"
-        },
-        {
-          "asset": "Oil",
-          "bias": "neutral",
-          "view": "Prices have exhibited high volatility, with sudden sharp drops catching market participants off guard.",
-          "source": "Scott Chronert, Citi"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Jason Hunter",
-          "role": "Head of Technical Strategy, J.P. Morgan",
-          "key_view": "The market is undergoing a regime shift and investors should stay cautious until critical support levels are confirmed."
-        },
-        {
-          "name": "Alli McCartney",
-          "role": "Managing Director, Wealth Management and Private Wealth Advisor, UBS Alignment Partners",
-          "key_view": "Current market volatility is a temporary repositioning and represents an attractive longer-term entry point."
-        },
-        {
-          "name": "Scott Chronert",
-          "role": "Head of US Equity Strategy, Citi",
-          "key_view": "The selloff is driven by repositioning as investors re-evaluate political uncertainty and the medium-term AI growth profile."
-        },
-        {
-          "name": "Tony Wang",
-          "role": "Portfolio Manager, T. Rowe Price",
-          "key_view": "The AI trend remains intact, but the market is becoming far more selective around feasibility and sustainability."
-        },
-        {
-          "name": "Sarah Bianchi",
-          "role": "Chief Strategist, Evercore ISI",
-          "key_view": "Post-midterm political scrutiny will introduce regulatory delays and community pushback for data center infrastructure."
-        },
-        {
-          "name": "Liz Ann Sonders",
-          "role": "Chief Investment Strategist, Charles Schwab",
-          "key_view": "Equities are in a continuation reaction testing AI growth speed limits, leading to heavy tech underperformance."
-        },
-        {
-          "name": "Michel Khalaf",
-          "role": "CEO, MetLife",
-          "key_view": "AI serves as a force multiplier across business lines, supporting strong and repeatable core earnings."
-        },
-        {
-          "name": "Francois Poirier",
-          "role": "CEO & President, TC Energy",
-          "key_view": "Natural gas demand remains durable, positioning infrastructure providers well regardless of political shifts."
-        },
-        {
-          "name": "Tarang Amin",
-          "role": "CEO, e.l.f. Beauty",
-          "key_view": "Strong brand momentum and cross-demographic reach continue to drive top-line expansion despite consumer volatility."
-        },
-        {
-          "name": "Ariane Gorin",
-          "role": "CEO, Expedia",
-          "key_view": "Domestic travel demand is holding up well, though cross-border travel displays softer momentum."
-        },
-        {
-          "name": "Joanne Crevoiserat",
-          "role": "CEO, Tapestry",
-          "key_view": "Disciplined brand-building and customer acquisition among younger demographics are driving outperformance."
-        },
-        {
-          "name": "Jess Menton",
-          "role": "Senior Equities Reporter, Bloomberg News",
-          "key_view": "Investors are currently executing a 'sell now, ask questions later' approach across high-multiple tech."
-        }
-      ],
-      "catalysts": [
-        "US Nonfarm Payrolls / Jobs Report",
-        "University of Michigan Consumer Sentiment survey",
-        "Earnings reports from Moderna and Humana",
-        "Subsequent tech sector earnings releases",
-        "Post-midterm legislative policy announcements regarding AI and energy"
-      ],
-      "sentiment": "risk-off",
-      "covered_minutes": 102,
-      "partial": false
-    },
-    "model": "gemini-3.8-flash",
-    "manual": true,
-    "processed_at": "2026-11-06T12:09:29Z"
   }
 ]
