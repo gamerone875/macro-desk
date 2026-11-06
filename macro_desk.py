@@ -21,7 +21,6 @@ import re
 import sys
 import time
 
-import httpx
 import requests
 from google import genai
 from google.genai import errors, types
@@ -306,6 +305,18 @@ def parse_json_text(text):
         raise
 
 
+def is_network_error(e):
+    """Dropped connection / timeout, whatever HTTP library google-genai uses."""
+    if isinstance(e, (ConnectionError, TimeoutError, requests.exceptions.RequestException)):
+        return True
+    name = type(e).__name__.lower()
+    msg = str(e).lower()
+    return any(k in name for k in ("disconnect", "protocolerror", "timeout", "connecterror",
+                                   "connectionerror", "readerror", "transporterror")) \
+        or any(k in msg for k in ("server disconnected", "connection reset", "timed out",
+                                  "connection aborted", "remote end closed"))
+
+
 def retry_delay(msg, default=65):
     """Use the delay Gemini suggests in its 429 message (e.g. 'retry in 12.4s')."""
     m = re.search(r"retry(?:Delay)?\D{0,12}(\d+(?:\.\d+)?)\s*s", msg, re.I)
@@ -361,16 +372,18 @@ def gemini_json(contents, video=False, models=None):
                         busy = True
                         break
                     raise
-                except (httpx.TransportError, ConnectionError, TimeoutError) as e:
+                except (json.JSONDecodeError, ValueError) as e:
+                    last_err = e
+                    log(f"  {model}: invalid JSON, retrying")
+                    continue
+                except Exception as e:
+                    if not is_network_error(e):
+                        raise
                     # "Server disconnected without sending a response", timeouts...
                     last_err = e
                     log(f"  {model}: connection dropped ({type(e).__name__}), trying next model")
                     busy = True
                     break
-                except (json.JSONDecodeError, ValueError) as e:
-                    last_err = e
-                    log(f"  {model}: invalid JSON, retrying")
-                    continue
         if not busy or rnd == BUSY_ROUNDS or len(exhausted) == len(models):
             break
         wait = 60 * 2 ** rnd  # 1, 2, 4 min
