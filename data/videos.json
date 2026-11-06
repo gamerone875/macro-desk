@@ -1,5 +1,74 @@
 [
   {
+    "id": "MeBm8MPqCVA",
+    "title": "BlackRock's Rieder Sees an Epic Rebalancing of Equities",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-06T14:50:22Z",
+    "live": "none",
+    "minutes": 6.2,
+    "thumbnail": "https://i.ytimg.com/vi/MeBm8MPqCVA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=MeBm8MPqCVA",
+    "notes": {
+      "headline": "BlackRock's Rick Rieder sees an epic equity rebalancing as real rates remain high",
+      "summary": "Rick Rieder, CIO of Global Fixed Income at BlackRock, discusses the strong US labor market and its implications for the economy and asset allocation. He notes that while the US economy remains strong, investors are undergoing a significant rebalancing from equities to fixed income due to attractive real rates. He argues that the current market environment is not a bubble, but rather a shift in positioning as investors look to lock in yields.",
+      "key_takeaways": [
+        "The US economy remains strong, as evidenced by the blowout jobs report.",
+        "Investors are rebalancing portfolios from equities to fixed income due to high real rates.",
+        "The equity market is not in a bubble; current valuations, particularly in tech, are reasonable.",
+        "Fixed income offers attractive opportunities for income and portfolio stability.",
+        "Financing opportunities in credit and real estate are significant due to rollover requirements."
+      ],
+      "macro": [
+        "Strong US labor market confirms a robust third and fourth quarter growth.",
+        "Real interest rates are high, providing a compelling case for fixed income.",
+        "Geopolitical tensions, including the war, remain a factor for market sentiment.",
+        "The US economy is showing resilience, with no immediate signs of a bubble."
+      ],
+      "priced_in": [
+        "Market participants are heavily positioned in AI-related equities.",
+        "Expectations of a strong growth economy are already reflected in current asset prices.",
+        "The market is adjusting to the reality of higher for longer interest rates."
+      ],
+      "fundamentals": [
+        "Earnings growth has been strong, particularly in the tech sector.",
+        "AI-related spending remains a key driver for tech companies.",
+        "Credit and real estate sectors face rollover financing needs.",
+        "Investment-grade credit offers attractive yield opportunities."
+      ],
+      "assets": [
+        {
+          "asset": "S&P 500",
+          "bias": "mixed",
+          "view": "Rieder views the market as undergoing a necessary rebalancing, with valuations in tech remaining reasonable despite recent volatility.",
+          "source": "Rick Rieder, BlackRock"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Real rates are high, making fixed income an attractive asset class for yield and stability.",
+          "source": "Rick Rieder, BlackRock"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Rick Rieder",
+          "role": "CIO of Global Fixed Income at BlackRock",
+          "key_view": "Investors are shifting from equities to fixed income to capitalize on high real rates and portfolio stability."
+        }
+      ],
+      "catalysts": [
+        "Upcoming weekend geopolitical developments",
+        "Continued evolution of AI-related spending"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 6,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-06T19:10:38Z"
+  },
+  {
     "id": "5_5NqBB4haM",
     "title": "Markets Focused More on AI Than Jobs Report, BlackRock's Rosenberg Says",
     "channel": "Bloomberg Television",
