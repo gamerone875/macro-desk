@@ -127,7 +127,8 @@
     "k2QEU1awmxA": 1,
     "OMoKnV4gg5w": 1,
     "3ja53uUZW4o": 1,
-    "VTirKvRxego": 1
+    "VTirKvRxego": 1,
+    "B3LGYMP6cz4": 1
   },
   "usage": {
     "2026-10-31": 432,
@@ -138,9 +139,9 @@
     "2026-11-05": 140,
     "2026-11-06": 0
   },
-  "last_run": "2026-11-06T08:25:40Z",
+  "last_run": "2026-11-06T08:34:11Z",
   "last_errors": [
-    "All models failed. Last error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    "Eisenkot Wins 67 Backers as Israel Awaits Government Decision, Oil Slides on Iran Talks: Server disconnected without sending a response."
   ],
   "brief_stale": false
 }
