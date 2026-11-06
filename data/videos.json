@@ -129,6 +129,64 @@
     "processed_at": "2026-11-06T17:21:18Z"
   },
   {
+    "id": "dajFNqplDVk",
+    "title": "Data Centers Will Get Built, Even With More Regulation, Bryson Says",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-06T12:19:03Z",
+    "live": "none",
+    "minutes": 3.7,
+    "thumbnail": "https://i.ytimg.com/vi/dajFNqplDVk/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=dajFNqplDVk",
+    "notes": {
+      "headline": "Matthew Bryson: Data center demand remains strong despite potential regulatory and capital challenges",
+      "summary": "Matthew Bryson of Wedbush Securities discusses the resilience of data center investment despite potential regulatory hurdles and capital constraints. He notes that the strong demand for AI-driven compute capacity is likely to overcome these challenges, as companies seek to capitalize on the massive market opportunities presented by AI. Bryson highlights that while there may be short-term delays in building out infrastructure, the long-term outlook for data center investment remains robust.",
+      "key_takeaways": [
+        "Data center demand is driven by AI, leading to increased profitability for providers.",
+        "Regulatory and capital challenges may cause short-term delays in infrastructure build-outs.",
+        "The market opportunity for AI is so large that investors will find ways to fund necessary projects.",
+        "Demand for server DRAM remains strong, with supply constraints persisting.",
+        "Companies are looking to AI to own the consumer relationship, further driving the need for compute."
+      ],
+      "macro": [
+        "Regulation and capital availability are potential headwinds for infrastructure projects.",
+        "The US market is fragmented across 50 states, impacting the speed of data center deployment."
+      ],
+      "priced_in": [
+        "Market participants are currently focused on portfolio performance rather than long-term investment prospects."
+      ],
+      "fundamentals": [
+        "Data center providers are seeing improved payback times and profitability.",
+        "Search and social media business models are being fundamentally transformed by AI.",
+        "Server DRAM demand continues to exceed supply."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bullish",
+          "view": "Long-term growth prospects for data center and AI companies remain strong despite recent market volatility.",
+          "source": "Matthew Bryson, Wedbush Securities"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Matthew Bryson",
+          "role": "Managing Director Equity Research, Hardware at Wedbush Securities",
+          "key_view": "Data center investment will continue to grow due to the massive market opportunity presented by AI, regardless of regulatory or capital challenges."
+        }
+      ],
+      "catalysts": [
+        "Future regulatory developments regarding data center construction",
+        "Long-term AI infrastructure build-out progress"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 4,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-06T19:11:22Z"
+  },
+  {
     "id": "F52GZaYynQE",
     "title": "Market Selloff, Volatility & Post-Midterm Repositioning",
     "channel": "Bloomberg Television",

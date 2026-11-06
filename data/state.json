@@ -84,6 +84,7 @@
     "c2kj0tzpzNk",
     "cdt5apDplCk",
     "cykinwAYQPw",
+    "dajFNqplDVk",
     "dzV14ydwv-Q",
     "fDgTEGVyyUU",
     "g0uZBGAcPFA",
@@ -140,11 +141,11 @@
     "2026-11-03": 47,
     "2026-11-04": 99,
     "2026-11-05": 140,
-    "2026-11-06": 111
+    "2026-11-06": 115
   },
-  "last_run": "2026-11-06T19:10:38Z",
+  "last_run": "2026-11-06T19:16:37Z",
   "last_errors": [
-    "Brief: All models failed. Last error: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-3-flash-preview is not found for API version v1, or is not supported for generateContent. Call ModelServ"
+    "Brief: All models failed. Last error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this err"
   ],
   "brief_stale": true
 }
