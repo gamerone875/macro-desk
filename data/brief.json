@@ -1,14 +1,14 @@
 {
-  "narrative": "Markets staged a modest relief bounce on Friday following a historic tech selloff, though the Nasdaq 100 and S&P 500 still logged their worst weekly performances since June. A resilient labor market was underscored by nonfarm payrolls surging 165k against a 70k estimate, reinforcing a higher-for-longer interest rate path. Investors are re-evaluating the AI trade amid growing scrutiny over capital discipline, infrastructure capex, and post-midterm regulatory headwinds for data centers. Meanwhile, crude oil suffered severe downward pressure, with Brent marking its worst weekly drop since April 2020. Although Q3 corporate earnings growth remains robust above 30%, persistent inflation keeps Federal Reserve easing paths uncertain ahead of upcoming price prints.",
+  "narrative": "US equity markets staged a modest relief bounce following a historic tech-led selloff, but ended the week with steep losses as the Nasdaq dropped 5%. Macro sentiment is dominated by resilient labor data, highlighted by nonfarm payrolls surging 165k versus the 70k expected, reinforcing a higher-for-longer interest rate regime and upward pressure on yields. Investors are closely scrutinizing the sustainability and capex discipline of the AI trade amid potential regulatory hurdles following midterm election gridlock. At the same time, crude oil experienced a major rout, with Brent dropping 14% on the week for its sharpest decline since April 2020. Fed policy remains strictly data-dependent, balancing persistent inflation concerns with mounting long-term fiscal debt strains.",
   "regime": "mixed",
   "assets": {
     "Nasdaq": {
       "bias": "mixed",
-      "why": "Anchors reported a roughly 1% Friday rebound, but the index finished down 5% on the week amid severe AI valuation re-pricing and capex concerns."
+      "why": "Anchors note the index rebounded about 1% on Friday but still shed 5% on the week amid a sharp AI valuation re-pricing and rising capex scrutiny."
     },
     "S&P 500": {
       "bias": "mixed",
-      "why": "Anchors noted a modest 0.31% daily gain, but the index had its worst week since June despite Q3 earnings growth tracking above 30%."
+      "why": "Anchors highlighted a modest 0.31% daily gain that was offset by its worst weekly performance since June, despite robust Q3 earnings growth tracking above 30%."
     },
     "Gold": {
       "bias": "neutral",
@@ -16,27 +16,32 @@
     },
     "Oil": {
       "bias": "bearish",
-      "why": "Anchors reported Brent crude plunging 14% on the week, recording its sharpest decline since April 2020."
+      "why": "Anchors reported that Brent crude plunged 14% over the week, recording its steepest decline since April 2020."
     }
   },
   "priced_in": [
-    "A higher-for-longer interest rate path and a more measured pace of Fed adjustments.",
-    "Congressional gridlock in Washington following the midterm elections.",
-    "Heightened caution regarding the near-term sustainability and capital intensity of the AI trade.",
-    "Potential rebound signals stemming from extreme readings on the Goldman Sachs Market Panic Gauge."
+    "US vehicle sales steady at approximately 16 million units annually",
+    "A higher-for-longer interest rate path and measured Fed easing pace following strong labor data",
+    "Washington congressional gridlock following midterm elections",
+    "Heightened caution and capital discipline surrounding AI infrastructure capex",
+    "Potential technical rebound signals from extreme readings on the Goldman Sachs Market Panic Gauge"
   ],
   "debates": [
-    "AI infrastructure build-out pacing and capital discipline pressures on hyper-scalers versus ongoing capital appetite for foundational AI models, evidenced by OpenAI's $1.25 trillion valuation.",
-    "Resilient corporate earnings growth (>30%) versus consumer spending strength being partly masked and driven by persistent inflation."
+    "Fed policy approach: Tom Barkin stresses purely data-dependent navigation tracking turning points, whereas Glenn Hubbard warns higher-for-longer rates risk triggering a compounding negative fiscal debt loop",
+    "AI trade outlook: Scrutiny over capex discipline and slower infrastructure build-out versus ongoing mega-valuation appetite, evidenced by OpenAI's $1.25 trillion funding round"
   ],
   "watch_next": [
     "Skydance earnings report on Monday",
-    "US CPI and PPI inflation reports next week",
-    "US jobless claims release",
-    "December 11th US government funding deadline"
+    "Upcoming US CPI and PPI inflation reports next week",
+    "US weekly jobless claims release",
+    "Upcoming US regional growth and labor market data releases",
+    "European policy announcements regarding pension and welfare fiscal reforms",
+    "December 11th US government funding deadline",
+    "2032 projected exhaustion of US Social Security trust funds"
   ],
-  "generated_at": "2026-11-07T17:38:16Z",
+  "generated_at": "2026-11-07T18:22:17Z",
   "based_on": [
+    "UACTCWikfLM",
     "HTuMh12kgUA"
   ],
   "model": "gemini-3.8-flash"

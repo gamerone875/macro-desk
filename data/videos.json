@@ -1,5 +1,111 @@
 [
   {
+    "id": "UACTCWikfLM",
+    "title": "Wall Street Week | Blue Wave Economic Impacts, European Welfare Woes",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-07T00:00:08Z",
+    "live": "none",
+    "minutes": 56.5,
+    "thumbnail": "https://i.ytimg.com/vi/UACTCWikfLM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=UACTCWikfLM",
+    "notes": {
+      "headline": "Fed's Barkin and Glenn Hubbard assess US growth, manufacturing, and long-term fiscal strains",
+      "summary": "Glenn Hubbard and Richmond Fed President Tom Barkin analyze the post-election US economic landscape, highlighting regional divergence, trade policy effects, and manufacturing headwinds. While regional manufacturing faces tariff adjustments and shifting automotive demand, broader economic priorities remain centered on growth, workforce adaptation, and living costs. Concurrently, long-term fiscal sustainability presents serious risks across major economies, driven by rising US debt trajectories, looming entitlement shortfalls, and aging demographics pressuring European social welfare systems.",
+      "key_takeaways": [
+        "Voter concerns are centered on living costs, making economic growth and participation crucial policy priorities.",
+        "US regional economies display divergence, with government-spending-reliant areas underperforming manufacturing regions.",
+        "Higher interest rates risk creating a negative fiscal loop as national debt and entitlement costs rise.",
+        "Manufacturing sectors face varied impacts from tariffs, prompting companies to focus on cost reduction.",
+        "European welfare systems and pensions face long-term structural strain due to aging demographics.",
+        "Fed policy remains data-dependent as policymakers synthesize hard data with qualitative regional insights."
+      ],
+      "macro": [
+        "Fed's Barkin emphasizes synthesizing hard data and qualitative business feedback to detect economic turning points.",
+        "Higher-for-longer interest rates exacerbate US fiscal deficits and debt servicing burdens.",
+        "Trade policy and tariffs have measurable price effects and require active mitigation for affected workforces.",
+        "European social welfare programs and OECD pension models face acute fiscal pressure from demographic aging.",
+        "Global growth outlook is tied to major economies balancing fiscal choices between defense and social spending."
+      ],
+      "priced_in": [
+        "Market expectations for US vehicle sales remain consistent at approximately 16 million units annually."
+      ],
+      "fundamentals": [
+        "Manufacturing firms are heavily focused on cost containment amid lingering inflation and tariffs.",
+        "Automotive industry performance is mixed, with demand shifting back toward internal combustion engines.",
+        "Pharmaceutical investments are rising in North Carolina and Virginia supported by trade agreements.",
+        "Technological advances, including AI, are driving significant structural change across the labor market."
+      ],
+      "assets": [
+        {
+          "asset": "Rates",
+          "bias": "bearish",
+          "view": "Interest rates are likely to stay higher for longer, fueling a negative fiscal loop.",
+          "source": "Glenn Hubbard, former Council of Economic Advisers Chair"
+        },
+        {
+          "asset": "Rates",
+          "bias": "neutral",
+          "view": "Fed policy remains strictly data-dependent with a focus on identifying economic turning points.",
+          "source": "Tom Barkin, Federal Reserve Bank of Richmond"
+        },
+        {
+          "asset": "Other: Automotive",
+          "bias": "mixed",
+          "view": "The auto sector shows mixed performance alongside a strategic shift back toward internal combustion engines.",
+          "source": "Brian Brunzell, Gestamp"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Glenn Hubbard",
+          "role": "Former Council of Economic Advisers Chair",
+          "key_view": "Policy must prioritize economic growth, broad workforce participation, and long-term fiscal sustainability."
+        },
+        {
+          "name": "Tom Barkin",
+          "role": "President, Federal Reserve Bank of Richmond",
+          "key_view": "Navigating current economic cross-currents requires synthesizing hard data with qualitative business feedback."
+        },
+        {
+          "name": "Brian Brunzell",
+          "role": "VP of Sales & Strategic Planning, Gestamp",
+          "key_view": "Automakers face divergent demand drivers and are adjusting via cost reductions and internal combustion engines."
+        },
+        {
+          "name": "Anton Hemerijck",
+          "role": "Professor, European University Institute",
+          "key_view": "European welfare states face a fiscal sustainability challenge rather than a direct tradeoff with defense."
+        },
+        {
+          "name": "Monika Queisser",
+          "role": "Head of Social Policy, OECD",
+          "key_view": "Aging demographics across OECD economies exert significant fiscal strain on public pension systems."
+        },
+        {
+          "name": "Chrystia Freeland",
+          "role": "Former Deputy Prime Minister, Canada",
+          "key_view": "Maintaining strong social safety nets requires strict underlying fiscal responsibility."
+        },
+        {
+          "name": "Robert Post",
+          "role": "Professor, Yale Law School",
+          "key_view": "Electoral integrity is foundational for democratic and economic institutional stability."
+        }
+      ],
+      "catalysts": [
+        "2032: Projected exhaustion of US Social Security trust funds.",
+        "Upcoming US regional growth and labor market data releases.",
+        "European policy announcements regarding pension and welfare fiscal reforms."
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 56,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-07T18:20:37Z"
+  },
+  {
     "id": "HTuMh12kgUA",
     "title": "Markets Rebound After Historic Tech Selloff",
     "channel": "Bloomberg Television",
