@@ -1,5 +1,129 @@
 [
   {
+    "id": "CMOo74j2Lzo",
+    "title": "Chain Reaction Tech Selloff, New Chief of Staff",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-07T17:15:41Z",
+    "live": "none",
+    "minutes": 145.4,
+    "thumbnail": "https://i.ytimg.com/vi/CMOo74j2Lzo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=CMOo74j2Lzo",
+    "notes": {
+      "headline": "Tech selloff and strong jobs data heighten December rate hike odds amid political shifts",
+      "summary": "Equities experienced sharp volatility as semiconductor and tech stocks pulled back amid systematic fund unwinding and skepticism around AI capital expenditures. Concurrently, a blowout October jobs report showed 165,000 nonfarm payrolls, lifting market-implied odds of a December Fed rate hike to 76%. Markets are also digesting a divided post-midterm political backdrop and the appointment of Stephen Miller as White House Chief of Staff. Meanwhile, Berkshire Hathaway's record $357 billion cash pile highlighted corporate caution amid lingering macroeconomic uncertainty.",
+      "key_takeaways": [
+        "October nonfarm payrolls surged to 165k versus 70k expected, lowering unemployment to 4.1% and raising December rate hike odds to 76%.",
+        "Semiconductor stocks led tech lower with the SOX index sliding 12% in a systematic fund-driven technical correction.",
+        "Analysts maintain that the secular AI innovation cycle remains intact despite short-term crowded trade unwinds.",
+        "Post-midterm Washington gridlock is viewed as market-friendly, reducing the probability of abrupt policy overhauls.",
+        "Stephen Miller's appointment as White House Chief of Staff highlights potential shifts in foreign policy and fiscal negotiations.",
+        "Berkshire Hathaway accumulated a record $357 billion cash hoard alongside $9.6 billion in Q3 share repurchases."
+      ],
+      "macro": [
+        "Resilient labor market data (165k payrolls, 4.1% unemployment) complicates the Federal Reserve's rate trajectory for December.",
+        "Post-election divided government provides historical gridlock that markets view favorably.",
+        "Shifts in executive administration personnel could influence trade policy, relations with Iran, and the conflict in Ukraine.",
+        "December fiscal budget deadline and potential government shutdown risks remain economic overhangs."
+      ],
+      "priced_in": [
+        "Market pricing a 76% probability of a Federal Reserve rate hike in December, up from 65%.",
+        "Expectations for a less aggressive, more elongated AI enterprise capital expenditure ramp.",
+        "Washington legislative gridlock following the midterm election results."
+      ],
+      "fundamentals": [
+        "Semiconductor shares face near-term headwinds from AI capex scrutiny and systematic fund selling.",
+        "Berkshire Hathaway operating earnings fell 5.8% year-over-year to $12.7 billion, with insurance underwriting profits dropping 50%.",
+        "Microsoft is winding down rental arrangements for Oracle AI computing capacity due to evolving specifications.",
+        "Labor expansion showed broadening into manufacturing and warehousing beyond healthcare and education."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "mixed",
+          "view": "Undergoing a steep correction driven by systematic selling, though the secular innovation cycle remains early.",
+          "source": "Amanda Agati, PNC Asset Management"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Strong jobs data has significantly increased the probability of a December Fed rate hike.",
+          "source": "Anna Wong, Bloomberg Economics"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "Historically, the index posts gains in the 12 months following midterm elections.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "neutral",
+          "view": "Prices are tracking potential geopolitical shifts regarding Ukraine and Iran energy infrastructure.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Other: AI",
+          "bias": "bullish",
+          "view": "AI long-term investment requires safety built into the architecture with strict governance frameworks.",
+          "source": "Ken Chenault, General Catalyst"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Anna Wong",
+          "role": "Chief US Economist, Bloomberg Economics",
+          "key_view": "The strong labor report clears the deck for the Federal Reserve to hike rates in December."
+        },
+        {
+          "name": "Dan Ives",
+          "role": "Partner and Senior Managing Director, Yorkville Ives & Co.",
+          "key_view": "The tech selloff is a technical correction rather than a break in the fundamental long-term AI growth narrative."
+        },
+        {
+          "name": "Amanda Agati",
+          "role": "Chief Investment Officer, PNC Asset Management",
+          "key_view": "Investors should avoid an overly short stance on AI and tech because the innovation cycle is in its early innings."
+        },
+        {
+          "name": "Matthew Palazola",
+          "role": "Senior P&C Insurance Equity Analyst, Bloomberg Intelligence",
+          "key_view": "Berkshire Hathaway's record cash pile and buybacks reflect strict capital allocation discipline."
+        },
+        {
+          "name": "Ken Chenault",
+          "role": "Chairman and Managing Director, General Catalyst",
+          "key_view": "Purpose-driven leadership, diverse merit-based governance, and built-in safety are required for enduring AI success."
+        },
+        {
+          "name": "Chris Kennedy",
+          "role": "Economic Statecraft Lead, Bloomberg Economics",
+          "key_view": "Personnel shifts in Washington signal significant implications for foreign policy toward Russia and Iran."
+        },
+        {
+          "name": "Joe Mathieu",
+          "role": "Co-Host, Balance of Power",
+          "key_view": "Stephen Miller's appointment as Chief of Staff signals contentious relations between the White House and Democrats."
+        },
+        {
+          "name": "Ashley Koning",
+          "role": "Director, Rutgers-Eagleton Center for Public Interest Polling",
+          "key_view": "Cost of living and democratic governance were the primary issues dictating midterm voter behavior."
+        }
+      ],
+      "catalysts": [
+        "December Federal Reserve FOMC policy meeting",
+        "December federal budget deadline and potential government shutdown",
+        "Upcoming US-Russia talks and foreign policy developments"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 145,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-07T19:44:32Z"
+  },
+  {
     "id": "UACTCWikfLM",
     "title": "Wall Street Week | Blue Wave Economic Impacts, European Welfare Woes",
     "channel": "Bloomberg Television",

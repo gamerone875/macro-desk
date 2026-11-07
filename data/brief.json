@@ -1,14 +1,14 @@
 {
-  "narrative": "US equity markets staged a modest relief bounce following a historic tech-led selloff, but ended the week with steep losses as the Nasdaq dropped 5%. Macro sentiment is dominated by resilient labor data, highlighted by nonfarm payrolls surging 165k versus the 70k expected, reinforcing a higher-for-longer interest rate regime and upward pressure on yields. Investors are closely scrutinizing the sustainability and capex discipline of the AI trade amid potential regulatory hurdles following midterm election gridlock. At the same time, crude oil experienced a major rout, with Brent dropping 14% on the week for its sharpest decline since April 2020. Fed policy remains strictly data-dependent, balancing persistent inflation concerns with mounting long-term fiscal debt strains.",
+  "narrative": "Markets are grappling with resilient US labor data after October nonfarm payrolls surged to 165k versus 70k expected, pushing unemployment to 4.1% and raising December Fed rate hike odds to 76%. Strong data and lingering inflation are driving yields higher and cementing a higher-for-longer policy path. Equities suffered a severe tech-led selloff, with the Nasdaq sliding 5% on the week despite a modest Friday bounce, as systematic fund selling hit semiconductors and investors scrutinized AI capital discipline. Brent crude plummeted 14% across the week in its steepest drop since April 2020 amid shifting energy infrastructure risks and geopolitical developments. Meanwhile, post-midterm legislative gridlock is being digested as market-friendly, though budget shutdown deadlines and trade policy shifts remain key macro overhangs.",
   "regime": "mixed",
   "assets": {
     "Nasdaq": {
       "bias": "mixed",
-      "why": "Anchors note the index rebounded about 1% on Friday but still shed 5% on the week amid a sharp AI valuation re-pricing and rising capex scrutiny."
+      "why": "Suffered its worst weekly drop since June (-5%) amid heavy AI valuation re-pricing and a 12% slide in the SOX index, though Amanda Agati notes the secular innovation cycle remains early despite the systematic unwind."
     },
     "S&P 500": {
       "bias": "mixed",
-      "why": "Anchors highlighted a modest 0.31% daily gain that was offset by its worst weekly performance since June, despite robust Q3 earnings growth tracking above 30%."
+      "why": "Anchors note the index rebounded 0.31% on Friday but had its worst week since June, balanced against strong Q3 earnings growth tracking above 30% and historical post-midterm 12-month gains."
     },
     "Gold": {
       "bias": "neutral",
@@ -16,31 +16,32 @@
     },
     "Oil": {
       "bias": "bearish",
-      "why": "Anchors reported that Brent crude plunged 14% over the week, recording its steepest decline since April 2020."
+      "why": "Brent crude tumbled 14% on the week in its largest decline since April 2020, with anchors noting prices are tracking shifts regarding Ukraine and Iran energy infrastructure."
     }
   },
   "priced_in": [
-    "US vehicle sales steady at approximately 16 million units annually",
-    "A higher-for-longer interest rate path and measured Fed easing pace following strong labor data",
-    "Washington congressional gridlock following midterm elections",
-    "Heightened caution and capital discipline surrounding AI infrastructure capex",
-    "Potential technical rebound signals from extreme readings on the Goldman Sachs Market Panic Gauge"
+    "76% probability of a Federal Reserve rate hike in December, up from 65%",
+    "A higher-for-longer interest rate path and a more measured pace of Fed adjustments",
+    "Washington legislative gridlock following the midterm election results",
+    "A less aggressive, more elongated AI enterprise capital expenditure ramp and heightened capex scrutiny",
+    "Potential rebound signals from extreme readings on the Goldman Sachs Market Panic Gauge",
+    "US vehicle sales consistent at approximately 16 million units annually"
   ],
   "debates": [
-    "Fed policy approach: Tom Barkin stresses purely data-dependent navigation tracking turning points, whereas Glenn Hubbard warns higher-for-longer rates risk triggering a compounding negative fiscal debt loop",
-    "AI trade outlook: Scrutiny over capex discipline and slower infrastructure build-out versus ongoing mega-valuation appetite, evidenced by OpenAI's $1.25 trillion funding round"
+    "Amanda Agati views the steep tech pullback as a systematic fund-driven technical correction within an early secular AI cycle, versus growing market scrutiny over hyperscaler capex and slower build-out pacing",
+    "Glenn Hubbard warns that higher-for-longer interest rates risk creating a negative fiscal loop with debt servicing, whereas Tom Barkin insists Fed policy remains strictly data-dependent across hard data and regional turning points"
   ],
   "watch_next": [
     "Skydance earnings report on Monday",
     "Upcoming US CPI and PPI inflation reports next week",
-    "US weekly jobless claims release",
-    "Upcoming US regional growth and labor market data releases",
-    "European policy announcements regarding pension and welfare fiscal reforms",
-    "December 11th US government funding deadline",
-    "2032 projected exhaustion of US Social Security trust funds"
+    "US jobless claims release",
+    "Upcoming US-Russia talks and foreign policy developments",
+    "December 11th US government funding deadline and shutdown risk",
+    "December Federal Reserve FOMC policy meeting"
   ],
-  "generated_at": "2026-11-07T18:22:17Z",
+  "generated_at": "2026-11-07T19:46:31Z",
   "based_on": [
+    "CMOo74j2Lzo",
     "UACTCWikfLM",
     "HTuMh12kgUA"
   ],
