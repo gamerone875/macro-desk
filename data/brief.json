@@ -1,45 +1,43 @@
 {
-  "narrative": "Markets are navigating the aftermath of US midterm elections, where a Democratic sweep is expected to result in government gridlock and policy restraint. While the S&P 500 and Nasdaq 100 initially rallied as election uncertainty eased, a sharp rotation is underway out of tech and semiconductors into the consumer sector. This shift is fueled by disappointing guidance from chipmakers and growing skepticism regarding the sustainability of AI infrastructure returns. Concurrently, oil prices have collapsed on optimism for a resolution to the Iran conflict, while gold has surged to record levels above $4,000.",
+  "narrative": "Markets staged a modest relief bounce on Friday following a historic tech selloff, though the Nasdaq 100 and S&P 500 still logged their worst weekly performances since June. A resilient labor market was underscored by nonfarm payrolls surging 165k against a 70k estimate, reinforcing a higher-for-longer interest rate path. Investors are re-evaluating the AI trade amid growing scrutiny over capital discipline, infrastructure capex, and post-midterm regulatory headwinds for data centers. Meanwhile, crude oil suffered severe downward pressure, with Brent marking its worst weekly drop since April 2020. Although Q3 corporate earnings growth remains robust above 30%, persistent inflation keeps Federal Reserve easing paths uncertain ahead of upcoming price prints.",
   "regime": "mixed",
   "assets": {
     "Nasdaq": {
       "bias": "mixed",
-      "why": "Winnie Hsu notes a bearish rotation out of tech as investors re-evaluate the AI narrative, though anchors highlight a rally as election uncertainty dissipated."
+      "why": "Anchors reported a roughly 1% Friday rebound, but the index finished down 5% on the week amid severe AI valuation re-pricing and capex concerns."
     },
     "S&P 500": {
-      "bias": "bullish",
-      "why": "Anchors report the index rallied as election uncertainty eased, with the equal-weighted version reaching an all-time high."
+      "bias": "mixed",
+      "why": "Anchors noted a modest 0.31% daily gain, but the index had its worst week since June despite Q3 earnings growth tracking above 30%."
     },
     "Gold": {
-      "bias": "bullish",
-      "why": "Stephen Carroll notes prices moved back above the $4,000 psychological level amid broader market uncertainty."
+      "bias": "neutral",
+      "why": "Gold was not covered in the provided notes."
     },
     "Oil": {
       "bias": "bearish",
-      "why": "Oliver Crook reports prices fell nearly 10% on expectations of a potential end to the Iran war and general demand concerns."
+      "why": "Anchors reported Brent crude plunging 14% on the week, recording its sharpest decline since April 2020."
     }
   },
   "priced_in": [
-    "A Bank of England rate hike",
-    "Easing of geopolitical tensions in the Middle East",
-    "Potential for a more restrictive regulatory environment and data center moratoriums",
-    "A more muted election reaction compared to previous cycles"
+    "A higher-for-longer interest rate path and a more measured pace of Fed adjustments.",
+    "Congressional gridlock in Washington following the midterm elections.",
+    "Heightened caution regarding the near-term sustainability and capital intensity of the AI trade.",
+    "Potential rebound signals stemming from extreme readings on the Goldman Sachs Market Panic Gauge."
   ],
   "debates": [
-    "Sustainability of AI revenue growth versus current capacity constraints",
-    "Whether government gridlock will successfully restrain massive tax and spending bills",
-    "The impact of a Democratic sweep on future fiscal deficits"
+    "AI infrastructure build-out pacing and capital discipline pressures on hyper-scalers versus ongoing capital appetite for foundational AI models, evidenced by OpenAI's $1.25 trillion valuation.",
+    "Resilient corporate earnings growth (>30%) versus consumer spending strength being partly masked and driven by persistent inflation."
   ],
   "watch_next": [
-    "Bank of England interest rate decision",
-    "US initial jobless claims data",
-    "Monthly US jobs report (Friday)",
-    "December Fed meeting"
+    "Skydance earnings report on Monday",
+    "US CPI and PPI inflation reports next week",
+    "US jobless claims release",
+    "December 11th US government funding deadline"
   ],
-  "generated_at": "2026-11-05T11:12:34Z",
+  "generated_at": "2026-11-07T17:38:16Z",
   "based_on": [
-    "hsTxsmcEAL8",
-    "-Jie5FdfJfw"
+    "HTuMh12kgUA"
   ],
-  "model": "gemini-3-flash-preview"
+  "model": "gemini-3.8-flash"
 }

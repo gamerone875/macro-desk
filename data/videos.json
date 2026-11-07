@@ -1,5 +1,144 @@
 [
   {
+    "id": "HTuMh12kgUA",
+    "title": "Markets Rebound After Historic Tech Selloff",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-06T22:55:10Z",
+    "live": "none",
+    "minutes": 92.5,
+    "thumbnail": "https://i.ytimg.com/vi/HTuMh12kgUA/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=HTuMh12kgUA",
+    "notes": {
+      "headline": "US stocks rebound modestly after historic tech selloff, but weekly losses remain steep",
+      "summary": "Major US equity indices attempted a modest recovery on Friday, led by tech and resilient corporate earnings, following a severe weekly selloff fueled by AI valuation concerns. A stronger-than-expected nonfarm payrolls print of 165k reinforced economic resilience while diminishing expectations for near-term Fed easing and keeping yields elevated. Meanwhile, Brent crude recorded its worst weekly drop since April 2020, plunging 14%, as investors weighed geopolitical shifts and post-midterm policy uncertainties.",
+      "key_takeaways": [
+        "The S&P 500 and Nasdaq 100 mounted a relief bounce on Friday, but the Nasdaq still ended down 5% for its worst weekly stretch since June.",
+        "US nonfarm payrolls surged by 165k versus the 70k estimate, underscoring labor market resilience and a higher-for-longer rate backdrop.",
+        "Brent crude oil tumbled 14% on the week, marking its sharpest decline since April 2020.",
+        "The AI trade faces elevated scrutiny over capital discipline, build-out pacing, and potential regulatory constraints on data centers post-midterms.",
+        "Q3 S&P 500 earnings growth is tracking above 30%, though consumer spend gains are partly driven by persistent inflation.",
+        "DOJ cleared Fox's $22 billion acquisition of Roku, providing a tailwind for media and tech M&A."
+      ],
+      "macro": [
+        "US nonfarm payrolls rose by 165k against a 70k consensus estimate, signaling a resilient labor market.",
+        "Persistent inflation keeps Fed easing paths uncertain, with upcoming CPI and PPI prints viewed as critical.",
+        "Midterm election results point toward congressional gridlock and rising regulatory scrutiny around data center development.",
+        "US trade policy is transitioning away from free trade agreements toward industrial policy, domestic subsidies, and tariffs.",
+        "Allies are seeking greater burden-sharing, reducing reliance on the US as a 'global sheriff' in geopolitical conflicts.",
+        "Fiscal funding concerns linger ahead of the December 11th government funding deadline."
+      ],
+      "priced_in": [
+        "A higher-for-longer interest rate path and a more measured pace of Fed adjustments.",
+        "Gridlock in Washington following the midterm elections.",
+        "Heightened caution regarding the near-term sustainability and capital intensity of the AI trade.",
+        "Potential rebound signals from extreme readings on the Goldman Sachs Market Panic Gauge."
+      ],
+      "fundamentals": [
+        "S&P 500 Q3 corporate earnings growth is projected at over 30%.",
+        "Hyper-scalers face pressure to show capital discipline, slowing projected capex for AI infrastructure.",
+        "Airbnb gained ~12% on strong revenue growth and a share buyback program; Moderna rose ~5% on vaccine sales and cancer pipeline progress.",
+        "DraftKings tumbled ~21% on an earnings miss and cut to its 2026 outlook; Under Armour slid ~5% on margin compression.",
+        "Elanco Animal Health beat estimates and raised full-year guidance; Sweetgreen reported recovering post-outbreak sales momentum.",
+        "OpenAI secured fresh funding at a $1.25 trillion valuation, demonstrating ongoing capital appetite for foundational AI."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "mixed",
+          "view": "Rebounded about 1% on Friday but ended down 5% over the week amid heavy AI valuation re-pricing.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "mixed",
+          "view": "Gained 0.31% on the day but remains on track for its worst weekly performance since June.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Brent crude plunged 14% on the week, marking its largest weekly drop since April 2020.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "The 10-year Treasury yield is facing upward pressure from strong jobs data, curbing rate-pivot hopes.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Julian Emanuel",
+          "role": "Senior Managing Director of Equity, Derivatives & Quant Strategy, Evercore ISI",
+          "key_view": "The market is near the end of its valuation adjustment, and recent volatility offers a solid buying opportunity supported by strong earnings."
+        },
+        {
+          "name": "Nelson Yu",
+          "role": "Head of Equities, AllianceBernstein",
+          "key_view": "Investors should diversify away from pure AI plays into high-quality defensive sectors like healthcare and defense."
+        },
+        {
+          "name": "Jeannette Lowe",
+          "role": "Managing Director of Policy Research, Baird Strategas",
+          "key_view": "Post-midterm policy dynamics will likely increase regulatory scrutiny and elevate costs for data center build-outs."
+        },
+        {
+          "name": "Mimi Duff",
+          "role": "Head of NY Office and Senior Client Advisor, Gentrust",
+          "key_view": "The AI infrastructure rollout is likely to adopt a more measured pace amid policy and geopolitical constraints."
+        },
+        {
+          "name": "Ian Bremmer",
+          "role": "President and Founder, Eurasia Group and G0 Media",
+          "key_view": "The world is shifting past 'peak Trump' as global allies seek to reduce dependence on the US."
+        },
+        {
+          "name": "Ryan VanGrack",
+          "role": "Vice Chair, Coinbase",
+          "key_view": "Crypto policy remains a bipartisan effort, with progress continuing through regulatory frameworks despite legislative inertia."
+        },
+        {
+          "name": "Aaron Cheris",
+          "role": "Global Head of Retail, Bain & Company",
+          "key_view": "Holiday retail sales may surpass $1 trillion for the first time, though top-line growth is driven primarily by inflation rather than unit volumes."
+        },
+        {
+          "name": "Trina Spear",
+          "role": "CEO & Co-Founder, Figs",
+          "key_view": "Demand continues to exceed supply, prompting an expansion of the company's manufacturing footprint."
+        },
+        {
+          "name": "Jonathan Neman",
+          "role": "CEO & Co-Founder, Sweetgreen",
+          "key_view": "Sales momentum is recovering soundly following earlier headwinds from a food safety outbreak."
+        },
+        {
+          "name": "Jeff Simmons",
+          "role": "CEO & President, Elanco Animal Health",
+          "key_view": "Broad-based growth and productivity improvements across all operating segments are driving upgraded full-year performance."
+        },
+        {
+          "name": "Eugene Remm",
+          "role": "Co-Founder & Partner, Catch Hospitality Group",
+          "key_view": "High-end consumer spending on experiential dining remains insulated from broader economic headwinds."
+        }
+      ],
+      "catalysts": [
+        "Upcoming US CPI and PPI inflation reports next week",
+        "US jobless claims release",
+        "Skydance earnings report on Monday",
+        "December 11th US government funding deadline"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 92,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-07T17:34:30Z"
+  },
+  {
     "id": "MeBm8MPqCVA",
     "title": "BlackRock's Rieder Sees an Epic Rebalancing of Equities",
     "channel": "Bloomberg Television",
