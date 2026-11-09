@@ -1,37 +1,42 @@
 {
-  "narrative": "The market is experiencing a broad-based risk-on rally, with all S&P 500 industry groups finishing higher. Tech and semiconductor stocks are leading the charge, fueled by a revival in the AI trade and an Oppenheimer upgrade for AMD. Lower crude oil prices are providing a tailwind for broader equity market optimism. Investors are now shifting their focus toward upcoming CPI data, which serves as the final inflation print before the Fed's early December meeting. Market participants are currently bracing for a potential rate hike before the year concludes.",
+  "narrative": "Markets experienced a broad-based rally across equities as dip-buying returned, with both the S&P 500 and Nasdaq trading near session highs despite an investigation into Nvidia CEO Jensen Huang. Investors rotated into semiconductor peers such as AMD and broader AI plays, treating Nvidia's decline as company-specific key-man risk. Crude oil plummeted sharply, with WTI dropping over 4-5% and Brent falling 7%, which helped fuel equity optimism. Meanwhile, gold pushed higher alongside equity gains. Macro focus remains centered on tomorrow's CPI print—the final reading before the Fed's early December decision—amid expectations of another potential rate hike by year-end and Washington political uncertainty following impeachment articles introduced against Defense Secretary Pete Hegseth.",
   "regime": "risk-on",
   "assets": {
     "Nasdaq": {
       "bias": "bullish",
-      "why": "The index saw a strong 3.4% rebound driven by significant gains in AI and semiconductor stocks."
+      "why": "The index surged 3.4% led by a strong rebound in semiconductor stocks and broader AI demand, shrugging off a 5% drop in Nvidia."
     },
     "S&P 500": {
       "bias": "bullish",
-      "why": "The market experienced a broad-based rally with all 11 industry groups finishing higher, led by the industrial sector."
+      "why": "Trading near session highs with broad-based participation as all 11 industry groups finished higher, led by industrials."
     },
     "Gold": {
-      "bias": "neutral",
-      "why": "Gold was not covered in the provided notes."
+      "bias": "bullish",
+      "why": "Advanced $33.49 an ounce to trade at $4,103 according to show anchors."
     },
     "Oil": {
       "bias": "bearish",
-      "why": "WTI prices fell 4.2% and crude oil dropped 5.6%, which anchors noted as a factor fueling market optimism."
+      "why": "Suffered a steep selloff with WTI dropping over 4-5% to $87.50 and Brent plunging 7% to $93.40."
     }
   },
   "priced_in": [
+    "Continued growth across the broader AI sector despite company-specific idiosyncratic risk",
+    "Rotation into alternative Mag 7 names and semiconductor competitors while Nvidia faces headwinds",
     "Another Fed rate hike before year-end",
-    "Potential end to the conflict involving the Secretary of Defense"
+    "A potential end to the conflict involving the Secretary of Defense"
   ],
   "debates": [],
   "watch_next": [
-    "CPI print (tomorrow)",
+    "CPI report (tomorrow morning)",
+    "Thomas Massie press conference (3:30 PM Wall Street time)",
+    "Nvidia earnings (November 17th)",
     "Fed rate decision (early December)",
     "Warner Bros. Discovery results (October 6th)"
   ],
-  "generated_at": "2026-11-09T22:45:11Z",
+  "generated_at": "2026-11-09T23:36:37Z",
   "based_on": [
+    "pTqqHEYzZ2Y",
     "Sy0oyx8ZwqY"
   ],
-  "model": "gemini-3.1-flash-lite"
+  "model": "gemini-3.8-flash"
 }

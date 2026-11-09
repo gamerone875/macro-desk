@@ -1,5 +1,113 @@
 [
   {
+    "id": "pTqqHEYzZ2Y",
+    "title": "Nvidia Shares Fall Amid CEO Probe",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-09T22:04:55Z",
+    "live": "none",
+    "minutes": 52.4,
+    "thumbnail": "https://i.ytimg.com/vi/pTqqHEYzZ2Y/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=pTqqHEYzZ2Y",
+    "notes": {
+      "headline": "Nvidia drops over 5% on CEO probe while broader tech and market rally",
+      "summary": "Nvidia shares dropped more than 5% following news of an investigation into CEO Jensen Huang regarding an affair with a suspected Chinese spy. Despite the key-man risk and scrutiny over US-China ties, the broader market rallied, with the S&P 500 and Nasdaq 100 gaining as investors rotated into other Mag 7 and AI-related stocks. Analysts noted that while competitive threats like Google's TPUs and AMD loom, long-term AI infrastructure demand and near-term fundamentals remain intact.",
+      "key_takeaways": [
+        "Nvidia shares fell over 5% following news of an investigation into CEO Jensen Huang.",
+        "The broader market and AI trade rallied, with the S&P 500 and Nasdaq 100 trading near session highs.",
+        "Analysts view the probe as a key-man risk that is unlikely to derail near-term revenue estimates or long-term AI infrastructure demand.",
+        "Competitors showed strength, with AMD rallying on an analyst upgrade and Google rolling out new AI chips (TPUs).",
+        "Crude oil plunged, with WTI dropping over 5% to $87.50 and Brent down 7% to $93.40.",
+        "Sable Offshore Corp dropped significantly after losing a major crude customer.",
+        "US Representative Thomas Massie introduced articles of impeachment against Defense Secretary Pete Hegseth."
+      ],
+      "macro": [
+        "Geopolitical tensions and tech export controls surrounding US-China relations remain a central focus.",
+        "Political uncertainty in Washington increased following an impeachment attempt against Defense Secretary Pete Hegseth.",
+        "Growing concern regarding the concentration of power in individual corporate leaders and tech giants."
+      ],
+      "priced_in": [
+        "Continued growth across the broader AI sector despite company-specific idiosyncratic risk.",
+        "Rotation into alternative Mag 7 names and semiconductor competitors while Nvidia faces headwinds."
+      ],
+      "fundamentals": [
+        "Nvidia market capitalization stands at $4.26 trillion despite the session's decline.",
+        "AI chip demand remains robust, though competitive pressure is rising from Google's new TPUs and AMD.",
+        "Crude oil prices saw a steep drop with WTI at $87.50 and Brent at $93.40 per barrel.",
+        "Sable Offshore faces revenue headwinds following the loss of a major crude customer."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bullish",
+          "view": "The index is surging as investors favor the broader AI trade despite Nvidia's specific issues.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "Trading near session highs as investors return to the broader market.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bullish",
+          "view": "Up $33.49 an ounce, trading at $4,103.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Experiencing a major selloff, with WTI down over 5% to $87.50 and Brent down 7% to $93.40.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Other: Nvidia",
+          "bias": "bearish",
+          "view": "Shares dropped over 5% following news of an investigation into CEO Jensen Huang.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Ian King",
+          "role": "Bloomberg News US Semiconductor Reporter",
+          "key_view": "The investigation into Jensen Huang and potential heightened oversight of Nvidia's China ties could carry major implications for the company and the AI sector."
+        },
+        {
+          "name": "Michael Shepard",
+          "role": "Bloomberg News Senior Editor, Technology & Strategic Industries",
+          "key_view": "The impeachment move against Defense Secretary Pete Hegseth and the political climate in Washington create uncertainty and could prompt more scrutiny of tech."
+        },
+        {
+          "name": "Elizabeth Saunders",
+          "role": "Professor of Political Science at Columbia University",
+          "key_view": "The concentration of power in individual corporate leaders and companies elevates geopolitical risk and market volatility."
+        },
+        {
+          "name": "Mandeep Singh",
+          "role": "Global Head of Tech Research at Bloomberg Intelligence",
+          "key_view": "Nvidia's decline may be a net positive for competitors, while the broader AI market remains solid despite the probe."
+        },
+        {
+          "name": "Natalia Kniazhevich",
+          "role": "Equities Reporter at Bloomberg News",
+          "key_view": "The probe into Jensen Huang represents key-man risk but should not alter near-term revenue estimates or product ramp-ups."
+        }
+      ],
+      "catalysts": [
+        "CPI report tomorrow morning",
+        "Press conference by Thomas Massie at 3:30 PM Wall Street time",
+        "Nvidia earnings (November 17th)"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 52,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-09T23:34:44Z"
+  },
+  {
     "id": "Sy0oyx8ZwqY",
     "title": "AMD Surges 13% as Wall Street Revives AI Chip Trade | Closing Bell",
     "channel": "Bloomberg Television",
