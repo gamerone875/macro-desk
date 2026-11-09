@@ -1,5 +1,74 @@
 [
   {
+    "id": "Sy0oyx8ZwqY",
+    "title": "AMD Surges 13% as Wall Street Revives AI Chip Trade | Closing Bell",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-09T21:20:49Z",
+    "live": "none",
+    "minutes": 10.4,
+    "thumbnail": "https://i.ytimg.com/vi/Sy0oyx8ZwqY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Sy0oyx8ZwqY",
+    "notes": {
+      "headline": "Broad-based stock market rally led by AI and tech as dip-buying returns",
+      "summary": "Major US indices finished the session in the green, with the Nasdaq 100 up 3.4% and the S&P 500 up 2.3%. Investors are showing renewed interest in tech and AI-related stocks, while crude oil prices continue to decline. The market is now looking ahead to the upcoming CPI print and its implications for the Fed's next rate decision.",
+      "key_takeaways": [
+        "Broad-based rally across all S&P 500 industry groups.",
+        "Significant rebound in tech and semiconductor stocks.",
+        "Crude oil prices down 4.2% (WTI), contributing to market optimism.",
+        "Investors are closely watching upcoming CPI data and Fed policy expectations.",
+        "Skydance and Lucid Group reported earnings with mixed market reactions."
+      ],
+      "macro": [
+        "CPI data expected tomorrow will be the final inflation print before the Fed's early December meeting.",
+        "Market anticipates another rate hike by year-end.",
+        "Geopolitical concerns remain, with potential impacts on the Secretary of Defense."
+      ],
+      "priced_in": [
+        "Market expects another rate hike before the year-end.",
+        "Investors are pricing in a potential end to the conflict involving the Secretary of Defense."
+      ],
+      "fundamentals": [
+        "Semiconductor sector up 6.9%, led by AMD (+13.3%) following an Oppenheimer upgrade.",
+        "Industrial sector led S&P 500 gains (+3.8%).",
+        "Skydance reported $7.03B in 3Q revenue and plans to bundle Paramount+ and HBO Max in 2027.",
+        "Lucid Group reported a 3Q loss and received a $1.75B loan boost from Saudi Arabia's Public Investment Fund.",
+        "Hims & Hers Health reported a 3Q loss per share of 14 cents, missing estimates."
+      ],
+      "assets": [
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "Broad-based rally with all 11 industry groups finishing higher.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bullish",
+          "view": "Strong rebound of 3.4% led by AI and semiconductor stocks.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "WTI down 4.2% and crude oil down 5.6%, fueling market optimism.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [],
+      "catalysts": [
+        "CPI print (tomorrow)",
+        "Fed rate decision (early December)",
+        "Warner Bros. Discovery results (October 6th)"
+      ],
+      "sentiment": "risk-on",
+      "covered_minutes": 10,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-09T22:40:52Z"
+  },
+  {
     "id": "CMOo74j2Lzo",
     "title": "Chain Reaction Tech Selloff, New Chief of Staff",
     "channel": "Bloomberg Television",

@@ -1,14 +1,14 @@
 {
-  "narrative": "Markets are grappling with resilient US labor data after October nonfarm payrolls surged to 165k versus 70k expected, pushing unemployment to 4.1% and raising December Fed rate hike odds to 76%. Strong data and lingering inflation are driving yields higher and cementing a higher-for-longer policy path. Equities suffered a severe tech-led selloff, with the Nasdaq sliding 5% on the week despite a modest Friday bounce, as systematic fund selling hit semiconductors and investors scrutinized AI capital discipline. Brent crude plummeted 14% across the week in its steepest drop since April 2020 amid shifting energy infrastructure risks and geopolitical developments. Meanwhile, post-midterm legislative gridlock is being digested as market-friendly, though budget shutdown deadlines and trade policy shifts remain key macro overhangs.",
-  "regime": "mixed",
+  "narrative": "The market is experiencing a broad-based risk-on rally, with all S&P 500 industry groups finishing higher. Tech and semiconductor stocks are leading the charge, fueled by a revival in the AI trade and an Oppenheimer upgrade for AMD. Lower crude oil prices are providing a tailwind for broader equity market optimism. Investors are now shifting their focus toward upcoming CPI data, which serves as the final inflation print before the Fed's early December meeting. Market participants are currently bracing for a potential rate hike before the year concludes.",
+  "regime": "risk-on",
   "assets": {
     "Nasdaq": {
-      "bias": "mixed",
-      "why": "Suffered its worst weekly drop since June (-5%) amid heavy AI valuation re-pricing and a 12% slide in the SOX index, though Amanda Agati notes the secular innovation cycle remains early despite the systematic unwind."
+      "bias": "bullish",
+      "why": "The index saw a strong 3.4% rebound driven by significant gains in AI and semiconductor stocks."
     },
     "S&P 500": {
-      "bias": "mixed",
-      "why": "Anchors note the index rebounded 0.31% on Friday but had its worst week since June, balanced against strong Q3 earnings growth tracking above 30% and historical post-midterm 12-month gains."
+      "bias": "bullish",
+      "why": "The market experienced a broad-based rally with all 11 industry groups finishing higher, led by the industrial sector."
     },
     "Gold": {
       "bias": "neutral",
@@ -16,34 +16,22 @@
     },
     "Oil": {
       "bias": "bearish",
-      "why": "Brent crude tumbled 14% on the week in its largest decline since April 2020, with anchors noting prices are tracking shifts regarding Ukraine and Iran energy infrastructure."
+      "why": "WTI prices fell 4.2% and crude oil dropped 5.6%, which anchors noted as a factor fueling market optimism."
     }
   },
   "priced_in": [
-    "76% probability of a Federal Reserve rate hike in December, up from 65%",
-    "A higher-for-longer interest rate path and a more measured pace of Fed adjustments",
-    "Washington legislative gridlock following the midterm election results",
-    "A less aggressive, more elongated AI enterprise capital expenditure ramp and heightened capex scrutiny",
-    "Potential rebound signals from extreme readings on the Goldman Sachs Market Panic Gauge",
-    "US vehicle sales consistent at approximately 16 million units annually"
+    "Another Fed rate hike before year-end",
+    "Potential end to the conflict involving the Secretary of Defense"
   ],
-  "debates": [
-    "Amanda Agati views the steep tech pullback as a systematic fund-driven technical correction within an early secular AI cycle, versus growing market scrutiny over hyperscaler capex and slower build-out pacing",
-    "Glenn Hubbard warns that higher-for-longer interest rates risk creating a negative fiscal loop with debt servicing, whereas Tom Barkin insists Fed policy remains strictly data-dependent across hard data and regional turning points"
-  ],
+  "debates": [],
   "watch_next": [
-    "Skydance earnings report on Monday",
-    "Upcoming US CPI and PPI inflation reports next week",
-    "US jobless claims release",
-    "Upcoming US-Russia talks and foreign policy developments",
-    "December 11th US government funding deadline and shutdown risk",
-    "December Federal Reserve FOMC policy meeting"
+    "CPI print (tomorrow)",
+    "Fed rate decision (early December)",
+    "Warner Bros. Discovery results (October 6th)"
   ],
-  "generated_at": "2026-11-07T19:46:31Z",
+  "generated_at": "2026-11-09T22:45:11Z",
   "based_on": [
-    "CMOo74j2Lzo",
-    "UACTCWikfLM",
-    "HTuMh12kgUA"
+    "Sy0oyx8ZwqY"
   ],
-  "model": "gemini-3.8-flash"
+  "model": "gemini-3.1-flash-lite"
 }
