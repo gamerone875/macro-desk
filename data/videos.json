@@ -1,5 +1,142 @@
 [
   {
+    "id": "QkoSYxEZ7qs",
+    "title": "Hot Inflation, AI Selloff & Anthropic IPO",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-10T22:58:22Z",
+    "live": "none",
+    "minutes": 89.8,
+    "thumbnail": "https://i.ytimg.com/vi/QkoSYxEZ7qs/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=QkoSYxEZ7qs",
+    "notes": {
+      "headline": "Hotter CPI data fuels rate hike fears, pressuring tech valuations and broader equities",
+      "summary": "Markets are grappling with hotter-than-expected CPI inflation, reinforcing expectations that the Federal Reserve will keep policy tighter for longer or hike rates further. The resulting rise in borrowing costs has triggered a selloff across technology and AI stocks, with market participants warning about valuation stretches and bubble dynamics. Meanwhile, structural capital constraints in AI infrastructure, commercial real estate debt maturities in 2027, and power supply bottlenecks remain prominent cross-asset headwinds.",
+      "key_takeaways": [
+        "Hotter-than-expected CPI reinforces sticky service-sector inflation and 'higher for longer' rate risks.",
+        "Equity valuations, particularly in AI infrastructure and chip stocks, are seeing sharp reassessment amid rising debt costs.",
+        "Federal Reserve officials maintain a cautious stance, with market participants debating additional hikes before a potential pause.",
+        "Commercial real estate and corporate borrowers face a major debt refinancing wall maturing in 2027.",
+        "Power generation shortages in eastern markets are emerging as a core bottleneck for AI data center growth.",
+        "Consumer spending remains relatively resilient, supported by dining out and demographic demand."
+      ],
+      "macro": [
+        "Inflation: CPI came in hotter than expected, demonstrating sticky service-sector inflation and prompting Fed caution.",
+        "Fed policy: Dallas Fed President Lorie Logan emphasized the need for at least two more 25 bps rate hikes; participants debate a hike in December followed by a pause.",
+        "Recession risks: Diane Swonk warned of the risk of a significant bear market if the economy enters a recession.",
+        "Geopolitics: Oil markets are pricing in de-escalation regarding the Iran situation.",
+        "Regional trends: The 'Texas Miracle' economy displays low unemployment and solid GDP growth, though it remains tied to national trends."
+      ],
+      "priced_in": [
+        "Market pricing in elevated probability of a December Fed rate hike (up to 100% odds of 25 bps, with discussions of 50 bps or a January follow-up).",
+        "No respite with lower interest rates anytime soon.",
+        "Equity valuation adjustments factoring in higher AI-related debt and financing expenses.",
+        "Significant de-escalation of immediate geopolitical risks priced out of oil."
+      ],
+      "fundamentals": [
+        "AI & Tech: Valuations shifting focus from infrastructure buildout to demand monetization; chip stocks face regulatory scrutiny.",
+        "CoreWeave: Robust AI demand, but faces structural challenges raising capital alongside heavy interest expenses.",
+        "Commercial Real Estate: Severe debt maturity wall concentrated in 2027 posing refinancing hurdles.",
+        "Corporate earnings: Charter Communications repurchasing $1.5B in debt; Take-Two Interactive issued conservative guidance ahead of GTA 6; Hims & Hers missed Q4 revenue and EBITDA forecasts.",
+        "Power & Infrastructure: Severe power generation shortages in eastern US markets impacting data centers."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "AI and chip valuations face a significant correction amid rising rates and regulatory scrutiny.",
+          "source": "Tim Urbanowicz, Innovator"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "Equity valuations face correction risks due to bubble dynamics, sticky inflation, and high borrowing costs.",
+          "source": "Diane Swonk, KPMG"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Yields are trending upward as the market prices out near-term cuts and expects further Fed tightening.",
+          "source": "Katy Kaminski, AlphaSimplex"
+        },
+        {
+          "asset": "USD",
+          "bias": "bullish",
+          "view": "The US dollar is strengthening on expectations of higher-for-longer policy rates.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "mixed",
+          "view": "Prices remain volatile due to supply factors and geopolitical de-escalation pricing.",
+          "source": "Tim Urbanowicz, Innovator"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Tim Urbanowicz",
+          "role": "Chief Investment Strategist, Innovator",
+          "key_view": "The AI trade faces valuation corrections, though the fundamental secular story remains intact."
+        },
+        {
+          "name": "Diane Swonk",
+          "role": "Chief Economist, KPMG",
+          "key_view": "Warns investors are front-running innovation returns, creating bubble risks and exposure to a bear market if recession hits."
+        },
+        {
+          "name": "Atsi Sheth",
+          "role": "Chief Credit Officer, Moody's Ratings",
+          "key_view": "Credit conditions are set to deteriorate into 2027 as higher interest rates strain corporate capital costs."
+        },
+        {
+          "name": "Katy Kaminski",
+          "role": "Chief Research Strategist, AlphaSimplex",
+          "key_view": "Markets are pricing out rate-cut relief anytime soon as sticky inflation persists."
+        },
+        {
+          "name": "Gil Luria",
+          "role": "Head of Technology Research, D.A. Davidson",
+          "key_view": "CoreWeave faces heavy structural capital-raising and interest expense burdens despite solid AI demand."
+        },
+        {
+          "name": "Lauren Cassidy",
+          "role": "CIO and Founder, ETFS",
+          "key_view": "Nvidia is central to the AI trade, making regulatory scrutiny of the company a key risk for the sector."
+        },
+        {
+          "name": "Paul Segal",
+          "role": "CEO, LS Power",
+          "key_view": "Significant power generation deficits in eastern markets present major investment opportunities."
+        },
+        {
+          "name": "Willy Walker",
+          "role": "Chairman and CEO, Walker & Dunlop",
+          "key_view": "Commercial real estate faces major refinancing hurdles with large debt volumes maturing in 2027."
+        },
+        {
+          "name": "Rob Holmes",
+          "role": "CEO, Texas Capital Bancshares",
+          "key_view": "The Texas economy remains resilient and diversified despite broader national macroeconomic headwinds."
+        },
+        {
+          "name": "Ron Kruszewski",
+          "role": "Chairman and CEO, Stifel",
+          "key_view": "AI serves as an operational tool to boost productivity and communication rather than a substitute for human judgment."
+        }
+      ],
+      "catalysts": [
+        "Upcoming Friday PPI report",
+        "Nvidia earnings call next week",
+        "December Federal Reserve FOMC meeting"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 90,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-11T07:28:41Z"
+  },
+  {
     "id": "pTqqHEYzZ2Y",
     "title": "Nvidia Shares Fall Amid CEO Probe",
     "channel": "Bloomberg Television",

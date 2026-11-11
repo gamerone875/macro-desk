@@ -1,42 +1,43 @@
 {
-  "narrative": "Markets experienced a broad-based rally across equities as dip-buying returned, with both the S&P 500 and Nasdaq trading near session highs despite an investigation into Nvidia CEO Jensen Huang. Investors rotated into semiconductor peers such as AMD and broader AI plays, treating Nvidia's decline as company-specific key-man risk. Crude oil plummeted sharply, with WTI dropping over 4-5% and Brent falling 7%, which helped fuel equity optimism. Meanwhile, gold pushed higher alongside equity gains. Macro focus remains centered on tomorrow's CPI print—the final reading before the Fed's early December decision—amid expectations of another potential rate hike by year-end and Washington political uncertainty following impeachment articles introduced against Defense Secretary Pete Hegseth.",
-  "regime": "risk-on",
+  "narrative": "Markets are contending with a hotter-than-expected CPI print that has reinforced persistent service-sector inflation and elevated rate hike fears. Dallas Fed President Lorie Logan emphasized the necessity of at least two additional 25 basis point rate increases, prompting markets to rapidly price out rate relief. In response, equities are under pressure as high borrowing costs and regulatory scrutiny trigger a sharp reassessment of AI infrastructure and chip valuations. Meanwhile, Diane Swonk warned of the risk of a significant bear market should the broader economy slip into a recession. In commodities, crude oil markets are digesting geopolitical de-escalation regarding Iran alongside volatile supply dynamics.",
+  "regime": "risk-off",
   "assets": {
     "Nasdaq": {
-      "bias": "bullish",
-      "why": "The index surged 3.4% led by a strong rebound in semiconductor stocks and broader AI demand, shrugging off a 5% drop in Nvidia."
+      "bias": "bearish",
+      "why": "Tim Urbanowicz of Innovator noted that AI and chip valuations face a significant correction amid rising interest rates and regulatory scrutiny."
     },
     "S&P 500": {
-      "bias": "bullish",
-      "why": "Trading near session highs with broad-based participation as all 11 industry groups finished higher, led by industrials."
+      "bias": "bearish",
+      "why": "Diane Swonk of KPMG warned that broader equity valuations face correction risks driven by bubble dynamics, sticky inflation, and high borrowing costs."
     },
     "Gold": {
-      "bias": "bullish",
-      "why": "Advanced $33.49 an ounce to trade at $4,103 according to show anchors."
+      "bias": "neutral",
+      "why": "Gold was not covered in the provided notes."
     },
     "Oil": {
-      "bias": "bearish",
-      "why": "Suffered a steep selloff with WTI dropping over 4-5% to $87.50 and Brent plunging 7% to $93.40."
+      "bias": "mixed",
+      "why": "Tim Urbanowicz highlighted that oil prices remain volatile due to supply factors and the pricing in of geopolitical de-escalation around Iran."
     }
   },
   "priced_in": [
-    "Continued growth across the broader AI sector despite company-specific idiosyncratic risk",
-    "Rotation into alternative Mag 7 names and semiconductor competitors while Nvidia faces headwinds",
-    "Another Fed rate hike before year-end",
-    "A potential end to the conflict involving the Secretary of Defense"
+    "Elevated probability of a December Fed rate hike, with up to 100% odds of 25 bps and discussions of 50 bps or a follow-up in January",
+    "No near-term respite from lower interest rates",
+    "Equity valuation adjustments incorporating higher AI-related debt and financing expenses",
+    "Significant de-escalation of immediate geopolitical risks priced out of oil"
   ],
-  "debates": [],
+  "debates": [
+    "Dallas Fed President Lorie Logan's call for at least two more 25 bps rate hikes versus market participants debating a single December hike followed by a pause",
+    "Risk of a severe bear market under a recession as warned by Diane Swonk versus resilience in consumer spending and regional growth such as the Texas economy",
+    "AI valuations shifting focus from infrastructure buildout to actual demand monetization amid capital raising hurdles and interest costs"
+  ],
   "watch_next": [
-    "CPI report (tomorrow morning)",
-    "Thomas Massie press conference (3:30 PM Wall Street time)",
-    "Nvidia earnings (November 17th)",
-    "Fed rate decision (early December)",
-    "Warner Bros. Discovery results (October 6th)"
+    "Upcoming Friday PPI report",
+    "Nvidia earnings call next week",
+    "December Federal Reserve FOMC meeting"
   ],
-  "generated_at": "2026-11-09T23:36:37Z",
+  "generated_at": "2026-11-11T07:32:10Z",
   "based_on": [
-    "pTqqHEYzZ2Y",
-    "Sy0oyx8ZwqY"
+    "QkoSYxEZ7qs"
   ],
   "model": "gemini-3.8-flash"
 }
