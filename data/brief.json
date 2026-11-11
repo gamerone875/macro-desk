@@ -1,42 +1,47 @@
 {
-  "narrative": "Markets are contending with a hotter-than-expected CPI print that has reinforced persistent service-sector inflation and elevated rate hike fears. Dallas Fed President Lorie Logan emphasized the necessity of at least two additional 25 basis point rate increases, prompting markets to rapidly price out rate relief. In response, equities are under pressure as high borrowing costs and regulatory scrutiny trigger a sharp reassessment of AI infrastructure and chip valuations. Meanwhile, Diane Swonk warned of the risk of a significant bear market should the broader economy slip into a recession. In commodities, crude oil markets are digesting geopolitical de-escalation regarding Iran alongside volatile supply dynamics.",
+  "narrative": "Markets are trading a sharp hawkish repricing following hotter-than-expected October US CPI (0.4% m/m headline, 0.3% core), which sparked Fed rate-hike bets and aggressive Treasury yield surges. Federal Reserve officials struck a decidedly hawkish tone, with Lorie Logan calling for at least two more hikes, Christopher Waller urging the reversal of insurance cuts, and Austan Goolsbee labeling inflation prints as borderline disturbing. The surge in real yields, combined with regulatory scrutiny and chip export tensions, has driven a steep $1.7 trillion drawdown in Nvidia. Concurrently, broader equities are under pressure from tightening financial conditions and high AI debt financing costs. Meanwhile, crude oil tumbled 24% in November amid growth headwinds and geopolitical de-escalation, while gold slipped on rising yields.",
   "regime": "risk-off",
   "assets": {
     "Nasdaq": {
-      "bias": "bearish",
-      "why": "Tim Urbanowicz of Innovator noted that AI and chip valuations face a significant correction amid rising interest rates and regulatory scrutiny."
+      "bias": "mixed",
+      "why": "Pressured by surging Treasury yields, high debt financing costs, and a sharp drawdown in Nvidia per anchors and Tim Urbanowicz, though Yvonne Man notes futures resilience backed by long-term AI demand."
     },
     "S&P 500": {
       "bias": "bearish",
-      "why": "Diane Swonk of KPMG warned that broader equity valuations face correction risks driven by bubble dynamics, sticky inflation, and high borrowing costs."
+      "why": "Faces downside risks from aggressive Fed policy tightening, sticky inflation, and elevated valuation risks warned by Diane Swonk."
     },
     "Gold": {
-      "bias": "neutral",
-      "why": "Gold was not covered in the provided notes."
+      "bias": "bearish",
+      "why": "Spot prices slipped toward $4,035/oz as rate-sensitive precious metals retreat under pressure from rising real yields and a strengthening USD."
     },
     "Oil": {
-      "bias": "mixed",
-      "why": "Tim Urbanowicz highlighted that oil prices remain volatile due to supply factors and the pricing in of geopolitical de-escalation around Iran."
+      "bias": "bearish",
+      "why": "Brent crude tumbled 24% in November due to macroeconomic growth headwinds noted by Chris Phelan, alongside geopolitical de-escalation pricing."
     }
   },
   "priced_in": [
-    "Elevated probability of a December Fed rate hike, with up to 100% odds of 25 bps and discussions of 50 bps or a follow-up in January",
-    "No near-term respite from lower interest rates",
-    "Equity valuation adjustments incorporating higher AI-related debt and financing expenses",
-    "Significant de-escalation of immediate geopolitical risks priced out of oil"
+    "December Fed rate hike fully priced at roughly 28 bps, with rising odds of a 50 bps move",
+    "Up to three Fed rate hikes priced into rates markets, including at least two hikes by March",
+    "Collapse of the disinflationary USD narrative and higher-for-longer policy rates",
+    "De-escalation of immediate geopolitical risk priced out of crude oil",
+    "Equity valuation adjustments reflecting higher AI-related debt and financing expenses"
   ],
   "debates": [
-    "Dallas Fed President Lorie Logan's call for at least two more 25 bps rate hikes versus market participants debating a single December hike followed by a pause",
-    "Risk of a severe bear market under a recession as warned by Diane Swonk versus resilience in consumer spending and regional growth such as the Texas economy",
-    "AI valuations shifting focus from infrastructure buildout to actual demand monetization amid capital raising hurdles and interest costs"
+    "Tech trajectory: Deep valuation reassessment and chip export scrutiny versus durable underlying structural AI demand",
+    "FOMC path: Delivering a single December hike followed by a pause versus aggressive tightening of at least two 25 bps moves or an outright 50 bps move to reverse past insurance cuts",
+    "Recession outlook: Soft-landing adjustments versus warnings from Diane Swonk of a severe bear market if a recession takes hold"
   ],
   "watch_next": [
-    "Upcoming Friday PPI report",
-    "Nvidia earnings call next week",
-    "December Federal Reserve FOMC meeting"
+    "Upcoming US PPI report release",
+    "Nvidia Q3 earnings report on November 17",
+    "APEC Summit and bilateral Trump-Xi meeting in Shenzhen",
+    "Subsequent Trump-Xi bilateral meeting in Miami",
+    "December FOMC interest rate decision",
+    "Singapore Airlines 2Q earnings report"
   ],
-  "generated_at": "2026-11-11T07:32:10Z",
+  "generated_at": "2026-11-11T07:42:40Z",
   "based_on": [
+    "N0couc5zxmQ",
     "QkoSYxEZ7qs"
   ],
   "model": "gemini-3.8-flash"

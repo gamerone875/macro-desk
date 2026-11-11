@@ -1,5 +1,157 @@
 [
   {
+    "id": "N0couc5zxmQ",
+    "title": "US Envoy: Nvidia Affair Shows US Should Stay 'Diligent' on China",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-11T06:47:46Z",
+    "live": "none",
+    "minutes": 94.1,
+    "thumbnail": "https://i.ytimg.com/vi/N0couc5zxmQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=N0couc5zxmQ",
+    "notes": {
+      "headline": "Hot US CPI sparks Fed rate-hike bets as US-China tensions and tech divergence mount",
+      "summary": "Global markets are repricing Federal Reserve policy toward additional rate hikes following a hotter-than-expected October US CPI print, with officials signaling a potential 50 basis point hike in December. Tech sentiment diverged sharply as Nvidia erased $1.7 trillion in market cap and SoftBank took steep data center write-downs, while Anthropic targeted a $1.4 trillion IPO valuation. Meanwhile, US Ambassador to China David Perdue and Treasury Secretary Scott Bessent reaffirmed that the US seeks de-risking and supply chain diversification rather than decoupling ahead of upcoming Trump-Xi bilateral meetings. Falling oil prices provided a potential disinflationary counterweight, though core inflation and surging Treasury yields continue to weigh on broader risk appetite.",
+      "key_takeaways": [
+        "Hotter October US CPI (0.4% m/m headline, 0.3% core) prompted markets to price in up to three Fed rate hikes, with rising odds of a 50 bps December move.",
+        "Fed officials struck a hawkish tone, with Lorie Logan calling for at least two more hikes, Christopher Waller urging the reversal of insurance cuts, and Austan Goolsbee labeling CPI 'borderline disturbing'.",
+        "US Ambassador David Perdue emphasized that the US seeks supply chain diversification rather than decoupling and is working to establish crisis mechanisms for AI with China.",
+        "Nvidia shares fell ~30% toward $168, erasing $1.7 trillion in market cap amid scrutiny over CEO Jensen Huang and chip export restrictions.",
+        "Tech fundamentals showed sharp divergence: Anthropic is targeting up to $100 billion at a $1.4 trillion IPO valuation and CoreWeave raised guidance, while SoftBank reported major net losses from data center write-downs.",
+        "Brent crude tumbled 24% in November, offering potential medium-term relief against persistent core service inflation pressures."
+      ],
+      "macro": [
+        "US October CPI printed at 0.4% m/m headline (vs 0.3% est) and 0.3% m/m core (vs 0.2% est), with groceries and core services driving gains.",
+        "Fed's Logan stated the FOMC needs at least two more 25 bps rate hikes before considering a pause, with both Logan and Waller raising the prospect of a 50 bps move.",
+        "Fed's Waller noted taking back three insurance rate cuts from last year is a minimum requirement.",
+        "Fed's Goolsbee characterized the October inflation data as 'borderline disturbing'.",
+        "US Ambassador David Perdue and Treasury Secretary Scott Bessent reaffirmed the US goal is de-risking and diversification, not decoupling from China.",
+        "Treasury yields and 2-year real yields surged by double-digit basis points, flattening the curve aggressively.",
+        "Chinese Ambassador Xie Feng emphasized mutual benefits in US-China ties and cited joint AI governance as indispensable."
+      ],
+      "priced_in": [
+        "Rates markets pricing in up to three Fed hikes, with a December hike fully priced in at roughly 28 bps.",
+        "Rising market-implied odds of a 50 basis point Fed rate hike in December.",
+        "Expectations for at least two rate hikes by March, alongside increased T-bill supply projections."
+      ],
+      "fundamentals": [
+        "Nvidia shares slid to $168.89, erasing $1.7 trillion in market value ahead of Q3 results scheduled for November 17.",
+        "Anthropic is seeking $90B-$100B across its IPO, private placement, and greenshoe at a target valuation of $1.4T, with secondary shares trading at a 3-5% premium.",
+        "SoftBank posted heavy net losses driven by $3B to $7B in write-downs on US data center and power generation assets, lifting its loan-to-value ratio toward 23%.",
+        "CoreWeave raised its sales forecast, reporting capacity is fully booked through 2027.",
+        "Alibaba chip unit T-Head filed for a Hong Kong IPO aiming to raise $2B-$3B.",
+        "TSMC sales rose 59% y/y, while investing $500M each into Anthropic and OpenAI.",
+        "Brent crude declined 24% in November, which could ease pipeline fuel costs.",
+        "Singapore Airlines posted strong passenger and cargo demand, investing $1.6B in long-haul aircraft and cabin upgrades."
+      ],
+      "assets": [
+        {
+          "asset": "Rates",
+          "bias": "bearish",
+          "view": "Yields surged and the Treasury curve flattened aggressively as markets factored in additional Fed hikes.",
+          "source": "Monica Hsiao, Triada Capital"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Market expectations for higher interest rates are increasing following hotter-than-expected inflation data.",
+          "source": "David Savage, Bloomberg MLIV"
+        },
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "Equities face heavy pressure from surging yields and a steep $1.7T drawdown in Nvidia.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Nasdaq",
+          "bias": "bullish",
+          "view": "Futures show resilience supported by underlying long-term demand for tech and AI plays.",
+          "source": "Yvonne Man, Bloomberg"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "Faces downside pressure as persistent inflation revives bets on aggressive Fed policy tightening.",
+          "source": "anchors"
+        },
+        {
+          "asset": "USD",
+          "bias": "bullish",
+          "view": "The disinflationary dollar narrative has collapsed, driving broad greenback strength.",
+          "source": "Monica Hsiao, Triada Capital"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Spot prices slipped toward $4,035/oz as rate-sensitive precious metals retreat on rising real yields.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Brent crude has fallen 24% in November, pressured by macro growth headwinds even as it offers inflation relief.",
+          "source": "Chris Phelan, White House Council of Economic Advisers"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Monica Hsiao",
+          "role": "Founder and CIO, Triada Capital",
+          "key_view": "The Fed can easily reverse insurance cuts with at least two more hikes likely, flattening the yield curve and sustaining rate volatility."
+        },
+        {
+          "name": "David Perdue",
+          "role": "US Ambassador to China",
+          "key_view": "The US is prioritizing supply chain diversification rather than decoupling, while seeking to establish crisis management mechanisms for AI with Beijing."
+        },
+        {
+          "name": "Balázs Penz",
+          "role": "Deputy Managing Editor for APAC Equities, Bloomberg News",
+          "key_view": "Anthropic's massive IPO targeting up to $100B at a $1.4T valuation reflects historic appetite, with private shares at a 3-5% premium."
+        },
+        {
+          "name": "Anthony Stephens",
+          "role": "Markets Reporter, Bloomberg News",
+          "key_view": "Execution differentiates AI plays: CoreWeave is booked through 2027, whereas SoftBank has suffered massive US data center write-downs."
+        },
+        {
+          "name": "Juliana Liu",
+          "role": "Bloomberg Opinion Columnist",
+          "key_view": "Scrutiny around Jensen Huang weakens a critical diplomatic bridge for US tech in China, raising the probability of tighter export controls."
+        },
+        {
+          "name": "Kirk Boodry",
+          "role": "Senior Analyst, Bloomberg Intelligence",
+          "key_view": "SoftBank's recent losses stem from data center and power asset write-downs, forcing the firm into a more conservative posture to defend its LTV ratio."
+        },
+        {
+          "name": "David Savage",
+          "role": "MLIV Strategist, Bloomberg",
+          "key_view": "Markets are fixated on the rate of change in growth and inflation, which is forcing downward adjustments in tech IPO valuations."
+        },
+        {
+          "name": "Chris Phelan",
+          "role": "Chairman, White House Council of Economic Advisers",
+          "key_view": "Lower oil prices will progressively feed through to cheaper retail gasoline and diesel, mitigating broader inflation."
+        }
+      ],
+      "catalysts": [
+        "Upcoming US PPI report release",
+        "APEC Summit and bilateral Trump-Xi meeting in Shenzhen next week",
+        "Subsequent Trump-Xi bilateral meeting scheduled in Miami",
+        "Nvidia Q3 earnings release on November 17",
+        "December FOMC interest rate decision",
+        "Singapore Airlines 2Q earnings report"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 94,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-11T07:41:59Z"
+  },
+  {
     "id": "QkoSYxEZ7qs",
     "title": "Hot Inflation, AI Selloff & Anthropic IPO",
     "channel": "Bloomberg Television",
