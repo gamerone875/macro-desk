@@ -1,48 +1,42 @@
 {
-  "narrative": "Markets are trading a sharp hawkish repricing following hotter-than-expected October US CPI (0.4% m/m headline, 0.3% core), which sparked Fed rate-hike bets and aggressive Treasury yield surges. Federal Reserve officials struck a decidedly hawkish tone, with Lorie Logan calling for at least two more hikes, Christopher Waller urging the reversal of insurance cuts, and Austan Goolsbee labeling inflation prints as borderline disturbing. The surge in real yields, combined with regulatory scrutiny and chip export tensions, has driven a steep $1.7 trillion drawdown in Nvidia. Concurrently, broader equities are under pressure from tightening financial conditions and high AI debt financing costs. Meanwhile, crude oil tumbled 24% in November amid growth headwinds and geopolitical de-escalation, while gold slipped on rising yields.",
-  "regime": "risk-off",
+  "narrative": "The AI trade has roared back, driving a strong rebound in both the Nasdaq 100 and the S&P 500 on the back of momentum in names like CoreWeave and Nvidia. Market sentiment is further supported by Anthropic's reportedly oversubscribed IPO, though questions linger regarding elevated capital expenditures and data center capacity. Macro headwinds remain prevalent as robust US economic growth fuels inflation concerns and pushes 10-year Treasury yields near 5%. Consequently, rate hike bets for the Fed's December meeting have surged, strengthening the US dollar. Lower oil prices, however, are acting as a positive tailwind for equity markets.",
+  "regime": "risk-on",
   "assets": {
     "Nasdaq": {
-      "bias": "mixed",
-      "why": "Pressured by surging Treasury yields, high debt financing costs, and a sharp drawdown in Nvidia per anchors and Tim Urbanowicz, though Yvonne Man notes futures resilience backed by long-term AI demand."
+      "bias": "bullish",
+      "why": "Anchors highlighted a strong rebound in the index driven by renewed momentum across AI-related names."
     },
     "S&P 500": {
-      "bias": "bearish",
-      "why": "Faces downside risks from aggressive Fed policy tightening, sticky inflation, and elevated valuation risks warned by Diane Swonk."
+      "bias": "bullish",
+      "why": "Anchors reported that the index recovered most of its recent losses, supported by broad-based market gains."
     },
     "Gold": {
-      "bias": "bearish",
-      "why": "Spot prices slipped toward $4,035/oz as rate-sensitive precious metals retreat under pressure from rising real yields and a strengthening USD."
+      "bias": "neutral",
+      "why": "Gold was not covered in the notes."
     },
     "Oil": {
-      "bias": "bearish",
-      "why": "Brent crude tumbled 24% in November due to macroeconomic growth headwinds noted by Chris Phelan, alongside geopolitical de-escalation pricing."
+      "bias": "mixed",
+      "why": "Anchors noted that crude prices have declined, which is serving as a positive input for equities."
     }
   },
   "priced_in": [
-    "December Fed rate hike fully priced at roughly 28 bps, with rising odds of a 50 bps move",
-    "Up to three Fed rate hikes priced into rates markets, including at least two hikes by March",
-    "Collapse of the disinflationary USD narrative and higher-for-longer policy rates",
-    "De-escalation of immediate geopolitical risk priced out of crude oil",
-    "Equity valuation adjustments reflecting higher AI-related debt and financing expenses"
+    "80% to 100% probability of a Fed rate hike at the December meeting",
+    "Expectations for approximately 60 basis points of hikes by March 2027",
+    "Robust long-term growth trajectory for AI despite short-term valuation concerns"
   ],
   "debates": [
-    "Tech trajectory: Deep valuation reassessment and chip export scrutiny versus durable underlying structural AI demand",
-    "FOMC path: Delivering a single December hike followed by a pause versus aggressive tightening of at least two 25 bps moves or an outright 50 bps move to reverse past insurance cuts",
-    "Recession outlook: Soft-landing adjustments versus warnings from Diane Swonk of a severe bear market if a recession takes hold"
+    "High capital expenditures and potential overbuilding of data center capacity versus the robust long-term growth outlook for AI"
   ],
   "watch_next": [
-    "Upcoming US PPI report release",
-    "Nvidia Q3 earnings report on November 17",
-    "APEC Summit and bilateral Trump-Xi meeting in Shenzhen",
-    "Subsequent Trump-Xi bilateral meeting in Miami",
-    "December FOMC interest rate decision",
-    "Singapore Airlines 2Q earnings report"
+    "Anthropic IPO",
+    "December Fed meeting",
+    "Nvidia earnings",
+    "Weekly jobless claims and existing home sales data",
+    "Earnings from Cisco, Applied Materials, and Cerebras"
   ],
-  "generated_at": "2026-11-11T07:42:40Z",
+  "generated_at": "2026-11-12T07:33:12Z",
   "based_on": [
-    "N0couc5zxmQ",
-    "QkoSYxEZ7qs"
+    "r05uI9Fnv6g"
   ],
   "model": "gemini-3.8-flash"
 }

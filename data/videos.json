@@ -1,5 +1,116 @@
 [
   {
+    "id": "r05uI9Fnv6g",
+    "title": "AI Trade Roars Back, Anthropic IPO Outlook, Nordstrom Co-CEO on Going Private",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-12T00:36:59Z",
+    "live": "none",
+    "minutes": 92.2,
+    "thumbnail": "https://i.ytimg.com/vi/r05uI9Fnv6g/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=r05uI9Fnv6g",
+    "notes": {
+      "headline": "AI trade rebounds as Nasdaq and S&P 500 rally on sector optimism",
+      "summary": "The AI trade has roared back, driving significant gains in the Nasdaq 100 and S&P 500 as investors look past recent volatility. Market sentiment is bolstered by positive news regarding CoreWeave's debt relief and strong demand for the upcoming Anthropic IPO. Despite the rally, experts remain divided on whether AI valuations are sustainable given the high costs of infrastructure and model development. Meanwhile, the retail sector is showing resilience as companies like Nordstrom adapt to changing consumer habits through private ownership and digital innovation.",
+      "key_takeaways": [
+        "AI-related stocks rallied, with CoreWeave and Nvidia showing strength.",
+        "Anthropic's IPO is reportedly oversubscribed, serving as a critical test for AI sector valuations.",
+        "Concerns persist regarding the high capital expenditures and potential overbuilding of data center capacity.",
+        "Nordstrom's transition to private ownership is facilitating a long-term focus on operational efficiency and the 'Rack' business model.",
+        "AI-powered shopping tools are becoming essential for retail conversion and customer engagement.",
+        "Bond market volatility remains a headwind, with 10-year yields hovering near 5%."
+      ],
+      "macro": [
+        "Inflation and interest rates remain the primary drivers of market volatility.",
+        "Fed rate hike expectations have surged, with markets pricing in a high probability of a December increase.",
+        "US economic growth remains robust, potentially fueling inflationary pressures.",
+        "Rising mortgage rates are pressuring homebuilders and interest-rate-sensitive sectors."
+      ],
+      "priced_in": [
+        "80% to 100% probability of a Fed rate hike at the December meeting.",
+        "Expectations for approximately 60 basis points of hikes by March 2027.",
+        "Robust long-term growth trajectory for AI despite short-term valuation concerns."
+      ],
+      "fundamentals": [
+        "AI infrastructure and model development costs are increasing exponentially.",
+        "Nordstrom is seeing strong performance in its 'Rack' and digital channels.",
+        "Homebuilders like D.R. Horton and KB Home face pressure from affordability concerns.",
+        "Retailers are increasingly integrating AI tools for virtual try-ons and sizing."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bullish",
+          "view": "The index rebounded strongly, driven by renewed momentum in AI-related names.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "The index recovered most of its recent losses, supported by broad-based gains.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bearish",
+          "view": "Bond market volatility persists with 10-year yields around 5% and rising hike expectations.",
+          "source": "anchors"
+        },
+        {
+          "asset": "USD",
+          "bias": "bullish",
+          "view": "The dollar index continues to strengthen as Fed rate hike bets increase.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "mixed",
+          "view": "Prices have declined, which is viewed as a positive factor for equities.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Jitania Kandhari",
+          "role": "Deputy CIO, Solutions & Multi-Asset, Morgan Stanley Investment Management",
+          "key_view": "The current market correction is driven by inflation and interest rate concerns rather than earnings weakness."
+        },
+        {
+          "name": "Gary Marcus",
+          "role": "Emeritus Professor of Psychology and Neural Science, NYU",
+          "key_view": "Anthropic's IPO may be overvalued as AI models become commodities and development costs rise."
+        },
+        {
+          "name": "Pete Nordstrom",
+          "role": "Co-CEO, Nordstrom",
+          "key_view": "Going private allows for a focus on long-term business health and operational efficiency."
+        },
+        {
+          "name": "Nathan Sheets",
+          "role": "Global Chief Economist, Citi Research",
+          "key_view": "The Fed must remain serious about the 2% inflation target and may need to hike more than expected."
+        },
+        {
+          "name": "Dan Niles",
+          "role": "Founder & Portfolio Manager, Niles Investment Management",
+          "key_view": "Market rallies can occur from liquidation lows, and the time to be bearish was early October."
+        }
+      ],
+      "catalysts": [
+        "Anthropic IPO",
+        "December Fed meeting",
+        "Nvidia earnings",
+        "Weekly jobless claims and existing home sales data",
+        "Earnings from Cisco, Applied Materials, and Cerebras"
+      ],
+      "sentiment": "risk-on",
+      "covered_minutes": 92,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-12T07:24:04Z"
+  },
+  {
     "id": "N0couc5zxmQ",
     "title": "US Envoy: Nvidia Affair Shows US Should Stay 'Diligent' on China",
     "channel": "Bloomberg Television",
