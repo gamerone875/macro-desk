@@ -1,42 +1,46 @@
 {
-  "narrative": "The AI trade has roared back, driving a strong rebound in both the Nasdaq 100 and the S&P 500 on the back of momentum in names like CoreWeave and Nvidia. Market sentiment is further supported by Anthropic's reportedly oversubscribed IPO, though questions linger regarding elevated capital expenditures and data center capacity. Macro headwinds remain prevalent as robust US economic growth fuels inflation concerns and pushes 10-year Treasury yields near 5%. Consequently, rate hike bets for the Fed's December meeting have surged, strengthening the US dollar. Lower oil prices, however, are acting as a positive tailwind for equity markets.",
+  "narrative": "The market is currently in a risk-on regime driven by a resurgence in AI sector optimism, fueled by strong earnings from CoreWeave and high demand for the upcoming Anthropic IPO. Despite this equity rally, macroeconomic headwinds persist as bond market volatility keeps 10-year yields near 5% and Fed rate hike expectations surge. Investors are balancing robust US economic growth against the risks of higher interest rates and potential regulatory scrutiny on AI chip exports. Geopolitical tensions, particularly regarding the Iran war and US-China trade relations, continue to influence sentiment. Overall, the market is prioritizing AI growth momentum while remaining cautious of the tightening monetary policy environment.",
   "regime": "risk-on",
   "assets": {
     "Nasdaq": {
       "bias": "bullish",
-      "why": "Anchors highlighted a strong rebound in the index driven by renewed momentum across AI-related names."
+      "why": "The index is rallying and outperforming due to renewed momentum and strong earnings in AI-related names like CoreWeave and Nvidia."
     },
     "S&P 500": {
       "bias": "bullish",
-      "why": "Anchors reported that the index recovered most of its recent losses, supported by broad-based market gains."
+      "why": "The index has recovered recent losses and is holding near session highs, supported by broad-based gains and positive earnings momentum."
     },
     "Gold": {
-      "bias": "neutral",
-      "why": "Gold was not covered in the notes."
+      "bias": "bearish",
+      "why": "Prices are declining and trading below $4,000 per ounce."
     },
     "Oil": {
       "bias": "mixed",
-      "why": "Anchors noted that crude prices have declined, which is serving as a positive input for equities."
+      "why": "Views are conflicting; while some anchors note price declines as a positive for equities, others highlight gains driven by geopolitical risks in the Middle East."
     }
   },
   "priced_in": [
     "80% to 100% probability of a Fed rate hike at the December meeting",
-    "Expectations for approximately 60 basis points of hikes by March 2027",
-    "Robust long-term growth trajectory for AI despite short-term valuation concerns"
+    "Approximately 60 basis points of total hikes by March 2027",
+    "Robust long-term growth trajectory for AI despite high capital expenditure concerns",
+    "Strong demand for AI-related assets despite regulatory headwinds"
   ],
   "debates": [
-    "High capital expenditures and potential overbuilding of data center capacity versus the robust long-term growth outlook for AI"
+    "Whether the high capital expenditures and potential overbuilding of data center capacity will undermine the AI rally",
+    "The impact of potential US-China trade restrictions versus the sustained demand for AI infrastructure"
   ],
   "watch_next": [
+    "Nvidia earnings (next week)",
     "Anthropic IPO",
     "December Fed meeting",
-    "Nvidia earnings",
     "Weekly jobless claims and existing home sales data",
-    "Earnings from Cisco, Applied Materials, and Cerebras"
+    "Earnings from Cisco, Applied Materials, and Cerebras",
+    "G20 summit and potential Trump-Xi meetings"
   ],
-  "generated_at": "2026-11-12T07:33:12Z",
+  "generated_at": "2026-11-12T07:40:02Z",
   "based_on": [
-    "r05uI9Fnv6g"
+    "r05uI9Fnv6g",
+    "dxZc2esQmAw"
   ],
-  "model": "gemini-3.8-flash"
+  "model": "gemini-3.1-flash-lite"
 }

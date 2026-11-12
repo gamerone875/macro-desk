@@ -111,6 +111,112 @@
     "processed_at": "2026-11-12T07:24:04Z"
   },
   {
+    "id": "dxZc2esQmAw",
+    "title": "CoreWeave Earnings Triggers AI Boost",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-11T21:50:33Z",
+    "live": "none",
+    "minutes": 48.9,
+    "thumbnail": "https://i.ytimg.com/vi/dxZc2esQmAw/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=dxZc2esQmAw",
+    "notes": {
+      "headline": "CoreWeave earnings and Anthropic IPO anticipation drive AI sector rally",
+      "summary": "AI-related stocks are surging as strong CoreWeave earnings and an oversubscribed Anthropic IPO bolster investor confidence. Despite the positive momentum, the market faces headwinds from geopolitical tensions and intensifying US government scrutiny regarding chip exports to China. Investors are balancing robust AI revenue growth against regulatory risks and potential supply chain disruptions.",
+      "key_takeaways": [
+        "CoreWeave shares surged up to 27% following earnings that eased debt concerns and showed strong demand.",
+        "Anthropic's upcoming IPO is reported to be multiple times oversubscribed by anchor investors.",
+        "OpenAI reported a 50% jump in quarterly revenue to $10 billion.",
+        "US Congress is reportedly preparing to subpoena Nvidia's CEO regarding potential ties to Chinese intelligence.",
+        "The US government is investigating Nvidia and CoreWeave for potential export control violations involving chip smuggling to China.",
+        "Fossil Group and Sonos shares rose significantly following positive earnings reports."
+      ],
+      "macro": [
+        "Geopolitical tensions, particularly regarding the Iran war and US-China trade relations, are impacting sentiment.",
+        "Regulatory scrutiny on AI and advanced chip exports to China remains a significant risk factor.",
+        "President Trump is taking a hands-on approach to AI regulation as a centerpiece of economic policy."
+      ],
+      "priced_in": [
+        "Strong demand for AI-related assets and continued growth despite regulatory headwinds.",
+        "Caution regarding potential trade restrictions and geopolitical volatility between the US and China."
+      ],
+      "fundamentals": [
+        "CoreWeave: Projected revenue of $13B-$13.3B with improved debt management.",
+        "OpenAI: $10 billion quarterly revenue, though high operating costs remain a concern.",
+        "Fossil Group: Return to sales growth boosting investor sentiment.",
+        "Oil: Supply/demand dynamics influenced by geopolitical risks in the Middle East."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bullish",
+          "view": "Tech stocks are rallying and outperforming, driven by strong AI-related earnings.",
+          "source": "Charlie Pellett and anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "The index is holding near session highs supported by positive earnings momentum.",
+          "source": "Charlie Pellett and anchors"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Prices are declining, trading below $4,000 per ounce.",
+          "source": "Charlie Pellett and anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "Prices are climbing with WTI and Brent both seeing gains amid geopolitical risks.",
+          "source": "Charlie Pellett and anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Brody Ford",
+          "role": "Bloomberg News Tech Reporter",
+          "key_view": "CoreWeave's ability to secure funding and manage debt has significantly improved investor sentiment."
+        },
+        {
+          "name": "Bailey Lipschultz",
+          "role": "Bloomberg News Senior IPO Reporter",
+          "key_view": "Anthropic's IPO is seeing massive demand, with anchor orders significantly oversubscribing the deal."
+        },
+        {
+          "name": "Michael Shepard",
+          "role": "Bloomberg News Senior Editor, Technology & Strategic Industries",
+          "key_view": "The administration is under pressure to increase scrutiny of AI chip flows and relationships between tech leaders and the White House."
+        },
+        {
+          "name": "Rachel Metz",
+          "role": "Bloomberg News AI Reporter",
+          "key_view": "OpenAI is showing strong revenue growth, but high operating costs remain a critical factor for investors."
+        },
+        {
+          "name": "Denitsa Tsekova",
+          "role": "Bloomberg News Cross-Asset Reporter",
+          "key_view": "CoreWeave's earnings are helping shift sentiment in the AI sector despite broader trade sustainability concerns."
+        },
+        {
+          "name": "Eric Roston",
+          "role": "Bloomberg News Sustainability Editor",
+          "key_view": "Climate change impacts are accelerating, creating significant risks for financial institutions and infrastructure."
+        }
+      ],
+      "catalysts": [
+        "Nvidia earnings next week",
+        "Upcoming G20 summit and potential meetings between President Trump and President Xi",
+        "Ongoing US regulatory changes regarding AI and China"
+      ],
+      "sentiment": "risk-on",
+      "covered_minutes": 49,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-12T07:39:48Z"
+  },
+  {
     "id": "N0couc5zxmQ",
     "title": "US Envoy: Nvidia Affair Shows US Should Stay 'Diligent' on China",
     "channel": "Bloomberg Television",
