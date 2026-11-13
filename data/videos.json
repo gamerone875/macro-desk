@@ -1,5 +1,111 @@
 [
   {
+    "id": "0y9o02dIPns",
+    "title": "Stocks Fall as Huang Resigns, Nvidia Turns to CFO",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-13T00:25:02Z",
+    "live": "none",
+    "minutes": 104.1,
+    "thumbnail": "https://i.ytimg.com/vi/0y9o02dIPns/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=0y9o02dIPns",
+    "notes": {
+      "headline": "Nvidia CEO Jensen Huang resigns, triggering market volatility and AI sector uncertainty",
+      "summary": "Nvidia CEO Jensen Huang has resigned amid reports of personal misconduct and potential national security concerns regarding chip exports to China. The market reacted sharply, with Nvidia shares erasing $182 billion in value, while analysts debate the long-term impact on the AI growth narrative and corporate governance. Investors are now focused on the leadership transition, potential regulatory scrutiny, and broader economic indicators as they reassess the AI trade.",
+      "key_takeaways": [
+        "Jensen Huang resigned as Nvidia CEO; CFO Colette Kress is serving as interim leader.",
+        "Nvidia shares erased $182 billion in market value following the announcement.",
+        "Analysts are criticizing the board for a lack of a clear, publicly articulated succession plan.",
+        "The company faces ongoing Justice Department probes regarding potential export control circumvention.",
+        "Market participants are rotating capital, evaluating competitors like AMD and Broadcom as potential beneficiaries.",
+        "Strong earnings from Applied Materials and Cisco suggest AI infrastructure demand remains robust despite the leadership crisis."
+      ],
+      "macro": [
+        "Geopolitical tensions between the US and China are intensifying over chip export controls.",
+        "Congressional pressure is mounting to increase oversight of AI chip export enforcement.",
+        "US economic indicators, including GDP and labor data, remain relatively resilient.",
+        "Inflation is cooling, potentially allowing the Fed to stabilize interest rates."
+      ],
+      "priced_in": [
+        "Increased volatility for the semiconductor and AI sectors.",
+        "Market adjustment to a higher-for-longer interest rate environment.",
+        "Heightened regulatory and legislative risk for technology companies.",
+        "A reset in equity valuations, particularly within the tech sector."
+      ],
+      "fundamentals": [
+        "Nvidia's AI data center dominance remains a critical component of the long-term AI build-out.",
+        "Applied Materials and Cisco reported strong demand for AI-related hardware and networking equipment.",
+        "Cerebras Systems beat revenue expectations, signaling continued investment in AI infrastructure.",
+        "Technology sector earnings growth is expected to moderate from 30%+ to 15-16% by 2027."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "mixed",
+          "view": "The index is experiencing significant volatility due to the Nvidia sell-off but remains supported by other tech components.",
+          "source": "Anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "mixed",
+          "view": "The index is showing resilience, with gains in some sectors offsetting losses caused by AI-related uncertainty.",
+          "source": "Anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "Brent crude prices are rising due to geopolitical developments and supply concerns.",
+          "source": "Anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bearish",
+          "view": "Treasury yields are rising across the curve, reflecting expectations for persistent inflation.",
+          "source": "Anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Ross Gerber",
+          "role": "CEO, Gerber Kawasaki",
+          "key_view": "Views the scandal as a corporate governance failure but believes Nvidia's fundamental AI dominance remains intact."
+        },
+        {
+          "name": "Charles Elson",
+          "role": "Director, Weinberg Center for Corporate Governance",
+          "key_view": "The board's lack of a firm succession plan is troubling and explains the negative market reaction."
+        },
+        {
+          "name": "Emily Kilcrease",
+          "role": "Senior Fellow, CNAS",
+          "key_view": "Expects a robust investigation into export control circumvention and tighter legislative rules."
+        },
+        {
+          "name": "Jim Caron",
+          "role": "CIO, Morgan Stanley Investment Management",
+          "key_view": "Market fundamentals remain strong, and the sell-off presents a potential buying opportunity for high-quality assets."
+        },
+        {
+          "name": "Cam Harvey",
+          "role": "Professor, Duke University",
+          "key_view": "AI growth remains intact, but the timing is being pushed out by election and regulatory uncertainty."
+        }
+      ],
+      "catalysts": [
+        "Nvidia earnings release on November 17th",
+        "Anthropic IPO",
+        "Grand Theft Auto VI launch on November 19th",
+        "Upcoming congressional hearings on chip export enforcement",
+        "Core PCE and PPI data releases"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 104,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-13T07:05:23Z"
+  },
+  {
     "id": "r05uI9Fnv6g",
     "title": "AI Trade Roars Back, Anthropic IPO Outlook, Nordstrom Co-CEO on Going Private",
     "channel": "Bloomberg Television",

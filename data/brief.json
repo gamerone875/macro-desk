@@ -1,46 +1,44 @@
 {
-  "narrative": "The market is currently in a risk-on regime driven by a resurgence in AI sector optimism, fueled by strong earnings from CoreWeave and high demand for the upcoming Anthropic IPO. Despite this equity rally, macroeconomic headwinds persist as bond market volatility keeps 10-year yields near 5% and Fed rate hike expectations surge. Investors are balancing robust US economic growth against the risks of higher interest rates and potential regulatory scrutiny on AI chip exports. Geopolitical tensions, particularly regarding the Iran war and US-China trade relations, continue to influence sentiment. Overall, the market is prioritizing AI growth momentum while remaining cautious of the tightening monetary policy environment.",
-  "regime": "risk-on",
+  "narrative": "Markets are grappling with significant volatility following the surprise resignation of Nvidia CEO Jensen Huang, which triggered a massive sell-off in the semiconductor sector. While the AI leadership vacuum creates uncertainty, broader tech infrastructure demand remains supported by strong earnings from companies like Applied Materials and Cisco. Geopolitical tensions regarding US-China chip export controls are intensifying, adding a layer of regulatory risk to the tech sector. Meanwhile, the broader economy shows resilience with cooling inflation, though Treasury yields are rising as the market adjusts to a higher-for-longer rate environment. Investors are currently rotating capital while monitoring the impact of these leadership and regulatory shifts on AI-driven growth.",
+  "regime": "risk-off",
   "assets": {
     "Nasdaq": {
-      "bias": "bullish",
-      "why": "The index is rallying and outperforming due to renewed momentum and strong earnings in AI-related names like CoreWeave and Nvidia."
+      "bias": "mixed",
+      "why": "The index faces significant volatility from the Nvidia sell-off, though it remains supported by other tech components and robust AI infrastructure demand."
     },
     "S&P 500": {
-      "bias": "bullish",
-      "why": "The index has recovered recent losses and is holding near session highs, supported by broad-based gains and positive earnings momentum."
+      "bias": "mixed",
+      "why": "The index is showing resilience as gains in non-AI sectors help offset the uncertainty caused by the semiconductor leadership crisis."
     },
     "Gold": {
-      "bias": "bearish",
-      "why": "Prices are declining and trading below $4,000 per ounce."
+      "bias": "neutral",
+      "why": "Gold was not covered in the provided notes."
     },
     "Oil": {
-      "bias": "mixed",
-      "why": "Views are conflicting; while some anchors note price declines as a positive for equities, others highlight gains driven by geopolitical risks in the Middle East."
+      "bias": "bullish",
+      "why": "Brent crude prices are rising due to ongoing geopolitical developments and supply concerns."
     }
   },
   "priced_in": [
-    "80% to 100% probability of a Fed rate hike at the December meeting",
-    "Approximately 60 basis points of total hikes by March 2027",
-    "Robust long-term growth trajectory for AI despite high capital expenditure concerns",
-    "Strong demand for AI-related assets despite regulatory headwinds"
+    "Increased volatility for semiconductor and AI sectors",
+    "Higher-for-longer interest rate environment",
+    "Heightened regulatory and legislative risk for technology companies",
+    "Reset in tech sector equity valuations"
   ],
   "debates": [
-    "Whether the high capital expenditures and potential overbuilding of data center capacity will undermine the AI rally",
-    "The impact of potential US-China trade restrictions versus the sustained demand for AI infrastructure"
+    "Whether the lack of a clear succession plan at Nvidia signals deeper structural issues or is a temporary leadership transition hurdle",
+    "The sustainability of AI infrastructure demand versus the cooling growth rates expected for the tech sector by 2027"
   ],
   "watch_next": [
-    "Nvidia earnings (next week)",
+    "Nvidia earnings release on November 17th",
     "Anthropic IPO",
-    "December Fed meeting",
-    "Weekly jobless claims and existing home sales data",
-    "Earnings from Cisco, Applied Materials, and Cerebras",
-    "G20 summit and potential Trump-Xi meetings"
+    "Grand Theft Auto VI launch on November 19th",
+    "Congressional hearings on chip export enforcement",
+    "Core PCE and PPI data releases"
   ],
-  "generated_at": "2026-11-12T07:40:02Z",
+  "generated_at": "2026-11-13T07:06:53Z",
   "based_on": [
-    "r05uI9Fnv6g",
-    "dxZc2esQmAw"
+    "0y9o02dIPns"
   ],
   "model": "gemini-3.1-flash-lite"
 }
