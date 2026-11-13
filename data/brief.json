@@ -1,44 +1,47 @@
 {
-  "narrative": "Markets are grappling with significant volatility following the surprise resignation of Nvidia CEO Jensen Huang, which triggered a massive sell-off in the semiconductor sector. While the AI leadership vacuum creates uncertainty, broader tech infrastructure demand remains supported by strong earnings from companies like Applied Materials and Cisco. Geopolitical tensions regarding US-China chip export controls are intensifying, adding a layer of regulatory risk to the tech sector. Meanwhile, the broader economy shows resilience with cooling inflation, though Treasury yields are rising as the market adjusts to a higher-for-longer rate environment. Investors are currently rotating capital while monitoring the impact of these leadership and regulatory shifts on AI-driven growth.",
+  "narrative": "The market is currently in a risk-off state following the sudden ousting of Nvidia CEO Jensen Huang amid misconduct and espionage allegations. This leadership crisis has triggered significant volatility in the semiconductor sector and broader equity indices, compounded by ongoing Justice Department probes. While AI infrastructure demand remains robust as evidenced by strong earnings from Applied Materials and Cisco, investors are rotating capital and reassessing valuations. Geopolitical tensions between the US and China over chip export controls are intensifying, adding a layer of regulatory uncertainty. Meanwhile, crude oil is rallying on supply concerns and geopolitical developments, while gold has faced downward pressure.",
   "regime": "risk-off",
   "assets": {
     "Nasdaq": {
       "bias": "mixed",
-      "why": "The index faces significant volatility from the Nvidia sell-off, though it remains supported by other tech components and robust AI infrastructure demand."
+      "why": "The index is under significant pressure from the Nvidia sell-off, though anchors note it remains supported by other tech components and strong earnings from peers like Cisco and Applied Materials."
     },
     "S&P 500": {
       "bias": "mixed",
-      "why": "The index is showing resilience as gains in non-AI sectors help offset the uncertainty caused by the semiconductor leadership crisis."
+      "why": "The index is showing resilience as gains in non-AI sectors partially offset the losses caused by the leadership crisis at Nvidia."
     },
     "Gold": {
-      "bias": "neutral",
-      "why": "Gold was not covered in the provided notes."
+      "bias": "bearish",
+      "why": "Spot gold has seen a decline of approximately 2.7%, trading down to $3,882 per ounce."
     },
     "Oil": {
       "bias": "bullish",
-      "why": "Brent crude prices are rising due to ongoing geopolitical developments and supply concerns."
+      "why": "Crude oil is rallying, with WTI up 2.8% and Brent up 3.5%, driven by geopolitical developments and supply concerns."
     }
   },
   "priced_in": [
-    "Increased volatility for semiconductor and AI sectors",
-    "Higher-for-longer interest rate environment",
+    "Increased volatility for the semiconductor and AI sectors",
+    "Leadership transition uncertainty at Nvidia",
     "Heightened regulatory and legislative risk for technology companies",
-    "Reset in tech sector equity valuations"
+    "Market adjustment to a higher-for-longer interest rate environment",
+    "A reset in equity valuations within the tech sector"
   ],
   "debates": [
-    "Whether the lack of a clear succession plan at Nvidia signals deeper structural issues or is a temporary leadership transition hurdle",
-    "The sustainability of AI infrastructure demand versus the cooling growth rates expected for the tech sector by 2027"
+    "Whether the AI infrastructure build-out remains a long-term growth story despite the leadership crisis at its primary driver, Nvidia",
+    "The extent to which the broader market can remain resilient while the semiconductor sector faces intense regulatory and legal scrutiny"
   ],
   "watch_next": [
     "Nvidia earnings release on November 17th",
-    "Anthropic IPO",
     "Grand Theft Auto VI launch on November 19th",
-    "Congressional hearings on chip export enforcement",
-    "Core PCE and PPI data releases"
+    "Upcoming congressional hearings on chip export enforcement",
+    "Core PCE and PPI data releases",
+    "Anthropic IPO",
+    "Ongoing US Justice Department investigations"
   ],
-  "generated_at": "2026-11-13T07:06:53Z",
+  "generated_at": "2026-11-13T07:10:34Z",
   "based_on": [
-    "0y9o02dIPns"
+    "0y9o02dIPns",
+    "eHfc3uZPzYc"
   ],
   "model": "gemini-3.1-flash-lite"
 }

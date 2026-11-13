@@ -106,6 +106,101 @@
     "processed_at": "2026-11-13T07:05:23Z"
   },
   {
+    "id": "eHfc3uZPzYc",
+    "title": "Nvidia’s Huang Ousted by Board",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-12T22:12:28Z",
+    "live": "none",
+    "minutes": 48.9,
+    "thumbnail": "https://i.ytimg.com/vi/eHfc3uZPzYc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=eHfc3uZPzYc",
+    "notes": {
+      "headline": "Nvidia CEO Jensen Huang ousted by board following misconduct and espionage allegations",
+      "summary": "Nvidia CEO Jensen Huang has been removed by the board following reports of multiple affairs, including one with an individual suspected of spying for China. CFO Colette Kress has been named interim CEO, and Harvey Jones appointed as the company's first-ever board chair. The news has triggered a significant sell-off in Nvidia shares and broader semiconductor indices, compounded by ongoing US Justice Department investigations into potential technology smuggling to China. The leadership transition creates substantial uncertainty for the AI sector and US-China geopolitical relations.",
+      "key_takeaways": [
+        "Jensen Huang ousted as Nvidia CEO; CFO Colette Kress named interim CEO.",
+        "Harvey Jones appointed as Nvidia's first-ever chair of the board.",
+        "Nvidia shares fell 5-6% on the news, with market cap dropping below $4 trillion.",
+        "US Justice Department is probing Nvidia regarding potential espionage and trade secret risks.",
+        "Huang to forfeit approximately $108 million in unvested equity compensation.",
+        "Broader semiconductor sector under pressure, with the PHLX Semiconductor Index down 0.8%."
+      ],
+      "macro": [
+        "US Justice Department probes into potential technology smuggling to China.",
+        "Heightened geopolitical tensions between the US and China regarding advanced chip exports.",
+        "Potential for increased regulatory scrutiny on the AI industry and its leadership.",
+        "Upcoming Apex Summit expected to be impacted by these developments."
+      ],
+      "priced_in": [
+        "Significant uncertainty regarding Nvidia's leadership transition and regulatory risks.",
+        "Broader market sentiment shifted to risk-off following the leadership crisis.",
+        "Investors are reacting to the potential for further investigations and legal challenges."
+      ],
+      "fundamentals": [
+        "Nvidia shares down ~6%; market cap below $4 trillion.",
+        "Super Micro Computer shares down 10.7% amid probe reports.",
+        "CoreWeave shares down despite beating earnings estimates.",
+        "Crude oil prices rallying with WTI up ~2.8% and Brent up ~3.5%."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "The index is under pressure due to the significant decline in Nvidia shares.",
+          "source": "Charlie Pellett, Bloomberg"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "The index is experiencing a decline as investors digest the leadership crisis.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "Crude oil is seeing a rally, with WTI up 2.8% and Brent up 3.54%.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Spot gold is down approximately 2.7% to $3,882 per ounce.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Emily Chang",
+          "role": "Host and Executive Producer, The Circuit with Emily Chang",
+          "key_view": "Huang's departure is a major shock, and the company faces significant challenges in navigating the transition and regulatory scrutiny."
+        },
+        {
+          "name": "Ed Ludlow",
+          "role": "Bloomberg Tech Host",
+          "key_view": "The market is grappling with the existential question of what Nvidia looks like without Jensen Huang, given his unique role in the company's growth."
+        },
+        {
+          "name": "Michael Deng",
+          "role": "Geoeconomics Technology Analyst, Bloomberg Intelligence",
+          "key_view": "Huang's exit slows both US and Chinese tech progress and increases regulatory uncertainty in DC."
+        }
+      ],
+      "catalysts": [
+        "Huang's expected testimony before Congress",
+        "Nvidia earnings next week",
+        "Ongoing US Justice Department investigations",
+        "Apex Summit",
+        "Search for a permanent CEO for Nvidia"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 49,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-13T07:10:17Z"
+  },
+  {
     "id": "r05uI9Fnv6g",
     "title": "AI Trade Roars Back, Anthropic IPO Outlook, Nordstrom Co-CEO on Going Private",
     "channel": "Bloomberg Television",
