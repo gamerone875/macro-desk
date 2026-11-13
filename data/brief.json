@@ -1,18 +1,18 @@
 {
-  "narrative": "The market is currently in a risk-off state following the sudden ousting of Nvidia CEO Jensen Huang amid misconduct and espionage allegations. This leadership crisis has triggered significant volatility in the semiconductor sector and broader equity indices, compounded by ongoing Justice Department probes. While AI infrastructure demand remains robust as evidenced by strong earnings from Applied Materials and Cisco, investors are rotating capital and reassessing valuations. Geopolitical tensions between the US and China over chip export controls are intensifying, adding a layer of regulatory uncertainty. Meanwhile, crude oil is rallying on supply concerns and geopolitical developments, while gold has faced downward pressure.",
+  "narrative": "Markets are in a risk-off regime following the sudden resignation and ousting of Nvidia CEO Jensen Huang amid DOJ espionage and smuggling probes. This leadership crisis has triggered a sharp sell-off in AI-related equities and heightened regulatory uncertainty. Simultaneously, investors are grappling with hawkish signals from the Fed, as sticky inflation and a resilient labor market push terminal rate expectations above 5%. Geopolitical tensions, particularly regarding US-China chip export controls and regional instability, are further weighing on sentiment. Consequently, capital is rotating out of high-growth tech while crude oil rallies on supply and geopolitical concerns.",
   "regime": "risk-off",
   "assets": {
     "Nasdaq": {
-      "bias": "mixed",
-      "why": "The index is under significant pressure from the Nvidia sell-off, though anchors note it remains supported by other tech components and strong earnings from peers like Cisco and Applied Materials."
+      "bias": "bearish",
+      "why": "The index is under significant pressure due to the Nvidia leadership crisis and broader uncertainty surrounding AI sector concentration and regulatory risks."
     },
     "S&P 500": {
-      "bias": "mixed",
-      "why": "The index is showing resilience as gains in non-AI sectors partially offset the losses caused by the leadership crisis at Nvidia."
+      "bias": "bearish",
+      "why": "The index is declining as investors digest the AI sector volatility and the broader market impact of the Nvidia leadership transition."
     },
     "Gold": {
       "bias": "bearish",
-      "why": "Spot gold has seen a decline of approximately 2.7%, trading down to $3,882 per ounce."
+      "why": "Spot gold has declined approximately 2.7% to $3,882 per ounce."
     },
     "Oil": {
       "bias": "bullish",
@@ -21,27 +21,28 @@
   },
   "priced_in": [
     "Increased volatility for the semiconductor and AI sectors",
-    "Leadership transition uncertainty at Nvidia",
+    "Higher terminal interest rate above 5%",
+    "A 25bps rate hike for December with growing caution regarding a 50bps move",
     "Heightened regulatory and legislative risk for technology companies",
-    "Market adjustment to a higher-for-longer interest rate environment",
-    "A reset in equity valuations within the tech sector"
+    "Increased risk for AI-related credit and potential future defaults"
   ],
   "debates": [
-    "Whether the AI infrastructure build-out remains a long-term growth story despite the leadership crisis at its primary driver, Nvidia",
-    "The extent to which the broader market can remain resilient while the semiconductor sector faces intense regulatory and legal scrutiny"
+    "Whether the AI infrastructure build-out remains robust despite the leadership crisis at Nvidia",
+    "The sustainability of capital expenditure in the AI sector given rising costs of capital"
   ],
   "watch_next": [
-    "Nvidia earnings release on November 17th",
-    "Grand Theft Auto VI launch on November 19th",
-    "Upcoming congressional hearings on chip export enforcement",
+    "Nvidia earnings release (November 17th)",
     "Core PCE and PPI data releases",
+    "Jensen Huang's scheduled testimony before Congress",
+    "December FOMC meeting",
     "Anthropic IPO",
-    "Ongoing US Justice Department investigations"
+    "Grand Theft Auto VI launch (November 19th)"
   ],
-  "generated_at": "2026-11-13T07:10:34Z",
+  "generated_at": "2026-11-13T07:16:21Z",
   "based_on": [
     "0y9o02dIPns",
-    "eHfc3uZPzYc"
+    "eHfc3uZPzYc",
+    "ROVLEI-YNM8"
   ],
   "model": "gemini-3.1-flash-lite"
 }

@@ -201,6 +201,97 @@
     "processed_at": "2026-11-13T07:10:17Z"
   },
   {
+    "id": "ROVLEI-YNM8",
+    "title": "Jensen Exits, AI Debt Under Review, Treasuries Slide",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-12T20:26:13Z",
+    "live": "none",
+    "minutes": 42.9,
+    "thumbnail": "https://i.ytimg.com/vi/ROVLEI-YNM8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ROVLEI-YNM8",
+    "notes": {
+      "headline": "Nvidia CEO Jensen Huang resigns amid DOJ probe; Fed signals further rate hikes",
+      "summary": "Nvidia CEO Jensen Huang has resigned following revelations of personal affairs and a DOJ espionage investigation, triggering volatility in AI-related credit and equity markets. Simultaneously, Fed officials are signaling the need for further rate hikes to combat persistent inflation, with markets adjusting to a higher terminal rate. The combination of leadership uncertainty in the AI sector and a hawkish monetary policy outlook has shifted market sentiment to risk-off.",
+      "key_takeaways": [
+        "Nvidia CEO Jensen Huang resigned; CFO Colette Kress is interim CEO.",
+        "DOJ is investigating potential technology smuggling to China involving Jensen Huang.",
+        "Fed officials suggest further rate hikes are necessary, with a 50bps hike for December under consideration.",
+        "AI-related credit markets face volatility due to concerns over capital expenditure sustainability and concentration risk.",
+        "Inflation remains sticky, particularly in services and electronic goods, pushing terminal rate expectations above 5%."
+      ],
+      "macro": [
+        "Fed officials warn that more aggressive rate hikes may be needed due to hot CPI data.",
+        "Treasury bond yields are spiking to their highest levels since the tariff meltdown.",
+        "The labor market remains strong, contributing to persistent inflationary pressures.",
+        "Geopolitical tensions, including concerns regarding Iran, are weighing on sentiment."
+      ],
+      "priced_in": [
+        "Market is pricing in a higher terminal rate, potentially above 5%.",
+        "A 25bps rate hike for December is largely priced in, with growing caution regarding a 50bps move.",
+        "Investors are pricing in increased risk for AI-related credit and potential future defaults."
+      ],
+      "fundamentals": [
+        "Nvidia shares are under significant pressure following the CEO's resignation.",
+        "AI ecosystem is heavily reliant on a small number of hyper-scalers, creating concentration risk.",
+        "Rising cost of capital for AI projects may impact future growth and capital expenditure.",
+        "AI sector faces increased regulatory scrutiny and potential national security challenges."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "Nvidia's leadership change and broader AI sector uncertainty are weighing on the index.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bearish",
+          "view": "Yields are expected to remain elevated as the Fed continues to tighten policy.",
+          "source": "Kelsey Berro, JPM Asset Mgmt"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Lorie Logan",
+          "role": "Dallas Fed President",
+          "key_view": "Inflation pressures may persist for longer, requiring further rate hikes."
+        },
+        {
+          "name": "Ed Ludlow",
+          "role": "Bloomberg Tech Anchor",
+          "key_view": "Nvidia's leadership change and the DOJ investigation are creating significant uncertainty for the company and the broader AI sector."
+        },
+        {
+          "name": "Kelsey Berro",
+          "role": "Fixed Income Portfolio Manager, JPM Asset Mgmt",
+          "key_view": "The market should prepare for a higher terminal rate as inflation remains sticky."
+        },
+        {
+          "name": "Alan Waxman",
+          "role": "Sixth Street CEO & Co-Founder",
+          "key_view": "The AI sector is experiencing a massive capital expenditure boom, but speculative behavior and distortions are creating potential for market dislocations."
+        },
+        {
+          "name": "Mandeep Singh",
+          "role": "Global Head of Technology, Bloomberg Intelligence",
+          "key_view": "Nvidia's leadership change could lead to a slowdown in AI-related capital expenditure."
+        }
+      ],
+      "catalysts": [
+        "Nvidia earnings report next Tuesday",
+        "December FOMC meeting",
+        "Jensen Huang's scheduled testimony before Congress",
+        "Anthropic IPO"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 43,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-13T07:14:43Z"
+  },
+  {
     "id": "r05uI9Fnv6g",
     "title": "AI Trade Roars Back, Anthropic IPO Outlook, Nordstrom Co-CEO on Going Private",
     "channel": "Bloomberg Television",
