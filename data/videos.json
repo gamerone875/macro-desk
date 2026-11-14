@@ -1,5 +1,107 @@
 [
   {
+    "id": "tn91wjhbFX8",
+    "title": "Nvidia’s Board CEO Hunt, Stocks Finish Week Higher, Retail in Focus",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-13T23:52:19Z",
+    "live": "none",
+    "minutes": 94.2,
+    "thumbnail": "https://i.ytimg.com/vi/tn91wjhbFX8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=tn91wjhbFX8",
+    "notes": {
+      "headline": "Markets face volatility as tech leadership rotates and FAA grounds US flights",
+      "summary": "Markets finished the week lower as tech sector volatility, led by a sharp decline in Nvidia, weighed on major indices. Investors are navigating a violent rotation in market leadership while monitoring a nationwide FAA ground stop and persistent Fed rate hike concerns. Despite the tech weakness, the S&P 500 showed resilience as capital shifted into other sectors. The market is now focused on upcoming earnings, economic data, and the search for Nvidia's next CEO.",
+      "key_takeaways": [
+        "Tech sector leadership is rotating, with Nvidia down 13% for the week while peers like AMD and Broadcom saw gains.",
+        "A nationwide FAA ground stop due to an air traffic control communication issue roiled markets and impacted airline stocks.",
+        "The US fiscal deficit has widened to $404 billion, a 42% increase year-over-year, raising long-term economic concerns.",
+        "Market participants are pricing in a December Fed rate hike following persistent inflation concerns.",
+        "Gold is currently being sold to raise cash in a liquidity-constrained environment rather than acting as a hedge.",
+        "Microsoft is managing a global software outage affecting Outlook, Teams, and Copilot."
+      ],
+      "macro": [
+        "The US fiscal deficit is at record levels, contributing to inflationary pressures and high interest rates.",
+        "Fed members remain concerned about persistent inflation, with the market pricing in potential further rate hikes.",
+        "Strong US dollar and Middle East tensions are creating liquidity constraints and impacting supply chains.",
+        "Benign PPI data was released, coming in lower than anticipated."
+      ],
+      "priced_in": [
+        "Market is pricing in a December Fed rate hike, though potentially less than 50 basis points.",
+        "Investors expect continued volatility as the market rotates from momentum to quality.",
+        "Liquidity-driven environment where hard assets are being sold to raise cash."
+      ],
+      "fundamentals": [
+        "Nvidia is undergoing a leadership transition with CFO Colette Kress serving as interim CEO.",
+        "Semiconductor sector faced significant selling pressure, with the SOX index down 3.43% on the day.",
+        "Airline stocks fell in after-hours trading following the FAA ground stop.",
+        "Cybersecurity stocks like Palo Alto Networks and CrowdStrike saw gains.",
+        "Anthropic is expected to go public next week with a $1.4 trillion valuation."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "The index is experiencing significant volatility and underperformance due to semiconductor weakness.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Yields remain elevated with the 2-year Treasury at 4.85% as the market prices in a December hike.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Gold is being sold to raise cash in a liquidity-constrained environment.",
+          "source": "Jeff Currie, Real Macro"
+        },
+        {
+          "asset": "Oil",
+          "bias": "neutral",
+          "view": "Brent crude remains above $96 a barrel with upside capped by volume but floors provided by high supply costs.",
+          "source": "anchors and Jeff Currie, Real Macro"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Jeff Currie",
+          "role": "CEO and Founder, Real Macro",
+          "key_view": "Gold is a hedge against solvency, not liquidity, and current price action signals a liquidity-driven selloff."
+        },
+        {
+          "name": "Chris Galipeau",
+          "role": "Head Market Strategist, Franklin Templeton Institute",
+          "key_view": "The risk-reward profile for AI stocks has improved, but investors should remain diversified."
+        },
+        {
+          "name": "Matt Stucky",
+          "role": "Chief Portfolio Manager, Equities, Northwestern Mutual",
+          "key_view": "Volatility will persist as the market rotates from momentum to quality."
+        },
+        {
+          "name": "Maya MacGuineas",
+          "role": "President, Committee for a Responsible Federal Budget",
+          "key_view": "The US is facing its worst fiscal situation ever, contributing to inflation and high rates."
+        }
+      ],
+      "catalysts": [
+        "Nvidia earnings (Tuesday)",
+        "Retail sales and industrial production data (Tuesday)",
+        "Fed minutes (Wednesday)",
+        "Anthropic IPO (Thursday)",
+        "Jobless claims (Thursday)",
+        "UMich sentiment (Friday)"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 94,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-14T17:58:25Z"
+  },
+  {
     "id": "0y9o02dIPns",
     "title": "Stocks Fall as Huang Resigns, Nvidia Turns to CFO",
     "channel": "Bloomberg Television",
