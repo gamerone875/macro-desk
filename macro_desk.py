@@ -7,7 +7,7 @@ Pipeline (runs on GitHub Actions, free):
   2. Add any video links sent manually (workflow input or links.txt).
   3. Send each video URL directly to Gemini (free tier) which watches/listens to
      it and returns structured notes (English).
-  4. Build a "desk brief" from the last 24h of notes.
+  4. Build a "desk brief" from the videos of the last 24h (48h if fewer than 4).
   5. Render docs/index.html (served by GitHub Pages).
 
 Everything is configurable through environment variables (see CONFIG below).
@@ -85,7 +85,10 @@ FPS = env_float("VIDEO_FPS", 0.05)                      # 1 frame / 20 s: audio 
 PACE_SECONDS = env_int("PACE_SECONDS", 5)               # pause between video calls (paid tier: higher limits)
 KEEP_DAYS = env_int("KEEP_DAYS", 21)
 BUSY_ROUNDS = env_int("BUSY_ROUNDS", 3)              # extra passes over all models when Gemini is overloaded (503)
-BRIEF_WINDOW_HOURS = env_int("BRIEF_WINDOW_HOURS", 24)
+BRIEF_WINDOW_HOURS = env_int("BRIEF_WINDOW_HOURS", 24)        # brief uses the videos of the last 24h...
+BRIEF_MIN_VIDEOS = env_int("BRIEF_MIN_VIDEOS", 4)             # ...but if there are fewer than 4,
+BRIEF_FALLBACK_HOURS = env_int("BRIEF_FALLBACK_HOURS", 48)    # ...it looks back 48h instead
+BRIEF_MAX_VIDEOS = env_int("BRIEF_MAX_VIDEOS", 12)
 
 FOCUS = ("Nasdaq 100, S&P 500, gold and crude oil (WTI/Brent); also note what matters "
          "for them: Fed and rates, US data, USD, earnings, geopolitics, OPEC")
@@ -426,18 +429,36 @@ def summarize_video(v):
 
 
 def build_brief(videos):
-    cutoff = now_utc() - dt.timedelta(hours=BRIEF_WINDOW_HOURS)
-    recent = [v for v in videos if parse_iso(v["published"]) >= cutoff] or videos[:6]
+    # A video counts as recent if it was published OR added to the desk in the
+    # window, so an older replay analysed this morning is not dropped.
+    # Rule: videos of the last 24h; if fewer than 4, videos of the last 48h.
+    def last_seen(v):
+        stamps = [parse_iso(v["published"])]
+        if v.get("processed_at"):
+            stamps.append(parse_iso(v["processed_at"]))
+        return max(stamps)
+
+    def within(hours):
+        cutoff = now_utc() - dt.timedelta(hours=hours)
+        return [v for v in ordered if last_seen(v) >= cutoff]
+
+    ordered = sorted((v for v in videos if v.get("notes")), key=last_seen, reverse=True)
+    recent = within(BRIEF_WINDOW_HOURS)
+    if len(recent) < BRIEF_MIN_VIDEOS:
+        recent = within(BRIEF_FALLBACK_HOURS)
+    if not recent:
+        recent = ordered[:BRIEF_MIN_VIDEOS]  # nothing in 48h: use the latest videos
+    recent = recent[:BRIEF_MAX_VIDEOS]
     if not recent:
         return None
     compact = [{
         "title": v["title"], "published": v["published"],
         **{k: v["notes"].get(k) for k in ("headline", "key_takeaways", "macro", "priced_in",
                                           "fundamentals", "assets", "catalysts", "sentiment")}
-    } for v in recent[:12]]
+    } for v in recent]
     brief, model = gemini_json(BRIEF_PROMPT.replace("{notes}", json.dumps(compact, ensure_ascii=False)))
     brief["generated_at"] = iso(now_utc())
-    brief["based_on"] = [v["id"] for v in recent[:12]]
+    brief["based_on"] = [v["id"] for v in recent]
     brief["model"] = model
     return brief
 
