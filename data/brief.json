@@ -1,48 +1,49 @@
 {
-  "narrative": "The market is currently navigating a period of heightened volatility driven by a major leadership crisis at Nvidia and broader concerns over AI-related debt and regulatory scrutiny. While the tech sector faces a significant correction, the broader market is grappling with a widening US fiscal deficit and expectations of a December Fed rate hike. Geopolitical tensions, particularly regarding US-China semiconductor trade, are adding to the risk-off sentiment. Investors are currently prioritizing liquidity, leading to selling pressure in assets like gold to raise cash. Despite these headwinds, some market participants note that the S&P 500 remains relatively resilient compared to the tech-heavy Nasdaq.",
-  "regime": "risk-off",
+  "narrative": "Markets are navigating sharp turbulence in the technology sector following the sudden resignation of Nvidia CEO Jensen Huang amid an internal probe, trade-secret espionage allegations, and potential US entity-list restrictions. This fallout has triggered a selloff across semiconductors and elevated scrutiny over non-bank debt financing rapid AI infrastructure expansion. Broader equities remain somewhat insulated, with the S&P 500 trading within range of record highs on sustained consumer strength. Oil markets are balancing Middle East geopolitical risks against rising supply from Venezuela, where Chevron is expanding output. Meanwhile, gold remains stable, functioning predominantly as household credit collateral in key physical markets, while easing inflation mitigates fears of aggressive Federal Reserve rate hikes.",
+  "regime": "mixed",
   "assets": {
     "Nasdaq": {
       "bias": "bearish",
-      "why": "The index is under significant pressure due to the semiconductor sell-off and specific uncertainty surrounding Nvidia's leadership and potential US-China export restrictions."
+      "why": "Charlie Pellet reports tech and semiconductor stocks facing heavy selling pressure down 1.34%, while Barry Ritholtz highlights the index is down 10% from highs amid China exposure and Nvidia governance risks."
     },
     "S&P 500": {
-      "bias": "bearish",
-      "why": "The index is facing downward pressure as tech weakness and broader risk aversion weigh on sentiment, despite remaining relatively close to all-time highs."
+      "bias": "mixed",
+      "why": "Tony Crescenzi of PIMCO expects continued market growth supported by consumer resilience and data center spend, while Barry Ritholtz notes the index sits 3.3% off all-time highs and Charlie Pellet reports downside drag from tech."
     },
     "Gold": {
-      "bias": "bearish",
-      "why": "Gold is currently being sold to raise cash in a liquidity-constrained environment rather than functioning as a traditional hedge."
+      "bias": "neutral",
+      "why": "Charlie Pellet reports gold trading virtually flat around $38.78/oz, while George Alexander Muthoot highlights its steady fundamental function as core loan collateral in India."
     },
     "Oil": {
       "bias": "mixed",
-      "why": "Brent crude is supported by high supply costs but faces capped upside due to volume constraints, with WTI and Brent trading lower heading into the weekend."
+      "why": "Tara Copp and Eimear Bonner highlight upward supply pressures from Middle East tensions and Chevron's Venezuelan expansion, though Bloomberg anchors report Brent and WTI trading lower into the weekend."
     }
   },
   "priced_in": [
-    "December Fed rate hike",
-    "Increased regulatory scrutiny on US banks and non-bank financial firms",
-    "Volatility surrounding Nvidia's leadership transition",
-    "Sustainability concerns regarding AI-driven capital expenditures"
+    "Heightened volatility and valuation correction in semiconductor and mega-cap tech stocks",
+    "Strong market demand for the upcoming Anthropic IPO",
+    "Persisting geopolitical volatility in the Middle East and US-China tensions",
+    "Investment-grade corporate credit pricing in a 6% yield",
+    "Increased regulatory scrutiny for banks and non-bank financial firms"
   ],
   "debates": [
-    "Whether the AI trade remains sustainable as the cost of capital rises for hyperscalers",
-    "The extent to which the S&P 500's resilience indicates a broader market health versus tech-driven volatility"
+    "Equity resilience versus tech drag: Tony Crescenzi argues US consumer strength will sustain broader equity growth, while Barry Ritholtz and Charlie Pellet emphasize the drag from semiconductor corrections and China risks.",
+    "AI debt and capex sustainability: William Dudley warns of systemic financial risk from rapid debt accumulation funding AI infrastructure, contrasted with robust investor appetite evidenced by Anthropic's heavily oversubscribed IPO.",
+    "Crude balance: Upward risks from Middle East instability contrasted with expanding physical output as Chevron increases Venezuelan production from 50,000 to nearly 300,000 barrels per day."
   ],
   "watch_next": [
-    "Nvidia earnings (Tuesday)",
-    "Retail sales and industrial production data (Tuesday)",
-    "Fed minutes (Wednesday)",
-    "Anthropic IPO (Thursday)",
-    "Jobless claims (Thursday)",
-    "UMich sentiment (Friday)"
+    "Nvidia Q3 earnings release and DOJ investigation updates",
+    "Anthropic IPO on Nasdaq",
+    "Senate Banking Committee hearings on non-bank financial oversight",
+    "Trump-Xi meeting and APEC Summit",
+    "Congressional hearings on FAA infrastructure failure and export control legislation"
   ],
-  "generated_at": "2026-11-15T10:40:21Z",
+  "generated_at": "2026-11-15T18:11:25Z",
   "based_on": [
+    "PNMBn-tPLIM",
     "5jw4WtsMQqU",
     "zIZ53YV7ToY",
-    "yBGjmomZmK8",
-    "tn91wjhbFX8"
+    "yBGjmomZmK8"
   ],
-  "model": "gemini-3.1-flash-lite"
+  "model": "gemini-3.8-flash"
 }

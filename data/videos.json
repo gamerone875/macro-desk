@@ -1,5 +1,111 @@
 [
   {
+    "id": "PNMBn-tPLIM",
+    "title": "Nvidia Fallout, FAA Router Failure, Next Mega IPO",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-15T16:52:02Z",
+    "live": "none",
+    "minutes": 145.3,
+    "thumbnail": "https://i.ytimg.com/vi/PNMBn-tPLIM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=PNMBn-tPLIM",
+    "notes": {
+      "headline": "Nvidia governance, geopolitical risks, and infrastructure failures dominate market focus",
+      "summary": "Markets are navigating a complex landscape defined by Nvidia's governance and export control challenges, alongside critical infrastructure failures like the FAA router outage. Geopolitical tensions, including US-China relations and Middle East instability, are creating significant uncertainty for tech and energy sectors. Meanwhile, analysts are debating the long-term impact of AI-driven 'creative destruction' and potential congressional oversight of corporate leadership. Despite these headwinds, some strategists remain optimistic about US economic growth and consumer resilience.",
+      "key_takeaways": [
+        "Nvidia faces heightened scrutiny regarding governance, key-man risk, and export restrictions on advanced chips to China.",
+        "The FAA router failure highlights vulnerabilities in US critical infrastructure, prompting calls for increased funding.",
+        "Anthropic's upcoming Nasdaq IPO is a major market event, though investors remain cautious about its long-term profitability and compute costs.",
+        "Geopolitical instability in the Middle East and US-China relations are increasing risks for global supply chains and energy security.",
+        "Chevron is significantly ramping up oil production in Venezuela, leveraging regulatory changes.",
+        "Congress is preparing for a new regime of oversight and potential subpoenas for corporate executives."
+      ],
+      "macro": [
+        "Geopolitical tensions between the US and China, and in the Middle East, are impacting trade and energy markets.",
+        "Bipartisan push for stricter export controls on advanced technology.",
+        "Increased focus on US critical infrastructure resilience and potential for emergency government funding.",
+        "US economic growth remains supported by consumer strength, according to PIMCO."
+      ],
+      "priced_in": [
+        "Market is pricing in significant volatility for tech due to regulatory and governance concerns.",
+        "Expectations for continued geopolitical volatility in the Middle East.",
+        "Market anticipates the Anthropic IPO will be a major sentiment driver.",
+        "Investment-grade corporate credit is pricing in a 6% yield."
+      ],
+      "fundamentals": [
+        "Nvidia remains central to the AI supply chain but faces supply chain and regulatory headwinds.",
+        "Anthropic's business model relies on heavy compute investment with 50% gross margins.",
+        "Chevron's Venezuelan production has increased from 50,000 to nearly 300,000 barrels per day.",
+        "Data center demand remains a critical driver for semiconductor industry growth."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "mixed",
+          "view": "Tech sector faces volatility due to Nvidia's export issues, governance concerns, and regulatory scrutiny.",
+          "source": "Mandeep Singh, Bloomberg Intelligence"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "Geopolitical tensions in the Middle East and increased production from Chevron are impacting global supply.",
+          "source": "Tara Copp, Washington Post / Eimear Bonner, Chevron"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "The market is expected to continue growing, supported by consumer strength and data center investments.",
+          "source": "Tony Crescenzi, PIMCO"
+        },
+        {
+          "asset": "Rates",
+          "bias": "neutral",
+          "view": "Interest rates are expected to remain stable with potential for short-term volatility.",
+          "source": "Tony Crescenzi, PIMCO"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Tony Crescenzi",
+          "role": "EVP, Market Strategist & Generalist Portfolio Manager, PIMCO",
+          "key_view": "The US economy is expected to continue growing, supported by consumer strength and data center investments."
+        },
+        {
+          "name": "Mandeep Singh",
+          "role": "Global Head of Technology Research, Bloomberg Intelligence",
+          "key_view": "Nvidia's governance and key-man risk are significant concerns for investors."
+        },
+        {
+          "name": "Henrietta Treyz",
+          "role": "Co-Founder & Director of Economic Policy Research, Veda Partners",
+          "key_view": "The market should prepare for a 'great unraveling' of government-industry deals, leading to increased regulatory scrutiny."
+        },
+        {
+          "name": "Eimear Bonner",
+          "role": "Chevron CFO",
+          "key_view": "Chevron is ramping up production in Venezuela due to improved economic returns and regulatory changes."
+        },
+        {
+          "name": "Mark Bednar",
+          "role": "Principal at Monument Advocacy",
+          "key_view": "Congress is preparing for a new regime of oversight and potential subpoenas for corporate executives."
+        }
+      ],
+      "catalysts": [
+        "Anthropic IPO on Nasdaq",
+        "Nvidia Q3 earnings",
+        "Congressional hearings on FAA infrastructure failure",
+        "Potential new export control legislation",
+        "Ongoing congressional investigations into corporate executives"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 145,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-15T18:07:59Z"
+  },
+  {
     "id": "zIZ53YV7ToY",
     "title": "Nvidia Spy Scandal, Nationwide Ground Stop Lifted, Starship’s Longest Test Flight",
     "channel": "Bloomberg Television",
