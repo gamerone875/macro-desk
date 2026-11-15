@@ -100,6 +100,122 @@
     "processed_at": "2026-11-15T10:03:00Z"
   },
   {
+    "id": "5jw4WtsMQqU",
+    "title": "Wall Street Week | Nvidia Shakeup, Midwest Stadium Bids, Care Work Gap, India’s Wedding Economy",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-14T04:52:46Z",
+    "live": "none",
+    "minutes": 56.6,
+    "thumbnail": "https://i.ytimg.com/vi/5jw4WtsMQqU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5jw4WtsMQqU",
+    "notes": {
+      "headline": "US-China AI competition, rising financial regulatory scrutiny, and AI debt risks face markets",
+      "summary": "Discussions focus on the market implications of the Nvidia leadership shakeup amid intensifying US-China competition over semiconductors and artificial intelligence. Concurrently, US financial sector risks are under scrutiny, particularly regarding rapid debt accumulation to fund AI infrastructure and regulatory oversight of non-bank institutions. The program also highlights structural domestic issues, including Midwest NFL stadium financing battles, the US care labor shortage, and the economic heft of India's gold-backed wedding sector.",
+      "key_takeaways": [
+        "Richard Haass highlights the Nvidia leadership shakeup as a major geopolitical development amid US-China competition in AI and semiconductors.",
+        "William Dudley warns of systemic risk and urges congressional focus on rapid debt accumulation financing AI development and the non-bank financial sector.",
+        "Kathryn Judge anticipates aggressive regulatory oversight of financial firms and non-bank financial institutions under new Senate Banking Committee leadership.",
+        "India's wedding industry represents approximately 3.25% of nominal GDP, with Indian households holding nearly 35,000 tons of gold acting as core credit collateral.",
+        "Midwest stadium financing debates for the Chicago Bears highlight growing municipal taxpayer risks and scrutiny over public subsidies.",
+        "The US care sector faces severe structural labor shortages as demographic aging accelerates.",
+        "US-Canada trade relations remain pressured by persistent tariff disputes."
+      ],
+      "macro": [
+        "Geopolitics: US-China competition over AI capabilities, semiconductors, and leadership changes remains elevated.",
+        "Regulation & Debt: Growing scrutiny over non-bank financial institutions and systemic risks tied to rapid debt accumulation for AI infrastructure.",
+        "Fiscal Policy: Scrutiny of municipal bond sustainability and taxpayer exposure in sports stadium financing.",
+        "Labor: Structural labor supply shortages in the US care sector impacting long-term growth.",
+        "Global Trade: Ongoing tariff disputes continue to strain US-Canada trade relations."
+      ],
+      "priced_in": [
+        "Market expectations of increased regulatory scrutiny on US banks and non-bank financial firms.",
+        "Investor concerns regarding the long-term sustainability of AI-driven capital expenditures and leverage.",
+        "Assessment of shifting US foreign policy, trade agreements, and geopolitical tensions among the US, China, and Russia."
+      ],
+      "fundamentals": [
+        "Nvidia: Leadership transitions impact corporate governance and future strategic positioning in global AI markets.",
+        "Financial Sector: Potential asset-liability mismatches and reduced transparency in non-bank financial intermediaries.",
+        "Gold & Credit: Indian household gold reserves serve as a primary private credit and borrowing backstop.",
+        "Care Sector: Severe imbalance between surging demand and depressed wage structures.",
+        "Stadium Economics: Heightened municipal resistance and stricter financial viability thresholds for public stadium subsidies."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq | S&P 500",
+          "bias": "mixed",
+          "view": "Geopolitical tensions in technology and corporate governance issues create persistent uncertainty for equities.",
+          "source": "Richard Haass, Council on Foreign Relations"
+        },
+        {
+          "asset": "Rates",
+          "bias": "neutral",
+          "view": "Federal Reserve supervisory stress tests continue, while macro risks shift toward non-bank leverage and AI-related debt.",
+          "source": "William Dudley, former New York Fed President"
+        },
+        {
+          "asset": "Gold",
+          "bias": "neutral",
+          "view": "Gold operates as a vital financial asset and foundational loan collateral across the Indian economy.",
+          "source": "George Alexander Muthoot, Muthoot Conglomerate"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Richard Haass",
+          "role": "President Emeritus, Council on Foreign Relations",
+          "key_view": "Nvidia's leadership change is a significant geopolitical event in the context of US-China AI competition."
+        },
+        {
+          "name": "William Dudley",
+          "role": "Former New York Fed President and Bloomberg Opinion Columnist",
+          "key_view": "Congress should focus on the non-bank financial sector and the rapid accumulation of debt for AI development."
+        },
+        {
+          "name": "Kathryn Judge",
+          "role": "Professor, Columbia Law School",
+          "key_view": "Expect aggressive regulatory oversight of financial firms, focusing on non-bank institutions and the Corporate Transparency Act."
+        },
+        {
+          "name": "George Alexander Muthoot",
+          "role": "Executive Vice Chairman, Muthoot Conglomerate",
+          "key_view": "Gold is an essential financial asset and collateral foundation enabling household credit in India."
+        },
+        {
+          "name": "Chrystia Freeland",
+          "role": "Former Canada Deputy Prime Minister",
+          "key_view": "US-Canada trade relations remain challenged by tariffs despite broader political shifts."
+        },
+        {
+          "name": "Mitch Daniels",
+          "role": "Former Indiana Governor",
+          "key_view": "Stadium financing proposals require rigorous economic analysis to preserve taxpayer protection and fiscal discipline."
+        },
+        {
+          "name": "Kam Buckner",
+          "role": "Illinois State Representative",
+          "key_view": "The economic value of retaining the Chicago Bears must be carefully balanced against public subsidy risks."
+        },
+        {
+          "name": "Tom McDermott",
+          "role": "Mayor, Hammond, Indiana",
+          "key_view": "Hammond offers a competitive economic framework and structured financing plan to attract the Chicago Bears."
+        }
+      ],
+      "catalysts": [
+        "Upcoming Senate Banking Committee hearings and potential regulatory rulemakings",
+        "Developments in US-China semiconductor export controls and diplomatic negotiations",
+        "Decisions on Chicago Bears stadium location and municipal funding approvals",
+        "Policy responses addressing US care sector labor shortages"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 57,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-15T10:40:06Z"
+  },
+  {
     "id": "tn91wjhbFX8",
     "title": "Nvidia’s Board CEO Hunt, Stocks Finish Week Higher, Retail in Focus",
     "channel": "Bloomberg Television",
