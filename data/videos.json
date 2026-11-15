@@ -1,5 +1,105 @@
 [
   {
+    "id": "zIZ53YV7ToY",
+    "title": "Nvidia Spy Scandal, Nationwide Ground Stop Lifted, Starship’s Longest Test Flight",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-14T16:42:31Z",
+    "live": "none",
+    "minutes": 148.8,
+    "thumbnail": "https://i.ytimg.com/vi/zIZ53YV7ToY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=zIZ53YV7ToY",
+    "notes": {
+      "headline": "Nvidia CEO Resigns Amid Espionage Scandal; FAA Lifts Nationwide Ground Stop",
+      "summary": "Nvidia CEO Jensen Huang resigned following allegations of an affair and potential espionage involving trade secrets shared with China, triggering a board investigation and potential US government 'entity list' scrutiny. Simultaneously, the FAA resolved a nationwide ground stop caused by air traffic control data overloads, while broader markets remain resilient despite tech-sector volatility. Investors are balancing these corporate governance crises against historical mid-term election market trends and strong demand for upcoming AI-focused IPOs like Anthropic.",
+      "key_takeaways": [
+        "Nvidia CEO Jensen Huang resigned amid allegations of an affair and potential espionage involving trade secrets leaked to China.",
+        "Nvidia board appointed CFO Colette Kress as interim CEO; the US Justice Department is investigating the matter.",
+        "FAA lifted a nationwide ground stop after a four-hour shutdown caused by system data overload.",
+        "US government is considering placing Nvidia on an 'entity list' due to national security concerns.",
+        "Anthropic's upcoming IPO is reportedly six times oversubscribed, indicating strong AI sector demand.",
+        "SpaceX's Starship test flight represents a critical milestone for launch frequency and cost reduction.",
+        "Ukraine is exploring a potential peace deal involving NATO membership in exchange for ceding the Donbas region."
+      ],
+      "macro": [
+        "Escalating geopolitical tensions between the US and China regarding technology and espionage.",
+        "US military strategy in the Middle East shifting toward a narrower definition of core interests.",
+        "Historical data suggests markets typically perform well in the period following mid-term elections.",
+        "Fiscal challenges regarding infrastructure funding and the estimated $50 billion cost of the war in Iran."
+      ],
+      "priced_in": [
+        "Elevated volatility in the tech sector due to Nvidia's leadership and security crisis.",
+        "Strong investor demand for the upcoming Anthropic IPO.",
+        "Market resilience with the S&P 500 remaining relatively close to all-time highs."
+      ],
+      "fundamentals": [
+        "Nvidia: Leadership transition, potential export restrictions, and investigation into intellectual property leaks.",
+        "Airlines: Operational recovery following widespread flight cancellations and delays.",
+        "Financials: Barclays cutting 200 jobs in its investment bank.",
+        "Tech: Microsoft services fully restored after global outage."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "The index is down 10% from highs, reflecting specific concerns about tech companies and China exposure.",
+          "source": "Barry Ritholtz, Ritholtz Wealth Management"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "neutral",
+          "view": "The index is 3.3% off all-time highs, indicating a broader market not solely driven by tech.",
+          "source": "Barry Ritholtz, Ritholtz Wealth Management"
+        },
+        {
+          "asset": "Rates",
+          "bias": "neutral",
+          "view": "Significant infrastructure funding requirements may impact future fiscal policy and government spending.",
+          "source": "Sean Duffy, Transportation Secretary"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Peter Mattis",
+          "role": "President of the Jamestown Foundation",
+          "key_view": "US corporations must be vigilant regarding Chinese economic espionage and the state's strategic use of commercial entities."
+        },
+        {
+          "name": "Barry Ritholtz",
+          "role": "Founder & CIO, Ritholtz Wealth Management",
+          "key_view": "The market is broad-based, and historical data suggests mid-term elections are typically followed by market gains."
+        },
+        {
+          "name": "Ed Ludlow",
+          "role": "Host, Bloomberg Tech",
+          "key_view": "Nvidia's leadership transition and espionage investigations create significant uncertainty for the broader tech sector."
+        },
+        {
+          "name": "Sean Duffy",
+          "role": "Transportation Secretary",
+          "key_view": "The FAA ground stop was a necessary precaution, and Congress must provide resources for infrastructure upgrades."
+        },
+        {
+          "name": "George Ferguson",
+          "role": "Senior Aerospace Analyst, Bloomberg Intelligence",
+          "key_view": "The FAA's patchwork system is overwhelmed by new technology, making a complete fix difficult."
+        }
+      ],
+      "catalysts": [
+        "Nvidia earnings release",
+        "Anthropic IPO",
+        "US Justice Department investigation updates",
+        "Congressional discussions on infrastructure funding",
+        "Future SpaceX Starship test flights"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 149,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-15T10:03:00Z"
+  },
+  {
     "id": "tn91wjhbFX8",
     "title": "Nvidia’s Board CEO Hunt, Stocks Finish Week Higher, Retail in Focus",
     "channel": "Bloomberg Television",

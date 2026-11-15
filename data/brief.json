@@ -1,52 +1,41 @@
 {
-  "narrative": "Markets have shifted into a risk-off posture triggered by severe leadership turmoil at Nvidia following CEO Jensen Huang's sudden exit amid misconduct allegations and a Justice Department export probe. This shock has sparked a sharp valuation reset across semiconductors and mega-cap tech, even as interim CEO Colette Kress takes over and hyperscaler capex comes under scrutiny. Compounding equity pressure, Fed rate hike expectations for December have surged toward 100% on persistent inflation worries, pushing bond yields higher and lifting terminal rate projections above 5%. A ballooning US fiscal deficit of $404 billion and a strong dollar are further straining market liquidity. Meanwhile, commodities reflect tight conditions, with gold facing liquidations for cash and crude oil caught between geopolitical risks and broader macro headwinds.",
-  "regime": "risk-off",
+  "narrative": "The market is grappling with a significant leadership crisis at Nvidia following the CEO's resignation amid espionage allegations and potential US government sanctions. This has triggered a sharp sell-off in the tech sector, weighing heavily on the Nasdaq 100. Despite these tech-specific headwinds, the broader S&P 500 remains resilient, trading near all-time highs. Geopolitical tensions between the US and China are intensifying, while the market also monitors fiscal challenges related to infrastructure and military spending. Overall, investor sentiment remains mixed as the tech sector faces a period of heightened volatility.",
+  "regime": "mixed",
   "assets": {
     "Nasdaq": {
       "bias": "bearish",
-      "why": "The index is facing heavy selling pressure and volatility driven by Jensen Huang's exit from Nvidia and subsequent sharp declines across the semiconductor sector, according to anchors and Charlie Pellett."
+      "why": "Barry Ritholtz notes the index is down 10% from highs due to specific concerns regarding tech companies and their China exposure."
     },
     "S&P 500": {
-      "bias": "bearish",
-      "why": "Broader equities are being dragged lower by tech sector contagion and elevated Treasury yields, though losses have been partially mitigated by non-AI components, according to Charlie Pellett and anchors."
+      "bias": "neutral",
+      "why": "Barry Ritholtz highlights that the index is only 3.3% off all-time highs, suggesting the broader market is not solely dependent on tech performance."
     },
     "Gold": {
-      "bias": "bearish",
-      "why": "Spot gold is under pressure and falling as market participants sell hard assets to raise cash in a liquidity-constrained, strong-dollar environment, according to Jeff Currie and anchors."
+      "bias": "neutral",
+      "why": "Gold was not covered in the provided notes."
     },
     "Oil": {
-      "bias": "mixed",
-      "why": "Brent crude is buoyed above $96 a barrel by Middle East supply tensions and high production costs, but upside remains capped by volume and late-week risk-off selling, according to Jeff Currie and anchors."
+      "bias": "neutral",
+      "why": "Oil was not covered in the provided notes."
     }
   },
   "priced_in": [
-    "A December Fed rate hike, with probabilities priced between 80% and 100% for a 25bps to 50bps move",
-    "A higher terminal interest rate path potentially exceeding 5%, including roughly 60 basis points of hikes by March 2027",
-    "Increased risk premium and near-term volatility surrounding Nvidia's leadership succession and ongoing DOJ investigations",
-    "A valuation reset across semiconductor and AI-leveraged growth equities amid rising capital costs",
-    "A liquidity-constrained trading environment where hard assets are being liquidated for cash"
+    "Elevated volatility in the tech sector",
+    "Strong investor demand for the upcoming Anthropic IPO",
+    "Market resilience with the S&P 500 near all-time highs"
   ],
   "debates": [
-    "Fed rate outlook: Easing inflation indicators like benign PPI suggest rate stabilization to some anchors, whereas Fed officials and Kelsey Berro argue sticky services inflation demands aggressive tightening",
-    "AI buildout durability: Rising cost of capital and capex concentration concerns clash with strong infrastructure demand reported in earnings from Cisco, Applied Materials, and Cerebras",
-    "Crude direction: Whether Middle East supply disruptions and high production floors will spur a sustained rally or if broader economic cooling and volume caps will keep prices depressed"
+    "Whether the tech-led sell-off will broaden to the rest of the market or if the S&P 500's resilience will hold"
   ],
   "watch_next": [
-    "Nvidia earnings release (Tuesday / November 17th) and updates on permanent CEO selection",
-    "Jensen Huang's scheduled congressional testimony and DOJ probe updates",
-    "Anthropic IPO (Thursday) at a reported $1.4 trillion valuation",
-    "US Macro: Retail sales and industrial production (Tuesday), Fed minutes (Wednesday), Jobless claims (Thursday), UMich sentiment (Friday), Core PCE and PPI",
-    "Trump-Xi meeting and APEC Summit developments",
-    "Grand Theft Auto VI launch (November 19th)"
+    "Nvidia earnings release",
+    "Anthropic IPO",
+    "US Justice Department investigation updates",
+    "Congressional discussions on infrastructure funding"
   ],
-  "generated_at": "2026-11-15T09:08:03Z",
+  "generated_at": "2026-11-15T10:03:07Z",
   "based_on": [
-    "tn91wjhbFX8",
-    "yBGjmomZmK8",
-    "0y9o02dIPns",
-    "eHfc3uZPzYc",
-    "ROVLEI-YNM8",
-    "r05uI9Fnv6g"
+    "zIZ53YV7ToY"
   ],
-  "model": "gemini-3.8-flash"
+  "model": "gemini-3.1-flash-lite"
 }
