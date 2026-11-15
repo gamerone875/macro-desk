@@ -1,44 +1,52 @@
 {
-  "narrative": "Markets are navigating a volatile environment characterized by tech sector rotation and liquidity constraints as investors digest a widening US fiscal deficit. Persistent inflation concerns have shifted expectations toward a December Fed rate hike, putting upward pressure on yields. A nationwide FAA ground stop and global software outages have added to the prevailing risk-off sentiment. Meanwhile, investors are rotating out of high-momentum semiconductor names into quality, while hard assets like gold are being liquidated to raise cash. The market remains focused on upcoming earnings and key economic data to gauge the sustainability of the current economic trajectory.",
+  "narrative": "Markets have shifted into a risk-off posture triggered by severe leadership turmoil at Nvidia following CEO Jensen Huang's sudden exit amid misconduct allegations and a Justice Department export probe. This shock has sparked a sharp valuation reset across semiconductors and mega-cap tech, even as interim CEO Colette Kress takes over and hyperscaler capex comes under scrutiny. Compounding equity pressure, Fed rate hike expectations for December have surged toward 100% on persistent inflation worries, pushing bond yields higher and lifting terminal rate projections above 5%. A ballooning US fiscal deficit of $404 billion and a strong dollar are further straining market liquidity. Meanwhile, commodities reflect tight conditions, with gold facing liquidations for cash and crude oil caught between geopolitical risks and broader macro headwinds.",
   "regime": "risk-off",
   "assets": {
     "Nasdaq": {
       "bias": "bearish",
-      "why": "The index is facing significant volatility and underperformance driven by weakness in the semiconductor sector."
+      "why": "The index is facing heavy selling pressure and volatility driven by Jensen Huang's exit from Nvidia and subsequent sharp declines across the semiconductor sector, according to anchors and Charlie Pellett."
     },
     "S&P 500": {
-      "bias": "neutral",
-      "why": "Not covered."
+      "bias": "bearish",
+      "why": "Broader equities are being dragged lower by tech sector contagion and elevated Treasury yields, though losses have been partially mitigated by non-AI components, according to Charlie Pellett and anchors."
     },
     "Gold": {
       "bias": "bearish",
-      "why": "Jeff Currie notes that gold is being sold to raise cash in a liquidity-constrained environment rather than serving as a hedge."
+      "why": "Spot gold is under pressure and falling as market participants sell hard assets to raise cash in a liquidity-constrained, strong-dollar environment, according to Jeff Currie and anchors."
     },
     "Oil": {
-      "bias": "neutral",
-      "why": "Brent crude is supported by high supply costs but faces capped upside due to volume constraints."
+      "bias": "mixed",
+      "why": "Brent crude is buoyed above $96 a barrel by Middle East supply tensions and high production costs, but upside remains capped by volume and late-week risk-off selling, according to Jeff Currie and anchors."
     }
   },
   "priced_in": [
-    "December Fed rate hike",
-    "Continued market volatility",
-    "Rotation from momentum to quality stocks",
-    "Liquidity-driven selling of hard assets"
+    "A December Fed rate hike, with probabilities priced between 80% and 100% for a 25bps to 50bps move",
+    "A higher terminal interest rate path potentially exceeding 5%, including roughly 60 basis points of hikes by March 2027",
+    "Increased risk premium and near-term volatility surrounding Nvidia's leadership succession and ongoing DOJ investigations",
+    "A valuation reset across semiconductor and AI-leveraged growth equities amid rising capital costs",
+    "A liquidity-constrained trading environment where hard assets are being liquidated for cash"
   ],
   "debates": [
-    "Whether the semiconductor sector weakness is a temporary rotation or a broader shift in tech leadership"
+    "Fed rate outlook: Easing inflation indicators like benign PPI suggest rate stabilization to some anchors, whereas Fed officials and Kelsey Berro argue sticky services inflation demands aggressive tightening",
+    "AI buildout durability: Rising cost of capital and capex concentration concerns clash with strong infrastructure demand reported in earnings from Cisco, Applied Materials, and Cerebras",
+    "Crude direction: Whether Middle East supply disruptions and high production floors will spur a sustained rally or if broader economic cooling and volume caps will keep prices depressed"
   ],
   "watch_next": [
-    "Nvidia earnings (Tuesday)",
-    "Retail sales and industrial production (Tuesday)",
-    "Fed minutes (Wednesday)",
-    "Anthropic IPO (Thursday)",
-    "Jobless claims (Thursday)",
-    "UMich sentiment (Friday)"
+    "Nvidia earnings release (Tuesday / November 17th) and updates on permanent CEO selection",
+    "Jensen Huang's scheduled congressional testimony and DOJ probe updates",
+    "Anthropic IPO (Thursday) at a reported $1.4 trillion valuation",
+    "US Macro: Retail sales and industrial production (Tuesday), Fed minutes (Wednesday), Jobless claims (Thursday), UMich sentiment (Friday), Core PCE and PPI",
+    "Trump-Xi meeting and APEC Summit developments",
+    "Grand Theft Auto VI launch (November 19th)"
   ],
-  "generated_at": "2026-11-14T18:18:26Z",
+  "generated_at": "2026-11-15T09:08:03Z",
   "based_on": [
-    "tn91wjhbFX8"
+    "tn91wjhbFX8",
+    "yBGjmomZmK8",
+    "0y9o02dIPns",
+    "eHfc3uZPzYc",
+    "ROVLEI-YNM8",
+    "r05uI9Fnv6g"
   ],
-  "model": "gemini-3.1-flash-lite"
+  "model": "gemini-3.8-flash"
 }

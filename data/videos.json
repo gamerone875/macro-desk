@@ -102,6 +102,112 @@
     "processed_at": "2026-11-14T17:58:25Z"
   },
   {
+    "id": "yBGjmomZmK8",
+    "title": "Jensen Huang Scandal Fallout Grows",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-13T22:02:39Z",
+    "live": "none",
+    "minutes": 48.9,
+    "thumbnail": "https://i.ytimg.com/vi/yBGjmomZmK8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=yBGjmomZmK8",
+    "notes": {
+      "headline": "Nvidia CEO Jensen Huang resigns amid scandal, pressuring semiconductors and broader tech sentiment",
+      "summary": "Nvidia shares and the broader semiconductor sector faced sharp selling pressure following the resignation of CEO Jensen Huang after an internal investigation confirmed an affair with an employee. The leadership void has rattled the AI trade and key Asian supply chain partners, while Microsoft worked through the recovery of a major global outage affecting its Exchange and Outlook services. Markets reflected a risk-off tone driven by tech weakness, rising capital costs for hyperscalers, and persistent US-China geopolitical tensions.",
+      "key_takeaways": [
+        "Nvidia CEO Jensen Huang resigned after an internal probe confirmed an affair with an employee, creating severe leadership uncertainty.",
+        "Semiconductor stocks and the PHLX Semiconductor Index experienced a sharp correction, dragging down major equity indices.",
+        "Analysts and investors are reassessing the sustainability of the AI trade as the cost of capital rises for hyperscalers.",
+        "South Korea and suppliers like Samsung, SK Hynix, and TSMC face heightened scrutiny due to deep operational ties with Nvidia.",
+        "Microsoft largely recovered from a widespread global outage affecting Exchange and Outlook caused by a network configuration change.",
+        "Corporate belt-tightening continues, with Barclays cutting 200 investment banking jobs and AstraZeneca cutting 600 commercial roles.",
+        "Global equity funds continue to record inflows despite short-term volatility and tech sector declines."
+      ],
+      "macro": [
+        "Rising cost of capital is impacting valuations and long-term capital expenditure plans for hyperscalers.",
+        "US-China geopolitical tensions remain a key headwind, especially regarding semiconductor trade and export controls.",
+        "Easing inflation data has partially mitigated fears of aggressive Fed rate hikes.",
+        "South Korea's fundamental economic posture remains heavily reliant on its strategic security relationship with the US."
+      ],
+      "priced_in": [
+        "Increased volatility and risk premium surrounding Nvidia's sudden leadership transition.",
+        "A broader valuation correction across semiconductor and AI-leveraged growth stocks.",
+        "Heightened corporate caution regarding productivity disruption following Microsoft's cloud outage."
+      ],
+      "fundamentals": [
+        "Nvidia faces company-level regulatory scrutiny and succession challenges, alongside long-term competition from hyperscalers developing custom chips.",
+        "Microsoft's service disruption stemmed from an internal network configuration change affecting Exchange servers.",
+        "Cisco Systems posted mixed quarterly results, highlighted by disappointing order growth.",
+        "Barclays is eliminating 200 investment banking positions; AstraZeneca is trimming 600 respiratory and immunology commercial roles."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "Down 1.34% as semiconductor and mega-cap tech stocks face heavy selling pressure.",
+          "source": "Charlie Pellet, Bloomberg"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "Under pressure, falling 0.53% dragged down by tech and broader risk aversion.",
+          "source": "Charlie Pellet, Bloomberg"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "WTI and Brent crude are trading lower heading into the weekend.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Gold",
+          "bias": "neutral",
+          "view": "Little changed on the day, up roughly $1.50 to trade around $38.78/oz.",
+          "source": "Charlie Pellet, Bloomberg"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Ian King",
+          "role": "US Semiconductor Reporter, Bloomberg News",
+          "key_view": "Nvidia's board had no option but to accept Jensen Huang's resignation due to an explicit violation of company code of conduct."
+        },
+        {
+          "name": "Cat Barton",
+          "role": "Seoul Bureau Chief, Bloomberg News",
+          "key_view": "South Korea is exceptionally exposed as a major hardware supplier to Nvidia and is highly sensitive to executive fallout."
+        },
+        {
+          "name": "Lis Agosto",
+          "role": "Global X ETF Director of Product Research & Strategy",
+          "key_view": "The AI secular trade remains intact, but investors are reassessing rich valuations and looking past pure semiconductor plays."
+        },
+        {
+          "name": "Tatiana Darie",
+          "role": "Bloomberg News Markets Live Strategist",
+          "key_view": "Higher cost of capital is compressing valuation multiples for hyperscalers despite solid structural growth drivers."
+        },
+        {
+          "name": "Matt Day",
+          "role": "Technology Reporter, Bloomberg News",
+          "key_view": "Microsoft's outage was operational, triggered by an internal network configuration change rather than an external attack."
+        }
+      ],
+      "catalysts": [
+        "Nvidia earnings release",
+        "Updates on Nvidia's permanent leadership succession and potential regulatory inquiries",
+        "Anthropic IPO",
+        "Trump-Xi meeting",
+        "APEC Summit"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 49,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-15T09:04:03Z"
+  },
+  {
     "id": "0y9o02dIPns",
     "title": "Stocks Fall as Huang Resigns, Nvidia Turns to CFO",
     "channel": "Bloomberg Television",
