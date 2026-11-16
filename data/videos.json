@@ -282,6 +282,67 @@
     "processed_at": "2026-11-15T10:03:00Z"
   },
   {
+    "id": "SJkjzmtGGPc",
+    "title": "Nvidia Looks for a New Era After Huang",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-14T14:23:18Z",
+    "live": "none",
+    "minutes": 13.9,
+    "thumbnail": "https://i.ytimg.com/vi/SJkjzmtGGPc/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=SJkjzmtGGPc",
+    "notes": {
+      "headline": "Nvidia faces leadership transition and geopolitical scrutiny amid scandal",
+      "summary": "Nvidia is searching for a permanent CEO following the resignation of Jensen Huang, who stepped down amid reports of extramarital affairs and potential ties to Chinese government interests. The company's stock has plunged 12% this week, reflecting investor concerns over leadership stability and the potential for increased regulatory scrutiny. The situation highlights broader risks for the tech sector, particularly regarding national security and international relations with China.",
+      "key_takeaways": [
+        "Jensen Huang resigned as Nvidia CEO following scandal, with CFO Colette Kress named interim CEO.",
+        "Nvidia's stock dropped 12% this week, reflecting market uncertainty.",
+        "The company faces significant governance and national security scrutiny regarding its China operations.",
+        "Investors are concerned about the lack of a clear successor and the impact of the scandal on the company's future.",
+        "Nvidia's leadership was deeply involved in diplomatic efforts with foreign governments, which may now be compromised."
+      ],
+      "macro": [
+        "Geopolitical tensions between the US and China, specifically regarding chip exports and national security.",
+        "Potential for increased regulatory scrutiny on US tech companies operating in China.",
+        "Concerns about the impact of leadership scandals on investor trust in the broader tech sector."
+      ],
+      "priced_in": [
+        "12% decline in Nvidia's stock price this week.",
+        "Market uncertainty regarding Nvidia's future leadership and strategic direction."
+      ],
+      "fundamentals": [
+        "Nvidia's market cap has fallen below $4 trillion.",
+        "Nvidia's business is heavily reliant on AI chip sales, which are subject to export controls.",
+        "The company's flat management structure and lack of a designated successor are being questioned."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "Nvidia's stock plunge and leadership uncertainty pose risks to the tech-heavy index.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Emily Chang",
+          "role": "Host & Executive Producer, The Circuit",
+          "key_view": "The scandal is significant because it involves potential ties to the Chinese government and raises questions about Nvidia's future and governance."
+        }
+      ],
+      "catalysts": [
+        "Jensen Huang to testify before Congress next week.",
+        "Commerce Secretary Howard Lutnick under scrutiny.",
+        "Upcoming town hall meeting."
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 14,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-16T07:51:08Z"
+  },
+  {
     "id": "5jw4WtsMQqU",
     "title": "Wall Street Week | Nvidia Shakeup, Midwest Stadium Bids, Care Work Gap, India’s Wedding Economy",
     "channel": "Bloomberg Television",
