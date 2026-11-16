@@ -1,45 +1,47 @@
 {
-  "narrative": "Markets are navigating sharp turbulence in the technology sector following the sudden resignation of Nvidia CEO Jensen Huang amid an internal probe, trade-secret espionage allegations, and potential US entity-list restrictions. This fallout has triggered a selloff across semiconductors and elevated scrutiny over non-bank debt financing rapid AI infrastructure expansion. Broader equities remain somewhat insulated, with the S&P 500 trading within range of record highs on sustained consumer strength. Oil markets are balancing Middle East geopolitical risks against rising supply from Venezuela, where Chevron is expanding output. Meanwhile, gold remains stable, functioning predominantly as household credit collateral in key physical markets, while easing inflation mitigates fears of aggressive Federal Reserve rate hikes.",
+  "narrative": "Markets are navigating severe turbulence in the technology sector following the abrupt resignation of Nvidia CEO Jensen Huang amid an internal probe, potential trade secret espionage investigations, and possible US entity listing risks. While tech sentiment is rattled, the upcoming six-times oversubscribed Anthropic IPO and Nvidia's Q3 earnings are seen as pivotal tests for AI capital expenditure and valuation sustainability. Broader equities are partially buffered by resilient US consumer strength and ongoing global fund inflows, though geopolitical friction between the US and China alongside Middle East instability remains acute. Meanwhile, macroeconomic focus is shifting toward rising AI debt accumulation, non-bank financial leverage, and potential tightening of export controls.",
   "regime": "mixed",
   "assets": {
     "Nasdaq": {
       "bias": "bearish",
-      "why": "Charlie Pellet reports tech and semiconductor stocks facing heavy selling pressure down 1.34%, while Barry Ritholtz highlights the index is down 10% from highs amid China exposure and Nvidia governance risks."
+      "view": "Under pressure and down 10% from highs, weighed down by the Nvidia leadership crisis, US-China chip export risks, and heavy selling across semiconductors as noted by Barry Ritholtz and Charlie Pellet."
     },
     "S&P 500": {
       "bias": "mixed",
-      "why": "Tony Crescenzi of PIMCO expects continued market growth supported by consumer resilience and data center spend, while Barry Ritholtz notes the index sits 3.3% off all-time highs and Charlie Pellet reports downside drag from tech."
+      "view": "Tony Crescenzi expects growth supported by consumer resilience and data centers, but Charlie Pellet and Richard Haass note drag from tech weakness and corporate governance uncertainty keeping the index off record highs."
     },
     "Gold": {
       "bias": "neutral",
-      "why": "Charlie Pellet reports gold trading virtually flat around $38.78/oz, while George Alexander Muthoot highlights its steady fundamental function as core loan collateral in India."
+      "view": "Trading little changed around $38.78/oz according to Charlie Pellet, while George Alexander Muthoot highlights Indian households holding roughly 35,000 tons of gold as vital loan collateral."
     },
     "Oil": {
       "bias": "mixed",
-      "why": "Tara Copp and Eimear Bonner highlight upward supply pressures from Middle East tensions and Chevron's Venezuelan expansion, though Bloomberg anchors report Brent and WTI trading lower into the weekend."
+      "view": "WTI and Brent faced selling pressure heading into the weekend, though Tara Copp and Eimear Bonner point out supportive geopolitical risks in the Middle East alongside Chevron ramping Venezuelan output to nearly 300,000 bpd."
     }
   },
   "priced_in": [
-    "Heightened volatility and valuation correction in semiconductor and mega-cap tech stocks",
-    "Strong market demand for the upcoming Anthropic IPO",
-    "Persisting geopolitical volatility in the Middle East and US-China tensions",
-    "Investment-grade corporate credit pricing in a 6% yield",
-    "Increased regulatory scrutiny for banks and non-bank financial firms"
+    "Nvidia surpassing consensus earnings estimates for the third quarter",
+    "Elevated volatility and risk premium across mega-cap tech and semiconductor equities following Nvidia's leadership crisis",
+    "Long timelines for frontier AI labs to achieve free cash flow positivity, stretching toward 2030",
+    "Strong investor appetite for Anthropic's IPO, which is six times oversubscribed",
+    "Investment-grade corporate credit pricing a 6% yield",
+    "Continued geopolitical volatility in the Middle East and ongoing US-China tensions"
   ],
   "debates": [
-    "Equity resilience versus tech drag: Tony Crescenzi argues US consumer strength will sustain broader equity growth, while Barry Ritholtz and Charlie Pellet emphasize the drag from semiconductor corrections and China risks.",
-    "AI debt and capex sustainability: William Dudley warns of systemic financial risk from rapid debt accumulation funding AI infrastructure, contrasted with robust investor appetite evidenced by Anthropic's heavily oversubscribed IPO.",
-    "Crude balance: Upward risks from Middle East instability contrasted with expanding physical output as Chevron increases Venezuelan production from 50,000 to nearly 300,000 barrels per day."
+    "Sustainability of massive hyperscaler AI capex and rising cost of capital versus near-term profitability constraints",
+    "Broader equity resilience driven by consumer strength (Tony Crescenzi) versus systemic risks from rapid non-bank debt accumulation financing AI (William Dudley)",
+    "Impact of US national security actions against Nvidia (entity listing risk) versus long-term global semiconductor demand"
   ],
   "watch_next": [
-    "Nvidia Q3 earnings release and DOJ investigation updates",
-    "Anthropic IPO on Nasdaq",
-    "Senate Banking Committee hearings on non-bank financial oversight",
-    "Trump-Xi meeting and APEC Summit",
-    "Congressional hearings on FAA infrastructure failure and export control legislation"
+    "Anthropic IPO debut on the Nasdaq under ticker 'ANT' (Thursday)",
+    "Nvidia Q3 earnings release (next Tuesday)",
+    "US Justice Department investigation updates and potential congressional hearings on Nvidia governance",
+    "Congressional hearings on the FAA router failure and infrastructure funding",
+    "Trump-Xi meeting and APEC Summit developments"
   ],
-  "generated_at": "2026-11-15T18:11:25Z",
+  "generated_at": "2026-11-16T07:46:21Z",
   "based_on": [
+    "Rj-Yu4DhqZQ",
     "PNMBn-tPLIM",
     "5jw4WtsMQqU",
     "zIZ53YV7ToY",

@@ -106,6 +106,82 @@
     "processed_at": "2026-11-15T18:07:59Z"
   },
   {
+    "id": "Rj-Yu4DhqZQ",
+    "title": "Anthropic IPO Arrives at a Pivotal AI Moment",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-15T13:15:45Z",
+    "live": "none",
+    "minutes": 11.1,
+    "thumbnail": "https://i.ytimg.com/vi/Rj-Yu4DhqZQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Rj-Yu4DhqZQ",
+    "notes": {
+      "headline": "Anthropic IPO and Nvidia earnings are pivotal moments for AI-driven market sentiment",
+      "summary": "The upcoming Anthropic IPO and Nvidia's third-quarter earnings are critical for assessing the sustainability of the AI-driven market rally. Investors are scrutinizing the capital expenditure requirements and long-term profitability of AI infrastructure, particularly as Nvidia faces scrutiny over its market dominance and governance. The market is also weighing the impact of potential regulatory and geopolitical risks on the broader technology sector.",
+      "key_takeaways": [
+        "Anthropic is set to debut on the Nasdaq this Thursday under the ticker 'ANT'.",
+        "Mandeep Singh notes that Anthropic's valuation will be driven by its business model, which relies on heavy compute, and its ability to maintain profitability.",
+        "Bailey Lipschultz highlights that investors are questioning the long-term profitability of frontier AI labs, with some not expecting free cash flow positivity until 2030.",
+        "Nvidia's upcoming earnings are expected to be strong, but the market is focused on China exposure and future growth constraints.",
+        "Key-man risk and governance at major tech companies are becoming a significant focus for investors following recent corporate scandals."
+      ],
+      "macro": [
+        "Geopolitical tensions, specifically regarding China, remain a key uncertainty for Nvidia and the broader AI sector.",
+        "The pace of data center expansion is being impacted by permitting delays, which may stretch out the investment timeline for AI infrastructure."
+      ],
+      "priced_in": [
+        "The market expects Nvidia to surpass consensus earnings estimates for the third quarter.",
+        "Investors are pricing in a long lead time for AI labs to achieve free cash flow positivity, with some estimates extending to 2030.",
+        "There is significant uncertainty surrounding the future of AI-related capital expenditures and the sustainability of current AI valuations."
+      ],
+      "fundamentals": [
+        "Anthropic's business model is characterized by high compute costs and a 50% gross margin.",
+        "Nvidia's third-quarter revenue is expected to be strong, potentially exceeding $110 billion.",
+        "The AI sector faces ongoing challenges related to the availability and cost of compute resources."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "mixed",
+          "view": "The market is at a pivotal moment, with the Anthropic IPO and Nvidia earnings potentially driving significant volatility.",
+          "source": "Bailey Lipschultz, Bloomberg News"
+        },
+        {
+          "asset": "Other: Nvidia",
+          "bias": "bullish",
+          "view": "Third-quarter earnings are expected to be strong and may surpass consensus estimates.",
+          "source": "Mandeep Singh, Bloomberg Intelligence"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Mandeep Singh",
+          "role": "Global Head of Technology Research, Bloomberg Intelligence",
+          "key_view": "Anthropic's valuation will be determined by its business model and its ability to manage the high costs of compute."
+        },
+        {
+          "name": "Bailey Lipschultz",
+          "role": "Senior Equities Reporter, Bloomberg News",
+          "key_view": "Investors are questioning the long-term profitability of frontier AI labs and are focused on key-man risk and governance."
+        },
+        {
+          "name": "Dario Amodei",
+          "role": "Co-Founder & CEO, Anthropic",
+          "key_view": "The company is focused on under-promising and over-delivering, with a long-term view on safety and model capabilities."
+        }
+      ],
+      "catalysts": [
+        "Anthropic IPO on Nasdaq this Thursday",
+        "Nvidia third-quarter earnings release next Tuesday"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 11,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-16T07:34:36Z"
+  },
+  {
     "id": "zIZ53YV7ToY",
     "title": "Nvidia Spy Scandal, Nationwide Ground Stop Lifted, Starship’s Longest Test Flight",
     "channel": "Bloomberg Television",
