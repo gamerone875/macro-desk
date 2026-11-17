@@ -1,5 +1,147 @@
 [
   {
+    "id": "Yt_wdKWStqM",
+    "title": "Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-17T00:17:23Z",
+    "live": "none",
+    "minutes": 91.4,
+    "thumbnail": "https://i.ytimg.com/vi/Yt_wdKWStqM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Yt_wdKWStqM",
+    "notes": {
+      "headline": "Tech selloff deepens as rising yields, AI export controls, and Anthropic IPO weigh",
+      "summary": "Major US equity indexes closed sharply lower for a third straight session, led downward by technology and semiconductor stocks ahead of Nvidia earnings and the Anthropic IPO. Market sentiment turned decidedly risk-off as investors reassessed the sustainability of AI-driven earnings growth against higher-for-longer yields and new US export controls on advanced AI chips. Geopolitical frictions and persistent inflation added further macro headwinds to an already de-rating market.",
+      "key_takeaways": [
+        "Equities suffered broad declines, with the Nasdaq Composite down 2.5%, the S&P 500 down 1.9%, and semiconductors sliding over 5%.",
+        "Nvidia fell over 4% amid tighter US export controls on advanced AI chips and concerns heading into its high-stakes earnings report.",
+        "Anthropic IPO is set to price within 24 hours of Nvidia earnings, testing investor appetite for direct AI plays.",
+        "Two-year Treasury yields jumped 30 basis points over the past week as markets price a hawkish Fed and sticky inflation.",
+        "The US Commerce Department broadened AI export curbs to overseas data centers and added licensing requirements for five nations, including Brazil and Thailand."
+      ],
+      "macro": [
+        "Fed maintains a hawkish posture with inflation broad and sticky; two-year yields rose 30 bps over the prior week.",
+        "Super-core services inflation (ex-energy, ex-rent) is accelerating at a 5.5% annualized rate.",
+        "US government tightened export controls on advanced AI chips and overseas data center access over national security concerns.",
+        "Geopolitical risks remain elevated, including US-China tensions surrounding President Trump's meeting with President Xi Jinping and Iran concerns.",
+        "Federal Reserve officials pushed back on assumptions that AI productivity gains will swiftly offset inflationary pressures."
+      ],
+      "priced_in": [
+        "Roughly three 25 bps rate hikes are priced in over the next six months.",
+        "Market has significantly de-rated forward earnings growth multiples for the next 6-9 months.",
+        "Consensus expects next-12-month earnings growth of approximately 18%.",
+        "Anticipation of elevated volatility across tech assets over the immediate 48-72 hours."
+      ],
+      "fundamentals": [
+        "Nvidia faces technical selling, having lost over one-third of its market capitalization since early October.",
+        "Anthropic holds $130 billion in cash and is projected to be 6-7 times oversubscribed for its IPO.",
+        "US airlines face over $1 billion in direct costs following a nationwide ground stop.",
+        "Tyson Foods projects fiscal 2027 beef operating results between a $300 million loss and a $100 million profit.",
+        "Health insurers Centene and Molina Healthcare rallied as states secured six-month delays for Medicaid work rules."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "Slumped 2.5% as semiconductor valuations face headwinds from new export restrictions and multiple compression.",
+          "source": "anchors and J.P. Coviello, Citi Wealth"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "Fell 1.8% to 1.9% for a third consecutive decline as investors rotate out of crowded risk positions.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Two-year Treasury yields climbed 30 bps in a week as markets position for further policy tightening to curb persistent inflation.",
+          "source": "J.P. Coviello, Citi Wealth"
+        },
+        {
+          "asset": "Oil",
+          "bias": "mixed",
+          "view": "Brent crude faces pressure from potential supply glut forecasts in the coming year alongside geopolitical risk premiums.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Other: Semiconductors",
+          "bias": "bearish",
+          "view": "Plunged 5.28% on fears of AI capital expenditure re-evaluations and expanded US export licensing curbs.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Ankur Crawford",
+          "role": "Executive Vice President, Portfolio Manager at Alger",
+          "key_view": "The AI industry is undergoing a recalibration of capital expenditure expectations as markets reassess the sustainability of AI-driven growth."
+        },
+        {
+          "name": "J.P. Coviello",
+          "role": "Head of Portfolio Strategy, Citi Wealth",
+          "key_view": "Equities are working through an earnings growth multiple de-rating, though underlying corporate fundamentals remain resilient."
+        },
+        {
+          "name": "Mandeep Singh",
+          "role": "Global Head of Technology Research at Bloomberg Intelligence",
+          "key_view": "Nvidia faces export constraints in key markets, but hyperscaler capex commitments remain supportive."
+        },
+        {
+          "name": "Theresa Payton",
+          "role": "CEO of Fortalice Solutions and former White House Chief Information Officer",
+          "key_view": "Broadening export restrictions on AI chips introduce significant security and auditing burdens for tech infrastructure providers."
+        },
+        {
+          "name": "Sheila Kahyaoglu",
+          "role": "Senior Aerospace and Defense Equity Research Analyst at Jefferies",
+          "key_view": "Airlines are dealing with over $1 billion in costs from ground stops, keeping the operational focus on premiumization."
+        },
+        {
+          "name": "Sarah Levy",
+          "role": "CEO, Betterment",
+          "key_view": "Betterment is expanding into more sophisticated products as its core customer base matures."
+        },
+        {
+          "name": "Vildana Hajric",
+          "role": "Reporter, Bloomberg News",
+          "key_view": "Digital assets are retreating as capital reallocates toward the Anthropic IPO alongside geopolitical headwinds."
+        },
+        {
+          "name": "Mike LaSalle",
+          "role": "Co-President & Partner at Shamrock Capital",
+          "key_view": "Private credit and thematic investment structures are increasingly essential in sports media finance."
+        },
+        {
+          "name": "Jason Sklar",
+          "role": "Partner at Shamrock Capital",
+          "key_view": "Investors are prioritizing less dilutive debt solutions to tap into exclusive sports revenue streams."
+        },
+        {
+          "name": "Brandon Copeland",
+          "role": "CEO of Athletes.org",
+          "key_view": "College athletes require organized bargaining units to secure long-term protections in healthcare and compensation."
+        },
+        {
+          "name": "Cole Gahagan",
+          "role": "President & CEO of Learfield",
+          "key_view": "NIL deal-making is driving structural commercial expansion across college athletics."
+        }
+      ],
+      "catalysts": [
+        "Nvidia earnings report (within 24 hours)",
+        "Anthropic IPO pricing (Wednesday night, trading Thursday)",
+        "US retail sales and industrial production data",
+        "Microsoft CEO Satya Nadella speech at Microsoft Ignite (1 PM ET)"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 91,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-17T07:25:35Z"
+  },
+  {
     "id": "PNMBn-tPLIM",
     "title": "Nvidia Fallout, FAA Router Failure, Next Mega IPO",
     "channel": "Bloomberg Television",
