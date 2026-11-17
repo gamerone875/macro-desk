@@ -142,6 +142,103 @@
     "processed_at": "2026-11-17T07:25:35Z"
   },
   {
+    "id": "96z1mE2XuyI",
+    "title": "US Moves to Curb China’s Chip Access",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-16T21:45:27Z",
+    "live": "none",
+    "minutes": 52.5,
+    "thumbnail": "https://i.ytimg.com/vi/96z1mE2XuyI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=96z1mE2XuyI",
+    "notes": {
+      "headline": "US curbs China's remote AI chip access as tech faces tighter immigration rules",
+      "summary": "The US Commerce Department is moving to close export control loopholes by restricting Chinese companies from remotely accessing advanced AI chips via offshore data centers. Simultaneously, the Department of Labor proposed tighter regulations on employer-sponsored green cards, threatening tech industry talent pipelines. Across markets, risk-off sentiment dominated amid restrictive Federal Reserve rhetoric, leading to sharp declines in major equity indices and crude oil.",
+      "key_takeaways": [
+        "US Commerce Department limits remote access to advanced AI chips and servers for Chinese firms to prevent circumvention of export controls.",
+        "US Department of Labor proposes stricter PERM rules for employer-sponsored green cards, raising recruitment hurdles for tech firms.",
+        "Cleveland Fed President Beth Hammack advocated for continuing restrictive policy to return inflation to the 2% target.",
+        "Tech shares led market declines, with Nvidia sliding 4.1% and the Nasdaq 100 falling 2.36%.",
+        "Crude oil fell over 3% while the 10-year Treasury yield held elevated at 5.11%."
+      ],
+      "macro": [
+        "Geopolitical tech tensions escalate as the US restricts offshore AI computing access for Chinese firms.",
+        "Cleveland Fed President Beth Hammack supports a restrictive monetary stance, noting the economy can withstand further tightening.",
+        "Inflationary pressures remain widespread across energy, tariffs, and B2B pricing.",
+        "Administration initiatives to restrict foreign labor could impact long-term domestic labor supply."
+      ],
+      "priced_in": [
+        "Markets are pricing prolonged restrictive Fed policy and monitoring risks of further rate hikes.",
+        "Tech sector valuations are increasingly factoring in regulatory headwinds on AI exports and skilled visa constraints."
+      ],
+      "fundamentals": [
+        "Nvidia shares fell 4.1% amid export regulation headwinds and broader tech weakness.",
+        "Stricter green card sponsorship rules threaten to increase talent acquisition costs and operational friction for tech firms.",
+        "AI and defense demand continue to support manufacturing sector growth despite broader cost pressures."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "The index fell 2.36% under pressure from AI chip access curbs, regulatory headwinds, and foreign labor restrictions.",
+          "source": "Charlie Pellett, Bloomberg"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "The index dropped 1.73% as tech weakness, restrictive Fed commentary, and regulatory uncertainties weighed on sentiment.",
+          "source": "Charlie Pellett, Bloomberg"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "WTI crude dropped 3.38% to $85.57 and Brent dropped 3.40% to $92.58 per barrel.",
+          "source": "Charlie Pellett, Bloomberg"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "The 10-year Treasury yield held at 5.11% reflecting ongoing focus on restrictive Fed policy.",
+          "source": "Charlie Pellett, Bloomberg"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Gold declined 0.79% to $3,853.93 per ounce.",
+          "source": "Charlie Pellett, Bloomberg"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Michael Shepard",
+          "role": "Senior Editor, Technology & Strategic Industries, Bloomberg News",
+          "key_view": "The US is closing a loophole that allowed Chinese companies to access advanced AI chips via offshore data centers."
+        },
+        {
+          "name": "Beth Hammack",
+          "role": "President, Cleveland Federal Reserve",
+          "key_view": "The economy can withstand more restriction, and the Fed should continue with steady, successive rate increases to bring inflation down to 2%."
+        },
+        {
+          "name": "Andrew Kreighbaum",
+          "role": "Immigration Reporter, Bloomberg Law",
+          "key_view": "Proposed green card rule changes aim to restrict foreign labor and could significantly burden companies reliant on skilled foreign workers."
+        }
+      ],
+      "catalysts": [
+        "60-day public comment period for proposed PERM green card rules",
+        "FOMC meeting in three and a half weeks",
+        "December 9 Fed decision",
+        "Final Department of Labor immigration rule expected next year"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 52,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-17T07:47:10Z"
+  },
+  {
     "id": "PNMBn-tPLIM",
     "title": "Nvidia Fallout, FAA Router Failure, Next Mega IPO",
     "channel": "Bloomberg Television",

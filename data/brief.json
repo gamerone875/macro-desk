@@ -1,45 +1,48 @@
 {
-  "narrative": "Markets are currently gripped by a sharp risk-off sentiment driven by a confluence of tech-sector turmoil and hawkish macroeconomic pressures. The sudden leadership crisis at Nvidia, coupled with tightening US export controls on AI chips, has triggered a significant de-rating of semiconductor and mega-cap tech valuations. Simultaneously, the bond market is reacting to sticky inflation and a hawkish Fed, with two-year Treasury yields surging as investors price in further policy tightening. While the upcoming Anthropic IPO and Nvidia earnings are pivotal, investor confidence is being tested by geopolitical tensions with China and concerns over the long-term sustainability of AI-related capital expenditures. Overall, the market is rotating out of crowded AI positions as volatility spikes across the tech landscape.",
+  "narrative": "Global markets are experiencing a pronounced tech-led selloff driven by the fallout from Nvidia CEO Jensen Huang's sudden resignation and tightened US export curbs on remote AI chip access to China. Monetary policy headwinds are compounding equity pressure as Cleveland Fed President Beth Hammack advocated for continuing restrictive policy to tame sticky inflation, pushing 2-year Treasury yields up 30 basis points. Concurrently, investor focus is centered on immediate AI capital expenditure viability ahead of Nvidia's earnings and Anthropic's multi-billion-dollar Nasdaq IPO. Commodities are facing broad pressure, with crude oil sliding over 3% amid expectations of future supply imbalances and gold softening against higher bond yields.",
   "regime": "risk-off",
   "assets": {
     "Nasdaq": {
       "bias": "bearish",
-      "why": "The index is under heavy selling pressure due to semiconductor valuation compression, Nvidia's leadership crisis, and broader regulatory headwinds."
+      "why": "Heavy selling pressure led by semiconductors following widened US export curbs, Nvidia's leadership crisis, and valuation multiple compression cited by Charlie Pellett and J.P. Coviello."
     },
     "S&P 500": {
       "bias": "bearish",
-      "why": "The index is experiencing a third consecutive decline as investors rotate out of crowded risk positions and tech-led sentiment drags down the broader market."
+      "why": "Charlie Pellett notes the index dropped over 1.7% as tech weakness, rising yields, and restrictive Fed expectations offset broader consumer strength cited by PIMCO's Tony Crescenzi."
     },
     "Gold": {
-      "bias": "neutral",
-      "why": "Gold is viewed primarily as a foundational financial asset and credit collateral in specific markets like India, with little directional momentum noted in recent coverage."
+      "bias": "bearish",
+      "why": "Charlie Pellett reports gold fell 0.79% to $3,853.93 per ounce under pressure from elevated 10-year Treasury yields holding at 5.11%."
     },
     "Oil": {
-      "bias": "mixed",
-      "why": "Prices face downward pressure from potential supply gluts, yet remain sensitive to geopolitical risk premiums in the Middle East and production shifts."
+      "bias": "bearish",
+      "why": "WTI and Brent dropped over 3% to $85.57 and $92.58 respectively (Charlie Pellett), dragged down by potential 2027 supply glut forecasts and Chevron expanding Venezuelan output to nearly 300,000 bpd."
     }
   },
   "priced_in": [
-    "Approximately three 25 bps rate hikes over the next six months",
-    "Significant de-rating of forward earnings growth multiples for the next 6-9 months",
-    "Elevated volatility for tech assets over the immediate 48-72 hours",
-    "Long lead times for AI labs to achieve free cash flow positivity (up to 2030)",
-    "Increased regulatory scrutiny on non-bank financial institutions"
+    "Prolonged restrictive Federal Reserve policy with roughly three 25 bps rate hikes over the next six months",
+    "Consensus next-12-month equity earnings growth of approximately 18%",
+    "Tech multiple de-rating driven by AI export restrictions and proposed PERM foreign labor sponsorship rules",
+    "Nvidia exceeding third-quarter consensus earnings estimates despite near-term leadership uncertainty",
+    "Long lead times for frontier AI labs to achieve free cash flow positivity, with estimates stretching to 2030"
   ],
   "debates": [
-    "Whether AI productivity gains will sufficiently offset inflationary pressures versus the Fed's hawkish stance",
-    "The long-term sustainability of AI-driven capital expenditures and the profitability of frontier AI labs",
-    "The impact of leadership scandals on investor trust versus the underlying strength of AI-driven business models"
+    "Broader equity resilience vs tech fragility: Tony Crescenzi (PIMCO) and Barry Ritholtz argue US consumer strength and non-tech sectors remain resilient, whereas J.P. Coviello highlights multiple compression from persistent 5.5% super-core services inflation",
+    "AI debt and capex sustainability: William Dudley warns of systemic leverage risks tied to AI financing, contrasting with strong market demand for Anthropic's IPO",
+    "Oil market balance: Washington Post's Tara Copp points to elevated Middle East geopolitical risk premiums, while anchors highlight potential upcoming supply gluts and Chevron's Venezuelan ramp"
   ],
   "watch_next": [
-    "Nvidia Q3 earnings (within 24 hours)",
-    "Anthropic IPO pricing and trading debut (Wednesday night/Thursday)",
-    "US retail sales and industrial production data",
-    "Congressional testimony by Jensen Huang",
-    "Senate Banking Committee hearings on financial regulation"
+    "Nvidia Q3 earnings report release",
+    "Anthropic IPO pricing (Wednesday night) and Nasdaq trading debut under ticker ANT (Thursday)",
+    "Former Nvidia CEO Jensen Huang's congressional testimony",
+    "US Retail Sales and Industrial Production data releases",
+    "December 9 FOMC interest rate decision",
+    "60-day public comment window for proposed Department of Labor PERM green card rule changes",
+    "Upcoming meeting between President Trump and President Xi Jinping"
   ],
-  "generated_at": "2026-11-17T07:25:54Z",
+  "generated_at": "2026-11-17T07:53:12Z",
   "based_on": [
+    "96z1mE2XuyI",
     "Yt_wdKWStqM",
     "SJkjzmtGGPc",
     "Rj-Yu4DhqZQ",
@@ -48,5 +51,5 @@
     "zIZ53YV7ToY",
     "yBGjmomZmK8"
   ],
-  "model": "gemini-3.1-flash-lite"
+  "model": "gemini-3.8-flash"
 }
