@@ -1,5 +1,74 @@
 [
   {
+    "id": "YUmAUusqOow",
+    "title": "Metal Prices In Free Fall Flash Warning: Market Analysis",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-18T08:35:34Z",
+    "live": "none",
+    "minutes": 3.1,
+    "thumbnail": "https://i.ytimg.com/vi/YUmAUusqOow/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=YUmAUusqOow",
+    "notes": {
+      "headline": "Mark Cudmore discusses Nvidia's bullish outlook and the recent decline in metal prices.",
+      "summary": "Mark Cudmore analyzes Nvidia's strong earnings and aggressive outlook, which he views as a positive signal for the market. He expresses confusion over the recent decline in gold and other metals, suggesting it may be driven by liquidity needs or deleveraging. Cudmore maintains a bullish stance on US equities, noting that the current market environment offers attractive entry points.",
+      "key_takeaways": [
+        "Nvidia's earnings were strong, with an aggressive outlook that emphasizes robust demand.",
+        "The recent decline in gold and other metals is puzzling, potentially driven by liquidity needs or deleveraging.",
+        "US equities, particularly on an index level, do not show the same level of discounting as individual stocks.",
+        "The broader metals complex, including copper, is trading poorly, suggesting potential underlying issues related to China."
+      ],
+      "macro": [
+        "Fed signals more hikes, which is impacting market sentiment.",
+        "Concerns about the China angle, as metals are trading poorly."
+      ],
+      "priced_in": [
+        "Market is pricing in potential liquidity needs for the Antropic IPO.",
+        "Investors are buying the dip in perceived discounted stocks like Nvidia."
+      ],
+      "fundamentals": [
+        "Nvidia's demand is strong, and their Veraruben platform is taking off quickly.",
+        "Gold is slumping despite lower yields at the front end.",
+        "Metals complex, including copper, is trading negatively."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bullish",
+          "view": "Bullish on US equities, noting that the market is not seeing the same big discounts on an index level.",
+          "source": "Mark Cudmore, Bloomberg MLIV"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Gold is slumping, and the speaker is unsure why it is collapsing given the yield environment.",
+          "source": "Mark Cudmore, Bloomberg MLIV"
+        },
+        {
+          "asset": "Other: Metals",
+          "bias": "bearish",
+          "view": "The entire metals complex is trading poorly, which may indicate underlying issues related to China.",
+          "source": "Mark Cudmore, Bloomberg MLIV"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Mark Cudmore",
+          "role": "Macro Strategist, Bloomberg MLIV",
+          "key_view": "Nvidia's outlook is bullish, but the broader metals complex is showing concerning weakness."
+        }
+      ],
+      "catalysts": [
+        "Antropic IPO"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 3,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-18T09:42:15Z"
+  },
+  {
     "id": "1vahA4fYMJ0",
     "title": "US Strikes Iran’s Qeshm Island as Bahrain and Kuwait Face Fresh Drone Attacks",
     "channel": "Bloomberg Television",
