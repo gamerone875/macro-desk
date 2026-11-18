@@ -279,6 +279,101 @@
     "processed_at": "2026-11-18T09:53:17Z"
   },
   {
+    "id": "kMEGlz99E08",
+    "title": "Stocks End Lower For A 4th Straight Session, Nvidia Earnings",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-18T00:23:34Z",
+    "live": "none",
+    "minutes": 100.8,
+    "thumbnail": "https://i.ytimg.com/vi/kMEGlz99E08/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=kMEGlz99E08",
+    "notes": {
+      "headline": "Nvidia beats earnings expectations, but concerns about China and gross margins persist",
+      "summary": "Nvidia reported strong third-quarter results, beating revenue and margin expectations, but faced market scrutiny over future gross margins and the impact of US export restrictions on China. While the company announced a $150 billion share buyback and signaled strong AI demand, investors remain cautious regarding geopolitical risks and leadership transitions. The broader market, which had declined for four consecutive sessions, reacted with mixed sentiment as it digested the earnings report against a backdrop of persistent inflation and high interest rates.",
+      "key_takeaways": [
+        "Nvidia reported Q3 revenue of $115.8B, beating the $109.33B estimate.",
+        "Nvidia announced a $150 billion share buyback, signaling confidence in future growth.",
+        "Concerns persist regarding future gross margin pressure due to the new Vera Rubin architecture.",
+        "US export restrictions on advanced chips to China remain a significant geopolitical and revenue risk.",
+        "Nvidia is establishing a permanent board-level committee to oversee trade compliance.",
+        "Nike shares declined following an investor day that failed to reassure the market on growth targets."
+      ],
+      "macro": [
+        "Fed members signal a need for further rate hikes to address entrenched inflation.",
+        "US export controls on advanced technology to China are a major national security and business risk.",
+        "Rising food and labor costs are pressuring margins in the restaurant sector."
+      ],
+      "priced_in": [
+        "Market participants are pricing in a 'higher for longer' interest rate environment.",
+        "Expectations for significant AI-related capital expenditure remain high.",
+        "The market is pricing in a short-term technical bounce for Nvidia following the earnings beat."
+      ],
+      "fundamentals": [
+        "Nvidia's data center revenue remains the primary growth driver for the company.",
+        "Restaurant operators are prioritizing traffic growth over price increases to manage margin pressure.",
+        "Disney reported strong streaming growth in recent earnings."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "mixed",
+          "view": "The index is experiencing a short-term technical bounce, but the intermediate term remains uncertain due to tech sector jitters.",
+          "source": "Thomas Hayes, Great Hill Capital"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "The index declined for four consecutive sessions, reflecting broader market caution.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "neutral",
+          "view": "Prices are being monitored for potential impacts from geopolitical developments.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Ankur Crawford",
+          "role": "Executive Vice President, Portfolio Manager at Alger",
+          "key_view": "Nvidia will remain on track for multi-trillion dollar capex spending despite short-term market volatility."
+        },
+        {
+          "name": "Mandeep Singh",
+          "role": "Global Head of Technology Research, Bloomberg Intelligence",
+          "key_view": "The era of 'beat and raise' for Nvidia may be ending, and gross margins could face pressure."
+        },
+        {
+          "name": "Willy Shih",
+          "role": "Professor of Management Practice at Harvard Business School",
+          "key_view": "Nvidia's ability to secure production capacity at suppliers like TSMC is a key competitive advantage."
+        },
+        {
+          "name": "Clarence Otis",
+          "role": "Former Chairman and CEO of Darden Restaurants",
+          "key_view": "Restaurant operators must balance rising costs with the need to maintain price accessibility."
+        },
+        {
+          "name": "Thomas Hayes",
+          "role": "Chairman, Great Hill Capital",
+          "key_view": "Leadership transition at Nvidia is a major uncertainty that may cause short-term volatility."
+        }
+      ],
+      "catalysts": [
+        "Nvidia earnings report and conference call",
+        "Upcoming Fed policy meetings",
+        "US government updates on technology export controls to China"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 101,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-18T09:57:08Z"
+  },
+  {
     "id": "pC67-H0uBLo",
     "title": "Nvidia Delivers Solid Outlook in First Post-Huang Earnings",
     "channel": "Bloomberg Television",
