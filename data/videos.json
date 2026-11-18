@@ -174,6 +174,111 @@
     "processed_at": "2026-11-18T09:40:20Z"
   },
   {
+    "id": "EKrTHfJKJgQ",
+    "title": "Trump Heads to China for Xi, Putin Summit",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-18T07:47:47Z",
+    "live": "none",
+    "minutes": 45.5,
+    "thumbnail": "https://i.ytimg.com/vi/EKrTHfJKJgQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=EKrTHfJKJgQ",
+    "notes": {
+      "headline": "Nvidia earnings beat and geopolitical tensions shape market sentiment ahead of key summits",
+      "summary": "Nvidia's strong earnings and raised guidance provided a significant boost to the AI sector, though broader markets remain cautious. Investors are weighing these tech gains against rising geopolitical tensions, including a high-stakes summit between Trump, Xi, and Putin, and ongoing conflict in the Middle East. Additionally, market participants are monitoring upcoming US CPI data, Fed minutes, and the impact of US export restrictions on AI chips. Concerns over infrastructure resilience and potential interest rate hikes continue to influence asset pricing.",
+      "key_takeaways": [
+        "Nvidia reported strong quarterly results, beating revenue estimates and raising growth outlooks.",
+        "Geopolitical tensions are escalating, highlighted by the Trump-Xi-Putin summit and US strikes in the Middle East.",
+        "US-China chip export restrictions are creating uncertainty for the semiconductor sector.",
+        "Anthropic's upcoming IPO is seeing strong demand, signaling continued investor appetite for AI.",
+        "Technical outages across major US infrastructure have raised concerns about system resilience.",
+        "US bank stocks are nearing a 'death cross' signal, indicating potential bearish momentum."
+      ],
+      "macro": [
+        "Fed speakers emphasize the need for further interest rate hikes to achieve price stability.",
+        "US export restrictions on AI chips to China remain a significant headwind for tech.",
+        "The EU is pushing for member states to contribute to a new Ukraine support loan package.",
+        "Ongoing geopolitical risks in the Middle East and Russia-Ukraine war are impacting global markets."
+      ],
+      "priced_in": [
+        "Market is pricing in a robust outlook for Nvidia following its earnings beat.",
+        "Expectations of further US interest rate hikes are weighing on gold and treasury yields.",
+        "Strong demand for the Anthropic IPO is anticipated by investors."
+      ],
+      "fundamentals": [
+        "Nvidia reported $115.8 billion in revenue, with data center revenue reaching $107.6 billion.",
+        "Nvidia's supply commitments increased to $390 billion.",
+        "GSK's new lung cancer drug, Nelcarmi, received US regulatory approval with $1 billion projected sales by 2032.",
+        "Schneider Electric is issuing $10 billion in bonds to finance the acquisition of PTC."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bullish",
+          "view": "Nvidia's strong earnings and outlook provide a positive signal for the broader tech sector.",
+          "source": "Matthew Bloxham, Bloomberg Intelligence; Ed Ludlow, Bloomberg News"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "neutral",
+          "view": "The index is experiencing fluctuations as investors assess earnings and geopolitical developments.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Prices are under pressure due to expectations of further interest rate hikes in the US.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Brent crude prices are down due to geopolitical risks and concerns about global demand.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "US 10-year Treasury yields are rising as investors anticipate further interest rate hikes.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Matthew Bloxham",
+          "role": "Senior Analyst, Bloomberg Intelligence",
+          "key_view": "Nvidia remains the leading supplier of AI chips, and its near-term pipeline looks robust."
+        },
+        {
+          "name": "Ven Ram",
+          "role": "MLIV Strategist, Bloomberg",
+          "key_view": "Nvidia's earnings provide a short-term boost, but the market faces year-end headwinds from liquidity and bank weakness."
+        },
+        {
+          "name": "Stephen Engle",
+          "role": "Reporter, Bloomberg",
+          "key_view": "The summit between Trump, Xi, and Putin is a significant geopolitical event with far-reaching implications."
+        },
+        {
+          "name": "Neil Campling",
+          "role": "Senior Strategist, Bloomberg News",
+          "key_view": "Recent technical outages are causing market paranoia and roiling public trust in tech infrastructure."
+        }
+      ],
+      "catalysts": [
+        "US CPI data (Nov 22)",
+        "Fed minutes (Nov 22)",
+        "Trump-Xi-Putin summit (Nov 23)",
+        "Anthropic IPO pricing (Nov 18)"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 46,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-18T09:53:17Z"
+  },
+  {
     "id": "pC67-H0uBLo",
     "title": "Nvidia Delivers Solid Outlook in First Post-Huang Earnings",
     "channel": "Bloomberg Television",
