@@ -1,5 +1,110 @@
 [
   {
+    "id": "1vahA4fYMJ0",
+    "title": "US Strikes Iran’s Qeshm Island as Bahrain and Kuwait Face Fresh Drone Attacks",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-18T08:24:06Z",
+    "live": "none",
+    "minutes": 48.1,
+    "thumbnail": "https://i.ytimg.com/vi/1vahA4fYMJ0/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=1vahA4fYMJ0",
+    "notes": {
+      "headline": "Middle East tensions and Nvidia earnings drive market volatility and uncertainty",
+      "summary": "Markets are navigating a complex landscape defined by escalating geopolitical conflict in the Middle East and strong but leadership-uncertain earnings from Nvidia. US strikes on Iranian targets have heightened concerns over oil supply security, while central banks remain committed to a hawkish policy path. Investors are balancing these macro risks against the ongoing AI infrastructure boom and the potential impact of US-China chip export restrictions.",
+      "key_takeaways": [
+        "Nvidia raised its fiscal fourth-quarter revenue forecast to $130 billion, signaling robust AI demand.",
+        "Geopolitical instability has intensified following US strikes on Iran’s Qeshm Island and drone attacks near Bahrain and Kuwait.",
+        "Oil prices are highly sensitive to supply shocks, with analysts warning of significant upside if conflict disrupts the Strait of Hormuz.",
+        "US 10-year Treasury yields remain elevated above 5%, pressuring broader market valuations.",
+        "Central banks, including the Fed, ECB, and BOJ, are expected to maintain or raise rates in December.",
+        "Cassava Technologies is seeking $1 billion to acquire Nvidia GPUs for African data center expansion."
+      ],
+      "macro": [
+        "Geopolitical conflict between the US and Iran is escalating, threatening global energy supply chains.",
+        "Central banks are expected to maintain a hawkish stance with potential rate hikes in December.",
+        "US-China trade relations remain strained, with ongoing debates over technology cooperation and chip export curbs.",
+        "Higher interest rates are driving capital dispersion, favoring stronger sovereigns and corporates."
+      ],
+      "priced_in": [
+        "Market participants are pricing in higher interest rates for a longer duration.",
+        "Investors are discounting the possibility of Jensen Huang's return to Nvidia in the near term.",
+        "Cautious positioning ahead of the upcoming Anthropic IPO.",
+        "Market is weighing the negative impact of US chip export restrictions on Chinese tech companies."
+      ],
+      "fundamentals": [
+        "Nvidia's fiscal fourth-quarter revenue guidance is $130 billion, +/- 3%.",
+        "Nvidia has ceased shipping AI chips to China, impacting supply chains and Asian tech suppliers.",
+        "Oil supply remains vulnerable to regional disruptions, with a 1% supply drop historically linked to a 4% price increase.",
+        "Gold prices are down 12% year-to-date and trading below $3,800 per ounce."
+      ],
+      "assets": [
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "Geopolitical risks in the Middle East create upward pressure on prices due to potential supply disruptions.",
+          "source": "Ziad Daoud, Bloomberg Economics"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bearish",
+          "view": "US 10-year Treasury yields remain above 5%, reflecting a hawkish Fed policy environment.",
+          "source": "Abeer Abu Omar, Bloomberg News"
+        },
+        {
+          "asset": "Nasdaq 100",
+          "bias": "mixed",
+          "view": "Nvidia's strong earnings provide a positive catalyst, but tech stocks face volatility over leadership and AI trade concerns.",
+          "source": "Winnie Hsu, Bloomberg News"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Gold prices are under pressure, on track for the worst annual performance since 2013.",
+          "source": "Abeer Abu Omar, Bloomberg News"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Trinh Nguyen",
+          "role": "Emerging Asia Senior Economist, Natixis",
+          "key_view": "Expects central banks to raise rates in December and sees higher capital costs driving market dispersion."
+        },
+        {
+          "name": "Ziad Daoud",
+          "role": "Chief Emerging Markets Economist, Bloomberg Economics",
+          "key_view": "Highlights that oil prices are highly sensitive to supply shocks, with a probable ceiling of $120-$130 if the conflict escalates."
+        },
+        {
+          "name": "Ivana Delevska",
+          "role": "CIO of Spear Invest",
+          "key_view": "Nvidia's near-term numbers are encouraging, but investors need confidence in long-term leadership and the competitive landscape."
+        },
+        {
+          "name": "Stuart Livingstone-Wallace",
+          "role": "Executive Editor, Middle East and North Africa, Bloomberg News",
+          "key_view": "Notes that while tensions are high, neither side appears to want a full-scale escalation."
+        },
+        {
+          "name": "Jennifer Zabasajja",
+          "role": "Chief Africa Correspondent, Bloomberg",
+          "key_view": "Discusses Cassava Technologies' $1 billion fundraising to expand AI infrastructure in Africa."
+        }
+      ],
+      "catalysts": [
+        "Anthropic IPO",
+        "December central bank meetings",
+        "APEC Summit",
+        "US-China trade talks"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 48,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-18T09:40:20Z"
+  },
+  {
     "id": "pC67-H0uBLo",
     "title": "Nvidia Delivers Solid Outlook in First Post-Huang Earnings",
     "channel": "Bloomberg Television",
