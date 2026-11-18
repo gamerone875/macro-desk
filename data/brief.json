@@ -1,55 +1,47 @@
 {
-  "narrative": "Global markets are experiencing a pronounced tech-led selloff driven by the fallout from Nvidia CEO Jensen Huang's sudden resignation and tightened US export curbs on remote AI chip access to China. Monetary policy headwinds are compounding equity pressure as Cleveland Fed President Beth Hammack advocated for continuing restrictive policy to tame sticky inflation, pushing 2-year Treasury yields up 30 basis points. Concurrently, investor focus is centered on immediate AI capital expenditure viability ahead of Nvidia's earnings and Anthropic's multi-billion-dollar Nasdaq IPO. Commodities are facing broad pressure, with crude oil sliding over 3% amid expectations of future supply imbalances and gold softening against higher bond yields.",
-  "regime": "risk-off",
+  "narrative": "Markets are currently grappling with a hawkish Federal Reserve, as sticky inflation and rising Treasury yields force a re-rating of equity multiples. The tech sector, specifically semiconductors, is under intense pressure from expanded US export controls on AI chips and data centers, alongside concerns regarding foreign labor restrictions. While Nvidia's latest earnings beat provides a potential floor for sentiment, the broader market remains cautious due to geopolitical tensions and the upcoming Anthropic IPO. Investors are rotating out of crowded risk positions as they price in multiple potential rate hikes over the coming months. Overall, the macro environment is characterized by a tug-of-war between AI-driven growth expectations and tightening financial conditions.",
+  "regime": "mixed",
   "assets": {
     "Nasdaq": {
-      "bias": "bearish",
-      "why": "Heavy selling pressure led by semiconductors following widened US export curbs, Nvidia's leadership crisis, and valuation multiple compression cited by Charlie Pellett and J.P. Coviello."
+      "bias": "mixed",
+      "why": "Nvidia's strong Q3 results and positive Q4 guidance provide a bullish catalyst, but the index faces significant headwinds from export controls, regulatory friction, and multiple compression."
     },
     "S&P 500": {
-      "bias": "bearish",
-      "why": "Charlie Pellett notes the index dropped over 1.7% as tech weakness, rising yields, and restrictive Fed expectations offset broader consumer strength cited by PIMCO's Tony Crescenzi."
+      "bias": "mixed",
+      "why": "The index is supported by strong corporate earnings from bellwethers like Nvidia, yet it remains vulnerable to broader risk-off sentiment driven by rising yields and hawkish Fed commentary."
     },
     "Gold": {
       "bias": "bearish",
-      "why": "Charlie Pellett reports gold fell 0.79% to $3,853.93 per ounce under pressure from elevated 10-year Treasury yields holding at 5.11%."
+      "why": "Gold declined as the market adjusts to a hawkish Fed policy stance and elevated Treasury yields."
     },
     "Oil": {
-      "bias": "bearish",
-      "why": "WTI and Brent dropped over 3% to $85.57 and $92.58 respectively (Charlie Pellett), dragged down by potential 2027 supply glut forecasts and Chevron expanding Venezuelan output to nearly 300,000 bpd."
+      "bias": "mixed",
+      "why": "Prices face downward pressure from potential supply glut forecasts, though they remain sensitive to geopolitical risk premiums."
     }
   },
   "priced_in": [
-    "Prolonged restrictive Federal Reserve policy with roughly three 25 bps rate hikes over the next six months",
-    "Consensus next-12-month equity earnings growth of approximately 18%",
-    "Tech multiple de-rating driven by AI export restrictions and proposed PERM foreign labor sponsorship rules",
-    "Nvidia exceeding third-quarter consensus earnings estimates despite near-term leadership uncertainty",
-    "Long lead times for frontier AI labs to achieve free cash flow positivity, with estimates stretching to 2030"
+    "Approximately three 25 bps rate hikes over the next six months",
+    "Prolonged restrictive Fed policy",
+    "18% next-12-month earnings growth consensus",
+    "Regulatory headwinds on AI exports and skilled visa constraints",
+    "Elevated volatility in tech assets"
   ],
   "debates": [
-    "Broader equity resilience vs tech fragility: Tony Crescenzi (PIMCO) and Barry Ritholtz argue US consumer strength and non-tech sectors remain resilient, whereas J.P. Coviello highlights multiple compression from persistent 5.5% super-core services inflation",
-    "AI debt and capex sustainability: William Dudley warns of systemic leverage risks tied to AI financing, contrasting with strong market demand for Anthropic's IPO",
-    "Oil market balance: Washington Post's Tara Copp points to elevated Middle East geopolitical risk premiums, while anchors highlight potential upcoming supply gluts and Chevron's Venezuelan ramp"
+    "Whether AI productivity gains can effectively offset inflationary pressures",
+    "The sustainability of AI capital expenditure in light of expanded export licensing requirements"
   ],
   "watch_next": [
-    "Nvidia Q3 earnings report release",
-    "Anthropic IPO pricing (Wednesday night) and Nasdaq trading debut under ticker ANT (Thursday)",
-    "Former Nvidia CEO Jensen Huang's congressional testimony",
-    "US Retail Sales and Industrial Production data releases",
-    "December 9 FOMC interest rate decision",
-    "60-day public comment window for proposed Department of Labor PERM green card rule changes",
-    "Upcoming meeting between President Trump and President Xi Jinping"
+    "Nvidia conference call (Nov 17, 5:00 PM ET)",
+    "Anthropic IPO pricing (Nov 19/20)",
+    "US retail sales and industrial production data",
+    "Microsoft Ignite (Satya Nadella speech)",
+    "FOMC meeting (Dec 9)"
   ],
-  "generated_at": "2026-11-17T07:53:12Z",
+  "generated_at": "2026-11-18T09:37:24Z",
   "based_on": [
+    "pC67-H0uBLo",
     "96z1mE2XuyI",
-    "Yt_wdKWStqM",
-    "SJkjzmtGGPc",
-    "Rj-Yu4DhqZQ",
-    "PNMBn-tPLIM",
-    "5jw4WtsMQqU",
-    "zIZ53YV7ToY",
-    "yBGjmomZmK8"
+    "Yt_wdKWStqM"
   ],
-  "model": "gemini-3.8-flash"
+  "model": "gemini-3.1-flash-lite"
 }

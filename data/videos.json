@@ -1,5 +1,74 @@
 [
   {
+    "id": "pC67-H0uBLo",
+    "title": "Nvidia Delivers Solid Outlook in First Post-Huang Earnings",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-17T23:22:51Z",
+    "live": "none",
+    "minutes": 9.3,
+    "thumbnail": "https://i.ytimg.com/vi/pC67-H0uBLo/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=pC67-H0uBLo",
+    "notes": {
+      "headline": "Nvidia beats Q3 earnings and revenue estimates, provides strong Q4 outlook",
+      "summary": "Nvidia reported strong Q3 financial results, beating analyst estimates for revenue and earnings, and provided a positive outlook for Q4. The company also announced a $150 billion share buyback program. Analysts discussed the implications of the results, including the company's exposure to Chinese markets and the potential for slowing gross margins.",
+      "key_takeaways": [
+        "Nvidia Q3 revenue $115.8B, beating estimates of $109.33B.",
+        "Q3 adjusted EPS $2.68.",
+        "Nvidia board approved a $150B share buyback.",
+        "Q4 revenue forecast $126.1B to $133.9B, above estimates of $125.25B.",
+        "Nvidia expects no data center revenue from China.",
+        "Analysts note potential for slowing gross margins in upcoming quarters."
+      ],
+      "macro": [
+        "Geopolitical tensions regarding China and potential restrictions on chip exports remain a key focus."
+      ],
+      "priced_in": [
+        "Market expects Nvidia's order book to remain solid for the year.",
+        "Consensus expects Nvidia to reaffirm its long-term growth guidance."
+      ],
+      "fundamentals": [
+        "Nvidia's strong Q3 results and positive Q4 guidance.",
+        "Nvidia's exposure to Chinese markets and potential impact on future revenue.",
+        "Slowing gross margins for Nvidia in upcoming quarters."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bullish",
+          "view": "Nvidia's strong results and positive outlook are likely to support the tech sector.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "Nvidia's strong results and positive outlook are likely to support the broader market.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Mandeep Singh",
+          "role": "Global Head of Tech Research at Bloomberg Intelligence",
+          "key_view": "Nvidia's results were solid, but the focus is on the company's exposure to Chinese markets and the potential for slowing gross margins."
+        },
+        {
+          "name": "Jay Goldberg",
+          "role": "Senior Analyst at Seaport Research Partners",
+          "key_view": "Nvidia's results were solid, but the focus is on the company's exposure to Chinese markets and the potential for slowing gross margins."
+        }
+      ],
+      "catalysts": [
+        "Nvidia conference call at 5:00 PM NY time."
+      ],
+      "sentiment": "risk-on",
+      "covered_minutes": 9,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-18T09:32:46Z"
+  },
+  {
     "id": "Yt_wdKWStqM",
     "title": "Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues",
     "channel": "Bloomberg Television",
