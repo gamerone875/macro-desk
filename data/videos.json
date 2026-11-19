@@ -1,5 +1,63 @@
 [
   {
+    "id": "hFfH_icd6Qk",
+    "title": "Anthropic Raises $107.3 Billion in Watershed AI Debut",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-19T06:38:48Z",
+    "live": "none",
+    "minutes": 2.7,
+    "thumbnail": "https://i.ytimg.com/vi/hFfH_icd6Qk/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=hFfH_icd6Qk",
+    "notes": {
+      "headline": "Anthropic's $107.3 billion IPO signals robust investor appetite for AI sector",
+      "summary": "Anthropic's IPO, priced at $83 per share, values the company at $1.5 trillion, below the $2 trillion valuation from a few months ago but above the $1.1 trillion suggested during the recent sell-off. The successful debut is seen as a positive signal for the broader AI sector, potentially lifting market sentiment. Investors are focusing on margins and the faster growth of compute costs relative to revenue, which will be key metrics in coming quarters.",
+      "key_takeaways": [
+        "Anthropic raised $107.3 billion in an upsized IPO, valuing the company at $1.5 trillion.",
+        "The IPO was six times oversubscribed, with a 20% allocation to retail investors.",
+        "Market focus is shifting from valuation to margins, as compute costs are currently outpacing revenue growth.",
+        "The successful IPO is expected to ease market nervousness regarding the AI sector.",
+        "Lock-ups for the IPO expire around May, which will provide further insight into market sentiment."
+      ],
+      "macro": [
+        "Investors are monitoring AI sector volatility and its impact on broader market sentiment.",
+        "The IPO's success is seen as a positive signal for the AI industry."
+      ],
+      "priced_in": [
+        "Investors are pricing in roughly 16 times run-rate revenue for Anthropic.",
+        "The market expects a first-day pop for the stock, given the favorable conditions and oversubscription."
+      ],
+      "fundamentals": [
+        "Compute costs are growing faster than revenue, a key concern for investors.",
+        "Anthropic's valuation is lower than SpaceX and Palantir but in line with OpenAI."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bullish",
+          "view": "A successful Anthropic IPO could lift sentiment for the broader AI sector and the Nasdaq 100.",
+          "source": "Ruhell Amin, Bloomberg News"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Ruhell Amin",
+          "role": "Reporter, Bloomberg News",
+          "key_view": "The successful IPO is a positive signal for the AI sector and will help ease investor nervousness."
+        }
+      ],
+      "catalysts": [
+        "May: Expiration of IPO lock-ups.",
+        "Upcoming quarterly earnings: Disclosure of financial performance and demand metrics."
+      ],
+      "sentiment": "risk-on",
+      "covered_minutes": 3,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-19T07:33:57Z"
+  },
+  {
     "id": "YS37nFgi39Q",
     "title": "Seesaw Day for Markets, Anthropic IPO Looms",
     "channel": "Bloomberg Television",
