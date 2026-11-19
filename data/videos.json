@@ -1,5 +1,142 @@
 [
   {
+    "id": "YS37nFgi39Q",
+    "title": "Seesaw Day for Markets, Anthropic IPO Looms",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-18T23:37:00Z",
+    "live": "none",
+    "minutes": 103.0,
+    "thumbnail": "https://i.ytimg.com/vi/YS37nFgi39Q/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=YS37nFgi39Q",
+    "notes": {
+      "headline": "Anthropic IPO set to price high as markets see mixed, volatile AI-driven trading",
+      "summary": "Markets navigated a choppy session with the S&P 500 falling for a fifth consecutive day while the Nasdaq snapped a four-day losing streak amid ongoing AI valuation scrutiny. Attention centered on Anthropic's landmark IPO, expected to price between $83 and $85 per share—above initial ranges—and seek a valuation of up to $1.6 trillion. Meanwhile, investors rotated into fixed income and defensive sectors as yields shifted lower across the curve despite hawkish Fed expectations, while commodity prices and health care stocks faced sharp pressure.",
+      "key_takeaways": [
+        "Anthropic IPO expected to price at $83–$85 per share (above the initial $70–$78 range), targeting up to $90B–$100B raised and a $1.4T–$1.6T fully diluted valuation.",
+        "S&P 500 fell for a fifth straight day (down 0.3% in intraday volatility), while Nasdaq 100 snapped a four-day losing streak, closing up ~0.4%.",
+        "Entire Treasury yield curve shifted lower on the day, even as markets price in up to three Fed rate hikes.",
+        "Nvidia shares fell 2.9% as post-earnings gains faded, reflecting broader skepticism over AI capex sustainability.",
+        "Healthcare and commodities hit by idiosyncratic catalysts: Humana dropped 13% on proposed Medicare Advantage audit changes, while copper plunged and gold fell below $2,030/oz.",
+        "Investors are rotating toward high-quality fixed income and defensive equities amid tech concentration risks."
+      ],
+      "macro": [
+        "Fed minutes and communication fuel rate hike expectations, though yields fell across the curve on flight-to-safety flows.",
+        "US export restrictions on AI chips expanded to Southeast Asia and Brazil via licensing mandates.",
+        "Increasing regulatory scrutiny from the DOJ and Commerce Department.",
+        "Proposed US government Medicare Advantage audit framework (CRUSH) and Sanders' four-year Medicare-for-all proposal weigh on healthcare.",
+        "Global economic growth concerns persist, with slowing Chinese growth and European fiscal stimulus."
+      ],
+      "priced_in": [
+        "Market pricing in three rate hikes from the Federal Reserve to combat persistent inflation.",
+        "Robust institutional and retail demand for the Anthropic IPO above initial price talk.",
+        "Investor rotation out of concentrated high-multiple tech names into high-quality fixed income and defensives."
+      ],
+      "fundamentals": [
+        "Anthropic IPO: Listing on Nasdaq under ticker 'ANT', led by Goldman Sachs and Morgan Stanley; faces heavy capex needs despite robust initial demand.",
+        "Nvidia: Shares down 2.9% amid market skepticism over AI build-out sustainability and financing commitments.",
+        "Humana: Shares plunged 13% on proposed Medicare Advantage audit framework.",
+        "Freeport-McMoRan: Down 7% as gold fell below $2,030/oz and copper futures declined over power grid/data center demand worries.",
+        "Retailers: TJX and Target saw gains following better-than-expected quarterly results.",
+        "Take-Two Interactive: Lifted by positive reception for Grand Theft Auto VI."
+      ],
+      "assets": [
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "Closed lower for the fifth straight day, down 0.3% amid weakness in consumer discretionary and IT security.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Nasdaq",
+          "bias": "bullish",
+          "view": "Snapped a four-day losing streak, gaining 0.4% supported by long-term AI infrastructure momentum and Anthropic IPO anticipation.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Entire yield curve shifted lower on the day across two- and ten-year tenors despite hawkish Fed pricing.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Dropped below $2,030 per ounce for the first time since September.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Brent crude declined, contributing to cautious broader market sentiment.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Jane Fraser",
+          "role": "Chair & CEO, Citi",
+          "key_view": "The AI boom is a global phenomenon driving critical infrastructure investment and long-term productivity, though tech upgrades will bring volatility and outages."
+        },
+        {
+          "name": "Gary Gensler",
+          "role": "Former SEC Chair",
+          "key_view": "While US markets excel at financing innovation, massive AI-related capex requirements pose significant systemic risks requiring strict disclosure transparency."
+        },
+        {
+          "name": "Bill Campbell",
+          "role": "Head of Global Sovereign & Emerging Markets, DoubleLine",
+          "key_view": "Credit markets are showing greater differentiation and discernment, offering selective opportunities amid broader macro uncertainty."
+        },
+        {
+          "name": "Ankur Crawford",
+          "role": "Portfolio Manager, Alger",
+          "key_view": "Anthropic's existing cash reserves likely mean it will not need to return to public markets for additional debt or equity financing soon."
+        },
+        {
+          "name": "Katerina Simonetti",
+          "role": "Executive Director, Morgan Stanley Private Wealth Management",
+          "key_view": "Investors should focus on hard data rather than headlines, prioritizing portfolio diversification and high-quality fixed income."
+        },
+        {
+          "name": "Justin Menne",
+          "role": "Portfolio Manager, Harbor Capital",
+          "key_view": "A diversified investment approach across the AI value chain is necessary to capture durable long-term economic value."
+        },
+        {
+          "name": "Jana Eggers",
+          "role": "General Manager of AI and Edge, OMNI Federal",
+          "key_view": "AI adoption remains in early phases, with value shifting toward enterprise software augmentation in healthcare and finance."
+        },
+        {
+          "name": "Henrietta Levin",
+          "role": "Senior Fellow, CSIS",
+          "key_view": "US competitiveness in AI hinges on close multilateral collaboration with allies rather than purely bilateral engagement with China."
+        },
+        {
+          "name": "Edward Best",
+          "role": "Co-Chair of Capital Markets Practice, Willkie Farr & Gallagher",
+          "key_view": "The Anthropic offering represents a critical bellwether test for broad public market appetite for AI scale."
+        },
+        {
+          "name": "Clara Shih",
+          "role": "Founder and CEO, New Work Foundation",
+          "key_view": "Rapid AI and LLM adoption requires urgent workforce reskilling to mitigate disruption to entry-level jobs."
+        }
+      ],
+      "catalysts": [
+        "Anthropic IPO pricing and Nasdaq trading debut",
+        "Grand Theft Auto VI release",
+        "Ongoing quarterly corporate earnings reports"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 103,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-19T07:21:37Z"
+  },
+  {
     "id": "YUmAUusqOow",
     "title": "Metal Prices In Free Fall Flash Warning: Market Analysis",
     "channel": "Bloomberg Television",
