@@ -1,5 +1,139 @@
 [
   {
+    "id": "eBeXNLoskHk",
+    "title": "Anthropic’s Historic IPO Debuts",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-19T23:00:10Z",
+    "live": "none",
+    "minutes": 100.0,
+    "thumbnail": "https://i.ytimg.com/vi/eBeXNLoskHk/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=eBeXNLoskHk",
+    "notes": {
+      "headline": "Anthropic Debuts in Historic $107B IPO Amid Broad-Based Market Sell-Off and Surging Yields",
+      "summary": "Anthropic completed a record-breaking IPO raising $107 billion, pricing at $83 and closing around $95, underscoring persistent investor appetite for enterprise-focused AI. However, the strong debut failed to lift broader equities as the S&P 500 and Nasdaq tumbled about 2% in the broadest sell-off of the year. Market sentiment was weighed down by the US 10-year Treasury yield sustaining its longest run above 5% since 2007 alongside expectations for two more rate hikes. Market participants also evaluated shifting AI financing dynamics toward chip capex, rising capital costs, and expanding US-China export controls.",
+      "key_takeaways": [
+        "Anthropic's IPO raised $107 billion, pricing at $83 and closing at roughly $95 (up 17%) despite wider market weakness.",
+        "Major indices suffered their broadest sell-off of the year, with both the S&P 500 and Nasdaq 100 dropping approximately 2%.",
+        "US 10-year yields held their longest stretch above 5% since 2007, elevating capital costs for high-expenditure AI projects.",
+        "AI financing is shifting from hyperscaler infrastructure debt toward chip-related capex projections for 2027.",
+        "Anthropic's model relies on cloud infrastructure partnerships and prioritizes enterprise monetization, trust, and safety.",
+        "Export controls and national security scrutiny over AI technology with respect to China remain a critical regulatory focus."
+      ],
+      "macro": [
+        "US 10-year yield marked its longest run above 5% since 2007, exerting downward pressure on equity valuations.",
+        "Higher interest rates are raising the hurdle and cost of capital for capital-intensive AI initiatives.",
+        "The market is pricing in expectations for two additional rate hikes.",
+        "US-China geopolitical tensions and congressional scrutiny around AI export controls remain elevated.",
+        "Inflation and the high interest rate environment continue to pressure consumer sentiment and broader earnings."
+      ],
+      "priced_in": [
+        "Market expectations for two more interest rate hikes.",
+        "Heightened sensitivity and caution regarding the sustainability of corporate AI capex amid elevated capital costs.",
+        "Robust valuation premiums for pure-play enterprise AI leaders despite broader equity de-risking."
+      ],
+      "fundamentals": [
+        "Anthropic's IPO saw robust institutional demand skewed toward US buyers alongside above-average retail allocation.",
+        "AI financing models are transitioning toward chip-related capital spending for 2027, while hyperscalers continue debt issuance.",
+        "Anthropic operates a usage-driven business model heavily dependent on cloud infrastructure partnerships.",
+        "Earnings performance showed divergence: Palo Alto Networks and PDD Holdings gained, while AMD, Walmart, and Williams-Sonoma fell.",
+        "Bending Spoons agreed to acquire Mailchimp for $3.68 billion."
+      ],
+      "assets": [
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "Dropped approximately 2% with over 450 constituents declining in the broadest sell-off of the year.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "Closed down 2% to 2.2% with only 11 stocks trading in the green amid broader risk-off sentiment.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bearish",
+          "view": "The US 10-year yield reached its longest streak holding above 5% since 2007.",
+          "source": "Ed Ludlow, Bloomberg"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Lise Buyer",
+          "role": "Founder, Class V Group",
+          "key_view": "Anthropic is an unusual company with massive potential, and its debut reflects strong investor belief in its long-term prospects."
+        },
+        {
+          "name": "Matt Murphy",
+          "role": "Partner, Menlo Ventures",
+          "key_view": "Anthropic's commitment to trust and safety alongside capital efficiency positions it well as a sustainable long-term investment."
+        },
+        {
+          "name": "Chris Emanuel",
+          "role": "Head of Technology Investment Group, QIC",
+          "key_view": "Markets are at the start of a technological paradigm shift as Anthropic constructs transformative intelligence factories."
+        },
+        {
+          "name": "Kelsey Berro",
+          "role": "Fixed Income Portfolio Manager, J.P. Morgan Asset Management",
+          "key_view": "AI financing is shifting from hyperscaler bond issuance toward chip-related capex for 2027."
+        },
+        {
+          "name": "Amanda Lynam",
+          "role": "Chief Credit Strategist, Goldman Sachs",
+          "key_view": "The hurdle for cost of capital to stall AI financing is elevated, though issuer concentration and saturation are rising."
+        },
+        {
+          "name": "Mandeep Singh",
+          "role": "Global Head of Technology Research, Bloomberg Intelligence",
+          "key_view": "Anthropic's success hinges on enterprise adoption and preserving revenue expansion amid safety-related testing cycles."
+        },
+        {
+          "name": "Stephanie Guild",
+          "role": "CIO, Robinhood Markets",
+          "key_view": "Retail investors are utilizing market dips in AI-adjacent equities as opportunities for long-term entry."
+        },
+        {
+          "name": "Jay Ritter",
+          "role": "Director of the IPO Initiative, Warrington College of Business Administration",
+          "key_view": "Anthropic is an extraordinary business representing the next transformative frontier, comparable to the internet 30 years ago."
+        },
+        {
+          "name": "Emily Kilcrease",
+          "role": "Senior Fellow and Director of Energy, Economics, and Security Program, CNAS",
+          "key_view": "Export controls are a foundational pillar of US strategy to maintain technological superiority over Chinese competitors in AI."
+        },
+        {
+          "name": "Shawn Layden",
+          "role": "Former President & CEO, Sony Interactive Entertainment America",
+          "key_view": "GTA VI represents a massive economic and cultural milestone highlighting the scale of the gaming industry."
+        },
+        {
+          "name": "Ben Silverman",
+          "role": "Co-CEO and Chairman, Propagate",
+          "key_view": "Anthropic's public market success validates the investment thesis backed early on by Sam Bankman-Fried."
+        },
+        {
+          "name": "Andy Sieg",
+          "role": "Head of Wealth, Citi",
+          "key_view": "Citi remains exceptionally bullish on AI's multi-year impact, emphasizing that client relationships and trust remain vital."
+        }
+      ],
+      "catalysts": [
+        "Ongoing corporate earnings reports across tech and consumer sectors",
+        "Developments in US-China AI-related export controls and federal regulatory policies",
+        "Enterprise AI adoption data and future model deployment performance metrics"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 100,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-20T07:39:44Z"
+  },
+  {
     "id": "hFfH_icd6Qk",
     "title": "Anthropic Raises $107.3 Billion in Watershed AI Debut",
     "channel": "Bloomberg Television",
