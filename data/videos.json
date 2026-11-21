@@ -1,5 +1,101 @@
 [
   {
+    "id": "BFiDTr97in4",
+    "title": "Stocks Plunge After Anthropic IPO, Trump Returns from Asia",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-20T23:34:14Z",
+    "live": "none",
+    "minutes": 46.7,
+    "thumbnail": "https://i.ytimg.com/vi/BFiDTr97in4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=BFiDTr97in4",
+    "notes": {
+      "headline": "S&P 500 enters correction territory as AI trade unwinds following Anthropic IPO",
+      "summary": "Major US stock benchmarks plunged, with the S&P 500 dropping over 10% from its record peak into correction territory and the Nasdaq 100 falling over 18% from its October high. The sell-off was triggered by an unwinding of concentrated AI trades following the Anthropic IPO alongside lingering concerns over elevated interest rates and geopolitical risks. Volatility spiked sharply, driving the VIX above 30 and prompting strategists to recommend portfolio diversification into fixed income and alternative assets.",
+      "key_takeaways": [
+        "S&P 500 enters correction territory, falling over 10% from its record high in its longest losing streak since 2020.",
+        "Nasdaq 100 is down 18.4% from its October 6th record high amid heavy selling in AI-concentrated stocks.",
+        "CBOE VIX index spiked above 30-32, signaling acute market volatility and risk aversion.",
+        "Anthropic IPO tested market appetite for AI valuations, leading to an unwinding of the broader AI trade.",
+        "Treasury and bond markets are drawing renewed focus as diversification away from high-growth tech gains urgency."
+      ],
+      "macro": [
+        "Unwinding of AI-related investments and geopolitical tensions are driving broad-market volatility.",
+        "Donald Trump criticized the Federal Reserve for maintaining elevated interest rates, arguing the stance is politically motivated.",
+        "Persistent higher-for-longer interest rates continue to pressure equity valuations and broader economic growth.",
+        "Structural US labor market headwinds remain, including eldercare/childcare deficits and immigration policy constraints."
+      ],
+      "priced_in": [
+        "Market pricing in elevated risk and uncertainty, with the VIX holding above 30-32.",
+        "Rotation out of high-valuation AI leaders into defensive assets and fixed income.",
+        "Adjustment to prolonged higher-for-longer interest rate environment."
+      ],
+      "fundamentals": [
+        "Muted Anthropic IPO performance prompted scrutiny and repricing of elevated AI multiples.",
+        "Corporate debt and investment-grade bonds are being reassessed as funding vehicles for AI infrastructure and data centers.",
+        "Meta's historical post-IPO trajectory is being referenced to assess modern tech business model sustainability."
+      ],
+      "assets": [
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "The index entered correction territory after sliding more than 10% from its all-time high.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "The index is down 18.4% from its October 6 record high as AI-driven momentum unwinds.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Gold dropped 4% as part of a broad-based liquidation sell-off.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Brent crude faced downward pressure, trading at $91.",
+          "source": "anchors"
+        },
+        {
+          "asset": "USD",
+          "bias": "bearish",
+          "view": "The dollar traded weaker amid shifting cross-asset flows.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Bruce Richards",
+          "role": "Managing Partner and Head of CVC Marathon",
+          "key_view": "Advocates for a 50-25-25 portfolio allocation across public equities, fixed income, and private credit/alts to manage downside volatility."
+        },
+        {
+          "name": "Gargi Chaudhuri",
+          "role": "Chief Investment & Portfolio Strategist at BlackRock",
+          "key_view": "Advises investors to diversify beyond AI-heavy equities, noting market pullbacks are standard equity market occurrences."
+        },
+        {
+          "name": "Sarah Frier",
+          "role": "Bloomberg News",
+          "key_view": "Observed that Meta's historical post-IPO challenges highlight the hurdle of proving business model viability against skeptical market sentiment."
+        }
+      ],
+      "catalysts": [
+        "Upcoming press conference and Q&A session with the US President",
+        "Potential legislative developments regarding data center taxation"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 47,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-21T07:42:41Z"
+  },
+  {
     "id": "dFNoyrfcDGY",
     "title": "Huang Behavior Complaints, Kalshi to Add Stock Trading",
     "channel": "Bloomberg Television",

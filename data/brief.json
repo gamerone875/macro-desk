@@ -1,44 +1,47 @@
 {
-  "narrative": "The market is currently in a risk-off regime as the S&P 500 enters correction territory, down 10% from its peak. Investors are aggressively de-risking from AI-driven tech stocks amid regulatory scrutiny of Nvidia and concerns over the sustainability of AI infrastructure spending. Simultaneously, the US 10-year yield holding above 5% is elevating capital costs, pressuring equity valuations. While recession concerns weigh on sentiment, the US Dollar is showing significant strength. The broader market sell-off is occurring despite isolated pockets of strength like the Anthropic IPO.",
+  "narrative": "Equity markets have plunged into technical correction territory, with the S&P 500 down over 10% from record highs and the Nasdaq 100 dropping 18.4% from its October peak as the AI-driven trade rapidly unwinds following the Anthropic IPO. Market risk aversion is acute, driving the VIX above 30-35 as strong corporate earnings fail to halt selling and investors rotate into Treasuries. Macro pressure remains intense with Ed Ludlow noting the US 10-year yield posted its longest streak above 5% since 2007, raising capital costs for AI infrastructure. Tech sentiment is further battered by an SEC accounting probe into Nvidia, a short report targeting AMD, and heightened US-China export scrutiny. Meanwhile, Donald Trump criticized the Federal Reserve for politically motivated elevated rates, even as market participants increasingly debate recession risks and scale back December rate hike expectations.",
   "regime": "risk-off",
   "assets": {
     "Nasdaq": {
       "bias": "bearish",
-      "why": "The index is facing a significant de-risking event as tech stocks are pummeled by regulatory concerns and high capital costs."
+      "why": "Anchors report the index is down 18.4% from its October 6 record high as AI momentum unwinds, hit by an SEC probe into Nvidia and semiconductor sector weakness."
     },
     "S&P 500": {
       "bias": "bearish",
-      "why": "The index has officially entered correction territory, down 10% from record highs with broad-based selling across constituents."
+      "why": "Anchors note the index entered correction territory after sliding over 10% from record highs in its longest losing streak since 2020."
     },
     "Gold": {
       "bias": "bearish",
-      "why": "Gold is trading lower, down 2.65% to $3,530 per ounce, as investors shift toward bonds and the USD."
+      "why": "Anchors report gold fell between 2.65% and 4% to $3,530 per ounce amid broad-based market liquidation."
     },
     "Oil": {
-      "bias": "bullish",
-      "why": "WTI and Brent crude are seeing modest gains despite the broader market downturn."
+      "bias": "mixed",
+      "why": "Anchors presented conflicting views, reporting Brent faced downward pressure at $91 in one session, while reporting modest gains for WTI and Brent in another."
     }
   },
   "priced_in": [
-    "A significant de-risking event across equity markets",
-    "Reduced probability of a December Fed interest rate hike",
-    "Expectations for two additional interest rate hikes",
-    "Heightened sensitivity regarding the sustainability of corporate AI capex"
+    "Heightened market volatility and de-risking, with the VIX holding between 30 and 35",
+    "Rotation out of high-valuation AI leaders into fixed income and defensive assets",
+    "A prolonged higher-for-longer rate environment with benchmark 10-year yields holding above 5%",
+    "Elevated capital and debt-financing costs for corporate AI infrastructure through 2027"
   ],
   "debates": [
-    "Sustainability of the AI-driven growth narrative versus concerns over infrastructure funding and regulatory restrictions",
-    "Divergence between the broader market sell-off and robust institutional demand for specific AI-related IPOs like Anthropic"
+    "Fed interest rate trajectory: Donald Trump criticized the Fed for keeping rates elevated politically, while market pricing split between reduced odds of a December hike and prior expectations of two additional hikes.",
+    "Crude oil market direction: Anchors diverged between downward pressure dragging Brent to $91 and modest gains across WTI and Brent.",
+    "US Dollar direction: Anchors reported dollar weakness due to cross-asset reallocations in one broadcast, contrasting with reported dollar strength of 4.56% in another."
   ],
   "watch_next": [
-    "Ongoing SEC probe into Nvidia's accounting practices",
-    "Upcoming hearings in Washington regarding Nvidia's business practices",
-    "Developments in US-China AI-related export controls",
-    "Future corporate earnings reports"
+    "Upcoming press conference and Q&A session with the US President",
+    "Ongoing SEC accounting probe and upcoming Washington hearings regarding Nvidia",
+    "Potential legislative developments concerning data center taxation",
+    "Regulatory developments surrounding US-China AI export controls",
+    "Upcoming corporate earnings reports across tech and consumer sectors"
   ],
-  "generated_at": "2026-11-21T07:36:37Z",
+  "generated_at": "2026-11-21T07:46:05Z",
   "based_on": [
+    "BFiDTr97in4",
     "dFNoyrfcDGY",
     "eBeXNLoskHk"
   ],
-  "model": "gemini-3.1-flash-lite"
+  "model": "gemini-3.8-flash"
 }
