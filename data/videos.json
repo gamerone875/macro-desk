@@ -1,5 +1,115 @@
 [
   {
+    "id": "dM5_l_31zIU",
+    "title": "Historic Market Selloff Deepens After Anthropic IPO",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-20T23:51:14Z",
+    "live": "none",
+    "minutes": 99.6,
+    "thumbnail": "https://i.ytimg.com/vi/dM5_l_31zIU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=dM5_l_31zIU",
+    "notes": {
+      "headline": "US equity indices enter correction territory as AI trade unravels and liquidation intensifies",
+      "summary": "Major US indices are in correction territory, with the Nasdaq 100 nearing bear market levels after a sharp, broad-based selloff. The decline is driven by a reassessment of AI-related valuations, concerns over high real rates, and a shift toward indiscriminate liquidation as investors protect annual gains. While economic fundamentals remain resilient, market sentiment has soured due to uncertainty regarding Fed policy and the sustainability of AI-driven growth.",
+      "key_takeaways": [
+        "Nasdaq 100 is down nearly 20% from its October record, nearing bear market territory.",
+        "The AI trade is facing a reality check as market focus shifts from hype to monetization and feasibility.",
+        "Investors are aggressively raising cash, leading to indiscriminate selling across tech, healthcare, and safe-haven assets like gold.",
+        "10-year real rates are at 3%, the highest since 2008, pressuring equity valuations.",
+        "Corporate AI adoption remains low, with less than 4% of workflows currently incorporating AI agents.",
+        "Market structure and the sustainability of high-growth tech valuations are under intense scrutiny."
+      ],
+      "macro": [
+        "Fed is prioritizing inflation control, potentially limiting their willingness to support markets if growth slows.",
+        "10-year real rates are hovering around 3%, creating a challenging environment for equities.",
+        "The US economy is characterized by a 'muddle-through' scenario with a bifurcation between sectors.",
+        "The Latino cohort is highlighted as a significant, under-appreciated driver of US economic growth and entrepreneurship."
+      ],
+      "priced_in": [
+        "Market participants are no longer fully pricing in a December Fed rate hike.",
+        "Investors are pricing in a 'muddle-through' economic environment and shifting toward defensive positioning.",
+        "Consensus has moved from an 'easing' outlook to a more cautious, risk-off stance."
+      ],
+      "fundamentals": [
+        "AI-related companies are facing valuation resets as the market questions their pricing power and adoption pace.",
+        "Retailers report consumers are shopping selectively for value and deals amid cost pressures.",
+        "Cybersecurity sector shows potential for consolidation, with M&A activity noted.",
+        "Defensive sectors like utilities, staples, and healthcare are outperforming due to higher quality balance sheets."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "The index is in a severe correction, down nearly 20% from its October record.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "The index has entered correction territory, down over 10% from its all-time high.",
+          "source": "Christopher Cain, Bloomberg Intelligence"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bearish",
+          "view": "10-year real rates at 3% are creating a difficult environment for equity valuations.",
+          "source": "Jonathan Levin, Bloomberg Opinion"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Gold is experiencing selling pressure as part of a broad-based asset liquidation.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bearish",
+          "view": "Oil is seeing a multi-week drop due to ample supply and demand concerns.",
+          "source": "Romaine Bostick, Bloomberg"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Alessio de Longis",
+          "role": "Head of Research and CIO of Active Investments at ProShares",
+          "key_view": "The current selloff is a 'buy the dip' opportunity as economic fundamentals remain strong."
+        },
+        {
+          "name": "Amanda Hindlian",
+          "role": "Founder and CEO, Hindlian Advisory",
+          "key_view": "The selloff is a healthy adjustment and a critical marker for the AI trade's maturity."
+        },
+        {
+          "name": "Dana D'Auria",
+          "role": "CIO and EVP of Wealth Solutions at Envestnet",
+          "key_view": "Investors should diversify into private markets and value sectors during this valuation reset."
+        },
+        {
+          "name": "Jennifer Smith",
+          "role": "Co-Founder and CEO of Scribe",
+          "key_view": "AI adoption in corporate workflows is significantly lower than market hype suggests."
+        },
+        {
+          "name": "Jonathan Levin",
+          "role": "Opinion Columnist, Bloomberg",
+          "key_view": "The current market selloff feels indiscriminate and driven by a shift in sentiment toward liquidation."
+        }
+      ],
+      "catalysts": [
+        "PCE data release",
+        "GDP and New Home Sales data",
+        "Retail earnings (Best Buy, Dell, HP Inc, etc.)",
+        "Final Fed meeting of the year"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 100,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-21T08:01:08Z"
+  },
+  {
     "id": "BFiDTr97in4",
     "title": "Stocks Plunge After Anthropic IPO, Trump Returns from Asia",
     "channel": "Bloomberg Television",
