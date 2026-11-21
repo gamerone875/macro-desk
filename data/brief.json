@@ -1,55 +1,44 @@
 {
-  "narrative": "Markets are grappling with broad-based equity de-risking as the US 10-year Treasury yield logs its longest streak above 5% since 2007. Persistent inflation has traders pricing in two to three additional Fed rate hikes, pressuring valuations across major benchmarks. While Anthropic's landmark upsized IPO demonstrated resilient appetite for pure-play AI, broader tech sentiment remains strained by expanding US export controls to China and surging AI compute and capital expenditures. Meanwhile, intensifying Middle East conflict—highlighted by US strikes on Iran's Qeshm Island—is stoking supply risks against headwinds from slowing global demand. Gold and industrial metals are slumping heavily, hit by higher rate expectations and liquidity demands.",
+  "narrative": "The market is currently in a risk-off regime as the S&P 500 enters correction territory, down 10% from its peak. Investors are aggressively de-risking from AI-driven tech stocks amid regulatory scrutiny of Nvidia and concerns over the sustainability of AI infrastructure spending. Simultaneously, the US 10-year yield holding above 5% is elevating capital costs, pressuring equity valuations. While recession concerns weigh on sentiment, the US Dollar is showing significant strength. The broader market sell-off is occurring despite isolated pockets of strength like the Anthropic IPO.",
   "regime": "risk-off",
   "assets": {
     "Nasdaq": {
-      "bias": "mixed",
-      "why": "Strong earnings and raised guidance from Nvidia alongside Anthropic's successful IPO offer support, but the index dropped roughly 2% as surging yields above 5% and expanding China export curbs pressure tech valuations."
+      "bias": "bearish",
+      "why": "The index is facing a significant de-risking event as tech stocks are pummeled by regulatory concerns and high capital costs."
     },
     "S&P 500": {
       "bias": "bearish",
-      "why": "The index suffered its broadest sell-off of the year, falling around 2% with over 450 constituents declining under the weight of higher-for-longer rate pricing and elevated yields."
+      "why": "The index has officially entered correction territory, down 10% from record highs with broad-based selling across constituents."
     },
     "Gold": {
       "bias": "bearish",
-      "why": "Mark Cudmore and Abeer Abu Omar note gold is slumping sharply—dropping below $2,030/oz and trading down 12% YTD—weighed down by expectations of further US rate hikes and deleveraging."
+      "why": "Gold is trading lower, down 2.65% to $3,530 per ounce, as investors shift toward bonds and the USD."
     },
     "Oil": {
-      "bias": "mixed",
-      "why": "Ziad Daoud flags upward supply-shock risks from Middle East conflict escalation near the Strait of Hormuz, yet Brent crude faces offsetting downward pressure from slowing global growth concerns."
+      "bias": "bullish",
+      "why": "WTI and Brent crude are seeing modest gains despite the broader market downturn."
     }
   },
   "priced_in": [
-    "Two to three additional Federal Reserve interest rate hikes to address entrenched inflation",
-    "A higher-for-longer interest rate environment with elevated capital costs",
-    "Robust initial demand and valuation premiums for the Anthropic IPO",
-    "Nvidia's strong revenue beat and Q4 outlook reaffirming data center growth",
-    "Zero data center revenue from China for Nvidia due to export restrictions"
+    "A significant de-risking event across equity markets",
+    "Reduced probability of a December Fed interest rate hike",
+    "Expectations for two additional interest rate hikes",
+    "Heightened sensitivity regarding the sustainability of corporate AI capex"
   ],
   "debates": [
-    "Sustainability of massive corporate AI capital expenditures and rising compute costs relative to revenue growth",
-    "Drivers behind the slump in gold and copper despite front-end yield moves, whether due to China demand weakness or IPO liquidity needs (Mark Cudmore)",
-    "Oil price trajectory balancing geopolitical supply shocks in the Strait of Hormuz versus global economic growth concerns",
-    "Tech index resilience: whether strong fundamentals from Nvidia and Anthropic can outweigh macro pressure from 5%+ Treasury yields"
+    "Sustainability of the AI-driven growth narrative versus concerns over infrastructure funding and regulatory restrictions",
+    "Divergence between the broader market sell-off and robust institutional demand for specific AI-related IPOs like Anthropic"
   ],
   "watch_next": [
-    "US CPI data (Nov 22)",
-    "Federal Reserve meeting minutes (Nov 22)",
-    "Trump-Xi-Putin summit (Nov 23)",
-    "Ongoing quarterly corporate earnings reports across tech and consumer sectors",
-    "December central bank policy meetings (Fed, ECB, BOJ)",
-    "Anthropic IPO lock-up expiration (circa May 2027)"
+    "Ongoing SEC probe into Nvidia's accounting practices",
+    "Upcoming hearings in Washington regarding Nvidia's business practices",
+    "Developments in US-China AI-related export controls",
+    "Future corporate earnings reports"
   ],
-  "generated_at": "2026-11-20T07:42:50Z",
+  "generated_at": "2026-11-21T07:36:37Z",
   "based_on": [
-    "eBeXNLoskHk",
-    "hFfH_icd6Qk",
-    "YS37nFgi39Q",
-    "kMEGlz99E08",
-    "EKrTHfJKJgQ",
-    "YUmAUusqOow",
-    "1vahA4fYMJ0",
-    "pC67-H0uBLo"
+    "dFNoyrfcDGY",
+    "eBeXNLoskHk"
   ],
-  "model": "gemini-3.8-flash"
+  "model": "gemini-3.1-flash-lite"
 }

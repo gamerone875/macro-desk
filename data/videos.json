@@ -1,5 +1,116 @@
 [
   {
+    "id": "dFNoyrfcDGY",
+    "title": "Huang Behavior Complaints, Kalshi to Add Stock Trading",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-20T22:30:27Z",
+    "live": "none",
+    "minutes": 49.4,
+    "thumbnail": "https://i.ytimg.com/vi/dFNoyrfcDGY/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=dFNoyrfcDGY",
+    "notes": {
+      "headline": "S&P 500 enters correction territory as AI-driven tech stocks face heavy selling pressure",
+      "summary": "The S&P 500 has officially entered correction territory, falling 10% from record highs as investors aggressively de-risk. Tech stocks, particularly those tied to AI, are under pressure from SEC accounting scrutiny, short reports, and concerns over the sustainability of AI-driven valuations. Despite strong earnings, market sentiment has shifted toward caution as participants weigh recession risks and the potential for a broader economic slowdown.",
+      "key_takeaways": [
+        "S&P 500 has fallen 10% from its peak, meeting the technical definition of a correction.",
+        "The VIX has spiked to between 33 and 35, signaling heightened market fear.",
+        "Nvidia shares are under pressure due to an SEC probe into accounting practices.",
+        "AMD is declining following a Hunterbrook Capital short report regarding China-related risks.",
+        "Strong corporate earnings are failing to provide market support, indicating a shift in investor sentiment.",
+        "Investors are rotating into bonds as a flight-to-safety move."
+      ],
+      "macro": [
+        "Market participants are questioning the sustainability of the AI-driven growth narrative.",
+        "Concerns persist regarding the funding of AI infrastructure and regulatory restrictions on tech exports to China.",
+        "Expectations for a December Fed rate hike have been reduced.",
+        "Recession concerns are increasingly weighing on market sentiment."
+      ],
+      "priced_in": [
+        "A significant de-risking event across equity markets.",
+        "Reduced probability of a December Fed interest rate hike.",
+        "Heightened uncertainty regarding the timing of future Fed easing."
+      ],
+      "fundamentals": [
+        "Nvidia: Under SEC accounting scrutiny, contributing to a 10.5% drop.",
+        "AMD: Facing a short report from Hunterbrook Capital regarding China business risks.",
+        "Apple: Developing an internal AI agent to compete with OpenAI and Anthropic.",
+        "Take-Two Interactive: Shares rose 2.6% despite the broader market sell-off.",
+        "Semiconductor index: Down 9.6% due to broad sector weakness."
+      ],
+      "assets": [
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "The index has entered correction territory, down 10% from record highs.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "Tech stocks are being pummeled as the AI trade faces a significant de-risking event.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Gold is trading lower, down 2.65% to $3,530 per ounce.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "WTI and Brent crude are seeing modest gains despite the broader market downturn.",
+          "source": "anchors"
+        },
+        {
+          "asset": "USD",
+          "bias": "bullish",
+          "view": "The US Dollar is showing strength, up 4.56%.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Ian King",
+          "role": "US Semiconductor Reporter at Bloomberg News",
+          "key_view": "Nvidia's past behavior and current regulatory scrutiny are becoming significant public domain issues."
+        },
+        {
+          "name": "Sarah Hunt",
+          "role": "Partner and Chief Market Strategist at Alpine Saxon Woods",
+          "key_view": "The market is experiencing a broad-based de-risking as investors question the sustainability of the AI build-out."
+        },
+        {
+          "name": "Tatiana Darie",
+          "role": "Markets Live Strategist, Bloomberg News",
+          "key_view": "Strong earnings are not preventing a market correction as investors look beyond current results to a potential slowdown."
+        },
+        {
+          "name": "Mark Gurman",
+          "role": "Managing Editor for Global Consumer Tech, Bloomberg News",
+          "key_view": "Apple's AI agent development is a significant long-term effort, though the company faces challenges catching up to competitors."
+        },
+        {
+          "name": "Bobby Allyn",
+          "role": "Prediction Markets Reporter, Bloomberg News",
+          "key_view": "Prediction markets are increasingly used for price discovery and hedging."
+        }
+      ],
+      "catalysts": [
+        "Ongoing SEC probe into Nvidia's accounting practices.",
+        "Upcoming hearings in Washington regarding Nvidia's business practices.",
+        "Market reaction to upcoming earnings reports.",
+        "Potential for further regulatory scrutiny on AI companies."
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 49,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-21T07:36:32Z"
+  },
+  {
     "id": "eBeXNLoskHk",
     "title": "Anthropic’s Historic IPO Debuts",
     "channel": "Bloomberg Television",
@@ -5826,181 +5937,6 @@
     "processed_at": "2026-10-31T15:43:31Z"
   },
   {
-    "id": "biE_-YkChqc",
-    "title": "Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-31T00:19:56Z",
-    "live": "none",
-    "minutes": 6.5,
-    "thumbnail": "https://i.ytimg.com/vi/biE_-YkChqc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=biE_-YkChqc",
-    "notes": {
-      "headline": "Intel and semiconductor stocks plunge as PC slump and AI skepticism trigger panic selling",
-      "summary": "Kim Forrest of Bokeh Capital Partners analyzes the massive sell-off in Intel and the broader semiconductor sector. She attributes Intel's decline to a downturn in the legacy PC market and high memory costs (NAND/DRAM) rather than just AI-related issues. Forrest expresses skepticism regarding immediate AI-driven productivity gains and warns that upcoming regulatory shifts in Washington could further hinder the industry.",
-      "key_takeaways": [
-        "Intel's stock crash is primarily driven by its core PC business slump and high component costs for NAND and DRAM.",
-        "Investor expectations for immediate AI-driven productivity and AGI have failed to materialize, leading to a valuation reset.",
-        "Regulatory risks from Washington, including potential AI moratoriums, pose a significant threat to the sector's long-term growth.",
-        "The current market environment is characterized by panic selling, with investors exiting positions at any price.",
-        "Intel's AI sales are currently limited to traditional data center servers rather than high-growth specialized AI chips."
-      ],
-      "macro": [
-        "Regulatory landscape in Washington following midterm elections could impact AI development.",
-        "Potential for AI to impact labor markets and unemployment, though productivity gains are not yet evident."
-      ],
-      "priced_in": [
-        "Investors had previously priced in a more rapid adoption of AGI and AI-driven productivity by mid-year."
-      ],
-      "fundamentals": [
-        "Weak PC demand exacerbated by high memory prices.",
-        "Intel's transition to a foundry model for AI chips is still in early stages.",
-        "Intel outlook hit by PC slump and supply chain costs."
-      ],
-      "assets": [
-        {
-          "asset": "Nasdaq 100",
-          "bias": "bearish",
-          "view": "Down nearly 4% as the tech sell-off intensifies following Intel's weak forecast.",
-          "source": "anchors"
-        },
-        {
-          "asset": "S&P 500",
-          "bias": "bearish",
-          "view": "Down 2% as earnings misses fuel deep sell-offs across major indices.",
-          "source": "anchors"
-        },
-        {
-          "asset": "Other: PHLX Semiconductor Index",
-          "bias": "bearish",
-          "view": "Plunging over 8% led by Intel's 30% decline.",
-          "source": "anchors"
-        },
-        {
-          "asset": "Other: Intel",
-          "bias": "bearish",
-          "view": "Shares suffered their worst thrashing in decades, down 30% on a weak outlook.",
-          "source": "Kim Forrest, Bokeh Capital Partners"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Kim Forrest",
-          "role": "Founder and CIO of Bokeh Capital Partners",
-          "key_view": "Intel's decline reflects a fundamental PC market slump and overhyped AI expectations, with significant regulatory risks looming in Washington."
-        }
-      ],
-      "catalysts": [
-        "US Midterm elections (4 days away) which could shift the regulatory environment for tech."
-      ],
-      "sentiment": "risk-off",
-      "covered_minutes": 6,
-      "partial": false
-    },
-    "model": "gemini-3-flash-preview",
-    "manual": false,
-    "processed_at": "2026-10-31T15:45:00Z"
-  },
-  {
-    "id": "XUUZbm3jqdo",
-    "title": "DOJ Ramps Up Criminal Probe Amid Tight Alaska Senate Race",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-30T23:07:59Z",
-    "live": "none",
-    "minutes": 47.9,
-    "thumbnail": "https://i.ytimg.com/vi/XUUZbm3jqdo/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=XUUZbm3jqdo",
-    "notes": {
-      "headline": "Tech rout drags Nasdaq down 3.5% amid mounting AI CapEx sustainability concerns",
-      "summary": "US equities suffered a sharp tech-led sell-off just four days before the midterm elections, with the Nasdaq 100 sliding 3.46% and semiconductors tumbling 7.20%. Investor anxiety intensified over the profitability and debt financing of massive artificial intelligence infrastructure buildouts, catalyzed by Intel's 29% plunge and S&P revising Meta Platforms' credit outlook to negative. Concurrently, Fitch revised France's sovereign outlook to negative on deteriorating fiscal and debt dynamics. Elevated energy prices and cost-of-living concerns remain top macro headwinds as election projections show increasing momentum for Democrats in congressional races.",
-      "key_takeaways": [
-        "Nasdaq 100 sank 3.46% and the semiconductor index dropped 7.20% in its worst session since June amid an unwinding AI trade.",
-        "Intel tumbled 29%, its sharpest single-day decline since its 1982 IPO, weighed down by high memory costs and slumping PC sales.",
-        "S&P revised Meta Platforms' rating outlook to negative, citing uncertainty surrounding elevated CapEx and free cash flow generation.",
-        "Fitch revised France's sovereign credit outlook to negative on weak growth, high borrowing costs, and expanding fiscal deficits.",
-        "Defensive rotation lifted healthcare stocks to their strongest monthly performance since 2000.",
-        "Cook Political Report shifted 12 House races toward Democrats, projecting Democrats to flip 12 to 25 seats and gain 2 to 6 Senate seats."
-      ],
-      "macro": [
-        "High gasoline and diesel prices, alongside broad cost-of-living pressures, dominate voter economic concerns ahead of the midterms.",
-        "Geopolitical conflict involving Iran and risks to the Strait of Hormuz continue to underpin energy market volatility.",
-        "Fitch warns of worsening debt dynamics, higher borrowing costs, and wider deficits for France."
-      ],
-      "priced_in": [
-        "Market reassessing expectations for immediate revenue generation and cash returns from mega-cap AI infrastructure investments.",
-        "Election betting markets and polling pricing in an increasingly defensive posture for Republicans across battleground states."
-      ],
-      "fundamentals": [
-        "Intel: 29% slide driven by PC demand slump and soaring memory component costs.",
-        "Meta Platforms: Negative outlook revision driven by mounting debt, high CapEx commitments, and uncertain free cash flow.",
-        "Enterprise customers beginning to pull back on IT and software spending to re-evaluate internal cost structures.",
-        "Upcoming tech earnings watchlist for next week includes Qualcomm, AMD, Apple, and Palantir."
-      ],
-      "assets": [
-        {
-          "asset": "Nasdaq",
-          "bias": "bearish",
-          "view": "Tech-heavy index is nearing correction territory, down roughly 9% from its all-time high amid heavy AI and semiconductor liquidation.",
-          "source": "Romaine Bostick, Bloomberg"
-        },
-        {
-          "asset": "S&P 500",
-          "bias": "mixed",
-          "view": "Index dropped 1.82% on the session, though remains up roughly 10% year-to-date and within 3 percentage points of record highs.",
-          "source": "Pat Toomey, Former US Senator"
-        },
-        {
-          "asset": "Oil",
-          "bias": "bullish",
-          "view": "Geopolitical conflict involving Iran and concerns over navigation in the Strait of Hormuz maintain upward pressure on fuel prices.",
-          "source": "anchors"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Romaine Bostick",
-          "role": "Anchor, Bloomberg",
-          "key_view": "Investors are not abandoning AI entirely, but are demanding tangible profitability and questioning heavy debt financing for CapEx."
-        },
-        {
-          "name": "Pat Toomey",
-          "role": "Former US Senator; Member, Coinbase Global Advisory Council",
-          "key_view": "While AI will create long-term productivity gains, day-to-day market drops affect voters far less than grocery and gasoline prices."
-        },
-        {
-          "name": "Jessica Killin",
-          "role": "Democratic Candidate, Colorado's 5th District",
-          "key_view": "Tariffs and military conflict with Iran are driving up living and energy costs for households and small businesses."
-        },
-        {
-          "name": "Jessica Taylor",
-          "role": "Senate & Governors Editor, Cook Political Report",
-          "key_view": "Late-cycle momentum is shifting key battleground House and Senate races in favor of Democrats."
-        },
-        {
-          "name": "Rick Davis",
-          "role": "Republican Strategist; Partner, Stonecourt Capital",
-          "key_view": "Pre-election equity market volatility and elevated living costs exacerbate voter anxiety and depress Republican turnout."
-        },
-        {
-          "name": "Jeanne Sheehan Zaino",
-          "role": "Democratic Strategist; Visiting Fellow, Harvard Kennedy School",
-          "key_view": "A difficult macroeconomic backdrop of high fuel costs and low presidential approval creates severe headwinds for the governing party."
-        }
-      ],
-      "catalysts": [
-        "US Midterm Elections on Tuesday",
-        "Earnings reports next week from Apple, AMD, Qualcomm, and Palantir",
-        "Resolution of Alaska Senate election legal investigations and final vote counts"
-      ],
-      "sentiment": "risk-off",
-      "covered_minutes": 48,
-      "partial": false
-    },
-    "model": "gemini-3.8-flash",
-    "manual": false,
-    "processed_at": "2026-11-01T08:01:28Z"
-  },
-  {
     "id": "KSuMdi7WtNk",
     "title": "Tech Selloff Deepens as AI & Bitcoin Slide",
     "channel": "Bloomberg Television",
@@ -6248,67 +6184,5 @@
     "model": "gemini-3-flash-preview",
     "manual": true,
     "processed_at": "2026-11-01T14:06:47Z"
-  },
-  {
-    "id": "0g83nipDgY0",
-    "title": "Democratic Wave in House Looks Likely, Cook's Covey Says",
-    "channel": "Bloomberg Television",
-    "published": "2026-10-30T12:14:10Z",
-    "live": "none",
-    "minutes": 4.9,
-    "thumbnail": "https://i.ytimg.com/vi/0g83nipDgY0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=0g83nipDgY0",
-    "notes": {
-      "headline": "Democrats projected to gain 12-25 House seats amid emerging bipartisan AI regulation consensus",
-      "summary": "Erin Covey of The Cook Political Report discusses the shifting US political landscape, predicting a Democratic wave in the House with gains of 12-25 seats. The discussion highlights how sagging approval ratings for Donald Trump are impacting Republican candidates even in deep red states like Texas. For markets, the most significant development is the emerging bipartisan consensus on regulating data centers and AI, alongside expectations of continued legislative gridlock.",
-      "key_takeaways": [
-        "Democrats are projected to pick up 12-25 seats in the House, potentially giving them a majority.",
-        "Trump's sagging approval ratings are acting as a drag on Republican candidates in competitive and red-state races.",
-        "The Texas Senate race is increasingly competitive, with Democrats seen as slight favorites in some polling.",
-        "Bipartisan consensus is emerging regarding the regulation of data centers and AI industry funding.",
-        "Expectations of legislative gridlock remain high for the next two years regardless of the election outcome.",
-        "Progressive proposals include public ownership stakes in AI firms like OpenAI and Anthropic."
-      ],
-      "macro": [
-        "Fiscal/Political: Potential shift in House majority to Democrats could lead to increased legislative gridlock.",
-        "Growth: Potential for sector-specific headwinds in the technology space due to new regulatory frameworks."
-      ],
-      "priced_in": [],
-      "fundamentals": [
-        "Technology: Bipartisan support for data center regulation and scrutiny of AI industry super PACs.",
-        "AI: Proposals for 50% public ownership of major AI firms like OpenAI and Anthropic mentioned as a progressive goal."
-      ],
-      "assets": [
-        {
-          "asset": "Nasdaq",
-          "bias": "bearish",
-          "view": "Potential for increased regulation of data centers and AI firms could pressure tech valuations.",
-          "source": "Erin Covey, The Cook Political Report"
-        },
-        {
-          "asset": "S&P 500",
-          "bias": "neutral",
-          "view": "Anticipated legislative gridlock over the next two years may limit major policy shifts.",
-          "source": "Erin Covey, The Cook Political Report"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Erin Covey",
-          "role": "Editor, US House of Representatives, The Cook Political Report",
-          "key_view": "Predicts a Democratic House majority with 12-25 seat gains and notes a growing bipartisan appetite for AI and data center regulation."
-        }
-      ],
-      "catalysts": [
-        "US Midterm Elections",
-        "Upcoming legislative sessions regarding data center moratoriums and AI regulation"
-      ],
-      "sentiment": "neutral",
-      "covered_minutes": 5,
-      "partial": false
-    },
-    "model": "gemini-3-flash-preview",
-    "manual": false,
-    "processed_at": "2026-10-31T15:49:47Z"
   }
 ]
