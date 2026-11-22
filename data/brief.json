@@ -1,49 +1,47 @@
 {
-  "narrative": "The market is undergoing a severe risk-off correction as the AI-driven growth narrative faces a reality check following the Anthropic IPO and scrutiny of major tech players like Nvidia and AMD. Investors are aggressively raising cash and rotating into defensive assets as 10-year real rates hit 3% and 10-year yields sustain levels above 5%. Market sentiment has shifted from hype to concerns over monetization, feasibility, and the sustainability of high-growth valuations. Broad-based liquidation is impacting even safe-haven assets like gold, while volatility has spiked with the VIX holding above 30. The Fed remains focused on inflation control, further pressuring equity valuations in a 'muddle-through' economic environment.",
+  "narrative": "Markets have entered an acute risk-off regime as both the S&P 500 and Nasdaq 100 plunge into correction territory, triggered by an unwinding of the AI trade following Anthropic's IPO. Liquidity has reached a 10-year low while the VIX has spiked above 30-35, amplifying selling pressure across equities and broader asset classes. Technology leaders are facing heavy scrutiny, exacerbated by an SEC accounting probe into Nvidia and reports challenging high-growth multiples. Indiscriminate cash-raising has broadened the selloff beyond tech into traditional safe havens like gold. Meanwhile, 10-year real rates holding near 3% and persistent geopolitical risks continue to weigh on equity valuations.",
   "regime": "risk-off",
   "assets": {
     "Nasdaq": {
       "bias": "bearish",
-      "why": "The index is nearing bear market territory, down nearly 20% from its October record as the AI trade unwinds and investors de-risk."
+      "why": "Anchors report the index is down nearly 18% to 20% from its October peak, driven by fading AI enthusiasm, low liquidity, and regulatory scrutiny surrounding key chipmakers."
     },
     "S&P 500": {
       "bias": "bearish",
-      "why": "The index has officially entered correction territory, falling over 10% from its all-time high amid the broadest sell-off of the year."
+      "why": "Christopher Cain and anchors note the benchmark is in correction territory after sliding over 10% from all-time highs amid broad-based equity liquidation."
     },
     "Gold": {
       "bias": "bearish",
-      "why": "Gold is experiencing significant selling pressure as part of a broad-based asset liquidation, with prices dropping 2.65% to $3,530."
+      "why": "Anchors note gold fell up to 4% (trading at $3,530 per ounce) as investors aggressively raise cash in an indiscriminate market de-risking."
     },
     "Oil": {
       "bias": "mixed",
-      "why": "Views are split; while some anchors noted downward pressure on Brent due to demand concerns, others reported modest gains for WTI and Brent despite the broader market downturn."
+      "why": "Romaine Bostick points to a multi-week drop on ample supply and Brent hitting $91, while separate anchors noted modest crude gains and Alex Kokcharov highlighted shifting Russian export flows to Asia."
     }
   },
   "priced_in": [
-    "Heightened market volatility with VIX above 30-32",
-    "A 'muddle-through' economic environment",
-    "Prolonged higher-for-longer interest rates",
-    "Reduced probability of a December Fed rate hike",
-    "Valuation resets for AI-related companies"
+    "Major indices entering correction territory and heightened volatility with the VIX holding above 30-35",
+    "Reduced probability of a December Fed interest rate hike",
+    "Transition to defensive positioning and an adjustment to prolonged higher-for-longer interest rates"
   ],
   "debates": [
-    "Whether the AI trade is a sustainable growth driver or a bubble facing a permanent valuation reset",
-    "The impact of Donald Trump's criticism of the Fed on future monetary policy",
-    "The sustainability of corporate AI capex given the high cost of capital"
+    "Crude trajectory: Romaine Bostick and anchors cite downward pressure to $91 Brent on ample supply and demand concerns, whereas other anchors note modest gains despite the market selloff.",
+    "Dollar direction: Anchors in one broadcast report a weaker dollar amid shifting flows, while another broadcast reports the US dollar strengthening by 4.56%.",
+    "AI fundamentals vs. price action: Debate over whether robust earnings estimates will stabilize tech or if sub-4% corporate AI adoption and high infrastructure costs necessitate further valuation resets."
   ],
   "watch_next": [
-    "PCE data release",
-    "GDP and New Home Sales data",
-    "Final Fed meeting of the year",
-    "Ongoing SEC probe into Nvidia",
-    "Upcoming retail earnings (Best Buy, Dell, HP Inc)"
+    "PCE inflation, GDP, and New Home Sales data releases",
+    "Upcoming retail earnings including Best Buy, Dell, and HP Inc.",
+    "Ongoing SEC accounting probe into Nvidia and upcoming Washington hearings",
+    "Upcoming press conference and Q&A session with the US President",
+    "Final Federal Reserve meeting of the year"
   ],
-  "generated_at": "2026-11-21T08:02:46Z",
+  "generated_at": "2026-11-22T15:45:04Z",
   "based_on": [
+    "7AkWiMDPAio",
     "dM5_l_31zIU",
     "BFiDTr97in4",
-    "dFNoyrfcDGY",
-    "eBeXNLoskHk"
+    "dFNoyrfcDGY"
   ],
-  "model": "gemini-3.1-flash-lite"
+  "model": "gemini-3.8-flash"
 }
