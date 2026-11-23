@@ -5562,5 +5562,108 @@
     "model": "gemini-3-flash-preview",
     "manual": true,
     "processed_at": "2026-11-01T14:06:47Z"
+  },
+  {
+    "id": "3GHg0maol8U",
+    "title": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-22T17:29:23Z",
+    "live": "none",
+    "minutes": 148.8,
+    "thumbnail": "https://i.ytimg.com/vi/3GHg0maol8U/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=3GHg0maol8U",
+    "notes": {
+      "headline": "Market anxiety persists over tech valuations, AI infrastructure demands, and geopolitical risks",
+      "summary": "Markets are grappling with a tech-led sell-off fueled by concerns over AI valuations, systemic infrastructure vulnerabilities, and persistent inflation. US governors are pushing for state-level AI governance as data center power demands strain local grids, while analysts debate the Fed's path toward a potential December rate hike. Geopolitical tensions, particularly regarding US-China technology policy and trade, remain a significant overhang for global markets.",
+      "key_takeaways": [
+        "Tech sell-off is driven by AI valuation concerns and systemic risks from interconnected, aging infrastructure.",
+        "US governors released a bipartisan AI framework, emphasizing that developers must fund the infrastructure costs they impose on local grids.",
+        "Market analysts expect the Fed to hike rates in December due to sticky inflation remaining above the 2% target.",
+        "Geopolitical tensions with China and Russia are impacting global trade, technology supply chains, and national security policy.",
+        "Data center growth is causing a massive surge in power and water demand, creating regulatory friction and rising utility costs.",
+        "The upcoming launch of Grand Theft Auto 6 is anticipated to be a major cultural and economic event impacting consumer behavior."
+      ],
+      "macro": [
+        "Fed is expected to hike rates in December due to persistent inflation.",
+        "Labor market remains robust, supporting consumer spending.",
+        "Geopolitical risks involving China and Russia are elevating concerns over trade and national security.",
+        "States are increasingly taking the lead on AI regulation due to federal gridlock."
+      ],
+      "priced_in": [
+        "Market is pricing in a potential 50 basis point hike in December.",
+        "Consensus suggests federal gridlock will prevent significant AI regulation in the near term.",
+        "Expectations for continued AI-driven growth despite valuation concerns."
+      ],
+      "fundamentals": [
+        "Data center expansion is driving a surge in energy demand and utility costs.",
+        "Tech sector faces headwinds from regulatory scrutiny, export controls, and potential layoffs.",
+        "Advanced chip manufacturing is identified as a critical area for US national security."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "The index faces pressure from a tech-led sell-off and concerns over AI-related valuations.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Fed is expected to hike rates in December to combat sticky inflation.",
+          "source": "Neil Dutta, Renaissance Macro"
+        },
+        {
+          "asset": "Other: Utilities",
+          "bias": "bearish",
+          "view": "Rising energy demand from data centers is driving up utility costs and regulatory friction.",
+          "source": "Governors Stein and Braun"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "neutral",
+          "view": "Broader market sentiment is cautious as investors assess systemic risks and potential corrections.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Neil Dutta",
+          "role": "Head of US Economic Research, Renaissance Macro",
+          "key_view": "The Fed will likely hike rates in December as inflation remains sticky and above target."
+        },
+        {
+          "name": "Rahm Emanuel",
+          "role": "Former US Ambassador to Japan",
+          "key_view": "US policy towards China needs a more strategic and unified approach with allies to be effective."
+        },
+        {
+          "name": "Gautam Mukunda",
+          "role": "Lecturer & Executive Fellow, Yale School of Management",
+          "key_view": "Market volatility is a correction, and the Fed must maintain a hawkish stance to curb inflation."
+        },
+        {
+          "name": "Jordan Robertson",
+          "role": "Senior Cybersecurity Reporter, Bloomberg News",
+          "key_view": "Recent tech outages result from aging infrastructure and insecure, rapid AI implementation."
+        },
+        {
+          "name": "Josh Stein",
+          "role": "Governor of North Carolina",
+          "key_view": "Data center growth is exploding, and developers must pay for the infrastructure costs they impose."
+        }
+      ],
+      "catalysts": [
+        "December FOMC meeting",
+        "Upcoming inflation data releases",
+        "Grand Theft Auto 6 launch",
+        "G20 meeting in Miami"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 149,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-23T07:15:27Z"
   }
 ]
