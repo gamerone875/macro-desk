@@ -1,5 +1,218 @@
 [
   {
+    "id": "8lNZrj_bU_4",
+    "title": "Jensen Huang Returns as Nvidia Fuels Historic Rally",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-23T23:02:06Z",
+    "live": "none",
+    "minutes": 107.2,
+    "thumbnail": "https://i.ytimg.com/vi/8lNZrj_bU_4/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8lNZrj_bU_4",
+    "notes": {
+      "headline": "Nvidia shares surge 31% as Jensen Huang returns as CEO, fueling historic market rally",
+      "summary": "Nvidia shares rallied 31% following the reinstatement of Jensen Huang as CEO, driving a massive surge in the Nasdaq 100 and S&P 500. While the move is seen as a positive for AI execution and product roadmaps, it has sparked significant debate regarding corporate governance and ongoing US government investigations into export controls. Markets remain in a risk-on state, though analysts caution that the AI-driven rally is highly concentrated and faces long-term regulatory and geopolitical risks.",
+      "key_takeaways": [
+        "Jensen Huang's return as CEO is viewed as a major positive for Nvidia's stock and AI execution, despite governance concerns.",
+        "Nvidia's 31% surge added nearly $1 trillion in market value, providing a massive lift to the Nasdaq 100 and S&P 500.",
+        "Ongoing US government investigations into Nvidia's business practices and export control violations remain a significant risk factor.",
+        "The AI theme remains the dominant driver of market performance, though analysts warn of high concentration risks.",
+        "Take-Two Interactive reported record-breaking sales for 'GTA VI', contributing to broader market optimism.",
+        "Market participants are balancing AI-driven growth euphoria against potential regulatory scrutiny and geopolitical tensions."
+      ],
+      "macro": [
+        "Ongoing US-China technology competition and export regulations on AI hardware.",
+        "US government intervention in corporate leadership decisions raises questions about regulatory oversight.",
+        "Market is monitoring Fed policy, inflation data, and the potential for an AI-driven economic slowdown.",
+        "Geopolitical tensions and national security concerns remain at the forefront of tech sector risks."
+      ],
+      "priced_in": [
+        "Market is pricing in a 25 basis point rate hike in December and two rate cuts by March.",
+        "Investors are pricing in peak AI capital expenditure for the coming year.",
+        "Consensus expects AI-linked stocks to remain the primary driver of market performance.",
+        "Market appears to be discounting the potential severity of ongoing regulatory investigations."
+      ],
+      "fundamentals": [
+        "Nvidia's market cap increased by nearly $1 trillion in a single day.",
+        "Amazon guided for 40% growth in AWS for 2028.",
+        "Take-Two Interactive reported $3.79 billion in sales for 'GTA VI' through Thursday.",
+        "Dell Technologies and HPE reported strong results benefiting from AI infrastructure investments.",
+        "Russell 1000 Growth Index is highly concentrated, with the 10 largest holdings accounting for 60% of the weight."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bullish",
+          "view": "The index saw a 6.9% surge driven by the massive rally in Nvidia and AI-linked stocks.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "The index saw a 4.7% gain as the broader market benefited from the semiconductor sector rally.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "mixed",
+          "view": "Bond yields showed volatility with a sell-off in the short end and buying in the long end.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "neutral",
+          "view": "Crude oil prices continue to ease, helping to alleviate some inflation concerns.",
+          "source": "Rich Ross, Evercore ISI"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Mandeep Singh",
+          "role": "Global Head of Technology Research, Bloomberg Intelligence",
+          "key_view": "Huang's return reduces execution risk for Nvidia's product roadmap and strategic AI deals."
+        },
+        {
+          "name": "John Belton",
+          "role": "Portfolio Manager, Gabelli Funds",
+          "key_view": "Nvidia is more valuable with Jensen Huang at the helm, but the stock will face near-term volatility due to investigations."
+        },
+        {
+          "name": "Julie Biel",
+          "role": "Portfolio Manager and Senior Research Analyst, Kayne Anderson Rudnick",
+          "key_view": "The market is highly concentrated in AI-linked stocks, and corporate governance at Nvidia is a concern."
+        },
+        {
+          "name": "Rich Ross",
+          "role": "Head of Technical Analysis, Evercore ISI",
+          "key_view": "The market is showing signs of a potential macro pivot, and technical setups remain supportive of further gains."
+        },
+        {
+          "name": "Charles Elson",
+          "role": "Founding Director, Weinberg Center for Corporate Governance, University of Delaware",
+          "key_view": "The Nvidia board's decision to reinstate Jensen Huang raises serious questions about corporate governance."
+        },
+        {
+          "name": "Gary Marcus",
+          "role": "Emeritus Professor of Psychology and Neural Science, NYU",
+          "key_view": "The AI bubble is deflating, and there are concerns about the sustainability of AI-driven gains."
+        }
+      ],
+      "catalysts": [
+        "Congressional hearings scheduled for the first week of December.",
+        "Upcoming inflation report and Fed meeting.",
+        "Ongoing US government investigations into Nvidia's business practices."
+      ],
+      "sentiment": "risk-on",
+      "covered_minutes": 107,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-24T07:34:31Z"
+  },
+  {
+    "id": "3GHg0maol8U",
+    "title": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-22T17:29:23Z",
+    "live": "none",
+    "minutes": 148.8,
+    "thumbnail": "https://i.ytimg.com/vi/3GHg0maol8U/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=3GHg0maol8U",
+    "notes": {
+      "headline": "Market anxiety persists over tech valuations, AI infrastructure demands, and geopolitical risks",
+      "summary": "Markets are grappling with a tech-led sell-off fueled by concerns over AI valuations, systemic infrastructure vulnerabilities, and persistent inflation. US governors are pushing for state-level AI governance as data center power demands strain local grids, while analysts debate the Fed's path toward a potential December rate hike. Geopolitical tensions, particularly regarding US-China technology policy and trade, remain a significant overhang for global markets.",
+      "key_takeaways": [
+        "Tech sell-off is driven by AI valuation concerns and systemic risks from interconnected, aging infrastructure.",
+        "US governors released a bipartisan AI framework, emphasizing that developers must fund the infrastructure costs they impose on local grids.",
+        "Market analysts expect the Fed to hike rates in December due to sticky inflation remaining above the 2% target.",
+        "Geopolitical tensions with China and Russia are impacting global trade, technology supply chains, and national security policy.",
+        "Data center growth is causing a massive surge in power and water demand, creating regulatory friction and rising utility costs.",
+        "The upcoming launch of Grand Theft Auto 6 is anticipated to be a major cultural and economic event impacting consumer behavior."
+      ],
+      "macro": [
+        "Fed is expected to hike rates in December due to persistent inflation.",
+        "Labor market remains robust, supporting consumer spending.",
+        "Geopolitical risks involving China and Russia are elevating concerns over trade and national security.",
+        "States are increasingly taking the lead on AI regulation due to federal gridlock."
+      ],
+      "priced_in": [
+        "Market is pricing in a potential 50 basis point hike in December.",
+        "Consensus suggests federal gridlock will prevent significant AI regulation in the near term.",
+        "Expectations for continued AI-driven growth despite valuation concerns."
+      ],
+      "fundamentals": [
+        "Data center expansion is driving a surge in energy demand and utility costs.",
+        "Tech sector faces headwinds from regulatory scrutiny, export controls, and potential layoffs.",
+        "Advanced chip manufacturing is identified as a critical area for US national security."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bearish",
+          "view": "The index faces pressure from a tech-led sell-off and concerns over AI-related valuations.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Fed is expected to hike rates in December to combat sticky inflation.",
+          "source": "Neil Dutta, Renaissance Macro"
+        },
+        {
+          "asset": "Other: Utilities",
+          "bias": "bearish",
+          "view": "Rising energy demand from data centers is driving up utility costs and regulatory friction.",
+          "source": "Governors Stein and Braun"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "neutral",
+          "view": "Broader market sentiment is cautious as investors assess systemic risks and potential corrections.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Neil Dutta",
+          "role": "Head of US Economic Research, Renaissance Macro",
+          "key_view": "The Fed will likely hike rates in December as inflation remains sticky and above target."
+        },
+        {
+          "name": "Rahm Emanuel",
+          "role": "Former US Ambassador to Japan",
+          "key_view": "US policy towards China needs a more strategic and unified approach with allies to be effective."
+        },
+        {
+          "name": "Gautam Mukunda",
+          "role": "Lecturer & Executive Fellow, Yale School of Management",
+          "key_view": "Market volatility is a correction, and the Fed must maintain a hawkish stance to curb inflation."
+        },
+        {
+          "name": "Jordan Robertson",
+          "role": "Senior Cybersecurity Reporter, Bloomberg News",
+          "key_view": "Recent tech outages result from aging infrastructure and insecure, rapid AI implementation."
+        },
+        {
+          "name": "Josh Stein",
+          "role": "Governor of North Carolina",
+          "key_view": "Data center growth is exploding, and developers must pay for the infrastructure costs they impose."
+        }
+      ],
+      "catalysts": [
+        "December FOMC meeting",
+        "Upcoming inflation data releases",
+        "Grand Theft Auto 6 launch",
+        "G20 meeting in Miami"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 149,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-23T07:15:27Z"
+  },
+  {
     "id": "7AkWiMDPAio",
     "title": "Anthropic IPO Fails to Halt AI Selloff, Ditching the Kitchen for Thanksgiving",
     "channel": "Bloomberg Television",
@@ -4234,98 +4447,6 @@
     "processed_at": "2026-11-03T12:47:49Z"
   },
   {
-    "id": "-Xnz7tLtRKc",
-    "title": "Trump Talks Reflecting Pool in Midterm Closing Message",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-03T00:13:10Z",
-    "live": "none",
-    "minutes": 47.3,
-    "thumbnail": "https://i.ytimg.com/vi/-Xnz7tLtRKc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=-Xnz7tLtRKc",
-    "notes": {
-      "headline": "Nasdaq 100 enters correction territory down 10% as Apple and Palantir report earnings",
-      "summary": "The Nasdaq 100 slid into correction territory, declining 10% from its October peak as the broader AI trade continues to unwind. Technology earnings were in focus as Apple beat overall revenue expectations but missed Greater China revenue estimates by roughly $1 billion in its Q4 report. Palantir raised its full-year guidance on accelerating US commercial business growth overtaking government revenues. Concurrently, US midterm elections enter their final hours with competitive Senate races in key states that could alter congressional control.",
-      "key_takeaways": [
-        "Nasdaq 100 entered correction territory, dropping 10% from its October high amid an ongoing unwind in AI-related trades.",
-        "Apple reported Q4 revenue that beat overall estimates, but Greater China revenue missed consensus by roughly $1 billion.",
-        "Apple's quarterly figures reflected two weeks of sales for the iPhone 18 Pro and Pro Max, excluding the foldable iPhone Duo launched on October 23.",
-        "Palantir beat estimates and lifted full-year revenue guidance, driven by accelerating US enterprise client adoption relative to government contracts.",
-        "Control of the US Senate remains tightly contested across key states including Michigan, Iowa, Kansas, Ohio, Alaska, and North Carolina ahead of midterm voting.",
-        "The US Supreme Court rejected a DOJ petition seeking to set aside contested California ballots ahead of election day."
-      ],
-      "macro": [
-        "Potential shift in US congressional control hinges on razor-thin Senate races across battleground states.",
-        "Trade policies, tariffs, and agricultural export disruptions with China cited as major headwinds for Midwest farming economies."
-      ],
-      "priced_in": [
-        "Apple Greater China revenue missed consensus expectations by about $1 billion.",
-        "Palantir full-year guidance exceeded market expectations."
-      ],
-      "fundamentals": [
-        "Apple Q4: Total revenue beat consensus, iPhone revenues beat, but Greater China revenue fell short by approximately $1 billion.",
-        "Apple CEO John Turnus and CFO Kevin Parekh hosted the company's Q4 earnings call.",
-        "Palantir: Raised full-year outlook on expanding commercial revenue and enterprise software adoption in the US."
-      ],
-      "assets": [
-        {
-          "asset": "Nasdaq",
-          "bias": "bearish",
-          "view": "Nasdaq 100 entered correction territory, down 10% from its October peak as tech sell-off and AI unwinding continue.",
-          "source": "anchors"
-        },
-        {
-          "asset": "Other: Apple (AAPL)",
-          "bias": "mixed",
-          "view": "Shares traded volatile after-hours following a Q4 top-line beat countered by a $1 billion miss in Greater China sales.",
-          "source": "Ed Ludlow, Bloomberg News"
-        },
-        {
-          "asset": "Other: Palantir (PLTR)",
-          "bias": "mixed",
-          "view": "Shares dipped in after-hours trading despite raising full-year revenue guidance and reporting strong US enterprise growth.",
-          "source": "Ed Ludlow, Bloomberg News"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Ed Ludlow",
-          "role": "Bloomberg News",
-          "key_view": "Apple beat overall revenue expectations but disappointed in Greater China, while Palantir's commercial US growth is accelerating."
-        },
-        {
-          "name": "Rick Davis",
-          "role": "Partner at Stonecourt Capital & Bloomberg Contributor",
-          "key_view": "Polling reflects broad momentum trends, and candidates who distanced themselves from Trump early on remain competitive."
-        },
-        {
-          "name": "Jeanne Sheehan Zaino",
-          "role": "Democracy Visiting Fellow at Harvard Kennedy School & Bloomberg Contributor",
-          "key_view": "High margins in recent polling look like potential outliers, and tight battleground turnout will determine Senate control."
-        },
-        {
-          "name": "Patrick McHenry",
-          "role": "Former House Financial Services Committee Chair & Bloomberg Contributor",
-          "key_view": "North Carolina Senate race dynamics have reshaped campaign spending and impacted down-ballot House races."
-        },
-        {
-          "name": "María Teresa Kumar",
-          "role": "Founding President & CEO, Voto Latino",
-          "key_view": "Latino voters are heavily motivated by inflation, cost of living, and concerns over aggressive immigration enforcement."
-        }
-      ],
-      "catalysts": [
-        "Midterm election results and polls closing nationwide on Tuesday, November 3",
-        "Alaska Senate election vote certification and ranked-choice tabulation expected around November 18"
-      ],
-      "sentiment": "risk-off",
-      "covered_minutes": 47,
-      "partial": false
-    },
-    "model": "gemini-3.8-flash",
-    "manual": false,
-    "processed_at": "2026-11-03T00:20:49Z"
-  },
-  {
     "id": "bjiF2zcvy30",
     "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
     "channel": "Bloomberg Television",
@@ -4390,709 +4511,6 @@
     "model": "gemini-3-flash-preview",
     "manual": true,
     "processed_at": "2026-11-03T00:30:07Z"
-  },
-  {
-    "id": "tXL3NFLCh_A",
-    "title": "Open Interest 11/2/2026",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-02T17:25:48Z",
-    "live": "none",
-    "minutes": 86.9,
-    "thumbnail": "https://i.ytimg.com/vi/tXL3NFLCh_A/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=tXL3NFLCh_A",
-    "notes": {
-      "headline": "US stocks rally as oil plunges 6% on Iran diplomacy and ISM manufacturing beat",
-      "summary": "Equity markets rebounded as a sharp decline in crude oil prices, driven by potential US-Iran diplomatic breakthroughs, improved investor sentiment. While ISM Manufacturing data exceeded expectations at 55.5, high prices-paid components suggest persistent inflation, keeping an 80-85% chance of a December Fed hike on the table. Investors are also weighing massive AI infrastructure commitments revealed in Anthropic's S-1 filing against growing market skepticism regarding AI's immediate profitability.",
-      "key_takeaways": [
-        "Crude oil prices fell over 6% to ~$105-106 on reports that Trump is seeking diplomacy with Iran to avoid strikes.",
-        "ISM Manufacturing rose to 55.5 in October, beating the 54.5 estimate, though Prices Paid remains high at 75.2.",
-        "Anthropic's S-1 filing reveals Q3 revenue of $16.96B (up from $1.38B YoY) but a $23.3B net loss and $895B in compute commitments through 2030.",
-        "US Midterm elections are viewed as a 'clearing event' that could release sidelined risk capital into the market.",
-        "Marvell Technology announced a $115B all-stock deal to acquire Lumentum to expand its AI data center footprint.",
-        "Apple is trading at a high 36x forward P/E, acting as a 'safe haven' play despite a lack of immediate fundamental catalysts.",
-        "Howard Marks (Oaktree) argues that growing AI skepticism is 'healthy' to prevent the dangers of perceived asset infallibility.",
-        "Oracle is raising up to $20B in debt and equity to fund its aggressive AI expansion."
-      ],
-      "macro": [
-        "Geopolitics: Reports suggest a shift toward diplomacy with Iran, cooling energy supply disruption fears.",
-        "ISM Manufacturing: 55.5 (Actual) vs 54.5 (Exp); Prices Paid at 75.2 indicates sticky inflation.",
-        "Fiscal/Politics: US Midterm elections tomorrow; prediction markets show 72% odds of Democrats taking the Senate.",
-        "Rates: US 10-year yield eased slightly following the drop in energy prices, though December hike odds remain high."
-      ],
-      "priced_in": [
-        "80-85% probability of a Fed rate hike in December 2026.",
-        "Aggressive AI CapEx outlooks are largely priced in, leading to volatile stock reactions on earnings misses.",
-        "Market consensus expects a potential split Congress or Democratic House flip in the Midterms.",
-        "Apple's 27% YTD rally is priced as a safety trade rather than a bet on new product catalysts."
-      ],
-      "fundamentals": [
-        "Anthropic: $16.96B Q3 revenue; $95.6B cash on hand; $121.3B Google Cloud spend commitment.",
-        "Marvell/Lumentum: $115B all-stock acquisition to consolidate AI data center hardware.",
-        "Oracle: Tapping bond markets for $10B-$20B to fund AI infrastructure.",
-        "Apple: High valuation at 36x forward 12-month estimates ahead of holiday iPhone demand results."
-      ],
-      "assets": [
-        {
-          "asset": "Nasdaq 100",
-          "bias": "mixed",
-          "view": "Rebounding after a poor week, but investors are punishing high capex that isn't internally funded.",
-          "source": "Katrina Dudley, Franklin Templeton"
-        },
-        {
-          "asset": "S&P 500",
-          "bias": "bullish",
-          "view": "Moving higher as lower oil prices buoy sentiment and the trade broadens beyond mega-cap tech.",
-          "source": "anchors"
-        },
-        {
-          "asset": "Oil",
-          "bias": "bearish",
-          "view": "Brent crude collapsed over 6% as the threat of immediate strikes on Iran recedes.",
-          "source": "anchors"
-        },
-        {
-          "asset": "Gold",
-          "bias": "mixed",
-          "view": "Correlating with tech stocks as a liquidity provider; facing a conviction test near $4,000.",
-          "source": "Suki Cooper, Standard Chartered"
-        },
-        {
-          "asset": "Other: Apple",
-          "bias": "neutral",
-          "view": "Viewed as a safe haven but faces a high bar for earnings given its 36x forward P/E valuation.",
-          "source": "Anurag Rana, Bloomberg Intelligence"
-        },
-        {
-          "asset": "Rates",
-          "bias": "bearish",
-          "view": "Yields remain elevated as the market prepares for a December hike and potential 2027 increases.",
-          "source": "Katrina Dudley, Franklin Templeton"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Howard Marks",
-          "role": "Co-Chair, Oaktree Capital Management",
-          "key_view": "AI skepticism is necessary because market danger arises when an asset class is viewed as infallible."
-        },
-        {
-          "name": "Stuart Kaiser",
-          "role": "Head of Equity Trading Strategy, Citi",
-          "key_view": "Closed preference for Growth/Hyperscalers as guidance has disappointed despite strong AI growth."
-        },
-        {
-          "name": "Katrina Dudley",
-          "role": "SVP & Investment Strategist, Franklin Templeton",
-          "key_view": "The market is seeing a broadening trade where internal funding of capex is becoming a critical differentiator."
-        },
-        {
-          "name": "Anurag Rana",
-          "role": "Senior Analyst, Bloomberg Intelligence",
-          "key_view": "Apple is a safety trade but lacks new catalysts following recent foldable and AI software news."
-        },
-        {
-          "name": "Amy Wu Silverman",
-          "role": "Head of Derivatives Strategy, RBC Capital Markets",
-          "key_view": "Midterms may be a clearing event, but contested results could spark fresh volatility."
-        },
-        {
-          "name": "Suki Cooper",
-          "role": "Head of Commodities Research, Standard Chartered",
-          "key_view": "Gold is currently moving in tandem with risk assets rather than acting as a traditional safe haven."
-        }
-      ],
-      "catalysts": [
-        "Apple and Palantir earnings (today after the close)",
-        "US Midterm Elections (Tuesday, Nov 3rd)",
-        "Qualcomm results, ADP Employment, and ISM Services (Wednesday)",
-        "Bank of England rate decision (Thursday)",
-        "US Non-farm Payrolls report (Friday)"
-      ],
-      "sentiment": "risk-on",
-      "covered_minutes": 87,
-      "partial": false
-    },
-    "model": "gemini-3-flash-preview",
-    "manual": false,
-    "processed_at": "2026-11-02T22:35:06Z"
-  },
-  {
-    "id": "k05bLzblLro",
-    "title": "Alphabet Opens Fresh Euro Bond Sales; Trump Weighs Iran Diplomacy; Countdown to Midterms",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-02T13:01:41Z",
-    "live": "none",
-    "minutes": 43.5,
-    "thumbnail": "https://i.ytimg.com/vi/k05bLzblLro/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=k05bLzblLro",
-    "notes": {
-      "headline": "Oil plunges on Iran diplomacy reports as markets brace for US midterm elections",
-      "summary": "Crude oil prices fell over 4% following reports that President Trump is favoring diplomacy over immediate strikes on Iran. Markets are also positioning for the US midterm elections on Tuesday, with polls indicating potential Democratic gains that could lead to policy gridlock. Tech sentiment is being tested by Alphabet's large Euro bond sale and highly anticipated Apple earnings later today.",
-      "key_takeaways": [
-        "Crude oil (Brent and WTI) dropped ~4% on reports of potential US-Iran diplomacy.",
-        "US Midterm elections are the primary political focus; polls suggest potential Democratic gains in key states.",
-        "Alphabet is conducting its second Euro bond sale of the year to fund massive AI infrastructure spending.",
-        "Apple earnings are a critical test for consumer tech sentiment and iPhone 18 demand.",
-        "The US Dollar remains strong due to relative US economic outperformance and higher rates compared to Europe."
-      ],
-      "macro": [
-        "Geopolitics: Trump reportedly told Netanyahu he wants to give diplomacy with Iran more time before potential strikes.",
-        "Fiscal/Politics: US Midterm elections on Tuesday; polls show Democrats leading in Michigan, Texas, and Ohio.",
-        "Growth: US growth is driving the Fed to keep conditions tighter compared to a decelerating Eurozone.",
-        "Treasury: Wall Street is bracing for a potential overhaul in Treasury sales guidance on Wednesday."
-      ],
-      "priced_in": [
-        "Consensus expects a potential 'blue sweep' or divided government following Tuesday's midterms.",
-        "Markets are pricing in a more restrictive Fed policy relative to the ECB due to the US output gap."
-      ],
-      "fundamentals": [
-        "Alphabet's 7-part Euro bond sale aims to fund AI ambitions, including data centers and servers.",
-        "Apple margins are under scrutiny due to higher input costs, particularly for memory.",
-        "Oil market is reacting to supply chain shocks and inventory drawdowns rather than just demand.",
-        "Anthropic is seeking up to $3.5B in Japan for its US IPO, following a similar model to SpaceX."
-      ],
-      "assets": [
-        {
-          "asset": "Crude Oil (WTI/Brent)",
-          "bias": "bearish",
-          "view": "Prices fell over 4% on renewed hopes for diplomacy between the US and Iran.",
-          "source": "Abeer Abu Omar, Bloomberg"
-        },
-        {
-          "asset": "USD",
-          "bias": "bullish",
-          "view": "The dollar is supported by higher relative rates and US growth outperforming Europe and Asia.",
-          "source": "Mark McCormick, BMO Capital Markets"
-        },
-        {
-          "asset": "Nasdaq 100",
-          "bias": "bullish",
-          "view": "Futures are seeing a small bounce after Friday's tech sell-off as focus shifts to Apple earnings.",
-          "source": "anchors"
-        },
-        {
-          "asset": "Rates (US 10-Year)",
-          "bias": "mixed",
-          "view": "Yields are catching a bid ahead of potential Treasury sales guidance changes.",
-          "source": "anchors"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Anna Rosenberg",
-          "role": "Head of Geopolitics, Amundi Investment Institute",
-          "key_view": "Expects a divided government post-midterms, likely forcing Trump to focus more on foreign policy than domestic agenda."
-        },
-        {
-          "name": "Mark McCormick",
-          "role": "Chief FX Strategist, BMO Capital Markets",
-          "key_view": "Bullish on USD, predicting the Euro could fall below 1.10 as the ECB pivots to a growth focus while the Fed stays restrictive."
-        },
-        {
-          "name": "Matthew Bloxham",
-          "role": "Bloomberg Intelligence",
-          "key_view": "Apple results will be scrutinized for iPhone 18 sales and the impact of higher memory costs on margins."
-        },
-        {
-          "name": "Charles Capel",
-          "role": "Bloomberg News",
-          "key_view": "Alphabet's bond sale is a major test of investor appetite for massive, ongoing AI infrastructure investment."
-        }
-      ],
-      "catalysts": [
-        "Apple Earnings (Today post-market)",
-        "US Midterm Elections (Tuesday, Nov 5)",
-        "US Treasury Sales Guidance Overhaul (Wednesday)",
-        "US October Jobs Report (Friday)"
-      ],
-      "sentiment": "mixed",
-      "covered_minutes": 44,
-      "partial": false
-    },
-    "model": "gemini-3-flash-preview",
-    "manual": false,
-    "processed_at": "2026-11-02T13:20:51Z"
-  },
-  {
-    "id": "mRuZr4h2AwY",
-    "title": "Trump Says He May Become ‘Mr. Veto’ if Democrats Win Midterms",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-02T11:43:20Z",
-    "live": "none",
-    "minutes": 48.9,
-    "thumbnail": "https://i.ytimg.com/vi/mRuZr4h2AwY/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mRuZr4h2AwY",
-    "notes": {
-      "headline": "Oil slips on Iran diplomacy hopes as markets eye US midterms and Fed policy",
-      "summary": "Crude oil retreated after reports suggested Donald Trump favors diplomatic talks with Iran to avert or delay fresh strikes. Investors are positioning ahead of the US midterm elections, where polling indicates Democrats could make significant gains in Congress, potentially triggering legislative gridlock and veto standoffs. Central bank policy remains in focus, with analysts expecting a Bank of England rate hike, another ECB hike in December, and ongoing scrutiny over the Fed's inflation framework.",
-      "key_takeaways": [
-        "Crude prices eased over 4% on reports that Trump wants to allow more time for diplomacy with Iran before considering strikes.",
-        "US midterm polling shows Democrats leading in key Senate battlegrounds, raising the prospect of divided government and Trump acting as 'Mr. Veto.'",
-        "MUFG's Derek Halpenny warns the US economy and the US Dollar are heavily dependent on AI momentum, with slowing AI adoption posing recession and valuation risks.",
-        "Real Macro's Jeff Currie emphasizes a long-term regime shift toward energy security and redundancy, keeping deferred oil prices elevated regardless of near-term geopolitics.",
-        "Major tech earnings from Apple, Palantir, Qualcomm, and Arm remain key market drivers amid recent volatility in the AI trade."
-      ],
-      "macro": [
-        "Trump reportedly seeks more time for diplomatic talks with Iran, easing immediate Middle East strike fears and energy disruption risks.",
-        "Fed working groups are reviewing the inflation framework and balance sheet policy ahead of year-end, which could lead to greater policy flexibility.",
-        "Recent US GDP showed consumer consumption up 3.8% and strong fixed investment, heavily powered by AI-related spending.",
-        "Bank of England is widely expected to hike interest rates on Thursday driven by a 150% spike in UK natural gas prices over four months.",
-        "ECB expected to hike rates in December, with growth concerns weighing on EUR/USD despite widening rate differentials."
-      ],
-      "priced_in": [
-        "Markets are pricing an anticipated Bank of England rate hike on Thursday due to surging energy costs.",
-        "Traders are pricing in an ECB rate increase in December led by consensus-driven leadership.",
-        "Long USD positioning is heavily tied to the US equity/AI outperformance theme."
-      ],
-      "fundamentals": [
-        "Crude Oil: Near-term pressure on Iran diplomatic openings, but structural demand for supply-chain redundancy and energy security supports longer-dated contracts.",
-        "Tech Sector: Apple earnings eyed for early demand indicators of new iPhone models and margin impacts from higher component costs; Palantir expected to report record revenues near $2.2B.",
-        "Airlines: Ryanair launching aggressive cost cuts and potential pay freezes to offset a projected $2B increase in jet fuel expenses next year."
-      ],
-      "assets": [
-        {
-          "asset": "Oil",
-          "bias": "mixed",
-          "view": "Pressured in the near term by reports of US-Iran diplomacy, but long-term energy security concerns maintain support for forward contracts.",
-          "source": "Jeff Currie, Real Macro"
-        },
-        {
-          "asset": "USD",
-          "bias": "bearish",
-          "view": "Highly exposed to any slowdown or correction in AI momentum, with potential softening later in 2027 if the Fed pauses rate hikes.",
-          "source": "Derek Halpenny, MUFG"
-        },
-        {
-          "asset": "S&P 500",
-          "bias": "neutral",
-          "view": "Futures rebound after recent tech selloff, but election uncertainty and valuation risks around AI linger.",
-          "source": "anchors"
-        },
-        {
-          "asset": "Rates",
-          "bias": "bearish",
-          "view": "Yield curve likely to steepen if Fed policy flexibility moves focus away from a single inflation target toward growth.",
-          "source": "Derek Halpenny, MUFG"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Abeer Abu Omar",
-          "role": "Reporter, Bloomberg News",
-          "key_view": "Energy markets are closely monitoring diplomatic mediation by Qatar, Saudi Arabia, Turkey, and Oman ahead of US midterms."
-        },
-        {
-          "name": "Oliver Crook",
-          "role": "Reporter, Bloomberg News",
-          "key_view": "Polling shows Democrats leading in several Republican-held Senate seats, though polling error risks remain high."
-        },
-        {
-          "name": "Derek Halpenny",
-          "role": "Head of Global Markets Research, MUFG",
-          "key_view": "The US dollar and GDP growth are unusually exposed to the continuation of the AI investment cycle."
-        },
-        {
-          "name": "Howard Marks",
-          "role": "Co-Chair, Oaktree Capital Management",
-          "key_view": "AI is unlike past tech waves in its speed and inscrutability, making traditional analytical valuation difficult."
-        },
-        {
-          "name": "Matthew Bloxham",
-          "role": "Senior Analyst, Bloomberg Intelligence",
-          "key_view": "Apple earnings will show whether higher hardware prices can offset elevated component input costs."
-        },
-        {
-          "name": "Jeff Currie",
-          "role": "CEO, Real Macro",
-          "key_view": "Energy security and supply diversification are driving a multi-year regime shift keeping energy prices elevated."
-        },
-        {
-          "name": "Stephanie Baker",
-          "role": "Senior Writer, Bloomberg News",
-          "key_view": "A Democratic sweep in Congress could lead to renewed pushes for Ukraine aid and heightened oversight of the administration."
-        },
-        {
-          "name": "Tina Fordham",
-          "role": "Founder, Fordham Global Foresight",
-          "key_view": "Early voting turnout indicates strong voter enthusiasm, though high margins of error cloud Senate outcomes."
-        },
-        {
-          "name": "Emily Nicolle",
-          "role": "Columnist, Bloomberg Opinion",
-          "key_view": "Binance's $3.6B in outflows following a major cyber theft represents a manageable fraction of its $135B asset base."
-        }
-      ],
-      "catalysts": [
-        "US Midterm Elections on Tuesday",
-        "Bank of England interest rate decision on Thursday",
-        "Apple quarterly earnings report",
-        "Palantir, Qualcomm, and Arm earnings reports later in the week",
-        "ECB meeting in December"
-      ],
-      "sentiment": "mixed",
-      "covered_minutes": 49,
-      "partial": false
-    },
-    "model": "gemini-3.8-flash",
-    "manual": false,
-    "processed_at": "2026-11-02T13:35:02Z"
-  },
-  {
-    "id": "kG6z_xeCkdc",
-    "title": "US Midterms & AI Strain: The Global Trader’s Guide",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-02T09:24:22Z",
-    "live": "none",
-    "minutes": 92.9,
-    "thumbnail": "https://i.ytimg.com/vi/kG6z_xeCkdc/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kG6z_xeCkdc",
-    "notes": {
-      "headline": "Wilson Sees S&P Pullback Before Midterm Rebound as AI Trade Faces Strain",
-      "summary": "Global markets are balancing a maturing AI trade with US midterm election uncertainty and shifting Middle East geopolitical dynamics. Morgan Stanley's Mike Wilson warned the S&P 500 could pull back roughly 9% before a post-election snapback toward 8,000, while hedge funds are unwinding tech exposure at the fastest pace in years. Crude prices softened after reports indicated President Trump favors allowing more time for diplomacy with Iran before resuming strikes. Investors also face potential divided government risks in Washington, which could constrain foreign policy and defense spending.",
-      "key_takeaways": [
-        "Mike Wilson (Morgan Stanley) forecasts an S&P 500 dip of ~9% around the midterms before a post-clearing rally toward 8,000.",
-        "The AI trade is maturing into an execution-focused phase as hedge funds deleverage tech holdings at a rapid pace.",
-        "Crude prices eased on reports President Trump seeks to give Iran diplomacy more time prior to any military strikes.",
-        "US midterms pose risks of divided government, raising the prospect of presidential vetoes and congressional budget constraints on foreign policy.",
-        "Semiconductor earnings reflect widening dispersion: Tokyo Electron surged on machine demand while Kioxia tumbled 15% on missed profit forecasts.",
-        "Howard Marks (Oaktree) warned AI's 'bubble of infallibility' has burst and credit market conditions demand caution.",
-        "Indonesia faces potential MSCI downgrade risks, creating equity overhang and currency pressure alongside a firm US dollar."
-      ],
-      "macro": [
-        "US midterm elections carry risk of divided government, potentially constraining foreign policy, defense outlays, and war funding.",
-        "Geopolitical tensions in the Middle East persist, but near-term strike risks eased amid delayed military action for diplomatic efforts.",
-        "Credit cycle risks: Howard Marks highlights that easy borrowing conditions and loose lending standards warrant caution in leveraged loans and junk credit.",
-        "Inflation, elevated gasoline, and grocery costs remain central to US voter discontent and election outcomes.",
-        "China financial regulators are meeting with major commercial banks to discuss additional stock market stabilization measures."
-      ],
-      "priced_in": [
-        "Consensus expects midterms to eventually yield a relief rally, though Trump's policy unpredictability remains a wildcard.",
-        "Markets are pricing near-term political gridlock ahead of congressional election results.",
-        "Oil markets unwound part of the geopolitical risk premium following reports of delayed strikes against Iran.",
-        "Credit markets are beginning to price higher stress across lower-grade credit and leveraged loans."
-      ],
-      "fundamentals": [
-        "Tech/AI capex concerns and liquidity constraints are exerting near-term pressure on US equity valuations.",
-        "Kioxia shares dropped ~15% after missing Q3 operating profit estimates and failing to announce buybacks.",
-        "Tokyo Electron rallied 6.8% driven by an improved demand outlook for chip-manufacturing equipment.",
-        "Reliance Industries reported a 40% surge in net income, shifting crude imports toward Venezuela and the Americas.",
-        "Kneron is preparing a Nasdaq IPO, targeting power-efficient NPU architecture as an alternative to power-heavy GPUs."
-      ],
-      "assets": [
-        {
-          "asset": "S&P 500",
-          "bias": "mixed",
-          "view": "Faces a potential ~9% decline around midterms due to AI spending and liquidity headwinds before snapping back toward 8,000.",
-          "source": "Mike Wilson, Morgan Stanley"
-        },
-        {
-          "asset": "Nasdaq 100",
-          "bias": "bearish",
-          "view": "Hedge funds are selling tech at a record pace as the AI 'bubble of infallibility' shows signs of bursting.",
-          "source": "anchors and Howard Marks, Oaktree"
-        },
-        {
-          "asset": "Oil",
-          "bias": "bearish",
-          "view": "Prices slid as reports indicated Trump favors diplomacy over immediate resumption of military strikes against Iran.",
-          "source": "anchors"
-        },
-        {
-          "asset": "USD",
-          "bias": "neutral",
-          "view": "DXY remains firm up nearly 4% year-to-date, putting pressure on emerging market currencies like the Indonesian rupiah.",
-          "source": "Ari Jahja, Macquarie Capital"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Mike Wilson",
-          "role": "Chief US Equity Strategist, Morgan Stanley",
-          "key_view": "The S&P 500 could fall around 9% leading into the midterms before staging a post-election rebound toward 8,000."
-        },
-        {
-          "name": "Howard Marks",
-          "role": "Co-Chair, Oaktree Capital Management",
-          "key_view": "AI stumbles have burst the sector's bubble of infallibility, and loosening credit standards demand investor prudence."
-        },
-        {
-          "name": "Anthony Stephens",
-          "role": "Markets Reporter, Bloomberg News",
-          "key_view": "The AI trade is transitioning into a split case where near-term execution and monetization matter more than long-term promises."
-        },
-        {
-          "name": "Mark Cranfield",
-          "role": "Strategist, Bloomberg MLIV",
-          "key_view": "Midterms typically deliver a relief rally, but Trump's geopolitical unpredictability complicates market pricing."
-        },
-        {
-          "name": "Angela Mancini",
-          "role": "Head of Global Risk Insights Advisory, Dow Jones",
-          "key_view": "A Democratic House would leverage the power of the purse and subpoena authority to challenge White House foreign policy."
-        },
-        {
-          "name": "Jon Herskovitz",
-          "role": "Government Editor, Bloomberg News",
-          "key_view": "Trump is pursuing diplomacy while positioning military assets, responding to Gulf state pressure to avert open conflict with Iran."
-        },
-        {
-          "name": "Ari Jahja",
-          "role": "Head of Indonesia Research, Macquarie Capital",
-          "key_view": "MSCI classification uncertainty creates equity headwinds in Indonesia, despite sound macroeconomic fundamentals."
-        },
-        {
-          "name": "Oliver Crook",
-          "role": "Correspondent, Bloomberg News",
-          "key_view": "Republicans are deploying heavy late-campaign capital amid fears that voter frustration over living costs will flip Congress."
-        },
-        {
-          "name": "Albert Liu",
-          "role": "Founder and CEO, Kneron",
-          "key_view": "NPU technology offers a more power-efficient alternative to GPUs for expanding edge and data center AI infrastructure."
-        }
-      ],
-      "catalysts": [
-        "US midterm elections (within 48 hours)",
-        "Upcoming Nvidia and Apple earnings reports",
-        "China regulator meeting with commercial banks regarding stock market support",
-        "Upcoming APEC Summit and G20 Summit in Miami",
-        "MSCI consultation conclusion on Indonesia status (April 30 / June 30, 2027 timeline)",
-        "Potential S-1 IPO filing from Kneron on the Nasdaq"
-      ],
-      "sentiment": "mixed",
-      "covered_minutes": 93,
-      "partial": false
-    },
-    "model": "gemini-3.8-flash",
-    "manual": false,
-    "processed_at": "2026-11-02T11:36:19Z"
-  },
-  {
-    "id": "mW6cCpcIV_0",
-    "title": "Elon Musk-Starlink Row: Ryanair CEO Rules Out Making Up",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-02T09:01:13Z",
-    "live": "none",
-    "minutes": 46.1,
-    "thumbnail": "https://i.ytimg.com/vi/mW6cCpcIV_0/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=mW6cCpcIV_0",
-    "notes": {
-      "headline": "Oil drops on US-Iran diplomacy reports; markets focus on tech earnings, US midterms",
-      "summary": "Crude oil slipped to around $110/bbl on reports that Donald Trump favors diplomacy over immediate strikes on Iran, easing Middle East supply fears ahead of the US midterms. Equity futures pointed higher following last week's sharp tech selloff, though investor scrutiny remains high on big tech AI capex and cash flows. Market participants are also bracing for US midterm elections, the US Treasury quarterly refunding guidance, the Bank of England rate decision, and the US jobs report.",
-      "key_takeaways": [
-        "Brent crude slipped toward $110/bbl after reports Trump wants more time for talks with Iran before considering fresh strikes.",
-        "Morgan Stanley's Mike Wilson suggests US midterms could act as a clearing event creating an opportunity to buy the dip in stocks.",
-        "Traders anticipate the US Treasury may shift debt issuance guidance toward shorter-dated paper to reduce massive interest costs.",
-        "Ryanair CEO Michael O'Leary warned of a €2B fuel bill surge next year, forecasting inevitable capacity cuts and steep airfare hikes across Europe.",
-        "Semiconductor stocks show weakness, with the Philadelphia Semiconductor Index down 29% from record highs, entering bear market territory according to Leverage Shares' Violeta Todorova.",
-        "Gold broke below key $4,000 technical levels following tight correlation with equities during recent tech de-grossing."
-      ],
-      "macro": [
-        "US midterm elections taking place with prediction markets (Kalshi) showing ~71% odds of a Democratic sweep of both chambers.",
-        "Donald Trump indicated he may become 'Mr. Veto' to block Democratic legislation if Republicans lose Congress.",
-        "Middle East diplomacy: reports indicate Trump is open to talks with Iran, with discussions ongoing regarding the Strait of Hormuz.",
-        "France placed on negative outlook by Fitch ratings amid worsening sovereign debt burden and fiscal deficits.",
-        "Bank of England rate decision scheduled for Thursday with traders pricing in a rate hike; US jobs report due Friday."
-      ],
-      "priced_in": [
-        "Kalshi prediction market prices 71% probability of Democrats taking both the House and the Senate.",
-        "BOE rate hike priced in by traders for Thursday.",
-        "Potential shift in US Treasury refunding away from 20-year or 30-year bond issuance toward short-term bills."
-      ],
-      "fundamentals": [
-        "Ryanair Q2 profit after tax hit €1.61B (est. €1.59B); full-year passenger forecast adjusted to 214M from 216M; fuel bill expected to rise from €6B to €8B next year.",
-        "Apple set to report earnings with focus on initial demand for new foldable iPhones and rising memory chip costs.",
-        "Palantir, Qualcomm, and Arm earnings due later this week with markets focused on AI capex returns and commercial monetization.",
-        "Anthropic IPO expected to be a major benchmark for investor sentiment and valuation of AI foundational models."
-      ],
-      "assets": [
-        {
-          "asset": "Oil",
-          "bias": "bearish",
-          "view": "Prices eased ~3% to near $110/bbl for Brent and $100/bbl for WTI on reports of diplomatic efforts delaying US strikes on Iran.",
-          "source": "anchors"
-        },
-        {
-          "asset": "S&P 500",
-          "bias": "bullish",
-          "view": "Midterms could serve as a clearing event creating a buy-the-dip opportunity regardless of the election outcome.",
-          "source": "Mike Wilson, Morgan Stanley"
-        },
-        {
-          "asset": "Nasdaq",
-          "bias": "mixed",
-          "view": "Futures rebound after last week's selloff, but heavy capex spending and weak cash conversion leave tech vulnerable to further volatility.",
-          "source": "Violeta Todorova, Leverage Shares"
-        },
-        {
-          "asset": "Gold",
-          "bias": "bearish",
-          "view": "Gold broke below the key 4,000 level and looks technically vulnerable due to an unusually high correlation with falling tech stocks.",
-          "source": "Anthony Stephens, Bloomberg News"
-        },
-        {
-          "asset": "Rates",
-          "bias": "mixed",
-          "view": "US 10-year yield sits around 4.93%; Treasury issuance announcement could flatten or steepen the curve depending on short-end skew.",
-          "source": "Mark Cranfield, Bloomberg MLIV"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Anthony Stephens",
-          "role": "Reporter, Bloomberg News",
-          "key_view": "Asian markets rebounded driven by selective tech earnings, while high-correlation gold broke key $4,000 support during equity de-grossing."
-        },
-        {
-          "name": "Abeer Abu Omar",
-          "role": "Reporter, Bloomberg News",
-          "key_view": "Energy markets and Gulf states are monitoring US-Iran diplomacy closely as retaliation risks still hang over the Strait of Hormuz."
-        },
-        {
-          "name": "Oliver Crook",
-          "role": "Reporter, Bloomberg News",
-          "key_view": "Trump is signaling he will aggressively veto legislation if Democrats secure control of Congress in the midterms."
-        },
-        {
-          "name": "Mark Cranfield",
-          "role": "Strategist, Bloomberg MLIV",
-          "key_view": "Traders expect the US Treasury to alter guidance toward short-term debt issuance to curtail ballooning interest expenses."
-        },
-        {
-          "name": "Violeta Todorova",
-          "role": "Senior Research Analyst, Leverage Shares",
-          "key_view": "The semiconductor index is down 29% in bear market territory; investors should look at undervalued defensive sectors like healthcare."
-        },
-        {
-          "name": "Michael O'Leary",
-          "role": "CEO, Ryanair",
-          "key_view": "European airlines face massive headwinds from unhedged oil prices, forcing capacity cuts and driving sharp airfare increases by summer 2027."
-        },
-        {
-          "name": "Ruhul Amin",
-          "role": "Equity Strategist",
-          "key_view": "Upcoming earnings from Apple and Palantir must justify high valuation multiples and explain how they will finance rising AI capex."
-        }
-      ],
-      "catalysts": [
-        "US Midterm elections (Tuesday/Wednesday)",
-        "Apple and Palantir earnings reports (Monday)",
-        "US Treasury Quarterly Refunding announcement (Wednesday)",
-        "Bank of England rate decision (Thursday)",
-        "US Non-Farm Payrolls / Jobs report (Friday)"
-      ],
-      "sentiment": "mixed",
-      "covered_minutes": 46,
-      "partial": false
-    },
-    "model": "gemini-3.8-flash",
-    "manual": false,
-    "processed_at": "2026-11-02T11:45:45Z"
-  },
-  {
-    "id": "kmTPeYQP8u4",
-    "title": "Hormuz Reopening Talks Advance as Iran Warns of Wider Response if Attacked",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-02T07:31:58Z",
-    "live": "none",
-    "minutes": 46.1,
-    "thumbnail": "https://i.ytimg.com/vi/kmTPeYQP8u4/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=kmTPeYQP8u4",
-    "notes": {
-      "headline": "Crude falls over 3% on Iran diplomacy talks while US equity futures stage modest rebound",
-      "summary": "Crude oil retreated with Brent falling below $110/bbl as diplomatic talks to reopen the Strait of Hormuz progressed and reports indicated Donald Trump may favor diplomacy before considering fresh strikes on Iran. US equity futures on the S&P 500 and Nasdaq 100 bounced back following Friday's steep tech selloff, while Asian markets stabilized amid strong semiconductor earnings. Macro focus centers on Middle East de-escalation efforts by Gulf states, capital discipline among oil majors, and policy risks around central banks and the upcoming US midterms.",
-      "key_takeaways": [
-        "Brent crude slid more than 3% to ~$109.80/bbl as diplomatic talks advanced on reopening the Strait of Hormuz.",
-        "US equity futures stabilized, with Nasdaq 100 futures up ~0.9% to 1% and S&P futures up ~0.5% following Friday's severe tech-led slide.",
-        "Gulf states (UAE, Bahrain, Egypt) are actively pushing for diplomatic off-ramps to prevent renewed US-Iran military escalation.",
-        "Paul Donovan (UBS) described the tech selloff as a localized reassessment of earnings rather than a broad macroeconomic warning sign.",
-        "Mitchell Ferman highlighted that roughly 10% of global refining capacity is offline, elevating margins while oil majors maintain strict capex discipline.",
-        "US 10-year Treasury yields remained steady near 4.92%-4.93% ahead of the US midterm elections."
-      ],
-      "macro": [
-        "Geopolitics: Iran proposed an accelerated two-day plan to reopen the Strait of Hormuz; Gulf states are warning another round of conflict would be far more destructive than earlier strikes.",
-        "Monetary Policy: UBS's Paul Donovan warned the biggest macro risk is a policy error if central banks induce recession to counter oil-driven price spikes.",
-        "US Politics: Donald Trump signaled he could become 'Mr. Veto' against a Democratic-controlled Congress if Republicans lose majorities in the midterms."
-      ],
-      "priced_in": [
-        "Markets are pricing in potential de-escalation of the Middle East conflict risk premium following Iranian diplomatic proposals.",
-        "Investors in Asia are actively hedging via equity volatility indices ahead of the US midterm elections."
-      ],
-      "fundamentals": [
-        "Oil & Refining: Upheaval in energy markets has driven near-record profits for big oil majors, supported by tight refining capacity, though firms resist chasing growth.",
-        "Tech & AI: Foxconn Chairman Young Liu affirmed AI demand remains real and massive, driving cloud provider capex; Oaktree's Howard Marks noted recent volatility punctured the AI infallibility bubble.",
-        "Crypto: Binance experienced $3.6B in net outflows following a cyber theft, though withdrawals were processed without systemic panic."
-      ],
-      "assets": [
-        {
-          "asset": "Oil",
-          "bias": "bearish",
-          "view": "Brent fell ~3.2% to near $109.80/bbl and WTI dropped to ~$100.50/bbl on signs of diplomatic traction over Iran and the Strait of Hormuz.",
-          "source": "anchors"
-        },
-        {
-          "asset": "Nasdaq",
-          "bias": "bullish",
-          "view": "Nasdaq 100 futures rebounded ~0.9% to 1.0% following Friday's 3.5% drop that briefly breached technical correction territory.",
-          "source": "anchors"
-        },
-        {
-          "asset": "S&P 500",
-          "bias": "bullish",
-          "view": "S&P 500 futures climbed roughly 0.5% after last week's 2% drop, pointing to stabilizing sentiment.",
-          "source": "anchors"
-        },
-        {
-          "asset": "Rates",
-          "bias": "neutral",
-          "view": "US 10-year Treasury yield hovered flat between 4.92% and 4.93% as markets await election results.",
-          "source": "anchors"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Onur Ant",
-          "role": "Managing Editor, Middle East and North Africa, Bloomberg News",
-          "key_view": "Diplomatic momentum around reopening Hormuz is real but fragile, with Gulf states urgently trying to avert being caught in renewed US-Iran conflict."
-        },
-        {
-          "name": "Mitchell Ferman",
-          "role": "European Oil Reporter, Bloomberg News",
-          "key_view": "Refinery bottlenecks with 10% of global capacity offline sustain record margins, while supermajors remain committed to capex discipline."
-        },
-        {
-          "name": "Oliver Crook",
-          "role": "Chief European Correspondent, Bloomberg News",
-          "key_view": "Trump's comments anticipating veto battles underscore elevated political stakes and legislative gridlock risk ahead of the midterms."
-        },
-        {
-          "name": "Paul Donovan",
-          "role": "Chief Economist, UBS Global Wealth Management",
-          "key_view": "The tech pullback represents a rational repricing of future earnings rather than systemic macro weakness, while central bank overreaction to energy costs is the main hazard."
-        },
-        {
-          "name": "Howard Marks",
-          "role": "Co-Chair, Oaktree Capital Management",
-          "key_view": "Recent AI market stumbles introduce healthy skepticism and deflate assumptions of infallibility across high-valuation tech."
-        },
-        {
-          "name": "Young Liu",
-          "role": "Chairman, Foxconn",
-          "key_view": "AI server demand from cloud service providers is genuine, urgent, and too large to meet without sustained high capex."
-        }
-      ],
-      "catalysts": [
-        "US midterm elections (taking place Tuesday)",
-        "ADIPEC Energy Conference ongoing discussions in Abu Dhabi over the next few days",
-        "US administration announcement regarding South Africa's AGOA trade pact eligibility"
-      ],
-      "sentiment": "mixed",
-      "covered_minutes": 46,
-      "partial": false
-    },
-    "model": "gemini-3.8-flash",
-    "manual": false,
-    "processed_at": "2026-11-02T08:14:45Z"
   },
   {
     "id": "3wyPZg3wt74",
@@ -5562,108 +4980,5 @@
     "model": "gemini-3-flash-preview",
     "manual": true,
     "processed_at": "2026-11-01T14:06:47Z"
-  },
-  {
-    "id": "3GHg0maol8U",
-    "title": "Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays",
-    "channel": "Bloomberg Television",
-    "published": "2026-11-22T17:29:23Z",
-    "live": "none",
-    "minutes": 148.8,
-    "thumbnail": "https://i.ytimg.com/vi/3GHg0maol8U/mqdefault.jpg",
-    "url": "https://www.youtube.com/watch?v=3GHg0maol8U",
-    "notes": {
-      "headline": "Market anxiety persists over tech valuations, AI infrastructure demands, and geopolitical risks",
-      "summary": "Markets are grappling with a tech-led sell-off fueled by concerns over AI valuations, systemic infrastructure vulnerabilities, and persistent inflation. US governors are pushing for state-level AI governance as data center power demands strain local grids, while analysts debate the Fed's path toward a potential December rate hike. Geopolitical tensions, particularly regarding US-China technology policy and trade, remain a significant overhang for global markets.",
-      "key_takeaways": [
-        "Tech sell-off is driven by AI valuation concerns and systemic risks from interconnected, aging infrastructure.",
-        "US governors released a bipartisan AI framework, emphasizing that developers must fund the infrastructure costs they impose on local grids.",
-        "Market analysts expect the Fed to hike rates in December due to sticky inflation remaining above the 2% target.",
-        "Geopolitical tensions with China and Russia are impacting global trade, technology supply chains, and national security policy.",
-        "Data center growth is causing a massive surge in power and water demand, creating regulatory friction and rising utility costs.",
-        "The upcoming launch of Grand Theft Auto 6 is anticipated to be a major cultural and economic event impacting consumer behavior."
-      ],
-      "macro": [
-        "Fed is expected to hike rates in December due to persistent inflation.",
-        "Labor market remains robust, supporting consumer spending.",
-        "Geopolitical risks involving China and Russia are elevating concerns over trade and national security.",
-        "States are increasingly taking the lead on AI regulation due to federal gridlock."
-      ],
-      "priced_in": [
-        "Market is pricing in a potential 50 basis point hike in December.",
-        "Consensus suggests federal gridlock will prevent significant AI regulation in the near term.",
-        "Expectations for continued AI-driven growth despite valuation concerns."
-      ],
-      "fundamentals": [
-        "Data center expansion is driving a surge in energy demand and utility costs.",
-        "Tech sector faces headwinds from regulatory scrutiny, export controls, and potential layoffs.",
-        "Advanced chip manufacturing is identified as a critical area for US national security."
-      ],
-      "assets": [
-        {
-          "asset": "Nasdaq",
-          "bias": "bearish",
-          "view": "The index faces pressure from a tech-led sell-off and concerns over AI-related valuations.",
-          "source": "anchors"
-        },
-        {
-          "asset": "Rates",
-          "bias": "bullish",
-          "view": "Fed is expected to hike rates in December to combat sticky inflation.",
-          "source": "Neil Dutta, Renaissance Macro"
-        },
-        {
-          "asset": "Other: Utilities",
-          "bias": "bearish",
-          "view": "Rising energy demand from data centers is driving up utility costs and regulatory friction.",
-          "source": "Governors Stein and Braun"
-        },
-        {
-          "asset": "S&P 500",
-          "bias": "neutral",
-          "view": "Broader market sentiment is cautious as investors assess systemic risks and potential corrections.",
-          "source": "anchors"
-        }
-      ],
-      "guests": [
-        {
-          "name": "Neil Dutta",
-          "role": "Head of US Economic Research, Renaissance Macro",
-          "key_view": "The Fed will likely hike rates in December as inflation remains sticky and above target."
-        },
-        {
-          "name": "Rahm Emanuel",
-          "role": "Former US Ambassador to Japan",
-          "key_view": "US policy towards China needs a more strategic and unified approach with allies to be effective."
-        },
-        {
-          "name": "Gautam Mukunda",
-          "role": "Lecturer & Executive Fellow, Yale School of Management",
-          "key_view": "Market volatility is a correction, and the Fed must maintain a hawkish stance to curb inflation."
-        },
-        {
-          "name": "Jordan Robertson",
-          "role": "Senior Cybersecurity Reporter, Bloomberg News",
-          "key_view": "Recent tech outages result from aging infrastructure and insecure, rapid AI implementation."
-        },
-        {
-          "name": "Josh Stein",
-          "role": "Governor of North Carolina",
-          "key_view": "Data center growth is exploding, and developers must pay for the infrastructure costs they impose."
-        }
-      ],
-      "catalysts": [
-        "December FOMC meeting",
-        "Upcoming inflation data releases",
-        "Grand Theft Auto 6 launch",
-        "G20 meeting in Miami"
-      ],
-      "sentiment": "mixed",
-      "covered_minutes": 149,
-      "partial": false
-    },
-    "model": "gemini-3.1-flash-lite",
-    "manual": true,
-    "processed_at": "2026-11-23T07:15:27Z"
   }
 ]
