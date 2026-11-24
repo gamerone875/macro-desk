@@ -1,5 +1,114 @@
 [
   {
+    "id": "VeCV3XT5EKM",
+    "title": "AI Stocks Retreat as Markets Rotate Beyond Tech",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-24T22:56:59Z",
+    "live": "none",
+    "minutes": 90.1,
+    "thumbnail": "https://i.ytimg.com/vi/VeCV3XT5EKM/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=VeCV3XT5EKM",
+    "notes": {
+      "headline": "AI stocks retreat as market rotation broadens beyond tech into defensives and retail",
+      "summary": "The Nasdaq 100 and S&P 500 came under pressure as investors rotated out of high-valuation AI mega-caps and chipmakers into defensive sectors, software, and retail. Despite equity market volatility, economists raised 2027 US business investment forecasts to 6.3% on continued AI capital expenditure, with Dell and HP reporting strong hardware demand. Meanwhile, small and mid-sized businesses show resilience by adopting AI tools even as markets adjust to persistent inflation and hawkish Federal Reserve expectations.",
+      "key_takeaways": [
+        "Investors are rotating capital away from AI chipmakers toward defensive sectors, retail, and enterprise software.",
+        "Economists raised 2027 US business investment forecasts to 6.3%, with AI capex projected to exceed $1.4 trillion by 2027.",
+        "Dell Technologies posted strong demand with a $132.3 billion AI backlog and raised FY AI server revenue guidance to $78 billion.",
+        "Nobel laureate Paul Krugman warned that AI market valuations are capital-intensive, import-reliant, and potentially disconnected from broader economic reality.",
+        "Small businesses are actively investing in AI and digital tools to enhance efficiency despite higher borrowing costs and inflation.",
+        "US consumer confidence rebounded to its highest level since early 2025, driven primarily by higher-income households."
+      ],
+      "macro": [
+        "Markets are digesting hawkish Fed expectations, with forecasts calling for two to three additional rate hikes.",
+        "US consumer confidence has rebounded to its highest level since early 2025, led by higher-income households.",
+        "Labor share of national income is at a record low and falling, while productivity growth remains only slightly above its 20-year average.",
+        "Small business input costs have risen by an average of 17%, with roughly 12% passed on to consumers.",
+        "Fiscal stimulus, infrastructure spending, and AI capex are bolstering long-term business investment forecasts."
+      ],
+      "priced_in": [
+        "Bond markets are pricing in two to three Fed rate hikes in the near term.",
+        "Market participants are rotating defensively amid growing skepticism over peak AI capex and earnings growth sustainability.",
+        "Investors are pricing in potential deceleration in tech earnings growth relative to elevated consensus valuations."
+      ],
+      "fundamentals": [
+        "Dell Technologies reported $60.2 billion in 3Q AI server orders and raised FY AI server revenue guidance to $78 billion.",
+        "HP Inc. beat earnings estimates with $16 billion in 4Q net revenue on resilient personal systems demand.",
+        "Retailers like Dollar Tree, Dick's Sporting Goods, Nike, and Target are outperforming amid the market rotation.",
+        "Software names including Salesforce, Adobe, Palantir, and Workday are gaining relative strength.",
+        "AI-related debt issuance is being absorbed by high-grade credit markets, though supply is expected to crest soon.",
+        "Gas prices dropped below $4 per gallon for the first time since July, easing cost pressures for small businesses."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "The index is sliding as investors trim exposure to AI hardware and semiconductor leaders.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "mixed",
+          "view": "Pressure from mega-cap tech weakness is being partly offset by rotation into retail and defensive sectors.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "mixed",
+          "view": "Treasury yields declined on safety bids, while BofA research still anticipates three additional rate hikes.",
+          "source": "Sharon Miller, Bank of America"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Paul Krugman",
+          "role": "Nobel Laureate in Economics, CUNY Graduate Center",
+          "key_view": "AI is highly capital-intensive and relies on imports, posing a risk that market valuations diverge from broader economic fundamentals."
+        },
+        {
+          "name": "Emily Roland",
+          "role": "Co-Chief Investment Strategist at Manulife John Hancock Investments",
+          "key_view": "Markets are grappling with hawkish central banks alongside the search for durable AI-driven growth."
+        },
+        {
+          "name": "Stacy Rasgon",
+          "role": "Senior Analyst, Bernstein",
+          "key_view": "AI fundamentals remain robust, but investor sentiment is cooling as sustainability and valuation concerns rise."
+        },
+        {
+          "name": "Sharon Miller",
+          "role": "President of Business Banking at Bank of America",
+          "key_view": "Small businesses remain resilient and are leveraging AI and digital tools to drive growth despite elevated interest rates."
+        },
+        {
+          "name": "Nathaniel Rosenbaum",
+          "role": "Head of US High-Grade Credit Strategy at JPMorgan",
+          "key_view": "AI financing demand will remain solid, but high-grade corporate bond issuance supply is expected to peak."
+        },
+        {
+          "name": "Kevin Gordon",
+          "role": "Head of Macro Research and Strategy, Schwab Center for Financial Research",
+          "key_view": "The rotation out of AI mega-caps is a healthy broadening of market breadth supported by a stable labor market."
+        },
+        {
+          "name": "Dana Peterson",
+          "role": "Chief Economist at The Conference Board",
+          "key_view": "Consumer confidence is rising, yet persistent inflation and geopolitical conflicts remain headwind risks."
+        }
+      ],
+      "catalysts": [
+        "US PCE inflation report on Wednesday at 8:30 AM ET",
+        "Upcoming Federal Reserve meeting on December 8-9"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 90,
+      "partial": false
+    },
+    "model": "gemini-3.8-flash",
+    "manual": true,
+    "processed_at": "2026-11-24T23:13:57Z"
+  },
+  {
     "id": "5IiHzLvLqMI",
     "title": "Open Interest 11/24/2026",
     "channel": "Bloomberg Television",
