@@ -1,5 +1,109 @@
 [
   {
+    "id": "5IiHzLvLqMI",
+    "title": "Open Interest 11/24/2026",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-24T17:25:52Z",
+    "live": "none",
+    "minutes": 87.4,
+    "thumbnail": "https://i.ytimg.com/vi/5IiHzLvLqMI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=5IiHzLvLqMI",
+    "notes": {
+      "headline": "Markets face volatility from Nvidia governance concerns and looming US tariff escalations",
+      "summary": "Markets are experiencing heightened volatility as investors digest Nvidia's controversial decision to rehire Jensen Huang as CEO and the Trump administration's plans for broad, targeted Section 301 tariffs. While AI demand remains a focal point, skepticism is growing regarding the sustainability of the AI rally following disappointing guidance from HPE. Meanwhile, resilient US consumer confidence data is driving a rotation into bond markets as geopolitical and trade-related uncertainties persist.",
+      "key_takeaways": [
+        "Nvidia's board decision to reinstate Jensen Huang has sparked bipartisan backlash and concerns regarding corporate governance and national security.",
+        "The Trump administration is preparing to impose broad Section 301 tariffs on China, the EU, and over a dozen other economies.",
+        "HPE shares fell sharply after revenue guidance missed expectations, raising concerns about peak pricing power and AI infrastructure demand.",
+        "Anthropic shares are trading below their IPO price, reflecting broader investor hesitation in the pure-play AI sector.",
+        "US consumer confidence data for November exceeded expectations, signaling economic resilience but complicating the Fed's policy path."
+      ],
+      "macro": [
+        "Trump administration planning broad tariffs on China, the EU, and other trading partners.",
+        "Potential for Section 301 trade authority to be utilized for new tariff structures.",
+        "US November consumer confidence rose to 103.3, exceeding the 92.4 expectation.",
+        "Geopolitical tensions rising with potential for retaliatory trade actions from China and the EU."
+      ],
+      "priced_in": [
+        "Increased market uncertainty and potential trade friction.",
+        "Caution regarding the sustainability of the AI-driven rally.",
+        "Rotation into bond markets as a flight-to-safety response."
+      ],
+      "fundamentals": [
+        "Nvidia: Facing governance scrutiny and multiple investigations regarding export controls.",
+        "HPE: Revenue forecast missed expectations, suggesting supply may be catching up to demand.",
+        "Retailers: Dollar Tree, Dick's Sporting Goods, and Best Buy reported strong earnings, indicating resilient consumer spending.",
+        "AI Sector: Shift from pilot programs to production is requiring significant infrastructure investment."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bearish",
+          "view": "The index is under pressure as the AI-fueled rally fades and regulatory concerns mount.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bearish",
+          "view": "The index is struggling to hold gains amid tariff fears and corporate earnings misses.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Treasuries are receiving a bid as investors seek safety amid market volatility.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "Brent crude is higher as market sentiment shifts.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Nancy Tengler",
+          "role": "CEO & CIO, Laffer Tengler",
+          "key_view": "The market is in a reality check phase, but AI-related growth stocks remain attractive long-term investments."
+        },
+        {
+          "name": "Rep. Raja Krishnamoorthi",
+          "role": "D-Illinois, House Intelligence Committee",
+          "key_view": "Criticized Nvidia's board for reinstating Jensen Huang, citing national security concerns."
+        },
+        {
+          "name": "Martin Schroeter",
+          "role": "Chairman & CEO, Kyndryl",
+          "key_view": "AI demand is real and shifting to production, though infrastructure and workforce readiness remain bottlenecks."
+        },
+        {
+          "name": "Sarah Kunst",
+          "role": "Managing Director & Founder, Cleo Capital",
+          "key_view": "Expressed deep concern over Nvidia's board decisions and the potential for damage to shareholder trust."
+        },
+        {
+          "name": "Matt Maley",
+          "role": "Founder, The Maley Report",
+          "key_view": "AI industry profitability is likely to be smaller and slower to materialize than investors anticipate."
+        }
+      ],
+      "catalysts": [
+        "Dec 1: House hearing on Nvidia",
+        "Dec 2: Nvidia GC closed House hearing",
+        "Dec 3: Senate Banking panel hearing on Nvidia",
+        "Upcoming G20 summit in Florida",
+        "December FOMC meeting"
+      ],
+      "sentiment": "risk-off",
+      "covered_minutes": 87,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-24T22:14:24Z"
+  },
+  {
     "id": "8lNZrj_bU_4",
     "title": "Jensen Huang Returns as Nvidia Fuels Historic Rally",
     "channel": "Bloomberg Television",
