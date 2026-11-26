@@ -1,49 +1,47 @@
 {
-  "narrative": "Markets are grappling with intense volatility in mega-cap technology following Jensen Huang's return to Nvidia, which triggered a massive rally before sparking bipartisan governance concerns and export control scrutiny. Capital is actively rotating away from AI hardware and semiconductor leaders toward retail, enterprise software, and defensive sectors. Sentiment is further pressured by looming Trump administration Section 301 tariffs on China and the EU, alongside mixed enterprise guidance like HPE's revenue miss. At the same time, strong US consumer confidence and resilient business investment forecasts are complicating the monetary policy outlook. Desk attention is pinned on whether persistent inflation will force the Federal Reserve into additional near-term rate hikes.",
+  "narrative": "Markets are navigating a volatile period characterized by a rotation away from concentrated AI-tech leadership toward defensive and retail sectors. While systematic flows and resilient consumer spending have provided support, investors are increasingly wary of regulatory scrutiny surrounding Nvidia and the potential economic drag from proposed broad-based Section 301 tariffs. Inflation remains a persistent concern, with core PCE accelerating to 3.3%, complicating the Federal Reserve's path forward. Consequently, the market is balancing AI-driven growth optimism against rising geopolitical friction and questions regarding the sustainability of corporate margins. Overall sentiment remains mixed as participants digest these competing macro and micro-level pressures.",
   "regime": "mixed",
   "assets": {
     "Nasdaq": {
       "bias": "mixed",
-      "view": "Anchors note the index experienced an initial 6.9% surge driven by Nvidia's rally, but is now sliding as investors trim AI hardware leaders amid valuation skepticism and mounting regulatory overhang."
+      "why": "The index faces high volatility as investors rotate out of AI hardware leaders amid governance concerns and regulatory scrutiny, despite occasional surges driven by specific company news."
     },
     "S&P 500": {
       "bias": "mixed",
-      "view": "Anchors report that broad index gains are struggling under tariff concerns and mega-cap tech weakness, though downside is partially offset by rotation into outperforming retail and defensive sectors."
+      "why": "The index shows resilience by finding support near the 7,000 level, with weakness in mega-cap tech being partially offset by gains in defensive and retail sectors."
     },
     "Gold": {
       "bias": "neutral",
-      "view": "Gold was not covered in the provided broadcast notes."
+      "why": "Gold was not covered in the provided notes."
     },
     "Oil": {
       "bias": "mixed",
-      "view": "Rich Ross of Evercore ISI noted crude prices were easing and helping alleviate inflation concerns, while anchors later reported Brent crude ticked higher amid shifting market sentiment."
+      "why": "Brent crude has seen upward pressure due to shifting sentiment, though easing prices have also been noted as a factor helping to alleviate inflation concerns."
     }
   },
   "priced_in": [
-    "Near-term Fed policy expectations ranging from a 25 to 50 basis point rate hike in December, with some bond markets pricing two to three hikes ahead.",
-    "Deceleration in tech earnings growth and peak AI capex sustainability.",
-    "Increased market uncertainty stemming from potential Section 301 trade frictions with China and the EU.",
-    "Defensive rotation into retail and high-grade credit markets."
+    "Two to three additional Fed rate hikes in the near term",
+    "Peak AI capital expenditure for the coming year",
+    "Potential deceleration in tech earnings growth relative to valuations",
+    "G-shaped economy with resilient consumer spending",
+    "Increased market uncertainty due to potential trade friction and tariffs"
   ],
   "debates": [
-    "Sustainability of the AI capex boom: Paul Krugman warned AI valuations are capital-intensive, import-reliant, and detached from economic reality, whereas Dell guidance and raised 2027 business capex forecasts suggest robust demand.",
-    "Rate path trajectory: Sharon Miller of Bank of America and Neil Dutta of Renaissance Macro anticipate continued rate hikes on sticky inflation, while some consensus pricing looks toward rate cuts by March.",
-    "Governance vs. execution at Nvidia: Market enthusiasm over Jensen Huang's reinstatement clashes with bipartisan congressional backlash and export control investigations."
+    "The sustainability of AI-driven earnings growth versus valuation concerns",
+    "Whether the recent market recovery is driven by fundamental improvements or purely by systematic/quantitative fund flows",
+    "The impact of Nvidia's governance and regulatory investigations on broader market sentiment"
   ],
   "watch_next": [
-    "US PCE inflation report (Wednesday at 8:30 AM ET)",
-    "House hearing on Nvidia (December 1)",
-    "Nvidia General Counsel closed House hearing (December 2)",
-    "Senate Banking panel hearing on Nvidia (December 3)",
-    "Federal Reserve FOMC meeting (December 8-9)",
-    "Upcoming G20 summit in Florida / Miami"
+    "December 1: House hearing on Nvidia",
+    "December 3: Senate Banking Committee hearing on Nvidia",
+    "December 8-9: Federal Reserve FOMC meeting"
   ],
-  "generated_at": "2026-11-24T23:16:20Z",
+  "generated_at": "2026-11-26T07:31:05Z",
   "based_on": [
+    "isFCC0mJuzU",
     "VeCV3XT5EKM",
     "5IiHzLvLqMI",
-    "8lNZrj_bU_4",
-    "3GHg0maol8U"
+    "8lNZrj_bU_4"
   ],
-  "model": "gemini-3.8-flash"
+  "model": "gemini-3.1-flash-lite"
 }

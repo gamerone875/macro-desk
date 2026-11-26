@@ -1,5 +1,102 @@
 [
   {
+    "id": "isFCC0mJuzU",
+    "title": "Markets Stage a Stunning Reversal Ahead of Thanksgiving",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-25T22:58:55Z",
+    "live": "none",
+    "minutes": 89.8,
+    "thumbnail": "https://i.ytimg.com/vi/isFCC0mJuzU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=isFCC0mJuzU",
+    "notes": {
+      "headline": "Markets stage a stunning intraday reversal as dip buyers emerge ahead of Thanksgiving",
+      "summary": "US equity markets experienced significant volatility, with the S&P 500 and Nasdaq 100 staging a strong recovery after early losses. The reversal was largely attributed to systematic funds and quantitative strategies rather than fundamental shifts. Investors continue to monitor resilient but selective consumer spending, AI infrastructure profitability, and the impact of potential tariffs.",
+      "key_takeaways": [
+        "S&P 500 and Nasdaq 100 staged a massive intraday reversal, with the S&P 500 finding support after briefly dipping below 7,000.",
+        "Market recovery was driven by systematic funds and quantitative strategies rather than fundamental news.",
+        "Consumer spending remains resilient, though shoppers are increasingly prioritizing value and convenience.",
+        "Core PCE inflation accelerated to 3.3%, remaining above the Fed's 2% target.",
+        "Tech sector volatility is fueled by valuation concerns and questions regarding the long-term profitability of AI investments.",
+        "Trading volume remained higher than historical averages for a holiday-shortened week."
+      ],
+      "macro": [
+        "Core PCE inflation accelerated to 3.3% in October.",
+        "Consumer sentiment is at a five-year low with rising financial stress.",
+        "Potential new tariffs are creating uncertainty for corporate margins and supply chains.",
+        "Treasury yields are declining, providing a buffer for equity markets."
+      ],
+      "priced_in": [
+        "Market is pricing in a 'G-shaped' economy with generational wealth and resilient spending.",
+        "Investors are cautious regarding the durability of earnings growth and capital expenditure efficiency.",
+        "Expectations for inflation to moderate over the longer term."
+      ],
+      "fundamentals": [
+        "Retailers are performing well through disciplined inventory management and strategic markdowns.",
+        "Deere's earnings miss highlights challenges in the agricultural equipment sector.",
+        "AI-related stocks are undergoing price discovery as investors assess long-term profitability.",
+        "Luxury retailers are working to rebuild trust and prove the success of restructuring efforts."
+      ],
+      "assets": [
+        {
+          "asset": "S&P 500",
+          "bias": "mixed",
+          "view": "The index showed resilience by recovering from initial losses and finding support near the 7,000 level.",
+          "source": "anchors and Jess Menton, Bloomberg News"
+        },
+        {
+          "asset": "Nasdaq 100",
+          "bias": "mixed",
+          "view": "The index experienced high volatility as investors rotated out of tech and assessed AI prospects.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bullish",
+          "view": "Treasury yields are hitting two-month lows, providing a supportive environment for equities.",
+          "source": "Carmen Reinicke, Bloomberg News"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Ed Yardeni",
+          "role": "President and Chief Investment Strategist, Yardeni Research",
+          "key_view": "The bull market is supported by resilient consumer spending and strong corporate earnings."
+        },
+        {
+          "name": "Jess Menton",
+          "role": "Bloomberg News",
+          "key_view": "The intraday reversal was driven by systematic funds and quantitative strategies rather than fundamental shifts."
+        },
+        {
+          "name": "Adrienne Yih",
+          "role": "Managing Director and Senior Retail Analyst, Barclays",
+          "key_view": "Retailers are performing well due to effective inventory management and a focus on value."
+        },
+        {
+          "name": "Adrian Helfert",
+          "role": "CIO of Multi-Asset Strategies at Westwood",
+          "key_view": "Investors are questioning the durability of earnings growth and the ability of companies to translate capex into earnings."
+        },
+        {
+          "name": "Michael Ball",
+          "role": "Macro Strategist at Bloomberg",
+          "key_view": "The market is currently mechanical, with hedging actions exacerbating moves in both directions."
+        }
+      ],
+      "catalysts": [
+        "Thanksgiving holiday market closure",
+        "Monday trading session",
+        "Senate Banking Committee hearing on December 3rd"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 90,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-26T07:31:02Z"
+  },
+  {
     "id": "VeCV3XT5EKM",
     "title": "AI Stocks Retreat as Markets Rotate Beyond Tech",
     "channel": "Bloomberg Television",
