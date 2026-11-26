@@ -1,47 +1,48 @@
 {
-  "narrative": "Markets are navigating a volatile period characterized by a rotation away from concentrated AI-tech leadership toward defensive and retail sectors. While systematic flows and resilient consumer spending have provided support, investors are increasingly wary of regulatory scrutiny surrounding Nvidia and the potential economic drag from proposed broad-based Section 301 tariffs. Inflation remains a persistent concern, with core PCE accelerating to 3.3%, complicating the Federal Reserve's path forward. Consequently, the market is balancing AI-driven growth optimism against rising geopolitical friction and questions regarding the sustainability of corporate margins. Overall sentiment remains mixed as participants digest these competing macro and micro-level pressures.",
+  "narrative": "Markets are experiencing high volatility driven by a rotation out of AI-heavy tech stocks into defensive and retail sectors amid mounting regulatory scrutiny on Nvidia and broader tariff concerns. While consumer spending remains resilient, core PCE inflation has accelerated to 3.3%, complicating the Federal Reserve's path despite a recent decline in Treasury yields. Systematic and quantitative strategies are currently driving intraday reversals, masking underlying fundamental concerns regarding the sustainability of AI capital expenditure. Geopolitical tensions, particularly regarding NATO-Russia relations and potential retaliatory trade actions, are adding to the cautious sentiment. Investors are balancing this economic resilience against the risk of further Fed rate hikes and the potential for a cooling in corporate earnings growth.",
   "regime": "mixed",
   "assets": {
     "Nasdaq": {
       "bias": "mixed",
-      "why": "The index faces high volatility as investors rotate out of AI hardware leaders amid governance concerns and regulatory scrutiny, despite occasional surges driven by specific company news."
+      "why": "The index is experiencing high volatility as investors rotate away from AI hardware and semiconductor leaders due to valuation concerns and governance issues at Nvidia."
     },
     "S&P 500": {
       "bias": "mixed",
-      "why": "The index shows resilience by finding support near the 7,000 level, with weakness in mega-cap tech being partially offset by gains in defensive and retail sectors."
+      "why": "The index shows resilience by recovering from intraday lows, with gains in retail and defensive sectors partially offsetting weakness in mega-cap tech."
     },
     "Gold": {
-      "bias": "neutral",
-      "why": "Gold was not covered in the provided notes."
+      "bias": "bearish",
+      "why": "Spot gold is trading lower, reflecting broader market volatility."
     },
     "Oil": {
-      "bias": "mixed",
-      "why": "Brent crude has seen upward pressure due to shifting sentiment, though easing prices have also been noted as a factor helping to alleviate inflation concerns."
+      "bias": "bullish",
+      "why": "Crude oil prices are rallying due to supply and demand dynamics, with Brent up 3.1%."
     }
   },
   "priced_in": [
-    "Two to three additional Fed rate hikes in the near term",
-    "Peak AI capital expenditure for the coming year",
-    "Potential deceleration in tech earnings growth relative to valuations",
-    "G-shaped economy with resilient consumer spending",
-    "Increased market uncertainty due to potential trade friction and tariffs"
+    "Moderate path for future Fed rate hikes in 2027",
+    "Potential December Fed rate hike",
+    "Current tariff levels",
+    "G-shaped economy with resilient spending",
+    "Deceleration in tech earnings growth relative to valuations"
   ],
   "debates": [
-    "The sustainability of AI-driven earnings growth versus valuation concerns",
-    "Whether the recent market recovery is driven by fundamental improvements or purely by systematic/quantitative fund flows",
-    "The impact of Nvidia's governance and regulatory investigations on broader market sentiment"
+    "Whether AI market valuations are disconnected from economic reality or supported by long-term infrastructure demand",
+    "The sustainability of AI capital expenditure versus the need for production-level profitability",
+    "The impact of potential Section 301 tariffs on corporate margins versus the resilience of consumer spending"
   ],
   "watch_next": [
-    "December 1: House hearing on Nvidia",
-    "December 3: Senate Banking Committee hearing on Nvidia",
-    "December 8-9: Federal Reserve FOMC meeting"
+    "US PCE inflation report (Nov 26)",
+    "House hearing on Nvidia (Dec 1)",
+    "Senate Banking Committee hearing on Nvidia (Dec 3)",
+    "Federal Reserve FOMC meeting (Dec 8-9)"
   ],
-  "generated_at": "2026-11-26T07:31:05Z",
+  "generated_at": "2026-11-26T07:55:28Z",
   "based_on": [
+    "iSSZRbNUfRI",
     "isFCC0mJuzU",
     "VeCV3XT5EKM",
-    "5IiHzLvLqMI",
-    "8lNZrj_bU_4"
+    "5IiHzLvLqMI"
   ],
   "model": "gemini-3.1-flash-lite"
 }

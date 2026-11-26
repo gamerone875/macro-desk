@@ -97,6 +97,106 @@
     "processed_at": "2026-11-26T07:31:02Z"
   },
   {
+    "id": "iSSZRbNUfRI",
+    "title": "Nasdaq 100 Bounces Off Tech-Driven Lows",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-25T21:51:17Z",
+    "live": "none",
+    "minutes": 48.9,
+    "thumbnail": "https://i.ytimg.com/vi/iSSZRbNUfRI/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=iSSZRbNUfRI",
+    "notes": {
+      "headline": "Nasdaq 100 rebounds from tech-driven lows amid geopolitical tensions and economic data",
+      "summary": "Markets experienced a volatile session, initially selling off before recovering as investors balanced economic data with geopolitical risks. The discussion highlighted concerns over potential Nvidia credit rating adjustments, ongoing Russia-NATO tensions, and the impact of US tariff policies. Market participants are navigating a negative gamma environment that is exacerbating short-term price swings.",
+      "key_takeaways": [
+        "Equities rebounded from early session lows, though tech remains sensitive to AI-related sentiment.",
+        "S&P Global Ratings is considering a one-notch credit rating cut for Nvidia due to governance concerns.",
+        "Angela Stent warns of heightened risks of a wider conflict between Russia and NATO members.",
+        "Bill Reinsch notes that current US tariff policies are largely a reconstruction of previous measures rather than a significant rate increase.",
+        "The bond market is pricing in a more moderate path for future Fed rate hikes.",
+        "There is little evidence of a manufacturing job boom resulting from current tariff policies."
+      ],
+      "macro": [
+        "Fed maintains mandates including financial stability, requiring orderly markets.",
+        "Economic data shows moderate growth in 8 of 12 Fed districts with strong consumer spending.",
+        "Geopolitical risks remain elevated regarding the Ukraine war and NATO-Russia relations.",
+        "Trade relations are strained with key allies including Canada and the EU due to protectionist measures."
+      ],
+      "priced_in": [
+        "Market has significantly reduced expectations for aggressive Fed rate hikes in 2027.",
+        "Investors are pricing in a potential December Fed rate hike.",
+        "Current tariff levels are fully priced in by the market.",
+        "Short-dated tactical trading and negative gamma are driving exaggerated market volatility."
+      ],
+      "fundamentals": [
+        "Nvidia faces potential credit rating downgrade; semiconductor sector remains under pressure.",
+        "HP Inc. shares rose 10% on better-than-expected revenue and profit.",
+        "Nutanix shares fell 15% following the announcement of the CEO's planned departure.",
+        "Deere shares rose 4.6% on a positive industry outlook and potential 2026 rebound.",
+        "Oil prices are rallying due to supply and demand dynamics."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "mixed",
+          "view": "The index bounced off tech-driven lows but remains sensitive to AI-related sentiment.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "mixed",
+          "view": "The index recovered from session lows as investors moved into Treasury markets.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "bullish",
+          "view": "Crude oil prices are rallying, with Brent up 3.1%.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bearish",
+          "view": "Spot gold is trading lower, reflecting broader market volatility.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Ira Jersey",
+          "role": "Chief US Interest Rate Strategist, Bloomberg Intelligence",
+          "key_view": "The Fed is unlikely to hike rates aggressively in 2027, and the market has already priced out much of that fear."
+        },
+        {
+          "name": "Angela Stent",
+          "role": "Senior Fellow, American Enterprise Institute",
+          "key_view": "Diplomatic efforts have not brought the end of the Ukraine war closer, and there is a risk of wider conflict between Russia and NATO."
+        },
+        {
+          "name": "Bill Reinsch",
+          "role": "Senior Adviser, CSIS",
+          "key_view": "Current tariff policies are not significantly higher than previous ones and have not yet triggered a manufacturing boom."
+        },
+        {
+          "name": "Michael Ball",
+          "role": "Macro Strategist, Bloomberg News",
+          "key_view": "The market is in a negative gamma environment, leading to exaggerated moves and short-term volatility."
+        }
+      ],
+      "catalysts": [
+        "Upcoming meeting between President Trump and NATO Secretary General Mark Rutte",
+        "Thanksgiving holiday trading schedule",
+        "Black Friday trading session"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 49,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-26T07:55:25Z"
+  },
+  {
     "id": "VeCV3XT5EKM",
     "title": "AI Stocks Retreat as Markets Rotate Beyond Tech",
     "channel": "Bloomberg Television",
