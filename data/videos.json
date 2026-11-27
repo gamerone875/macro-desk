@@ -1,5 +1,117 @@
 [
   {
+    "id": "-Zb0K56sPeU",
+    "title": "AI Rally Faces Fresh Test: Nvidia Curbs & Trump Tariffs",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-27T07:11:07Z",
+    "live": "none",
+    "minutes": 94.5,
+    "thumbnail": "https://i.ytimg.com/vi/-Zb0K56sPeU/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=-Zb0K56sPeU",
+    "notes": {
+      "headline": "AI Rally Faces Fresh Test Amid Nvidia Export Curbs and Global Trade Policy Uncertainty",
+      "summary": "Markets are navigating a complex environment defined by AI-driven tech resilience, geopolitical tensions in the Middle East, and shifting global trade policies. While Asian equities show a modest rebound, investors remain cautious regarding the impact of US tariff threats and Nvidia's export curbs on data center supply chains. Meanwhile, energy markets are focused on the upcoming OPEC+ meeting, and the Indian market faces internal investment challenges despite strong corporate profitability.",
+      "key_takeaways": [
+        "Tech stocks and AI-related names are showing resilience, driving a broader risk-on sentiment in Asian markets.",
+        "Nvidia's export curbs on server shipments to Southeast Asia are creating uncertainty for regional data center projects.",
+        "Oil markets are on edge due to Mideast conflict, shipping constraints in the Strait of Hormuz, and the upcoming OPEC+ meeting.",
+        "The US dollar remains strong, supported by expectations of a hawkish Federal Reserve and its role as a safe haven.",
+        "Indian industry faces criticism for a lack of global ambition and investment, despite strong large-cap profitability.",
+        "Global trade policy and potential US tariffs are key risks being monitored for their impact on supply chains."
+      ],
+      "macro": [
+        "Federal Reserve is expected to maintain a hawkish stance with potential rate hikes in December.",
+        "Geopolitical tensions in the Middle East and Kuwait continue to impact energy markets and shipping logistics.",
+        "US export controls on AI chips are causing supply chain disruptions in Southeast Asia.",
+        "India's inflation is exceeding 6%, leading to expectations of an RBI rate hike in December.",
+        "Global trade dynamics are shifting, with potential for supply chain re-wiring due to tariff threats."
+      ],
+      "priced_in": [
+        "Market expects a hawkish Fed stance for the December meeting.",
+        "Bond markets have factored in a potential rate hike by the Reserve Bank of India.",
+        "Investors are pricing in continued AI-driven growth despite supply chain headwinds.",
+        "Market is anticipating potential output quota adjustments from the upcoming OPEC+ meeting."
+      ],
+      "fundamentals": [
+        "AI spending remains a long-term growth driver despite short-term valuation and supply chain concerns.",
+        "Global oil inventories have decreased significantly, supporting prices alongside geopolitical risks.",
+        "Indian large-cap companies reported a 22% increase in profit growth in the second quarter.",
+        "Data center demand remains a key driver for copper and AI-related hardware.",
+        "Profitability for unlisted firms in India has been declining since the COVID period."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq",
+          "bias": "bullish",
+          "view": "Tech stocks are showing resilience and rebounding after recent volatility.",
+          "source": "Paul Dobson, Bloomberg News"
+        },
+        {
+          "asset": "USD",
+          "bias": "bullish",
+          "view": "The dollar is supported by a hawkish Fed and its status as a safe haven.",
+          "source": "Stephen Chiu, Bloomberg Intelligence"
+        },
+        {
+          "asset": "Oil",
+          "bias": "mixed",
+          "view": "Prices are supported by low inventories and Mideast supply risks, but may soften as OPEC+ production increases.",
+          "source": "Amrita Sen, Energy Aspects / Shweta Rajani, Anand Rathi Wealth"
+        },
+        {
+          "asset": "Gold",
+          "bias": "bullish",
+          "view": "Gold is performing strongly despite a strong dollar, acting as a hedge.",
+          "source": "Paul Dobson, Bloomberg News"
+        },
+        {
+          "asset": "Other: Indian Equities",
+          "bias": "bullish",
+          "view": "The market rally is sustainable due to strong corporate profitability and attractive valuations.",
+          "source": "Shweta Rajani, Anand Rathi Wealth"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Garfield Reynolds",
+          "role": "Markets Live Asia Editor, Bloomberg",
+          "key_view": "The market is stabilizing with investors seeking comfort in the Nasdaq's resilience."
+        },
+        {
+          "name": "Amrita Sen",
+          "role": "Founder and Director of Market Intelligence at Energy Aspects",
+          "key_view": "Oil prices are supported by low inventories and ongoing Mideast supply risks."
+        },
+        {
+          "name": "Raghuram Rajan",
+          "role": "Former RBI Governor",
+          "key_view": "Indian industry needs more ambition to compete globally."
+        },
+        {
+          "name": "Stephen Chiu",
+          "role": "Chief Emerging Markets FX Strategist, Bloomberg Intelligence",
+          "key_view": "The US dollar will remain resilient, and the Korean Won has room to appreciate."
+        },
+        {
+          "name": "Shweta Rajani",
+          "role": "Senior VP and Mutual Funds Head at Anand Rathi Wealth",
+          "key_view": "Indian markets remain a strong buying opportunity despite global headwinds."
+        }
+      ],
+      "catalysts": [
+        "OPEC+ meeting",
+        "Federal Reserve December meeting",
+        "RBI policy meeting in December"
+      ],
+      "sentiment": "mixed",
+      "covered_minutes": 94,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-27T07:19:24Z"
+  },
+  {
     "id": "isFCC0mJuzU",
     "title": "Markets Stage a Stunning Reversal Ahead of Thanksgiving",
     "channel": "Bloomberg Television",
