@@ -1,5 +1,117 @@
 [
   {
+    "id": "nBYglso_e4I",
+    "title": "Bloomberg Surveillance 11/27/2026",
+    "channel": "Bloomberg Television",
+    "published": "2026-11-27T17:21:39Z",
+    "live": "none",
+    "minutes": 144.4,
+    "thumbnail": "https://i.ytimg.com/vi/nBYglso_e4I/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=nBYglso_e4I",
+    "notes": {
+      "headline": "Stocks rebound on Black Friday as AI trade resilience and strong retail data emerge",
+      "summary": "Markets are rallying on Black Friday, driven by tech-heavy Nasdaq gains and resilient consumer spending data. Investors are balancing optimism over AI-driven retail efficiency with concerns regarding geopolitical risks, potential tariffs, and sticky inflation. While the labor market shows signs of re-acceleration, the Federal Reserve faces a complex path for interest rates, with markets pricing in continued volatility.",
+      "key_takeaways": [
+        "Stocks are rebounding, led by tech and AI-related sectors, as dip buyers emerge.",
+        "NRF expects 183 million holiday shoppers, with 59% utilizing AI tools for assistance.",
+        "Consumer spending remains resilient, with holiday sales growth projected at 4%.",
+        "Labor market data shows signs of re-acceleration, potentially complicating Fed policy.",
+        "Geopolitical tensions, including Middle East energy infrastructure risks and US-China trade friction, remain key concerns.",
+        "Nvidia faces scrutiny after reports of Blackwell chips appearing at a Chinese site."
+      ],
+      "macro": [
+        "Fed funds futures price in a high probability of a 25 basis point rate hike.",
+        "Labor market re-acceleration and wage growth remain central to the 'higher for longer' Fed outlook.",
+        "Inflation remains above the ECB's 2% target, testing market sentiment.",
+        "Geopolitical risks include potential new US tariffs on 14 trading partners and Houthi attacks on energy infrastructure."
+      ],
+      "priced_in": [
+        "Market expects continued volatility as investors weigh AI growth against macroeconomic headwinds.",
+        "Consensus anticipates a resilient economy that may limit aggressive Fed rate cuts.",
+        "Non-farm payroll expectations for November center on 80,000 to 100,000 jobs added.",
+        "Market is pricing in a potential peak in ECB interest rates."
+      ],
+      "fundamentals": [
+        "Tech sector, particularly AI-related stocks, leads the market rebound despite concentration risk.",
+        "Retailers report strong foot traffic and demand, leveraging AI to optimize merchandising.",
+        "SAP plans to cut 10,000 jobs as part of an AI-focused restructuring.",
+        "Oil prices show volatility driven by geopolitical premiums and supply concerns.",
+        "Copper prices are rising, reflecting industrial demand and risk-on sentiment."
+      ],
+      "assets": [
+        {
+          "asset": "Nasdaq 100",
+          "bias": "bullish",
+          "view": "Tech-heavy index is leading the market rebound as investors buy the dip in AI-related stocks.",
+          "source": "anchors"
+        },
+        {
+          "asset": "S&P 500",
+          "bias": "bullish",
+          "view": "Index is showing a strong rally supported by resilient consumer spending and a robust labor market.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Rates",
+          "bias": "bearish",
+          "view": "Yields are climbing, reflecting expectations for higher rates and persistent inflation.",
+          "source": "anchors"
+        },
+        {
+          "asset": "USD",
+          "bias": "bullish",
+          "view": "The dollar is strengthening against the euro, reflecting the relative resilience of the US economy.",
+          "source": "anchors"
+        },
+        {
+          "asset": "Oil",
+          "bias": "mixed",
+          "view": "Energy markets are reacting to geopolitical tensions in the Middle East and broader economic growth signals.",
+          "source": "anchors"
+        }
+      ],
+      "guests": [
+        {
+          "name": "Matt Shay",
+          "role": "President & CEO, National Retail Federation",
+          "key_view": "Expects 183 million shoppers this holiday weekend, with 59% using AI for shopping assistance."
+        },
+        {
+          "name": "Patrick Armstrong",
+          "role": "Chief Investment Officer, Plurimi Wealth",
+          "key_view": "AI trade will likely rebalance, creating a continuous flow into US-domiciled technology companies."
+        },
+        {
+          "name": "Dana Telsey",
+          "role": "CEO & Chief Research Officer, Telsey Advisory Group",
+          "key_view": "Consumer spending is resilient, and retailers are using AI to improve operational efficiency."
+        },
+        {
+          "name": "Nicole Bachaud",
+          "role": "Labor Economist, ZipRecruiter",
+          "key_view": "The labor market is showing signs of re-acceleration, with AI driving net positive job creation."
+        },
+        {
+          "name": "Matt Bloxham",
+          "role": "Bloomberg Intelligence",
+          "key_view": "The discovery of Blackwell chips in China is a significant development that adds pressure on Nvidia."
+        }
+      ],
+      "catalysts": [
+        "Non-farm payrolls report due December 1st.",
+        "Congressional hearings with Jensen Huang on December 1st and 3rd.",
+        "Senate Banking Committee hearing on December 3rd.",
+        "Ongoing US-China trade negotiations."
+      ],
+      "sentiment": "risk-on",
+      "covered_minutes": 144,
+      "partial": false
+    },
+    "model": "gemini-3.1-flash-lite",
+    "manual": true,
+    "processed_at": "2026-11-28T10:46:35Z"
+  },
+  {
     "id": "-Zb0K56sPeU",
     "title": "AI Rally Faces Fresh Test: Nvidia Curbs & Trump Tariffs",
     "channel": "Bloomberg Television",

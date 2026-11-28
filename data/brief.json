@@ -1,47 +1,46 @@
 {
-  "narrative": "Markets are navigating a complex environment defined by resilient consumer spending and AI-driven growth, balanced against persistent inflation and geopolitical uncertainty. While the S&P 500 and Nasdaq 100 have shown capacity for sharp intraday reversals, volatility remains elevated due to shifting trade policies and supply chain concerns. The Federal Reserve is expected to maintain a hawkish stance in December, even as bond markets begin to price in a more moderate rate path for 2027. Energy markets are currently sensitive to Mideast tensions and upcoming OPEC+ production decisions. Investors are increasingly focused on the long-term profitability of AI investments and the potential impact of tariffs on corporate margins.",
-  "regime": "mixed",
+  "narrative": "Markets are currently exhibiting a risk-on sentiment driven by resilient consumer spending and a robust AI-led tech rally. Despite this optimism, investors are grappling with a hawkish Federal Reserve that may hike rates due to re-accelerating labor market data. Geopolitical tensions, particularly in the Middle East and concerns over US-China trade friction, continue to provide a floor for energy prices and safe-haven assets. The US dollar remains strong, benefiting from both economic resilience and its status as a safe haven. Overall, the market is balancing long-term AI growth potential against the immediate headwinds of potential tariffs and inflationary pressures.",
+  "regime": "risk-on",
   "assets": {
     "Nasdaq": {
-      "bias": "mixed",
-      "why": "Indices show resilience and bounce-back potential, but remain highly sensitive to AI valuation concerns and semiconductor supply chain disruptions."
+      "bias": "bullish",
+      "why": "The index is leading the market rebound as investors buy the dip in AI-related stocks, showing resilience despite supply chain and export curb concerns."
     },
     "S&P 500": {
-      "bias": "mixed",
-      "why": "The index has demonstrated support near the 7,000 level, supported by declining Treasury yields, yet faces pressure from inflation and tariff uncertainty."
+      "bias": "bullish",
+      "why": "The index is supported by strong retail data, resilient consumer spending, and a robust labor market."
     },
     "Gold": {
-      "bias": "mixed",
-      "why": "Views are split; some see it as a strong hedge despite a robust dollar, while others note it is currently trading lower due to broader market volatility."
+      "bias": "bullish",
+      "why": "Gold is performing strongly as a hedge against geopolitical risks, even in the face of a strengthening US dollar."
     },
     "Oil": {
       "bias": "mixed",
-      "why": "Prices are supported by low inventories and Mideast geopolitical risks, but face potential softening if OPEC+ increases production quotas."
+      "why": "Prices are supported by low inventories and Mideast supply risks, but face downward pressure from potential OPEC+ production increases."
     }
   },
   "priced_in": [
-    "Hawkish Fed stance for the December meeting",
-    "Current tariff levels",
-    "Continued AI-driven growth",
-    "Anticipated OPEC+ output quota adjustments",
-    "Moderate path for future Fed rate hikes in 2027"
+    "High probability of a 25 basis point Fed rate hike",
+    "Resilient economy limiting aggressive rate cuts",
+    "Non-farm payrolls for November between 80,000 and 100,000",
+    "Potential OPEC+ output quota adjustments",
+    "Continued AI-driven growth despite supply chain headwinds"
   ],
   "debates": [
-    "The long-term profitability and capital expenditure efficiency of AI investments",
-    "Whether current tariff policies represent a significant rate increase or a reconstruction of existing measures",
-    "The sustainability of the equity rally versus the impact of rising inflation and financial stress"
+    "Whether labor market re-acceleration will force the Fed into a more hawkish stance than currently anticipated",
+    "The impact of US export controls on AI chips versus the long-term growth trajectory of AI spending"
   ],
   "watch_next": [
-    "OPEC+ meeting",
-    "Federal Reserve December meeting",
+    "Non-farm payrolls report (December 1st)",
+    "Jensen Huang Congressional hearings (December 1st and 3rd)",
     "Senate Banking Committee hearing (December 3rd)",
-    "RBI policy meeting (December)"
+    "OPEC+ meeting",
+    "Federal Reserve December meeting"
   ],
-  "generated_at": "2026-11-27T07:19:33Z",
+  "generated_at": "2026-11-28T10:46:43Z",
   "based_on": [
-    "-Zb0K56sPeU",
-    "iSSZRbNUfRI",
-    "isFCC0mJuzU"
+    "nBYglso_e4I",
+    "-Zb0K56sPeU"
   ],
   "model": "gemini-3.1-flash-lite"
 }
